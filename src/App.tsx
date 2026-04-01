@@ -1,9 +1,13 @@
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import { HelmetProvider } from 'react-helmet-async';
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
+import { HelmetProvider } from "react-helmet-async";
 import Landing from "./pages/Landing";
 import CategorySelect from "./pages/CategorySelect";
 import Game from "./pages/Game";
 import Results from "./pages/Results";
+import About from "./pages/About";
+import Contact from "./pages/Contact";
+import Privacy from "./pages/Privacy";
+import Terms from "./pages/Terms";
 
 function App() {
   return (
@@ -15,6 +19,10 @@ function App() {
             <Route path="/categories" element={<CategorySelect />} />
             <Route path="/game" element={<Game />} />
             <Route path="/results" element={<Results />} />
+            <Route path="/about" element={<About />} />
+            <Route path="/contact" element={<Contact />} />
+            <Route path="/privacy" element={<Privacy />} />
+            <Route path="/terms" element={<Terms />} />
           </Routes>
         </div>
       </Router>
