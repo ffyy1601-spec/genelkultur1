@@ -9,11 +9,16 @@ import Contact from "./pages/Contact";
 import Privacy from "./pages/Privacy";
 import Terms from "./pages/Terms";
 
+const BUILD_TAG = "2026-04-03-refresh-2";
+
 function App() {
   return (
     <HelmetProvider>
       <Router>
-        <div className="bg-background text-on-background font-body min-h-screen flex flex-col font-inter selection:bg-primary selection:text-on-primary">
+        <div
+          className="bg-background text-on-background font-body min-h-screen flex flex-col font-inter selection:bg-primary selection:text-on-primary"
+          data-build={BUILD_TAG}
+        >
           <Routes>
             <Route path="/" element={<Landing />} />
             <Route path="/categories" element={<CategorySelect />} />
