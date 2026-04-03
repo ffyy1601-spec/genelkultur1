@@ -8,6 +8,95 @@
 .text-glow {
     text-shadow: 0 0 20px rgba(242, 202, 80, 0.3);
 }
+.landing-drift {
+    animation: landing-drift 10s ease-in-out infinite;
+}
+.landing-drift-slow {
+    animation: landing-drift-slow 14s ease-in-out infinite;
+}
+.landing-drift-reverse {
+    animation: landing-drift-reverse 12s ease-in-out infinite;
+}
+.landing-pulse {
+    animation: landing-pulse 5.8s ease-in-out infinite;
+}
+.landing-pulse-delay {
+    animation: landing-pulse 5.8s ease-in-out 1.2s infinite;
+}
+.landing-float {
+    animation: landing-float 8s ease-in-out infinite;
+}
+.landing-rotate {
+    animation: landing-rotate 18s linear infinite;
+}
+.landing-rotate-reverse {
+    animation: landing-rotate-reverse 26s linear infinite;
+}
+
+@keyframes landing-drift {
+    0%, 100% {
+        transform: translate3d(0, 0, 0) rotate(0deg);
+    }
+    50% {
+        transform: translate3d(0, -18px, 0) rotate(1.5deg);
+    }
+}
+
+@keyframes landing-drift-slow {
+    0%, 100% {
+        transform: translate3d(0, 0, 0) scale(1);
+    }
+    50% {
+        transform: translate3d(10px, -22px, 0) scale(1.06);
+    }
+}
+
+@keyframes landing-drift-reverse {
+    0%, 100% {
+        transform: translate3d(0, 0, 0) rotate(0deg);
+    }
+    50% {
+        transform: translate3d(-10px, 18px, 0) rotate(-2deg);
+    }
+}
+
+@keyframes landing-pulse {
+    0%, 100% {
+        transform: scale(1);
+        opacity: 0.72;
+    }
+    50% {
+        transform: scale(1.08);
+        opacity: 1;
+    }
+}
+
+@keyframes landing-float {
+    0%, 100% {
+        transform: translate3d(0, 0, 0);
+    }
+    50% {
+        transform: translate3d(0, -16px, 0);
+    }
+}
+
+@keyframes landing-rotate {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes landing-rotate-reverse {
+    from {
+        transform: rotate(360deg);
+    }
+    to {
+        transform: rotate(0deg);
+    }
+}
 
 @layer base {
     .material-symbols-outlined {

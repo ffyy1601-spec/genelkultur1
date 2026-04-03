@@ -35,6 +35,52 @@ export default function Landing() {
           <div className="absolute inset-x-0 top-0 h-full bg-[linear-gradient(90deg,transparent_0%,rgba(255,255,255,0.05)_49%,transparent_100%)] opacity-25"></div>
           <div className="absolute inset-0 bg-[radial-gradient(circle,_rgba(255,255,255,0.08)_1px,transparent_1px)] bg-[length:24px_24px] opacity-[0.16] md:bg-[length:30px_30px]"></div>
         </div>
+        <div className="pointer-events-none absolute inset-y-0 left-0 hidden w-[28vw] min-w-[18rem] overflow-hidden xl:block">
+          <div className="landing-drift-slow absolute left-[-10%] top-[11%] h-[32rem] w-[20rem] rounded-full bg-[radial-gradient(circle,_rgba(84,203,73,0.18),_transparent_66%)] blur-3xl"></div>
+          <div className="landing-drift absolute left-[6%] top-[17%] h-[24rem] w-[16rem] rounded-[2.6rem] border border-white/10 bg-[linear-gradient(180deg,rgba(255,255,255,0.14),rgba(255,255,255,0.02))] shadow-[0_40px_90px_rgba(0,0,0,0.24)] backdrop-blur-2xl">
+            <div className="absolute inset-x-5 top-5 h-px bg-gradient-to-r from-transparent via-white/45 to-transparent"></div>
+            <div className="absolute left-5 right-5 top-10 h-28 rounded-[2rem] border border-primary/15 bg-[radial-gradient(circle_at_top,rgba(242,202,80,0.22),transparent_62%),linear-gradient(135deg,rgba(255,255,255,0.08),rgba(255,255,255,0.02))]"></div>
+            <div className="absolute left-5 right-10 top-[10.5rem] h-[4.6rem] rounded-[1.5rem] border border-white/10 bg-white/5"></div>
+            <div className="absolute left-5 right-16 top-[16rem] h-3 rounded-full bg-primary/65"></div>
+            <div className="absolute left-5 right-24 top-[18rem] h-3 rounded-full bg-white/18"></div>
+            <div className="absolute bottom-6 left-5 flex gap-3">
+              <span className="landing-pulse h-11 w-11 rounded-2xl border border-primary/20 bg-primary/10 shadow-[0_0_30px_rgba(242,202,80,0.16)]"></span>
+              <span className="landing-pulse-delay h-11 w-11 rounded-2xl border border-tertiary/20 bg-tertiary/10 shadow-[0_0_30px_rgba(113,232,98,0.14)]"></span>
+            </div>
+          </div>
+          <div className="landing-drift-reverse absolute bottom-[13%] left-[10%] flex h-24 w-24 items-center justify-center rounded-[2rem] border border-white/10 bg-surface-container-low/75 shadow-[0_22px_60px_rgba(0,0,0,0.26)] backdrop-blur-xl">
+            <span className="material-symbols-outlined text-[2.2rem] text-primary/90">auto_awesome</span>
+          </div>
+          <div className="landing-rotate absolute left-[62%] top-[24%] h-28 w-28 rounded-full border border-primary/20">
+            <div className="absolute left-1/2 top-0 h-4 w-4 -translate-x-1/2 rounded-full bg-primary shadow-[0_0_24px_rgba(242,202,80,0.5)]"></div>
+          </div>
+        </div>
+        <div className="pointer-events-none absolute inset-y-0 right-0 hidden w-[30vw] min-w-[19rem] overflow-hidden xl:block">
+          <div className="landing-drift absolute right-[-8%] top-[8%] h-[34rem] w-[21rem] rounded-full bg-[radial-gradient(circle,_rgba(242,202,80,0.18),_transparent_64%)] blur-3xl"></div>
+          <div className="landing-drift-reverse absolute right-[9%] top-[16%] flex h-[26rem] w-[15rem] flex-col overflow-hidden rounded-[2.8rem] border border-white/10 bg-[linear-gradient(180deg,rgba(255,255,255,0.12),rgba(255,255,255,0.02))] shadow-[0_40px_90px_rgba(0,0,0,0.25)] backdrop-blur-2xl">
+            <div className="absolute inset-x-0 top-0 h-24 bg-[linear-gradient(180deg,rgba(242,202,80,0.16),transparent)]"></div>
+            <div className="absolute inset-x-5 top-8 h-[11rem] rounded-[2rem] border border-white/10 bg-[radial-gradient(circle_at_center,rgba(255,255,255,0.14),transparent_62%)]">
+              <div className="landing-rotate absolute left-1/2 top-1/2 h-28 w-28 -translate-x-1/2 -translate-y-1/2 rounded-full border border-primary/20">
+                <div className="absolute left-1/2 top-0 h-3.5 w-3.5 -translate-x-1/2 rounded-full bg-primary"></div>
+              </div>
+              <div className="landing-rotate-reverse absolute left-1/2 top-1/2 h-40 w-40 -translate-x-1/2 -translate-y-1/2 rounded-full border border-white/10">
+                <div className="absolute bottom-0 left-1/2 h-3 w-3 -translate-x-1/2 rounded-full bg-tertiary"></div>
+              </div>
+            </div>
+            <div className="absolute bottom-7 left-5 right-5 grid grid-cols-2 gap-3">
+              <div className="landing-pulse rounded-[1.5rem] border border-white/10 bg-white/6 p-4">
+                <div className="h-14 rounded-[1rem] bg-[linear-gradient(135deg,rgba(255,255,255,0.12),rgba(255,255,255,0.03))]"></div>
+              </div>
+              <div className="landing-pulse-delay rounded-[1.5rem] border border-white/10 bg-white/6 p-4">
+                <div className="h-14 rounded-[1rem] bg-[linear-gradient(135deg,rgba(242,202,80,0.2),rgba(255,255,255,0.04))]"></div>
+              </div>
+            </div>
+          </div>
+          <div className="landing-float absolute bottom-[12%] right-[12%] flex h-24 w-24 items-center justify-center rounded-full border border-white/12 bg-surface-container-low/80 shadow-[0_24px_70px_rgba(0,0,0,0.28)] backdrop-blur-xl">
+            <span className="material-symbols-outlined text-[2rem] text-tertiary/90">neurology</span>
+          </div>
+          <div className="landing-drift-slow absolute bottom-[20%] right-[36%] h-32 w-32 rounded-[2.2rem] border border-primary/12 bg-primary/8 blur-sm"></div>
+        </div>
 
         <section className="relative mx-auto flex w-full max-w-4xl flex-col items-center text-center">
           <div className="absolute top-1/2 -z-10 h-44 w-44 -translate-y-1/2 rounded-full bg-primary/10 blur-[90px] md:h-64 md:w-64 md:blur-[110px]"></div>
