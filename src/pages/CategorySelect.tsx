@@ -104,6 +104,31 @@ export default function CategorySelect() {
             </Link>
           ))}
         </div>
+
+        <section className="mt-12 rounded-[1.8rem] border border-white/10 bg-surface-container-low/75 p-6 md:p-8">
+          <h2 className="text-3xl font-black tracking-tight text-on-surface">Konuya gore hazir sayfalar</h2>
+          <p className="mt-3 max-w-3xl text-sm leading-7 text-on-surface-variant">
+            Belirli aramalara hizli ulasmak isteyen ziyaretciler icin hazirlanan bu sayfalar, hem konu odakli bilgi verir hem de dogrudan ilgili quiz deneyimine baglanir.
+          </p>
+          <div className="mt-6 grid gap-3 md:grid-cols-2 xl:grid-cols-3">
+            {[
+              { label: "Genel Kultur Sorulari", to: ROUTES.genelKulturSorulari },
+              { label: "Genel Kultur Testi", to: ROUTES.genelKulturTesti },
+              { label: "Zor Genel Kultur Sorulari", to: ROUTES.zorGenelKulturSorulari },
+              { label: "Tarih Sorulari", to: ROUTES.tarihSorulari },
+              { label: "Bilim Sorulari", to: ROUTES.bilimSorulari },
+              { label: "Sanat Sorulari", to: ROUTES.sanatSorulari },
+            ].map((item) => (
+              <Link
+                key={item.to}
+                to={item.to}
+                className="rounded-[1.2rem] border border-white/10 bg-background/20 px-4 py-4 text-sm font-bold text-on-surface transition-all duration-300 hover:-translate-y-1 hover:border-primary/30 hover:text-primary"
+              >
+                {item.label}
+              </Link>
+            ))}
+          </div>
+        </section>
       </main>
     </PageLayout>
   );

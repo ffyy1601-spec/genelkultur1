@@ -2,11 +2,17 @@ import { BrowserRouter as Router, Navigate, Route, Routes } from "react-router-d
 import { HelmetProvider } from "react-helmet-async";
 import Landing from "./pages/Landing";
 import CategorySelect from "./pages/CategorySelect";
+import GenelKulturSorulari from "./pages/GenelKulturSorulari";
+import GenelKulturTesti from "./pages/GenelKulturTesti";
 import Game from "./pages/Game";
 import Results from "./pages/Results";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Privacy from "./pages/Privacy";
+import ZorGenelKulturSorulari from "./pages/ZorGenelKulturSorulari";
+import TarihSorulari from "./pages/TarihSorulari";
+import BilimSorulari from "./pages/BilimSorulari";
+import SanatSorulari from "./pages/SanatSorulari";
 import Terms from "./pages/Terms";
 import { LEGACY_ROUTES, ROUTES } from "./lib/routes";
 
@@ -23,6 +29,12 @@ function App() {
           <Routes>
             <Route path={ROUTES.home} element={<Landing />} />
             <Route path={ROUTES.categories} element={<CategorySelect />} />
+            <Route path={ROUTES.genelKulturSorulari} element={<GenelKulturSorulari />} />
+            <Route path={ROUTES.genelKulturTesti} element={<GenelKulturTesti />} />
+            <Route path={ROUTES.zorGenelKulturSorulari} element={<ZorGenelKulturSorulari />} />
+            <Route path={ROUTES.tarihSorulari} element={<TarihSorulari />} />
+            <Route path={ROUTES.bilimSorulari} element={<BilimSorulari />} />
+            <Route path={ROUTES.sanatSorulari} element={<SanatSorulari />} />
             <Route path={ROUTES.game} element={<Game />} />
             <Route path={ROUTES.results} element={<Results />} />
             <Route path={ROUTES.about} element={<About />} />

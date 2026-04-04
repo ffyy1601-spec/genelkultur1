@@ -1,6 +1,12 @@
 export const ROUTES = {
   home: "/",
   categories: "/genel-kultur-kategorileri",
+  genelKulturSorulari: "/genel-kultur-sorulari",
+  genelKulturTesti: "/genel-kultur-testi",
+  zorGenelKulturSorulari: "/zor-genel-kultur-sorulari",
+  tarihSorulari: "/tarih-sorulari",
+  bilimSorulari: "/bilim-sorulari",
+  sanatSorulari: "/sanat-sorulari",
   game: "/genel-kultur-oyunu",
   results: "/sonuclar",
   about: "/hakkimizda",
