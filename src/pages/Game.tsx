@@ -150,27 +150,9 @@ export default function Game() {
 
   const letters = ["A", "B", "C", "D"];
   const jokerButtons = [
-    {
-      key: "fifty",
-      icon: "filter_2",
-      onClick: use50Joker,
-      used: joker50Used,
-      active: false,
-    },
-    {
-      key: "audience",
-      icon: "groups",
-      onClick: useAudienceJoker,
-      used: jokerAudienceUsed,
-      active: audienceVotes !== null,
-    },
-    {
-      key: "double",
-      icon: "exposure_plus_2",
-      onClick: useDoubleDip,
-      used: jokerDoubleUsed,
-      active: isDoubleDipActive,
-    },
+    { key: "fifty", icon: "filter_2", onClick: use50Joker, used: joker50Used, active: false },
+    { key: "audience", icon: "groups", onClick: useAudienceJoker, used: jokerAudienceUsed, active: audienceVotes !== null },
+    { key: "double", icon: "exposure_plus_2", onClick: useDoubleDip, used: jokerDoubleUsed, active: isDoubleDipActive },
   ];
 
   return (
@@ -182,89 +164,92 @@ export default function Game() {
         noindex
       />
 
-      <main className="flex min-h-[100dvh] flex-grow items-center justify-center overflow-hidden px-3 pb-3 pt-4 sm:px-4 sm:pb-6 sm:pt-8">
+      <main className="flex min-h-[100dvh] flex-grow items-center justify-center overflow-hidden px-2 pb-2 pt-3 sm:px-4 sm:pb-6 sm:pt-6">
         <div
-          className={`mx-auto flex w-full max-w-4xl flex-col items-center justify-center ${
-            shake ? "animate-[shake_0.5s_ease-in-out]" : ""
-          }`}
+          className={`mx-auto flex w-full max-w-5xl flex-col justify-center ${shake ? "animate-[shake_0.5s_ease-in-out]" : ""}`}
         >
           <style>{`
             @keyframes shake {
               0%, 100% { transform: translateX(0); }
-              25% { transform: translateX(-10px); }
-              50% { transform: translateX(10px); }
-              75% { transform: translateX(-10px); }
+              25% { transform: translateX(-8px); }
+              50% { transform: translateX(8px); }
+              75% { transform: translateX(-8px); }
             }
           `}</style>
 
-          <div className="mb-3 w-full max-w-md sm:mb-8">
-            <div className="mb-3 flex gap-1.5 sm:mb-5 sm:gap-2">
-              {questions.map((_, i) => (
-                <div
-                  key={i}
-                  className={`h-1.5 flex-1 overflow-hidden rounded-full transition-colors sm:h-2 ${
-                    i < currentIdx
-                      ? wrongAnswersList.includes(i)
-                        ? "bg-error"
-                        : "bg-tertiary"
-                      : i === currentIdx
-                        ? "relative bg-surface-variant"
-                        : "bg-surface-variant/70"
-                  }`}
-                >
-                  {i === currentIdx && (
-                    <div className="absolute inset-y-0 left-0 w-1/2 rounded-full bg-gradient-to-r from-primary to-primary-container animate-pulse"></div>
-                  )}
-                </div>
-              ))}
-            </div>
+          <div className="mb-2.5 flex gap-1 sm:mb-4 sm:gap-2">
+            {questions.map((_, i) => (
+              <div
+                key={i}
+                className={`h-1.5 flex-1 overflow-hidden rounded-full transition-colors sm:h-2 ${
+                  i < currentIdx
+                    ? wrongAnswersList.includes(i)
+                      ? "bg-error"
+                      : "bg-tertiary"
+                    : i === currentIdx
+                      ? "relative bg-surface-variant"
+                      : "bg-surface-variant/60"
+                }`}
+              >
+                {i === currentIdx && (
+                  <div className="absolute inset-y-0 left-0 w-1/2 rounded-full bg-gradient-to-r from-primary to-[#ffe082]"></div>
+                )}
+              </div>
+            ))}
+          </div>
 
-            <div className="rounded-[1.5rem] border border-outline-variant/10 bg-surface-container-low/95 px-4 py-3 text-center shadow-[0_18px_45px_rgba(0,0,0,0.18)] backdrop-blur-xl sm:rounded-[1.75rem] sm:px-5 sm:py-4">
-              <div className="mb-2 inline-flex rounded-full border border-primary/20 bg-primary/10 px-3 py-1 text-xs font-semibold tracking-[0.2em] text-primary sm:mb-3 sm:px-4 sm:py-1.5 sm:text-sm sm:tracking-widest">
-                Skor: {score}
+          <div className="mb-2.5 rounded-[1.35rem] border border-white/10 bg-[linear-gradient(180deg,rgba(18,35,62,0.94),rgba(12,28,53,0.88))] px-3 py-2.5 shadow-[0_16px_40px_rgba(0,0,0,0.20)] backdrop-blur-xl sm:mb-4 sm:rounded-[1.6rem] sm:px-5 sm:py-4">
+            <div className="flex flex-col gap-3 lg:flex-row lg:items-center lg:justify-between">
+              <div className="flex items-center justify-between gap-3 sm:gap-4">
+                <div className="inline-flex rounded-full border border-primary/20 bg-primary/10 px-3 py-1 text-xs font-black text-primary sm:px-4 sm:py-1.5 sm:text-base">
+                  Skor: {score}
+                </div>
+                <div className="text-right lg:text-left">
+                  <div className="text-[9px] font-bold uppercase tracking-[0.22em] text-primary/90 sm:text-xs">
+                    Soru {currentIdx + 1} / {questions.length}
+                  </div>
+                  <div className="mt-0.5 text-xs font-semibold text-on-surface-variant sm:mt-1 sm:text-base">
+                    {CATEGORY_LABELS[categoryParam]}
+                  </div>
+                </div>
               </div>
-              <div className="text-[10px] font-bold uppercase tracking-[0.22em] text-primary/90 sm:text-xs sm:tracking-[0.24em]">
-                Soru {currentIdx + 1} / {questions.length}
+
+              <div className="grid grid-cols-3 gap-2 sm:gap-3">
+                {jokerButtons.map((joker) => (
+                  <button
+                    key={joker.key}
+                    onClick={joker.onClick}
+                    disabled={joker.used || isAnswered}
+                    className={`flex h-10 items-center justify-center rounded-[0.95rem] border transition-all duration-300 sm:h-12 sm:rounded-[1.2rem] ${
+                      joker.used || isAnswered
+                        ? "border-outline-variant/10 bg-surface-container text-on-surface-variant/40"
+                        : joker.active
+                          ? "border-primary/40 bg-primary/14 text-primary shadow-[0_12px_24px_rgba(242,202,80,0.12)]"
+                          : "border-white/10 bg-surface-container-low/80 text-primary hover:-translate-y-0.5 hover:border-primary/30 hover:bg-surface-container-high"
+                    }`}
+                    aria-label={joker.key}
+                    title={joker.key}
+                  >
+                    <span className="material-symbols-outlined text-[1.1rem] sm:text-[1.45rem]">{joker.icon}</span>
+                  </button>
+                ))}
               </div>
-              <h2 className="mt-1 text-xs font-medium capitalize text-on-surface-variant sm:mt-2 sm:text-sm">
-                {categoryParam}
-              </h2>
             </div>
           </div>
 
-          <div className="relative mb-3 w-full rounded-[1.6rem] border border-outline-variant/10 bg-surface-container-low/95 p-4 text-center shadow-[0_28px_70px_rgba(0,0,0,0.22)] backdrop-blur-xl sm:mb-6 sm:rounded-[2rem] sm:p-6 md:p-10">
-            <div className="pointer-events-none absolute -top-10 left-1/2 h-28 w-72 -translate-x-1/2 bg-primary/8 blur-[100px]"></div>
-            <div className="relative mb-4 flex items-center justify-center gap-2 sm:mb-7 sm:gap-3">
-              {jokerButtons.map((joker) => (
-                <button
-                  key={joker.key}
-                  onClick={joker.onClick}
-                  disabled={joker.used || isAnswered}
-                  className={`flex h-11 w-11 items-center justify-center rounded-xl border transition-all duration-300 sm:h-14 sm:w-14 sm:rounded-2xl ${
-                    joker.used || isAnswered
-                      ? "border-outline-variant/10 bg-surface-container text-on-surface-variant/45"
-                      : joker.active
-                        ? "border-primary/40 bg-primary/14 text-primary shadow-[0_12px_24px_rgba(242,202,80,0.12)]"
-                        : "border-outline-variant/10 bg-surface-container-high text-primary hover:-translate-y-1 hover:border-primary/30 hover:bg-primary/10"
-                  }`}
-                  aria-label={joker.key}
-                  title={joker.key}
-                >
-                  <span className="material-symbols-outlined text-xl sm:text-[1.65rem]">{joker.icon}</span>
-                </button>
-              ))}
-            </div>
+          <div className="relative mb-2.5 w-full rounded-[1.45rem] border border-white/10 bg-[linear-gradient(180deg,rgba(255,255,255,0.09),rgba(255,255,255,0.04))] p-4 text-center shadow-[0_18px_50px_rgba(0,0,0,0.22)] backdrop-blur-xl sm:mb-4 sm:rounded-[1.75rem] sm:p-6 md:p-8">
+            <div className="pointer-events-none absolute -top-8 left-1/2 h-20 w-56 -translate-x-1/2 bg-primary/10 blur-[90px] sm:-top-10 sm:h-28 sm:w-72 sm:blur-[110px]"></div>
             <div className="relative">
-              <div className="mb-3 inline-flex rounded-full border border-primary/20 bg-primary/10 px-3 py-1.5 text-[10px] font-semibold uppercase tracking-[0.18em] text-primary sm:mb-5 sm:px-4 sm:py-2 sm:text-xs sm:tracking-[0.2em]">
+              <div className="mb-2 inline-flex rounded-full border border-primary/20 bg-primary/10 px-3 py-1 text-[9px] font-bold uppercase tracking-[0.18em] text-primary sm:mb-4 sm:px-4 sm:py-1.5 sm:text-xs">
                 Soru Metni
               </div>
-              <h1 className="text-lg font-bold leading-snug tracking-tight text-on-surface sm:text-2xl md:text-4xl">
+              <h1 className="text-base font-black leading-snug tracking-tight text-on-surface sm:text-2xl md:text-[2rem] md:leading-[1.2]">
                 {currentQ.text}
               </h1>
             </div>
           </div>
 
-          <div className="grid w-full grid-cols-2 gap-2.5 sm:gap-4">
+          <div className="grid w-full grid-cols-1 gap-2 sm:grid-cols-2 sm:gap-3">
             {currentQ.options.map((opt, idx) => {
               const isHidden = hiddenOptions.includes(idx);
               const isSelected = selectedOption === idx;
@@ -272,40 +257,34 @@ export default function Game() {
               const isWrongSelected = isAnswered && isSelected && idx !== currentQ.correctAnswer;
 
               let btnClass =
-                "bg-surface-container-high/95 border-outline-variant/10 text-on-surface hover:border-primary/30";
+                "border-white/10 bg-[linear-gradient(180deg,rgba(255,255,255,0.08),rgba(255,255,255,0.03))] text-on-surface hover:border-primary/30";
               let letterClass = "bg-surface-container-low text-primary";
               let icon = null;
 
               if (isHidden) {
-                btnClass = "bg-surface-container border-outline-variant/10 opacity-20 pointer-events-none";
+                btnClass = "border-outline-variant/10 bg-surface-container opacity-20 pointer-events-none";
               } else if (isCorrectTarget) {
                 btnClass =
-                  "bg-tertiary-container border-tertiary/30 text-on-tertiary-container shadow-[0_0_22px_rgba(113,232,98,0.14)]";
+                  "border-tertiary/30 bg-tertiary-container text-on-tertiary-container shadow-[0_0_22px_rgba(113,232,98,0.14)]";
                 letterClass = "bg-tertiary text-on-tertiary";
                 icon = (
-                  <span
-                    className="material-symbols-outlined text-tertiary"
-                    style={{ fontVariationSettings: "'FILL' 1" }}
-                  >
+                  <span className="material-symbols-outlined text-tertiary" style={{ fontVariationSettings: "'FILL' 1" }}>
                     check_circle
                   </span>
                 );
               } else if (isWrongSelected) {
-                btnClass = "bg-error-container border-error/30 text-on-error-container";
+                btnClass = "border-error/30 bg-error-container text-on-error-container";
                 letterClass = "bg-error text-on-error";
                 icon = (
-                  <span
-                    className="material-symbols-outlined text-error"
-                    style={{ fontVariationSettings: "'FILL' 1" }}
-                  >
+                  <span className="material-symbols-outlined text-error" style={{ fontVariationSettings: "'FILL' 1" }}>
                     cancel
                   </span>
                 );
               } else if (isSelected) {
-                btnClass = "bg-surface-container-highest border-primary/40 shadow-[0_0_24px_rgba(242,202,80,0.08)]";
+                btnClass = "border-primary/40 bg-surface-container-highest shadow-[0_0_24px_rgba(242,202,80,0.08)]";
                 letterClass = "bg-primary text-on-primary";
               } else if (isDoubleDipActive && !isAnswered) {
-                btnClass += " ring-2 ring-primary/40";
+                btnClass += " ring-2 ring-primary/35";
               }
 
               return (
@@ -313,31 +292,29 @@ export default function Game() {
                   key={idx}
                   onClick={() => handleOptionClick(idx)}
                   disabled={isAnswered || isHidden}
-                  className={`group relative flex min-h-[92px] flex-col justify-center rounded-[1.25rem] border p-3 transition-all duration-300 ease-out-expo sm:min-h-[128px] sm:rounded-[1.6rem] sm:p-5 ${btnClass} ${
-                    !isAnswered && !isHidden ? "hover:-translate-y-1 hover:shadow-lg" : ""
+                  className={`group relative flex min-h-[78px] flex-col justify-center rounded-[1.2rem] border p-3 text-left transition-all duration-300 sm:min-h-[136px] sm:rounded-[1.45rem] sm:p-5 ${btnClass} ${
+                    !isAnswered && !isHidden ? "hover:-translate-y-1 hover:shadow-[0_16px_40px_rgba(0,0,0,0.16)]" : ""
                   }`}
                 >
-                  <div className="flex w-full items-start justify-between gap-2 sm:items-center sm:gap-4">
-                    <div className="flex items-start gap-2.5 sm:items-center sm:gap-5">
+                  <div className="flex w-full items-start justify-between gap-2">
+                    <div className="flex items-start gap-2.5 sm:gap-4">
                       <span
-                        className={`flex h-8 w-8 shrink-0 items-center justify-center rounded-lg text-sm font-bold transition-colors sm:h-11 sm:w-11 sm:rounded-xl sm:text-base ${letterClass}`}
+                        className={`flex h-8 w-8 shrink-0 items-center justify-center rounded-lg text-xs font-black transition-colors sm:h-11 sm:w-11 sm:rounded-xl sm:text-base ${letterClass}`}
                       >
                         {letters[idx]}
                       </span>
-                      <span className="text-left text-sm font-medium leading-snug sm:text-lg md:text-xl">
-                        {opt}
-                      </span>
+                      <div className="pt-0.5 text-[13px] font-bold leading-5 sm:text-lg sm:leading-7">{opt}</div>
                     </div>
-                    <div className="flex items-center self-center">{icon}</div>
+                    <div className="flex items-center">{icon}</div>
                   </div>
 
                   {audienceVotes && !isHidden && (
-                    <div className="mt-2 rounded-xl bg-background/35 p-2 text-left sm:mt-4 sm:rounded-2xl sm:p-3">
-                      <div className="mb-1 flex justify-between text-[10px] font-bold uppercase tracking-[0.14em] text-primary sm:mb-2 sm:text-xs sm:tracking-[0.16em]">
+                    <div className="mt-2 rounded-xl bg-background/35 p-2 text-left sm:mt-3 sm:p-2.5">
+                      <div className="mb-1.5 flex justify-between text-[10px] font-bold uppercase tracking-[0.14em] text-primary">
                         <span>Seyirci</span>
                         <span>%{audienceVotes[idx]}</span>
                       </div>
-                      <div className="h-1.5 w-full overflow-hidden rounded-full bg-surface-container-highest">
+                      <div className="h-1.5 overflow-hidden rounded-full bg-surface-container-highest">
                         <div
                           className="h-full rounded-full bg-gradient-to-r from-primary to-primary-container"
                           style={{ width: `${audienceVotes[idx]}%` }}
@@ -349,7 +326,6 @@ export default function Game() {
               );
             })}
           </div>
-
         </div>
       </main>
 
@@ -366,17 +342,14 @@ export default function Game() {
 
       <button
         onClick={() => setIsQuitModalOpen(true)}
-        className="fixed left-3 top-3 z-40 flex h-10 w-10 items-center justify-center rounded-full border border-outline-variant/10 bg-surface-container-low/95 text-on-surface-variant shadow-lg transition-all hover:bg-error/10 hover:text-error sm:left-6 sm:top-6 sm:h-12 sm:w-12"
+        className="fixed left-3 top-3 z-40 flex h-10 w-10 items-center justify-center rounded-full border border-outline-variant/10 bg-surface-container-low/95 text-on-surface-variant shadow-lg transition-all hover:bg-error/10 hover:text-error sm:left-5 sm:top-5 sm:h-11 sm:w-11"
       >
-        <span className="material-symbols-outlined text-xl transition-transform group-hover:scale-110 sm:text-2xl">close</span>
+        <span className="material-symbols-outlined text-xl sm:text-2xl">close</span>
       </button>
 
       {isQuitModalOpen && (
         <div className="fixed inset-0 z-[100] flex items-center justify-center p-6">
-          <div
-            className="absolute inset-0 bg-[#041329]/80 backdrop-blur-sm"
-            onClick={() => setIsQuitModalOpen(false)}
-          ></div>
+          <div className="absolute inset-0 bg-[#041329]/80 backdrop-blur-sm" onClick={() => setIsQuitModalOpen(false)}></div>
           <div className="relative w-full max-w-sm rounded-[2rem] border border-outline-variant/20 bg-surface-container-high p-8 text-center shadow-2xl md:p-12">
             <div className="mx-auto mb-6 flex h-16 w-16 items-center justify-center rounded-full bg-error/10 text-error">
               <span className="material-symbols-outlined text-4xl">warning</span>
