@@ -1,0 +1,10 @@
+{
+  "name": "GenelKultur.com.tr",
+  "short_name": "GenelKultur",
+  "lang": "tr-TR",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#041329",
+  "theme_color": "#f2ca50",
+  "description": "Genel kultur sorulari, bilgi yarismasi turlari ve hizli quiz deneyimi sunan modern genel kultur sitesi."
+}

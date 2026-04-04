@@ -1,130 +1,235 @@
 import { Link } from "react-router-dom";
-import { Helmet } from "react-helmet-async";
 import PageLayout from "../components/PageLayout";
+import Seo from "../components/Seo";
 import heroImage from "../assets/hero.png";
+import { ROUTES } from "../lib/routes";
+import { SITE_URL } from "../lib/seo";
+
+const schema = [
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    name: "GenelKultur.com.tr",
+    url: SITE_URL,
+    inLanguage: "tr-TR",
+    description: "Genel kultur sorulari, genel kultur testi ve bilgi yarismasi deneyimi sunan modern quiz platformu.",
+    potentialAction: {
+      "@type": "SearchAction",
+      target: `${SITE_URL}/genel-kultur-kategorileri`,
+      "query-input": "required name=genel kultur",
+    },
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    name: "GenelKultur.com.tr",
+    url: SITE_URL,
+    logo: `${SITE_URL}/favicon.svg`,
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: [
+      {
+        "@type": "Question",
+        name: "Genel kultur testi nasil oynanir?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Ana sayfadan kategori secilir, soru turu baslatilir ve her turun sonunda puan ekrani gorulur.",
+        },
+      },
+      {
+        "@type": "Question",
+        name: "Sitede hangi genel kultur kategorileri var?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Genel kultur, tarih, bilim ve sanat kategorilerinde farkli soru havuzlari bulunur.",
+        },
+      },
+    ],
+  },
+];
 
 export default function Landing() {
   return (
     <PageLayout>
-      <Helmet>
-        <title>Genel Kultur Bilgi Yarismasi - Bilgini Test Et</title>
-        <meta
-          name="description"
-          content="Kategori sec, hemen basla ve sonucunu gor. Sade ve hizli bir genel kultur bilgi yarismasi deneyimi."
-        />
-        <meta
-          name="keywords"
-          content="genel kultur, bilgi yarismasi, quiz, tarih, bilim, sanat, test"
-        />
-      </Helmet>
+      <Seo
+        title="Genel Kultur Testi, Sorulari ve Bilgi Yarismasi | GenelKultur.com.tr"
+        description="Genel kultur sorulari, genel kultur testi ve bilgi yarismasi deneyimi. Hemen oyna, kategorini sec ve bilgini guclendir."
+        path={ROUTES.home}
+        keywords={[
+          "genel kultur",
+          "genel kültür",
+          "genel kültür soruları",
+          "genel kültür testi",
+          "genel kültür yarışması",
+          "bilgi yarismasi",
+          "quiz",
+        ]}
+        schema={schema}
+      />
 
-      <main className="relative flex min-h-[100dvh] flex-grow items-center justify-center overflow-hidden px-4 py-8 md:px-10 md:py-16">
-        <div className="pointer-events-none absolute inset-0 -z-30">
-          <img
-            alt="Bilgi yarismasi arka plan gorseli"
-            className="h-full w-full object-cover opacity-[0.22] saturate-[0.85]"
-            src={heroImage}
-          />
-        </div>
-        <div className="pointer-events-none absolute inset-0 -z-20 bg-[radial-gradient(circle_at_top,_rgba(242,202,80,0.16),_transparent_34%),linear-gradient(180deg,_rgba(4,19,41,0.42),_rgba(4,19,41,0.86))]"></div>
-        <div className="pointer-events-none absolute inset-0 -z-10 opacity-60">
-          <div className="absolute left-[10%] top-[14%] h-36 w-36 rounded-full border border-primary/12 bg-primary/8 blur-3xl md:h-48 md:w-48"></div>
-          <div className="absolute right-[8%] top-[20%] h-48 w-48 rounded-full border border-primary-container/12 bg-primary-container/10 blur-3xl md:h-72 md:w-72"></div>
-          <div className="absolute bottom-[12%] left-[18%] h-40 w-40 rounded-full bg-white/4 blur-3xl md:h-60 md:w-60"></div>
-          <div className="absolute bottom-[10%] right-[12%] h-28 w-28 rounded-full border border-white/8 bg-white/5 blur-2xl md:h-40 md:w-40"></div>
-          <div className="absolute inset-x-0 top-0 h-full bg-[linear-gradient(90deg,transparent_0%,rgba(255,255,255,0.05)_49%,transparent_100%)] opacity-25"></div>
-          <div className="absolute inset-0 bg-[radial-gradient(circle,_rgba(255,255,255,0.08)_1px,transparent_1px)] bg-[length:24px_24px] opacity-[0.16] md:bg-[length:30px_30px]"></div>
-        </div>
-        <div className="pointer-events-none absolute inset-y-0 left-0 hidden w-[28vw] min-w-[18rem] overflow-hidden xl:block">
-          <div className="landing-drift-slow absolute left-[-10%] top-[11%] h-[32rem] w-[20rem] rounded-full bg-[radial-gradient(circle,_rgba(84,203,73,0.18),_transparent_66%)] blur-3xl"></div>
-          <div className="landing-drift absolute left-[6%] top-[17%] h-[24rem] w-[16rem] rounded-[2.6rem] border border-white/10 bg-[linear-gradient(180deg,rgba(255,255,255,0.14),rgba(255,255,255,0.02))] shadow-[0_40px_90px_rgba(0,0,0,0.24)] backdrop-blur-2xl">
-            <div className="absolute inset-x-5 top-5 h-px bg-gradient-to-r from-transparent via-white/45 to-transparent"></div>
-            <div className="absolute left-5 right-5 top-10 h-28 rounded-[2rem] border border-primary/15 bg-[radial-gradient(circle_at_top,rgba(242,202,80,0.22),transparent_62%),linear-gradient(135deg,rgba(255,255,255,0.08),rgba(255,255,255,0.02))]"></div>
-            <div className="absolute left-5 right-10 top-[10.5rem] h-[4.6rem] rounded-[1.5rem] border border-white/10 bg-white/5"></div>
-            <div className="absolute left-5 right-16 top-[16rem] h-3 rounded-full bg-primary/65"></div>
-            <div className="absolute left-5 right-24 top-[18rem] h-3 rounded-full bg-white/18"></div>
-            <div className="absolute bottom-6 left-5 flex gap-3">
-              <span className="landing-pulse h-11 w-11 rounded-2xl border border-primary/20 bg-primary/10 shadow-[0_0_30px_rgba(242,202,80,0.16)]"></span>
-              <span className="landing-pulse-delay h-11 w-11 rounded-2xl border border-tertiary/20 bg-tertiary/10 shadow-[0_0_30px_rgba(113,232,98,0.14)]"></span>
-            </div>
+      <main>
+        <section className="relative flex min-h-[88vh] items-center overflow-hidden px-4 py-12 md:px-10 md:py-20">
+          <div className="pointer-events-none absolute inset-0 -z-20">
+            <img
+              alt="Genel kultur bilgi yarismasi arka plan gorseli"
+              className="h-full w-full object-cover opacity-[0.18] saturate-[0.9]"
+              src={heroImage}
+            />
+            <div className="absolute inset-0 bg-[radial-gradient(circle_at_top,_rgba(242,202,80,0.18),_transparent_34%),linear-gradient(180deg,_rgba(4,19,41,0.42),_rgba(4,19,41,0.92))]"></div>
           </div>
-          <div className="landing-drift-reverse absolute bottom-[13%] left-[10%] flex h-24 w-24 items-center justify-center rounded-[2rem] border border-white/10 bg-surface-container-low/75 shadow-[0_22px_60px_rgba(0,0,0,0.26)] backdrop-blur-xl">
-            <span className="material-symbols-outlined text-[2.2rem] text-primary/90">auto_awesome</span>
-          </div>
-          <div className="landing-rotate absolute left-[62%] top-[24%] h-28 w-28 rounded-full border border-primary/20">
-            <div className="absolute left-1/2 top-0 h-4 w-4 -translate-x-1/2 rounded-full bg-primary shadow-[0_0_24px_rgba(242,202,80,0.5)]"></div>
-          </div>
-        </div>
-        <div className="pointer-events-none absolute inset-y-0 right-0 hidden w-[30vw] min-w-[19rem] overflow-hidden xl:block">
-          <div className="landing-drift absolute right-[-8%] top-[8%] h-[34rem] w-[21rem] rounded-full bg-[radial-gradient(circle,_rgba(242,202,80,0.18),_transparent_64%)] blur-3xl"></div>
-          <div className="landing-drift-reverse absolute right-[9%] top-[16%] flex h-[26rem] w-[15rem] flex-col overflow-hidden rounded-[2.8rem] border border-white/10 bg-[linear-gradient(180deg,rgba(255,255,255,0.12),rgba(255,255,255,0.02))] shadow-[0_40px_90px_rgba(0,0,0,0.25)] backdrop-blur-2xl">
-            <div className="absolute inset-x-0 top-0 h-24 bg-[linear-gradient(180deg,rgba(242,202,80,0.16),transparent)]"></div>
-            <div className="absolute inset-x-5 top-8 h-[11rem] rounded-[2rem] border border-white/10 bg-[radial-gradient(circle_at_center,rgba(255,255,255,0.14),transparent_62%)]">
-              <div className="landing-rotate absolute left-1/2 top-1/2 h-28 w-28 -translate-x-1/2 -translate-y-1/2 rounded-full border border-primary/20">
-                <div className="absolute left-1/2 top-0 h-3.5 w-3.5 -translate-x-1/2 rounded-full bg-primary"></div>
-              </div>
-              <div className="landing-rotate-reverse absolute left-1/2 top-1/2 h-40 w-40 -translate-x-1/2 -translate-y-1/2 rounded-full border border-white/10">
-                <div className="absolute bottom-0 left-1/2 h-3 w-3 -translate-x-1/2 rounded-full bg-tertiary"></div>
+
+          <div className="mx-auto grid w-full max-w-7xl gap-10 lg:grid-cols-[1.25fr_0.75fr] lg:items-center">
+            <div>
+              <p className="mb-4 text-xs font-black uppercase tracking-[0.32em] text-primary md:text-sm">
+                GENEL KULTUR TESTI
+              </p>
+              <h1 className="max-w-4xl text-4xl font-black tracking-tight text-on-surface md:text-7xl">
+                Genel kultur sorulari ile bilgini test et, hizli ve profesyonel bir deneyim yasat.
+              </h1>
+              <p className="mt-6 max-w-2xl text-sm leading-7 text-on-surface-variant md:text-lg md:leading-8">
+                Genel kultur, tarih, bilim ve sanat kategorilerinde hazirlanan bilgi yarismasi
+                turlari sayesinde hem eglen hem de kendini olc. Site, hizli acilan sayfalar ve
+                tekrar oynanabilir soru havuzlari ile modern quiz deneyimi sunar.
+              </p>
+
+              <div className="mt-8 flex flex-col gap-4 sm:flex-row">
+                <Link
+                  to={ROUTES.categories}
+                  className="inline-flex items-center justify-center gap-2 rounded-2xl bg-primary px-7 py-4 text-base font-black text-on-primary shadow-[0_18px_45px_rgba(242,202,80,0.22)] transition-all duration-300 hover:-translate-y-1 hover:bg-primary/90"
+                >
+                  Genel Kultur Testine Basla
+                  <span className="material-symbols-outlined">play_arrow</span>
+                </Link>
+                <Link
+                  to={ROUTES.about}
+                  className="inline-flex items-center justify-center gap-2 rounded-2xl border border-white/15 bg-surface-container-low/70 px-7 py-4 text-base font-bold text-on-surface transition-all duration-300 hover:-translate-y-1 hover:border-primary/40"
+                >
+                  Platformu Kesfet
+                </Link>
               </div>
             </div>
-            <div className="absolute bottom-7 left-5 right-5 grid grid-cols-2 gap-3">
-              <div className="landing-pulse rounded-[1.5rem] border border-white/10 bg-white/6 p-4">
-                <div className="h-14 rounded-[1rem] bg-[linear-gradient(135deg,rgba(255,255,255,0.12),rgba(255,255,255,0.03))]"></div>
+
+            <aside className="rounded-[2rem] border border-white/10 bg-surface-container-low/75 p-6 shadow-[0_30px_90px_rgba(0,0,0,0.25)] backdrop-blur-xl">
+              <div className="grid grid-cols-3 gap-3">
+                <div className="rounded-2xl bg-surface-container-high p-4 text-center">
+                  <div className="text-2xl font-black text-primary">4</div>
+                  <div className="mt-1 text-xs uppercase tracking-[0.18em] text-on-surface-variant">Kategori</div>
+                </div>
+                <div className="rounded-2xl bg-surface-container-high p-4 text-center">
+                  <div className="text-2xl font-black text-primary">500+</div>
+                  <div className="mt-1 text-xs uppercase tracking-[0.18em] text-on-surface-variant">Soru</div>
+                </div>
+                <div className="rounded-2xl bg-surface-container-high p-4 text-center">
+                  <div className="text-2xl font-black text-primary">15</div>
+                  <div className="mt-1 text-xs uppercase tracking-[0.18em] text-on-surface-variant">Tur</div>
+                </div>
               </div>
-              <div className="landing-pulse-delay rounded-[1.5rem] border border-white/10 bg-white/6 p-4">
-                <div className="h-14 rounded-[1rem] bg-[linear-gradient(135deg,rgba(242,202,80,0.2),rgba(255,255,255,0.04))]"></div>
+
+              <div className="mt-6 space-y-4">
+                <div className="rounded-2xl border border-primary/15 bg-primary/10 p-4">
+                  <h2 className="text-lg font-black text-on-surface">Genel kultur yarismasi icin optimize edildi</h2>
+                  <p className="mt-2 text-sm leading-6 text-on-surface-variant">
+                    Temiz arayuz, hizli gecisler ve tekrar oynama akisi sayesinde hem kullanici
+                    deneyimi hem de teknik SEO altyapisi guclendirildi.
+                  </p>
+                </div>
+                <div className="rounded-2xl bg-surface-container-high p-4">
+                  <p className="text-sm font-semibold text-on-surface">En cok aranan niyetler</p>
+                  <div className="mt-3 flex flex-wrap gap-2">
+                    {["genel kultur", "genel kültür testi", "genel kültür soruları", "bilgi yarismasi"].map((item) => (
+                      <span key={item} className="rounded-full border border-white/10 px-3 py-1 text-xs text-on-surface-variant">
+                        {item}
+                      </span>
+                    ))}
+                  </div>
+                </div>
+              </div>
+            </aside>
+          </div>
+        </section>
+
+        <section className="mx-auto w-full max-w-7xl px-4 py-14 md:px-10 md:py-20">
+          <div className="grid gap-6 md:grid-cols-3">
+            {[
+              {
+                title: "Genel Kultur Sorulari",
+                text: "Dunya, gundem, cografya, spor, toplum ve farkli bilgi alanlarindan dengeli soru setleri.",
+              },
+              {
+                title: "Genel Kultur Testi Deneyimi",
+                text: "Saniyeler icinde baslayan, mobilde ve masaustunde hizli acilan modern quiz akisi.",
+              },
+              {
+                title: "Bilgi Yarismasi Kurgusu",
+                text: "Puan, dogru-yanlis analizi ve tekrar oynama mantigi ile odakli bir yarismaya donusur.",
+              },
+            ].map((item) => (
+              <article key={item.title} className="rounded-[1.75rem] border border-white/10 bg-surface-container-low p-6">
+                <h2 className="text-2xl font-black text-on-surface">{item.title}</h2>
+                <p className="mt-3 text-sm leading-7 text-on-surface-variant">{item.text}</p>
+              </article>
+            ))}
+          </div>
+        </section>
+
+        <section className="mx-auto w-full max-w-7xl px-4 pb-14 md:px-10 md:pb-20">
+          <div className="rounded-[2rem] border border-white/10 bg-surface-container-low p-6 md:p-10">
+            <h2 className="text-3xl font-black tracking-tight text-on-surface md:text-5xl">
+              Neden bu genel kultur sitesi daha profesyonel bir temel sunuyor?
+            </h2>
+            <div className="mt-8 grid gap-6 md:grid-cols-2">
+              <div>
+                <h3 className="text-xl font-black text-primary">Kullanici odakli sayfa yapisi</h3>
+                <p className="mt-3 text-sm leading-7 text-on-surface-variant">
+                  Ana sayfa, kategori sayfasi, hakkimizda, iletisim ve yasal sayfalarla site
+                  mimarisi net tutulur. Bu sayede hem ziyaretciler hem de arama motorlari sayfalar
+                  arasinda rahat gezer.
+                </p>
+              </div>
+              <div>
+                <h3 className="text-xl font-black text-primary">Arama amacina uygun metinler</h3>
+                <p className="mt-3 text-sm leading-7 text-on-surface-variant">
+                  Genel kultur, genel kultur testi, genel kultur sorulari ve bilgi yarismasi gibi
+                  hedef aramalarla uyumlu basliklar, aciklamalar ve icerik bloklari hazirlandi.
+                </p>
+              </div>
+              <div>
+                <h3 className="text-xl font-black text-primary">Teknik SEO dosyalari</h3>
+                <p className="mt-3 text-sm leading-7 text-on-surface-variant">
+                  Sitemap, robots, canonical etiketleri, sosyal paylasim meta etiketleri ve
+                  yapisal veri ile Google botlari icin guclu bir sinyal katmani eklendi.
+                </p>
+              </div>
+              <div>
+                <h3 className="text-xl font-black text-primary">Temiz URL ve ic linkleme</h3>
+                <p className="mt-3 text-sm leading-7 text-on-surface-variant">
+                  Hash yapisindan cikilip daha profesyonel URL yapisina gecildi. Bu sayede paylasim,
+                  taranabilirlik ve marka algisi iyilestirildi.
+                </p>
               </div>
             </div>
           </div>
-          <div className="landing-float absolute bottom-[12%] right-[12%] flex h-24 w-24 items-center justify-center rounded-full border border-white/12 bg-surface-container-low/80 shadow-[0_24px_70px_rgba(0,0,0,0.28)] backdrop-blur-xl">
-            <span className="material-symbols-outlined text-[2rem] text-tertiary/90">neurology</span>
-          </div>
-          <div className="landing-drift-slow absolute bottom-[20%] right-[36%] h-32 w-32 rounded-[2.2rem] border border-primary/12 bg-primary/8 blur-sm"></div>
-        </div>
+        </section>
 
-        <section className="relative mx-auto flex w-full max-w-4xl flex-col items-center text-center">
-          <div className="absolute top-1/2 -z-10 h-44 w-44 -translate-y-1/2 rounded-full bg-primary/10 blur-[90px] md:h-64 md:w-64 md:blur-[110px]"></div>
-          <div className="absolute left-1/2 top-1/2 -z-10 hidden h-[28rem] w-[28rem] -translate-x-1/2 -translate-y-1/2 rounded-full border border-white/8 md:block"></div>
-          <div className="absolute left-1/2 top-1/2 -z-10 hidden h-[36rem] w-[36rem] -translate-x-1/2 -translate-y-1/2 rounded-full border border-primary/10 md:block"></div>
-
-          <p className="mb-3 text-[11px] font-semibold uppercase tracking-[0.24em] text-primary md:mb-5 md:text-sm md:tracking-[0.28em]">
-            GENELKULTUR.COM
-          </p>
-
-          <h1 className="text-4xl font-black leading-none tracking-tighter text-on-surface md:text-7xl">
-            Genel Kultur
-            <br />
-            Bilgi Yarismasi
-          </h1>
-
-          <p className="mt-4 max-w-xl text-sm leading-7 text-on-surface-variant md:mt-6 md:text-lg md:leading-8">
-            Kategori sec, hemen basla ve sonucunu gor. Sade, hizli ve dogrudan oyuna odaklanan
-            bir deneyim.
-          </p>
-
-          <div className="mt-6 flex flex-col items-center gap-5 md:mt-10 md:gap-8">
-            <Link
-              to="/categories"
-              className="inline-flex items-center justify-center gap-2 rounded-2xl bg-primary px-7 py-3.5 text-base font-black text-on-primary shadow-[0_18px_45px_rgba(242,202,80,0.22)] transition-all duration-300 hover:-translate-y-1 hover:bg-primary/90 md:px-8 md:py-4 md:text-lg"
-            >
-              Hemen Basla
-              <span className="material-symbols-outlined">play_arrow</span>
-            </Link>
-
-            <div className="grid w-full max-w-2xl grid-cols-3 gap-2.5 md:gap-4">
-              <div className="rounded-[1.2rem] border border-white/8 bg-surface-container-low/75 px-3 py-3 backdrop-blur-xl md:rounded-[1.6rem] md:px-5 md:py-4">
-                <div className="text-xl font-black text-primary md:text-2xl">4</div>
-                <div className="mt-1 text-[10px] uppercase tracking-[0.18em] text-on-surface-variant md:text-xs md:tracking-[0.2em]">Kategori</div>
-              </div>
-              <div className="rounded-[1.2rem] border border-white/8 bg-surface-container-low/75 px-3 py-3 backdrop-blur-xl md:rounded-[1.6rem] md:px-5 md:py-4">
-                <div className="text-xl font-black text-primary md:text-2xl">500+</div>
-                <div className="mt-1 text-[10px] uppercase tracking-[0.18em] text-on-surface-variant md:text-xs md:tracking-[0.2em]">Soru</div>
-              </div>
-              <div className="rounded-[1.2rem] border border-white/8 bg-surface-container-low/75 px-3 py-3 backdrop-blur-xl md:rounded-[1.6rem] md:px-5 md:py-4">
-                <div className="text-xl font-black text-primary md:text-2xl">15</div>
-                <div className="mt-1 text-[10px] uppercase tracking-[0.18em] text-on-surface-variant md:text-xs md:tracking-[0.2em]">Tur</div>
-              </div>
-            </div>
+        <section className="mx-auto w-full max-w-7xl px-4 pb-16 md:px-10 md:pb-24">
+          <div className="grid gap-6 md:grid-cols-2">
+            <article className="rounded-[1.75rem] border border-white/10 bg-surface-container-low p-6">
+              <h2 className="text-2xl font-black text-on-surface">Genel kultur testi nasil oynanir?</h2>
+              <p className="mt-3 text-sm leading-7 text-on-surface-variant">
+                Kategori secimi yapilir, soru turu baslatilir ve her dogru cevap puan kazandirir.
+                Tur sonunda sonuc ekraninda basari orani gorulur. Bu akis, kullanici icin net ve
+                hizli bir deneyim yaratir.
+              </p>
+            </article>
+            <article className="rounded-[1.75rem] border border-white/10 bg-surface-container-low p-6">
+              <h2 className="text-2xl font-black text-on-surface">Genel kultur sorulari kimler icin uygun?</h2>
+              <p className="mt-3 text-sm leading-7 text-on-surface-variant">
+                Kendini sinamak isteyen ogrenciler, bilgi yarismasi sevenler, eglenceli bir test
+                arayan ziyaretciler ve duzenli tekrar yapmak isteyen herkes bu platformu kullanabilir.
+              </p>
+            </article>
           </div>
         </section>
       </main>

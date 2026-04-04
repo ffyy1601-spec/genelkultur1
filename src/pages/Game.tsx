@@ -1,9 +1,11 @@
 import { useMemo, useState } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
-import { Helmet } from "react-helmet-async";
+import Seo from "../components/Seo";
 import { QUESTION_SETS } from "../data";
 import heroImage from "../assets/hero.png";
 import type { CategoryType, Question } from "../data";
+import { ROUTES } from "../lib/routes";
+import { CATEGORY_LABELS } from "../lib/seo";
 
 const QUESTIONS_PER_ROUND = 15;
 
@@ -49,7 +51,7 @@ export default function Game() {
   const currentQ = questions[currentIdx];
 
   const finishGame = (wasCorrect: boolean) => {
-    navigate("/results", {
+    navigate(ROUTES.results, {
       state: {
         score: score + (wasCorrect ? 100 : 0),
         correct: correctAnswers + (wasCorrect ? 1 : 0),
@@ -173,16 +175,12 @@ export default function Game() {
 
   return (
     <>
-      <Helmet>
-        <title>
-          {categoryParam.charAt(0).toUpperCase() + categoryParam.slice(1)} Testi - Genel Kultur Bilgi
-          Yarismasi
-        </title>
-        <meta
-          name="description"
-          content={`${categoryParam} kategorisinde secilmis sorular seni bekliyor. Hemen oyuna katil ve skorunu gor.`}
-        />
-      </Helmet>
+      <Seo
+        title={`${CATEGORY_LABELS[categoryParam] || "Genel Kultur"} Oyunu | GenelKultur.com.tr`}
+        description={`${CATEGORY_LABELS[categoryParam] || "Genel Kultur"} kategorisinde secilmis sorular seni bekliyor. Hemen oyuna katil ve skorunu gor.`}
+        path={ROUTES.game}
+        noindex
+      />
 
       <main className="flex min-h-[100dvh] flex-grow items-center justify-center overflow-hidden px-3 pb-3 pt-4 sm:px-4 sm:pb-6 sm:pt-8">
         <div
@@ -389,7 +387,7 @@ export default function Game() {
             </p>
             <div className="flex flex-col gap-3">
               <button
-                onClick={() => navigate("/")}
+                onClick={() => navigate(ROUTES.home)}
                 className="w-full rounded-xl bg-error py-4 font-bold text-white shadow-lg shadow-error/20 transition-colors hover:bg-error/90"
               >
                 Evet, Ayril

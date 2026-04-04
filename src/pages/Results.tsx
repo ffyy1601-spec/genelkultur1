@@ -1,6 +1,7 @@
 import { Link, useLocation } from "react-router-dom";
-import { Helmet } from "react-helmet-async";
 import PageLayout from "../components/PageLayout";
+import Seo from "../components/Seo";
+import { ROUTES } from "../lib/routes";
 
 export default function Results() {
   const location = useLocation();
@@ -10,14 +11,13 @@ export default function Results() {
   const successRate = Math.round((correct / total) * 100) || 0;
 
   return (
-    <PageLayout>
-      <Helmet>
-        <title>Sonuclar - Genel Kultur Bilgi Yarismasi</title>
-        <meta
-          name="description"
-          content="Yarismayi tamamladin. Basari oranini, dogru ve yanlis sayilarini simdi inceleyebilirsin."
-        />
-      </Helmet>
+    <PageLayout showChrome={false}>
+      <Seo
+        title="Sonuclar | GenelKultur.com.tr"
+        description="Yarismayi tamamladin. Basari oranini, dogru ve yanlis sayilarini simdi inceleyebilirsin."
+        path={ROUTES.results}
+        noindex
+      />
 
       <main className="flex min-h-[100dvh] flex-grow items-center px-4 pb-4 pt-4 md:px-10 md:pb-16 md:pt-10">
         <div className="mx-auto w-full max-w-4xl">
@@ -39,7 +39,7 @@ export default function Results() {
                     puanini gorebilirsin.
                   </p>
                   <Link
-                    to="/categories"
+                    to={ROUTES.categories}
                     className="inline-flex items-center justify-center gap-2 rounded-2xl bg-gradient-to-br from-primary to-primary-container px-7 py-3.5 text-base font-bold text-on-primary shadow-lg transition-all duration-300 hover:-translate-y-1 md:gap-3 md:px-10 md:py-5 md:text-lg"
                   >
                     Oyuna Basla
@@ -132,14 +132,14 @@ export default function Results() {
 
                   <div className="flex w-full flex-col justify-center gap-2.5 sm:flex-row sm:gap-4">
                     <Link
-                      to="/categories"
+                      to={ROUTES.categories}
                       className="flex items-center justify-center gap-2 rounded-2xl bg-gradient-to-br from-primary to-primary-container px-6 py-3.5 text-base font-bold text-on-primary shadow-lg transition-all duration-300 hover:-translate-y-1 md:gap-3 md:px-10 md:py-5 md:text-lg"
                     >
                       <span className="material-symbols-outlined">replay</span>
                       Tekrar Oyna
                     </Link>
                     <Link
-                      to="/"
+                      to={ROUTES.home}
                       className="flex items-center justify-center gap-2 rounded-2xl border-2 border-outline-variant bg-transparent px-6 py-3.5 text-base font-bold text-on-background transition-all duration-300 hover:-translate-y-1 hover:border-primary/50 md:gap-3 md:px-10 md:py-5 md:text-lg"
                     >
                       <span className="material-symbols-outlined">home</span>
