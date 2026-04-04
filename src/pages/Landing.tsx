@@ -99,10 +99,26 @@ export default function Landing() {
               <div className="mt-10 flex flex-col gap-4 sm:flex-row sm:items-center">
                 <Link
                   to={ROUTES.categories}
-                  className="inline-flex min-h-16 items-center justify-center gap-3 rounded-[1.6rem] bg-[linear-gradient(135deg,#f2ca50,#ffd96a)] px-8 py-4 text-lg font-black text-[#0c1c35] shadow-[0_22px_60px_rgba(242,202,80,0.30)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_28px_80px_rgba(242,202,80,0.36)] md:px-10 md:text-xl"
+                  className="group relative inline-flex min-h-[5.25rem] items-center justify-between overflow-hidden rounded-[1.9rem] border border-[#ffe7a8]/30 bg-[linear-gradient(135deg,rgba(242,202,80,0.24),rgba(255,220,120,0.55))] px-7 py-4 shadow-[0_30px_90px_rgba(242,202,80,0.24)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_38px_110px_rgba(242,202,80,0.30)] sm:min-w-[28rem] sm:px-8 md:px-10"
                 >
-                  Genel Kultur Testine Basla
-                  <span className="material-symbols-outlined text-[1.7rem]">play_arrow</span>
+                  <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_top_left,rgba(255,255,255,0.40),transparent_34%),linear-gradient(135deg,rgba(255,215,96,0.95),rgba(242,202,80,0.82)_45%,rgba(255,245,220,0.34)_100%)]"></div>
+                  <div className="pointer-events-none absolute -left-10 top-1/2 h-24 w-24 -translate-y-1/2 rounded-full bg-white/40 blur-3xl transition-transform duration-500 group-hover:translate-x-3"></div>
+                  <div className="pointer-events-none absolute bottom-[-30%] right-[-8%] h-28 w-36 rounded-full bg-[#0b1c35]/16 blur-2xl"></div>
+
+                  <div className="relative flex flex-col text-left">
+                    <span className="text-[11px] font-black uppercase tracking-[0.24em] text-[#27415F]">
+                      Simdi Oyna
+                    </span>
+                    <span className="mt-1 text-2xl font-black leading-tight text-[#0B1C35] md:text-[2rem]">
+                      Genel Kultur Testine Basla
+                    </span>
+                  </div>
+
+                  <div className="relative ml-4 flex h-14 w-14 shrink-0 items-center justify-center rounded-2xl border border-[#0B1C35]/15 bg-[#0B1C35] text-white shadow-[0_12px_30px_rgba(11,28,53,0.22)] backdrop-blur-sm">
+                    <span className="material-symbols-outlined text-[1.9rem] transition-transform duration-300 group-hover:translate-x-0.5">
+                      play_arrow
+                    </span>
+                  </div>
                 </Link>
 
                 <div className="flex flex-wrap gap-3 text-sm text-on-surface-variant">
