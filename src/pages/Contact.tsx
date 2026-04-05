@@ -27,8 +27,8 @@ export default function Contact() {
         <section className="grid gap-6 md:grid-cols-2">
           <article className="rounded-3xl border border-outline-variant/10 bg-surface-container-low p-6">
             <p className="mb-2 text-sm uppercase tracking-[0.18em] text-primary">E-posta</p>
-            <a className="text-xl font-bold text-on-surface hover:text-primary" href="mailto:iletisim@genelkultur.com.tr">
-              iletisim@genelkultur.com.tr
+            <a className="text-xl font-bold text-on-surface hover:text-primary" href="mailto:genelkultur46@gmail.com">
+              genelkultur46@gmail.com
             </a>
             <p className="mt-3 text-sm leading-6 text-on-surface-variant">
               Icerik duzeltmeleri, teknik bildirimler ve genel sorular icin temel iletisim adresi.

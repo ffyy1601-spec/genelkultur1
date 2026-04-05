@@ -15,6 +15,7 @@ import BilimSorulari from "./pages/BilimSorulari";
 import SanatSorulari from "./pages/SanatSorulari";
 import Terms from "./pages/Terms";
 import { LEGACY_ROUTES, ROUTES } from "./lib/routes";
+import RouteEffects from "./components/RouteEffects";
 
 const BUILD_TAG = "2026-04-04-seo-pro";
 
@@ -22,6 +23,7 @@ function App() {
   return (
     <HelmetProvider>
       <Router>
+        <RouteEffects />
         <div
           className="bg-background text-on-background font-body min-h-screen flex flex-col font-inter selection:bg-primary selection:text-on-primary"
           data-build={BUILD_TAG}
