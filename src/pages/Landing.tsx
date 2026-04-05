@@ -63,7 +63,7 @@ export default function Landing() {
       />
 
       <main>
-        <section className="relative overflow-hidden px-4 pb-14 pt-10 md:px-10 md:pb-20 md:pt-16">
+        <section className="relative overflow-hidden px-4 pb-14 pt-6 md:px-10 md:pb-20 md:pt-10">
           <div className="pointer-events-none absolute inset-0 -z-30">
             <img
               alt="Genel kultur bilgi yarismasi arka plan gorseli"
@@ -84,7 +84,46 @@ export default function Landing() {
                 Genel Kultur Platformu
               </div>
 
-              <h1 className="mt-6 text-4xl font-black leading-[0.95] tracking-tight text-on-surface sm:text-5xl md:text-7xl">
+              <div className="mt-5 flex flex-wrap items-center gap-3 text-sm text-on-surface-variant">
+                <span className="rounded-full border border-primary/15 bg-surface-container-low/75 px-4 py-2 font-semibold text-on-surface">
+                  1000+ soru
+                </span>
+                <span className="rounded-full border border-white/10 bg-surface-container-low/75 px-4 py-2">
+                  4 kategori
+                </span>
+                <span className="rounded-full border border-white/10 bg-surface-container-low/75 px-4 py-2">
+                  15 soruluk hizli tur
+                </span>
+              </div>
+
+              <Link
+                to={ROUTES.categories}
+                className="group relative mt-6 flex w-full max-w-xl items-center justify-between overflow-hidden rounded-[1.7rem] border border-[#ffe7a8]/30 bg-[linear-gradient(135deg,rgba(242,202,80,0.18),rgba(255,220,120,0.42))] px-5 py-4 shadow-[0_22px_70px_rgba(242,202,80,0.18)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_30px_90px_rgba(242,202,80,0.24)] sm:px-6 sm:py-4"
+              >
+                <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_top_left,rgba(255,255,255,0.30),transparent_34%),linear-gradient(135deg,rgba(255,215,96,0.85),rgba(242,202,80,0.55)_45%,rgba(255,245,220,0.18)_100%)]"></div>
+                <div className="pointer-events-none absolute -left-8 top-1/2 h-20 w-20 -translate-y-1/2 rounded-full bg-white/30 blur-3xl transition-transform duration-500 group-hover:translate-x-3"></div>
+                <div className="pointer-events-none absolute bottom-[-30%] right-[-8%] h-24 w-32 rounded-full bg-[#0b1c35]/10 blur-2xl"></div>
+
+                <div className="relative pr-4 text-left">
+                  <div className="text-[10px] font-black uppercase tracking-[0.24em] text-[#6C4A00]/80">
+                    En Hizli Baslangic
+                  </div>
+                  <div className="mt-1 bg-gradient-to-r from-[#fffaf0] via-white to-[#fff1c7] bg-clip-text text-xl font-black leading-tight text-transparent sm:text-[1.6rem]">
+                    Genel Kultur Testine Hemen Basla
+                  </div>
+                  <div className="mt-1.5 text-sm font-medium leading-6 text-[#fff3cf]/92 sm:text-[0.95rem]">
+                    Kategori sec, ilk soruyu saniyeler icinde gormeye basla.
+                  </div>
+                </div>
+
+                <div className="relative flex h-12 w-12 shrink-0 items-center justify-center rounded-[1.1rem] border border-white/15 bg-[#10233f]/78 text-white shadow-[0_10px_24px_rgba(11,28,53,0.20)] backdrop-blur-sm sm:h-14 sm:w-14">
+                  <span className="material-symbols-outlined text-[1.55rem] transition-transform duration-300 group-hover:translate-x-0.5 sm:text-[1.75rem]">
+                    play_arrow
+                  </span>
+                </div>
+              </Link>
+
+              <h1 className="mt-7 text-4xl font-black leading-[0.95] tracking-tight text-on-surface sm:text-5xl md:text-7xl">
                 Bilgini sahneye cikar.
                 <span className="mt-3 block bg-gradient-to-r from-primary via-[#ffe28a] to-white bg-clip-text text-transparent">
                   Genel kultur testine basla.
@@ -96,42 +135,20 @@ export default function Landing() {
                 hizli, temiz ve keyifli bir bilgi yarismasi deneyimi yasatir.
               </p>
 
-              <div className="mt-10 flex flex-col gap-4 sm:flex-row sm:items-center">
+              <div className="mt-8 flex flex-wrap gap-3 text-sm text-on-surface-variant">
                 <Link
                   to={ROUTES.categories}
-                  className="group relative inline-flex min-h-[5.25rem] items-center justify-between overflow-hidden rounded-[1.9rem] border border-[#ffe7a8]/30 bg-[linear-gradient(135deg,rgba(242,202,80,0.24),rgba(255,220,120,0.55))] px-7 py-4 shadow-[0_30px_90px_rgba(242,202,80,0.24)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_38px_110px_rgba(242,202,80,0.30)] sm:min-w-[28rem] sm:px-8 md:px-10"
+                  className="inline-flex items-center gap-2 rounded-full border border-primary/20 bg-primary/10 px-5 py-3 font-bold text-primary transition-all hover:-translate-y-0.5 hover:border-primary/35 hover:bg-primary/14"
                 >
-                  <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_top_left,rgba(255,255,255,0.40),transparent_34%),linear-gradient(135deg,rgba(255,215,96,0.95),rgba(242,202,80,0.82)_45%,rgba(255,245,220,0.34)_100%)]"></div>
-                  <div className="pointer-events-none absolute -left-10 top-1/2 h-24 w-24 -translate-y-1/2 rounded-full bg-white/40 blur-3xl transition-transform duration-500 group-hover:translate-x-3"></div>
-                  <div className="pointer-events-none absolute bottom-[-30%] right-[-8%] h-28 w-36 rounded-full bg-[#0b1c35]/16 blur-2xl"></div>
-
-                  <div className="relative flex flex-col text-left">
-                    <span className="text-[11px] font-black uppercase tracking-[0.24em] text-[#27415F]">
-                      Simdi Oyna
-                    </span>
-                    <span className="mt-1 text-2xl font-black leading-tight text-[#0B1C35] md:text-[2rem]">
-                      Genel Kultur Testine Basla
-                    </span>
-                  </div>
-
-                  <div className="relative ml-4 flex h-14 w-14 shrink-0 items-center justify-center rounded-2xl border border-[#0B1C35]/15 bg-[#0B1C35] text-white shadow-[0_12px_30px_rgba(11,28,53,0.22)] backdrop-blur-sm">
-                    <span className="material-symbols-outlined text-[1.9rem] transition-transform duration-300 group-hover:translate-x-0.5">
-                      play_arrow
-                    </span>
-                  </div>
+                  Kategorileri Gor
+                  <span className="material-symbols-outlined text-base">arrow_forward</span>
                 </Link>
-
-                <div className="flex flex-wrap gap-3 text-sm text-on-surface-variant">
-                  <span className="rounded-full border border-white/10 bg-surface-container-low/70 px-4 py-2">
-                    500+ soru
-                  </span>
-                  <span className="rounded-full border border-white/10 bg-surface-container-low/70 px-4 py-2">
-                    4 kategori
-                  </span>
-                  <span className="rounded-full border border-white/10 bg-surface-container-low/70 px-4 py-2">
-                    Hizli baslangic
-                  </span>
-                </div>
+                <Link
+                  to={ROUTES.genelKulturSorulari}
+                  className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-surface-container-low/70 px-5 py-3 font-semibold text-on-surface transition-all hover:-translate-y-0.5 hover:border-white/20"
+                >
+                  Ornek Sorulara Goz At
+                </Link>
               </div>
             </div>
 
@@ -142,7 +159,7 @@ export default function Landing() {
                   <div className="mt-1 text-xs uppercase tracking-[0.18em] text-on-surface-variant">Kategori</div>
                 </div>
                 <div className="rounded-2xl bg-surface-container-high/80 p-4 text-center">
-                  <div className="text-2xl font-black text-primary">500+</div>
+                  <div className="text-2xl font-black text-primary">1000+</div>
                   <div className="mt-1 text-xs uppercase tracking-[0.18em] text-on-surface-variant">Soru</div>
                 </div>
                 <div className="rounded-2xl bg-surface-container-high/80 p-4 text-center">
