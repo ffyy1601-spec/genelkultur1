@@ -46,11 +46,31 @@ import { sanatBatch9 } from "./questions/sanat/batch9";
 import { sanatBatch10 } from "./questions/sanat/batch10";
 import { sanatBatch11 } from "./questions/sanat/batch11";
 
+const mojibakePattern = /[ÃÄÅÂÐ]/;
+
+const decodeMojibake = (value: string) => {
+  if (!mojibakePattern.test(value)) return value;
+
+  try {
+    const bytes = Uint8Array.from([...value].map((char) => char.charCodeAt(0)));
+    const decoded = new TextDecoder("utf-8", { fatal: false }).decode(bytes);
+    return decoded.includes("�") ? value : decoded;
+  } catch {
+    return value;
+  }
+};
+
+const normalizeQuestion = (question: Question): Question => ({
+  ...question,
+  text: decodeMojibake(question.text),
+  options: question.options.map(decodeMojibake),
+});
+
 export const QUESTION_SETS: Record<CategoryType, Question[]> = {
-  genel: [...genelBatch1, ...genelBatch2, ...genelBatch3, ...genelBatch4, ...genelBatch5, ...genelBatch6, ...genelBatch7, ...genelBatch8, ...genelBatch9, ...genelBatch10, ...genelBatch11, ...genelBatch12, ...genelBatch13, ...genelBatch14, ...genelBatch15],
-  tarih: [...tarihBatch1, ...tarihBatch2, ...tarihBatch3, ...tarihBatch4, ...tarihBatch5, ...tarihBatch6, ...tarihBatch7, ...tarihBatch8, ...tarihBatch9, ...tarihBatch10],
-  bilim: [...bilimBatch1, ...bilimBatch2, ...bilimBatch3, ...bilimBatch4, ...bilimBatch5, ...bilimBatch6, ...bilimBatch7, ...bilimBatch8, ...bilimBatch9, ...bilimBatch10],
-  sanat: [...sanatBatch1, ...sanatBatch2, ...sanatBatch3, ...sanatBatch4, ...sanatBatch5, ...sanatBatch6, ...sanatBatch7, ...sanatBatch8, ...sanatBatch9, ...sanatBatch10, ...sanatBatch11],
+  genel: [...genelBatch1, ...genelBatch2, ...genelBatch3, ...genelBatch4, ...genelBatch5, ...genelBatch6, ...genelBatch7, ...genelBatch8, ...genelBatch9, ...genelBatch10, ...genelBatch11, ...genelBatch12, ...genelBatch13, ...genelBatch14, ...genelBatch15].map(normalizeQuestion),
+  tarih: [...tarihBatch1, ...tarihBatch2, ...tarihBatch3, ...tarihBatch4, ...tarihBatch5, ...tarihBatch6, ...tarihBatch7, ...tarihBatch8, ...tarihBatch9, ...tarihBatch10].map(normalizeQuestion),
+  bilim: [...bilimBatch1, ...bilimBatch2, ...bilimBatch3, ...bilimBatch4, ...bilimBatch5, ...bilimBatch6, ...bilimBatch7, ...bilimBatch8, ...bilimBatch9, ...bilimBatch10].map(normalizeQuestion),
+  sanat: [...sanatBatch1, ...sanatBatch2, ...sanatBatch3, ...sanatBatch4, ...sanatBatch5, ...sanatBatch6, ...sanatBatch7, ...sanatBatch8, ...sanatBatch9, ...sanatBatch10, ...sanatBatch11].map(normalizeQuestion),
 };
 
 export type { CategoryType, Question } from "./types";

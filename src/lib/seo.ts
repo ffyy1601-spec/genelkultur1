@@ -20,6 +20,8 @@ export const buildCanonicalUrl = (path: string) => `${SITE_URL}${path === "/" ? 
 export const SITE_LINKS = [
   { label: "Ana Sayfa", to: ROUTES.home },
   { label: "Genel Kultur Testi", to: ROUTES.categories },
+  { label: "Sorular ve Cevaplar", to: ROUTES.contentHub },
+  { label: "Icerik Politikasi", to: ROUTES.contentPolicy },
   { label: "Hakkimizda", to: ROUTES.about },
   { label: "Iletisim", to: ROUTES.contact },
 ];

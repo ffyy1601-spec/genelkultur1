@@ -64,6 +64,9 @@ export default function PageLayout({ children, showChrome = true }: PageLayoutPr
               <NavLink to={ROUTES.genelKulturSorulari} className="text-on-surface-variant transition-colors hover:text-on-surface">
                 Genel Kultur Sorulari
               </NavLink>
+              <NavLink to={ROUTES.contentHub} className="text-on-surface-variant transition-colors hover:text-on-surface">
+                Sorular ve Cevaplar
+              </NavLink>
               <NavLink to={ROUTES.genelKulturTesti} className="text-on-surface-variant transition-colors hover:text-on-surface">
                 Genel Kultur Testi Sayfasi
               </NavLink>
@@ -81,6 +84,15 @@ export default function PageLayout({ children, showChrome = true }: PageLayoutPr
             <div className="mt-4 flex flex-col gap-3 text-sm">
               <NavLink to={ROUTES.privacy} className="text-on-surface-variant transition-colors hover:text-on-surface">
                 Gizlilik Politikasi
+              </NavLink>
+              <NavLink to={ROUTES.cookies} className="text-on-surface-variant transition-colors hover:text-on-surface">
+                Cerez Politikasi
+              </NavLink>
+              <NavLink to={ROUTES.contentPolicy} className="text-on-surface-variant transition-colors hover:text-on-surface">
+                Icerik Politikasi
+              </NavLink>
+              <NavLink to={ROUTES.adsDisclosure} className="text-on-surface-variant transition-colors hover:text-on-surface">
+                Reklam Bilgilendirmesi
               </NavLink>
               <NavLink to={ROUTES.terms} className="text-on-surface-variant transition-colors hover:text-on-surface">
                 Kullanim Kosullari

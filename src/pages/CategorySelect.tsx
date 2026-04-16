@@ -129,6 +129,27 @@ export default function CategorySelect() {
             ))}
           </div>
         </section>
+
+        <section className="mt-8 rounded-[1.8rem] border border-white/10 bg-[linear-gradient(180deg,rgba(18,35,62,0.92),rgba(8,20,38,0.95))] p-6 md:p-8">
+          <div className="flex flex-col gap-3 md:flex-row md:items-end md:justify-between">
+            <div>
+              <p className="text-sm font-semibold uppercase tracking-[0.22em] text-primary">Ayrik Icerik Katmani</p>
+              <h2 className="mt-3 text-3xl font-black tracking-tight text-on-surface md:text-4xl">
+                Soru-cevap sayfalari quiz akisini bozmadan ayri bir yoldan ilerler.
+              </h2>
+            </div>
+            <Link
+              to={ROUTES.contentHub}
+              className="inline-flex items-center gap-2 self-start rounded-full border border-white/10 bg-surface-container-low/70 px-5 py-3 text-sm font-bold text-on-surface transition-all hover:-translate-y-0.5 hover:border-primary/30"
+            >
+              Icerik Merkezine Git
+              <span className="material-symbols-outlined text-base">arrow_forward</span>
+            </Link>
+          </div>
+          <p className="mt-4 max-w-3xl text-sm leading-7 text-on-surface-variant">
+            Buradaki sayfalar; gorunur soru, dogru cevap ve kisa aciklama sunar. Hazir oldugunda yine tek tikla ilgili kategori quizine donersin.
+          </p>
+        </section>
       </main>
     </PageLayout>
   );

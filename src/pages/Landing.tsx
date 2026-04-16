@@ -4,6 +4,7 @@ import Seo from "../components/Seo";
 import heroImage from "../assets/hero.png";
 import { ROUTES } from "../lib/routes";
 import { SITE_URL } from "../lib/seo";
+import { contentLibraryCards } from "../data/contentLibrary";
 
 const schema = [
   {
@@ -224,6 +225,44 @@ export default function Landing() {
                 <h2 className="text-2xl font-black text-on-surface">{item.title}</h2>
                 <p className="mt-3 text-sm leading-7 text-on-surface-variant">{item.text}</p>
               </article>
+            ))}
+          </div>
+        </section>
+
+        <section className="mx-auto w-full max-w-7xl px-4 pb-20 md:px-10 md:pb-24">
+          <div className="flex flex-col gap-3 md:flex-row md:items-end md:justify-between">
+            <div>
+              <p className="text-sm font-semibold uppercase tracking-[0.24em] text-primary">Populer Icerikler</p>
+              <h2 className="mt-3 text-3xl font-black tracking-tight text-on-surface md:text-4xl">
+                Quiz'e gecmeden once aciklamali soru-cevap sayfalarina goz at.
+              </h2>
+            </div>
+            <Link
+              to={ROUTES.contentHub}
+              className="inline-flex items-center gap-2 self-start rounded-full border border-white/10 bg-surface-container-low/70 px-5 py-3 text-sm font-bold text-on-surface transition-all hover:-translate-y-0.5 hover:border-primary/30"
+            >
+              Tumunu Gor
+              <span className="material-symbols-outlined text-base">arrow_forward</span>
+            </Link>
+          </div>
+
+          <div className="mt-8 grid gap-4 md:grid-cols-2 xl:grid-cols-4">
+            {contentLibraryCards.map((item) => (
+              <Link
+                key={item.to}
+                to={item.to}
+                className="group rounded-[1.6rem] border border-white/10 bg-surface-container-low/80 p-5 transition-all duration-300 hover:-translate-y-1 hover:border-primary/30"
+              >
+                <p className="text-[10px] font-black uppercase tracking-[0.22em] text-primary">Aciklamali Sayfa</p>
+                <h3 className="mt-3 text-xl font-black text-on-surface">{item.title}</h3>
+                <p className="mt-3 text-sm leading-7 text-on-surface-variant">{item.description}</p>
+                <div className="mt-5 inline-flex items-center gap-2 text-sm font-black text-primary">
+                  Sayfayi Ac
+                  <span className="material-symbols-outlined text-base transition-transform duration-300 group-hover:translate-x-1">
+                    arrow_forward
+                  </span>
+                </div>
+              </Link>
             ))}
           </div>
         </section>
