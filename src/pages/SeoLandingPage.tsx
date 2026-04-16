@@ -125,6 +125,44 @@ export default function SeoLandingPage({
             </p>
           </article>
         </section>
+
+        <section className="mt-10 grid gap-6 md:grid-cols-3">
+          {[
+            {
+              title: "Bu alanda ne olculur?",
+              text: "Sorular; temel kavramlari, ad-eser eslestirmelerini, kronolojiyi veya genel mantik akislarini ne kadar hizli kurabildigini gosterir.",
+            },
+            {
+              title: "Kimler icin uygun?",
+              text: "Kisa tekrar yapmak isteyenler, quiz'e girmeden once goz gezdirmek isteyenler ve konuya sade bir giris arayanlar icin uygundur.",
+            },
+            {
+              title: "En iyi kullanim sekli",
+              text: "Once ornek sorulari tara, sonra basliklari zihninde toparla ve hemen ardindan kategori quizine gecerek ritmi koru.",
+            },
+          ].map((item) => (
+            <article key={item.title} className="rounded-[1.6rem] border border-white/10 bg-surface-container-low/75 p-6">
+              <h2 className="text-xl font-black text-on-surface">{item.title}</h2>
+              <p className="mt-3 text-sm leading-7 text-on-surface-variant">{item.text}</p>
+            </article>
+          ))}
+        </section>
+
+        <section className="mt-10 rounded-[1.8rem] border border-white/10 bg-surface-container-low/75 p-6 md:p-8">
+          <h2 className="text-3xl font-black tracking-tight text-on-surface md:text-4xl">Hizli hazirlik notlari</h2>
+          <div className="mt-6 grid gap-4 md:grid-cols-3">
+            {[
+              "Sik cikan isimleri, kavramlari veya tarihleri gozden gecir.",
+              "Ornek sorularin hangi mantikla kurulduguna dikkat et.",
+              "Hazirsan beklemeden quiz akisini baslat ve tempoyu dusurme.",
+            ].map((item, index) => (
+              <article key={item} className="rounded-[1.3rem] border border-white/10 bg-background/20 p-5">
+                <p className="text-[10px] font-black uppercase tracking-[0.22em] text-primary">Not {index + 1}</p>
+                <p className="mt-3 text-sm leading-7 text-on-surface-variant">{item}</p>
+              </article>
+            ))}
+          </div>
+        </section>
       </main>
     </PageLayout>
   );
