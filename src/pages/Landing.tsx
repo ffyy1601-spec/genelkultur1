@@ -20,7 +20,7 @@ const schema = [
     "@type": "Organization",
     name: "GenelKultur.com.tr",
     url: SITE_URL,
-    logo: `${SITE_URL}/favicon.svg`,
+    logo: `${SITE_URL}/favicon-512.png`,
   },
 ];
 
