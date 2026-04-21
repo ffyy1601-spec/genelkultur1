@@ -4,7 +4,7 @@ import { ROUTES } from "./routes";
 
 export const SITE_NAME = "GenelKultur.com.tr";
 export const SITE_URL = "https://genelkultur.com.tr";
-export const DEFAULT_OG_IMAGE = `${SITE_URL}/favicon.svg`;
+export const DEFAULT_OG_IMAGE = `${SITE_URL}/og-image.png`;
 
 export const CATEGORY_LABELS: Record<CategoryType, string> = {
   genel: "Genel Kultur",
