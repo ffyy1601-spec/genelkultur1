@@ -1038,5 +1038,209 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Kennedy'nin 1960'lı yıllar sona ermeden Ay'a iniş hedefi, 1969 yılında Apollo 11'in başarısıyla gerçekleştirilmiştir."
       }
     ]
+  },
+  {
+    "slug": "uzay-zamanin-gozle-gorunur-dansi-einsteinin-teorisi-ve-1919-gunes-tutulmasi",
+    "dateId": "2026-05-24",
+    "title": "Einstein'ın Dehası Doğrulandı: Eddington ve 1919 Güneş Tutulması | GenelKultur",
+    "description": "1919'daki güneş tutulması sırasında Arthur Eddington'ın yaptığı gözlemlerle Albert Einstein'ın Genel Görelilik Teorisi'nin nasıl kanıtlandığını keşfedin. Bilim tarihinde çığır açan bu olayın detayları.",
+    "keywords": [
+      "Einstein",
+      "Genel Görelilik",
+      "Arthur Eddington",
+      "1919 Güneş Tutulması",
+      "Işık Bükülmesi",
+      "Bilim Tarihi",
+      "Fizik",
+      "Güneş Tutulması",
+      "Uzay-Zaman",
+      "Kütleçekim Teorisi"
+    ],
+    "heading": "Uzay-Zamanın Gözle Görünür Dansı: Einstein'ın Teorisi ve 1919 Güneş Tutulması",
+    "intro": "1919 yılının Mayıs ayında gerçekleşen nadir bir gökyüzü olayı, bilim dünyasını derinden sarsacak ve yüzyılın en büyük dehalarından birinin teorisini kanıtlayacaktı. Albert Einstein'ın sadece birkaç yıl önce ortaya attığı Genel Görelilik Teorisi, kütlenin uzay-zamanı büktüğünü ve bu bükülmenin ışık dahil her şeyi etkilediğini öne sürüyordu. Ancak bu radikal iddia nasıl doğrulanabilirdi? Cevap, o yılki tam güneş tutulmasında yatıyordu ve Arthur Eddington liderliğindeki cüretkar bir ekspedisyon bu sorunun peşine düştü.",
+    "article": "20. yüzyılın başları, fizik dünyası için bir devrim çağıydı. Isaac Newton'ın 200 yıldan uzun süredir tartışmasız hüküm süren kütleçekim yasaları, küçük ölçeklerdeki tutarsızlıklar ve özellikle Merkür'ün yörüngesindeki açıklanamayan sapma gibi sorunlarla karşılaşmaya başlamıştı. İşte tam bu noktada, Albert Einstein, 1915 yılında Genel Görelilik Teorisi'ni ortaya attı. Bu teori, kütleçekimini bir kuvvet olarak değil, kütleli nesnelerin uzay-zamanın geometrisinde yarattığı bir eğrilik olarak tanımlıyordu. Bu eğriliğin en çarpıcı öngörülerinden biri ise, kütleli bir nesnenin yakınından geçen ışığın bile büküleceğiydi.\n\nTeorinin öngörülerinden birini test etmek için en ideal yol, Güneş gibi devasa kütleli bir nesnenin yakınından geçen yıldız ışığının bükülmesini gözlemlemekti. Ancak Güneş'in parlaklığı, yıldızların gündüz vakti görülebilmesini engelliyordu. İşte bu noktada tam güneş tutulmaları devreye giriyordu. Bir tutulma sırasında Ay, Güneş'i tamamen kapatarak çevredeki yıldızların kısa bir süreliğine de olsa görünür hale gelmesini sağlıyordu. Bu fırsatı değerlendiren İngiliz gökbilimci Arthur Eddington, savaşın henüz yeni bittiği bir dönemde zorlu koşullara rağmen iki ayrı ekspedisyon düzenlemeye karar verdi. Bir ekip Batı Afrika kıyılarındaki Príncipe adasına, diğeri ise Brezilya'daki Sobral şehrine gönderildi.\n\n29 Mayıs 1919'da gerçekleşen tam güneş tutulması sırasında, Eddington ve ekipleri, Güneş'in diskine yakın yıldızların konumlarını dikkatlice fotoğrafladılar. Bu gözlemler, tutulma olmayan zamanlarda çekilen aynı yıldız kümesinin fotoğraflarıyla karşılaştırıldı. Newton'ın kütleçekim yasası, ışığın kütleçekimi tarafından büküleceğini öngörüyordu, ancak Einstein'ın Genel Görelilik Teorisi bu bükülmenin Newton'ın tahmin ettiğinin neredeyse iki katı olacağını iddia ediyordu. Eddington'ın analizleri, yıldızların konumlarındaki sapmanın, Einstein'ın teorisinin öngördüğü değerle şaşırtıcı bir doğrulukla eşleştiğini gösterdi. Bu sonuç, bilim dünyasında bir deprem etkisi yarattı.\n\nEddington'ın bulguları, 6 Kasım 1919'da Londra'da Royal Society ve Royal Astronomical Society'nin ortak toplantısında kamuoyuna duyuruldu. Gazetelerin manşetlerine taşınan bu haber, Einstein'ı bir gecede dünya çapında bir üne kavuşturdu. Genel Görelilik Teorisi, artık sadece bir soyutlama değil, gözlemsel verilerle desteklenen somut bir gerçeklikti. Bu olay, bilimsel yöntemin ve gözlemsel astronominin gücünü bir kez daha kanıtlarken, uzay, zaman ve kütleçekimi hakkındaki anlayışımızı kökten değiştirdi.\n\nEinstein'ın Genel Görelilik Teorisi, modern fiziğin temel taşlarından biri haline geldi ve evrenin işleyişini anlama biçimimizde devrim yarattı. Kara delikler, kütleçekimsel dalgalar ve evrenin genişlemesi gibi kavramlar, bu teorinin sağlam temelleri üzerine inşa edildi. Eddington'ın 1919'daki gözlemleri, sadece bir teoriyi doğrulamakla kalmadı, aynı zamanda bilimin sınırlarını zorlama ve insanlığın evrene dair merakını giderme arayışında bir dönüm noktası oldu. Bugün bile, GPS sistemlerinden evrenin büyük ölçekli yapısına kadar birçok alanda Genel Görelilik'in etkilerini görmekteyiz.",
+    "category": "bilim",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Albert Einstein, Genel Görelilik Teorisi'ni hangi yılda ortaya atmıştır?",
+        "options": [
+          "1905",
+          "1910",
+          "1915",
+          "1920"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Albert Einstein, Genel Görelilik Teorisi'ni 1915 yılında yayımlamıştır. Özel Görelilik Teorisi ise 1905 yılında ortaya çıkmıştır."
+      },
+      {
+        "id": 2,
+        "text": "Genel Görelilik Teorisi'nin temel iddialarından biri aşağıdakilerden hangisidir?",
+        "options": [
+          "Işık hızı her gözlemci için sabittir.",
+          "Kütleçekimi, kütlenin uzay-zamanın geometrisini eğmesidir.",
+          "Atomlar bölünebilir parçacıklardan oluşur.",
+          "Evren statik ve değişmezdir."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Genel Görelilik Teorisi'ne göre kütleçekimi, kütleli nesnelerin uzay-zamanın yapısında yarattığı bir eğriliktir. Bu eğrilik, ışık dahil her şeyin hareketini etkiler."
+      },
+      {
+        "id": 3,
+        "text": "Einstein'ın teorisini kanıtlamak için hangi astronomik olaydan yararlanılmıştır?",
+        "options": [
+          "Ay tutulması",
+          "Kuyruklu yıldız geçişi",
+          "Tam güneş tutulması",
+          "Meteor yağmuru"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Güneş'in yakınından geçen yıldız ışığının bükülmesini gözlemlemek için Güneş'in parlaklığının Ay tarafından tamamen engellendiği tam güneş tutulmasından faydalanılmıştır."
+      },
+      {
+        "id": 4,
+        "text": "1919'daki gözlemleri gerçekleştiren ekspedisyona liderlik eden İngiliz gökbilimci kimdir?",
+        "options": [
+          "Isaac Newton",
+          "Edwin Hubble",
+          "Arthur Eddington",
+          "Stephen Hawking"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Arthur Eddington, Albert Einstein'ın Genel Görelilik Teorisi'ni doğrulamak için 1919'da düzenlenen gözlem ekspedisyonlarına liderlik eden İngiliz astrofizikçidir."
+      },
+      {
+        "id": 5,
+        "text": "Ekspedisyonlar hangi iki farklı coğrafi konuma gönderilmiştir?",
+        "options": [
+          "Grönland ve Antarktika",
+          "Mısır ve Hindistan",
+          "Príncipe ve Sobral",
+          "Hawaii ve Japonya"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Eddington'ın ekibi, 1919 güneş tutulmasını gözlemlemek üzere Batı Afrika kıyılarındaki Príncipe adasına ve Brezilya'daki Sobral şehrine gitmiştir."
+      },
+      {
+        "id": 6,
+        "text": "Gözlemler ne zaman kamuoyuna duyurulmuştur?",
+        "options": [
+          "29 Mayıs 1919",
+          "6 Kasım 1919",
+          "1 Ocak 1920",
+          "24 Mayıs 1915"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Arthur Eddington'ın bulguları, 6 Kasım 1919'da Londra'da Royal Society ve Royal Astronomical Society'nin ortak toplantısında duyurulmuştur."
+      },
+      {
+        "id": 7,
+        "text": "Güneş yakınından geçen yıldız ışığının bükülmesi, Einstein'ın teorisine göre Newton'ın tahmininden ne kadar farklıydı?",
+        "options": [
+          "Daha azdı",
+          "Aynıydı",
+          "Neredeyse iki katıydı",
+          "Hiç bükülme yoktu"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Einstein'ın Genel Görelilik Teorisi, Newton'ın öngördüğü bükülmeden neredeyse iki kat daha fazla bir ışık bükülmesi tahmin ediyordu, bu da gözlemlerle doğrulandı."
+      },
+      {
+        "id": 8,
+        "text": "Bu gözlemlerin bilim dünyasındaki en önemli sonucu nedir?",
+        "options": [
+          "Yeni bir gezegenin keşfi",
+          "Evrenin durağan olduğunun kanıtlanması",
+          "Einstein'ın Genel Görelilik Teorisi'nin deneysel doğrulaması",
+          "Işık hızının değişken olduğunun gösterilmesi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "En önemli sonuç, Einstein'ın Genel Görelilik Teorisi'nin uzay-zaman bükülmesi ve ışık bükülmesi öngörülerinin gözlemsel olarak doğrulanmasıdır."
+      },
+      {
+        "id": 9,
+        "text": "Genel Görelilik Teorisi'nin modern teknolojideki kullanım alanlarından biri aşağıdakilerden hangisidir?",
+        "options": [
+          "Mikroskopların geliştirilmesi",
+          "Elektrik motorlarının çalışması",
+          "GPS (Küresel Konumlandırma Sistemi) sistemleri",
+          "Radyo dalgalarının iletimi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "GPS sistemleri, uyduların yörüngelerindeki hızları nedeniyle zamanın farklı akması gibi görelilik etkilerini dikkate almak zorundadır, bu da Genel Görelilik Teorisi'nin pratik bir uygulamasıdır."
+      },
+      {
+        "id": 10,
+        "text": "Newton'ın kütleçekim yasaları hangi ölçeklerde yetersiz kalmaya başlamıştı?",
+        "options": [
+          "Sadece atom altı ölçeklerde",
+          "Gündelik hayattaki küçük nesnelerde",
+          "Yüksek hızlı hareketlerde ve güçlü kütleçekim alanlarında",
+          "Güneş Sistemi dışındaki galaksilerde"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Newton'ın yasaları özellikle yüksek hızlı hareketlerde (ışık hızına yakın) ve güçlü kütleçekim alanlarında (Güneş gibi devasa cisimlerin çevresi) yetersiz kalmaya başlamıştır."
+      },
+      {
+        "id": 11,
+        "text": "1919 gözlemleri sonrası Einstein'ın ünü nasıl değişmiştir?",
+        "options": [
+          "Bilim dünyasında unutulmaya yüz tutmuştur.",
+          "Sadece teorik bir fizikçi olarak kalmıştır.",
+          "Bir gecede dünya çapında tanınan bir figür haline gelmiştir.",
+          "Önemli bir İngiliz bilim adamı olarak kabul edilmiştir."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Gözlemlerin kamuoyuna duyurulması ve teorinin doğrulanmasıyla Einstein, bir gecede uluslararası bir şöhret kazanmıştır."
+      },
+      {
+        "id": 12,
+        "text": "Genel Görelilik Teorisi'nin açıklayabildiği astronomik olaylardan biri aşağıdakilerden hangisidir?",
+        "options": [
+          "Ay'ın Dünya etrafındaki yörüngesi",
+          "Güneş lekelerinin oluşumu",
+          "Merkür'ün yörüngesindeki anormallikler",
+          "Kutup ışıklarının oluşumu"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Genel Görelilik Teorisi, Newton mekaniği ile açıklanamayan Merkür'ün yörüngesindeki perihelyon kaymasını doğru bir şekilde açıklamıştır."
+      },
+      {
+        "id": 13,
+        "text": "Işığın kütleçekimi tarafından bükülmesi, Einstein'a göre neyin sonucudur?",
+        "options": [
+          "Işığın parçacık yapısı",
+          "Uzay-zamanın eğriliği",
+          "Manyetik alanların etkisi",
+          "Hava direnci"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Einstein'ın Genel Görelilik Teorisi'ne göre ışık, kütleli cisimlerin etrafında uzay-zamanın eğriliğini takip ettiği için bükülür."
+      },
+      {
+        "id": 14,
+        "text": "Güneş tutulması sırasında yıldızların konumlarını fotoğraflamanın amacı neydi?",
+        "options": [
+          "Yeni yıldızlar keşfetmek",
+          "Yıldızların parlaklık değişimlerini incelemek",
+          "Güneş'in kütleçekimi nedeniyle bükülen ışığın miktarını ölçmek",
+          "Ay'ın atmosferik etkilerini gözlemlemek"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Amaç, Güneş'in kütleçekiminin yıldız ışığını ne kadar büktüğünü ölçmek ve bu sayede Einstein'ın teorik tahminini test etmekti."
+      },
+      {
+        "id": 15,
+        "text": "Bu tarihi gözlem sonrası, bilim dünyasında kütleçekimi algısı nasıl değişti?",
+        "options": [
+          "Newton'ın görüşleri tamamen terk edildi.",
+          "Kütleçekiminin bir kuvvet değil, uzay-zamanın eğriliği olduğu kabul edildi.",
+          "Kütleçekimi üzerine yeni bir teoriye ihtiyaç kalmadı.",
+          "Sadece Dünya üzerindeki olaylar için geçerli olduğu anlaşıldı."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Bu gözlemlerle birlikte, kütleçekiminin sadece bir kuvvet olmak yerine, kütlenin uzay-zaman dokusunda yarattığı bir eğrilik olduğu yönündeki Einsteincı anlayış bilim dünyasında baskın hale geldi."
+      }
+    ]
   }
 ];
