@@ -834,5 +834,209 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Golden Gate Köprüsü'nün ana açıklığı 4.200 fit yani yaklaşık 1.280 metredir."
       }
     ]
+  },
+  {
+    "slug": "aya-yolculuk-basliyor-john-f-kennedynin-uzay-yarisi-konusmasi",
+    "dateId": "2026-05-24",
+    "title": "Ay'a Yolculuk Başlıyor: Kennedy'nin Uzay Yarışı Konuşması | GenelKultur",
+    "description": "25 Mayıs 1961'de ABD Başkanı John F. Kennedy'nin Ay'a insan gönderme hedefiyle başlattığı Apollo Programı'nı ve Uzay Yarışı'nın dönüm noktasını keşfedin. Tarihi konuşma, hedefler ve insanlığın uzaydaki ilk adımları.",
+    "keywords": [
+      "John F. Kennedy",
+      "Ay'a Yolculuk",
+      "Apollo Programı",
+      "Uzay Yarışı",
+      "NASA",
+      "Uzay Keşfi",
+      "Ay Konuşması",
+      "Tarihi Anlar",
+      "Soğuk Savaş",
+      "İnsanlı Uzay Uçuşu"
+    ],
+    "heading": "Ay'a Yolculuk Başlıyor: John F. Kennedy'nin Uzay Yarışı Konuşması",
+    "intro": "20. yüzyılın ortalarında, insanlık tarihindeki en büyük teknolojik ve politik mücadelelerden biri olan Uzay Yarışı tüm hızıyla devam ediyordu. Bu yarışın en kritik anlarından biri, 25 Mayıs 1961'de Amerikan Başkanı John F. Kennedy'nin Kongre'ye yaptığı cesur çağrıydı: 'Bu on yıl sona ermeden önce, bir insanı Ay'a indirme ve onu sağ salim Dünya'ya geri getirme hedefine ulaşmalıyız.' Bu sözler, sadece bir hedef belirlemekle kalmadı, aynı zamanda insanlığın uzay keşfi tarihindeki en iddialı ve ilham verici projelerinden biri olan Apollo Programı'nın fitilini ateşledi.",
+    "article": "Soğuk Savaş'ın zirveye ulaştığı yıllarda, uzay teknolojisi uluslararası prestijin ve askeri gücün bir göstergesi haline gelmişti. Sovyetler Birliği, 1957'de Sputnik uydusunu ve 1961'de Yuri Gagarin'i uzaya göndererek bu yarışta öne geçmiş, Amerika Birleşik Devletleri üzerinde büyük bir baskı oluşturmuştu. Bu durum, Kennedy yönetimini hem bilimsel hem de politik açıdan çığır açacak bir adım atmaya zorladı.\n\nBaşkan Kennedy'nin 25 Mayıs 1961'deki 'Özel Mesaj: Ulusal İhtiyaçlar' başlıklı tarihi konuşması, bu baskıya verilen bir cevaptı. Konuşmasında, ülkenin bilimsel ve teknolojik yeteneklerini seferber etme gerekliliğini vurguladı ve Ay'a insan gönderme hedefini açıkça ortaya koydu. Bu hedef, o dönemde birçok kişiye imkansız gibi görünse de, Kennedy bu vizyonuyla Amerikan halkını ve bilim dünyasını bir araya getirmeyi başardı. Milyarlarca dolarlık bütçe ayrıldı, binlerce mühendis ve bilim insanı bu devasa projenin parçası oldu.\n\nApollo Programı, Kennedy'nin belirlediği hedefe ulaşmak için titizlikle planlandı ve yürütüldü. On yıl içinde insanı Ay'a gönderme taahhüdü, NASA'nın inanılmaz bir hızla gelişimine yol açtı. Roket teknolojisinden uzay giysilerine, navigasyon sistemlerinden yaşam destek ünitelerine kadar her alanda devrimsel yenilikler geliştirildi. 20 Temmuz 1969'da, Apollo 11 göreviyle Neil Armstrong ve Buzz Aldrin'in Ay yüzeyine ayak basmasıyla Kennedy'nin bu cesur vizyonu gerçeğe dönüştü. Bu sadece Amerika için değil, tüm insanlık için 'büyük bir sıçrayış' oldu ve uzay çağının kapılarını ardına kadar açtı. Kennedy'nin konuşması, insanlığın hayal gücünü zorlayan ve imkansız görüneni başarabilme yeteneğinin bir anıtı olarak tarihe geçti.",
+    "category": "bilim",
+    "questions": [
+      {
+        "id": 1,
+        "text": "ABD Başkanı John F. Kennedy, Ay'a insan gönderme hedefini ne zaman açıklamıştır?",
+        "options": [
+          "12 Nisan 1961",
+          "25 Mayıs 1961",
+          "20 Temmuz 1969",
+          "12 Eylül 1962"
+        ],
+        "correctAnswer": 1,
+        "explanation": "John F. Kennedy, Ay'a insan gönderme hedefini ilk olarak 25 Mayıs 1961'de ABD Kongresi'ne yaptığı konuşmada açıklamıştır."
+      },
+      {
+        "id": 2,
+        "text": "Kennedy'nin Ay'a insan gönderme çağrısı hangi programın başlangıcı olmuştur?",
+        "options": [
+          "Mercury Programı",
+          "Gemini Programı",
+          "Apollo Programı",
+          "Skylab Programı"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kennedy'nin hedefi, NASA tarafından yürütülen ve insanı Ay'a indirmeyi amaçlayan Apollo Programı'nın ana itici gücü olmuştur."
+      },
+      {
+        "id": 3,
+        "text": "Kennedy konuşmasında Ay'a iniş hedefini hangi süre zarfında gerçekleştirmeyi taahhüt etmiştir?",
+        "options": [
+          "Beş yıl içinde",
+          "Bu on yıl sona ermeden",
+          "Yirmi yıl içinde",
+          "On beş yıl içinde"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Kennedy, konuşmasında 'bu on yıl sona ermeden önce' yani 1960'lı yılların sonuna kadar Ay'a iniş hedefine ulaşılacağını belirtmiştir."
+      },
+      {
+        "id": 4,
+        "text": "Uzay Yarışı'nda ABD'ye karşı ilk büyük başarıları elde eden ülke hangisiydi?",
+        "options": [
+          "Çin",
+          "Almanya",
+          "Sovyetler Birliği",
+          "Birleşik Krallık"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Uzay Yarışı'nın başlangıcında Sovyetler Birliği, Sputnik uydusu ve Yuri Gagarin'in uzaya gönderilmesiyle önemli başarılar elde etmiştir."
+      },
+      {
+        "id": 5,
+        "text": "Uzaya çıkan ilk insan kimdir?",
+        "options": [
+          "Neil Armstrong",
+          "Buzz Aldrin",
+          "Yuri Gagarin",
+          "Alan Shepard"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Uzaya çıkan ilk insan, 12 Nisan 1961'de Vostok 1 aracıyla Dünya yörüngesinde dönen Sovyet kozmonot Yuri Gagarin'dir."
+      },
+      {
+        "id": 6,
+        "text": "Apollo Programı kapsamında Ay'a ilk iniş yapan astronotlar hangi görevle gönderilmiştir?",
+        "options": [
+          "Apollo 8",
+          "Apollo 10",
+          "Apollo 11",
+          "Apollo 13"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Ay'a ilk insanlı iniş, 20 Temmuz 1969'da gerçekleşen Apollo 11 göreviyle yapılmıştır."
+      },
+      {
+        "id": 7,
+        "text": "Ay yüzeyine ilk ayak basan insan kimdir?",
+        "options": [
+          "Buzz Aldrin",
+          "Michael Collins",
+          "Neil Armstrong",
+          "John Glenn"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Ay'a ilk ayak basan insan, Apollo 11 görevinin komutanı Neil Armstrong'dur. Onu Buzz Aldrin takip etmiştir."
+      },
+      {
+        "id": 8,
+        "text": "Kennedy'nin Ay konuşması hangi bağlamda yapılmıştır?",
+        "options": [
+          "Ekonomik krizle mücadele",
+          "Soğuk Savaş ve Uzay Yarışı",
+          "Eğitim reformu tartışmaları",
+          "Sivil haklar hareketinin yükselişi"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Konuşma, ABD ile Sovyetler Birliği arasındaki ideolojik ve teknolojik rekabet olan Soğuk Savaş ve bunun bir parçası olan Uzay Yarışı bağlamında yapılmıştır."
+      },
+      {
+        "id": 9,
+        "text": "Apollo Programı'nın bütçesi çoğunlukla hangi kurum tarafından sağlanmıştır?",
+        "options": [
+          "Pentagon",
+          "Federal Rezerv",
+          "Kongre",
+          "NASA"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Apollo Programı, ABD Kongresi tarafından ayrılan milyarlarca dolarlık bütçeyle finanse edilmiştir."
+      },
+      {
+        "id": 10,
+        "text": "Kennedy'nin konuşması sırasında, ABD'nin uzaydaki en büyük başarısı neydi?",
+        "options": [
+          "Ay'a insansız araç göndermek",
+          "Yörüngeye ilk Amerikan astronotunu göndermek",
+          "Bir uzay istasyonu kurmak",
+          "Uzayda yürüyüş yapmak"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Kennedy'nin konuşmasından kısa bir süre önce, Alan Shepard uzaya çıkan ilk Amerikalı olmuştu. Bu, ABD'nin o dönemdeki en büyük insanlı uzay başarısıydı."
+      },
+      {
+        "id": 11,
+        "text": "Apollo Programı'nın temel amacı nedir?",
+        "options": [
+          "Mars'a keşif araçları göndermek",
+          "Uluslararası Uzay İstasyonu'nu inşa etmek",
+          "Ay'a insan göndermek ve güvenle geri getirmek",
+          "Venüs'ün atmosferini incelemek"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Apollo Programı'nın birincil amacı, John F. Kennedy'nin de belirttiği gibi, Ay'a insan göndermek ve onları güvenli bir şekilde Dünya'ya geri döndürmektir."
+      },
+      {
+        "id": 12,
+        "text": "Ay'a ilk iniş görevinin komuta modülü pilotu kimdi?",
+        "options": [
+          "Neil Armstrong",
+          "Buzz Aldrin",
+          "Michael Collins",
+          "Gene Cernan"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Apollo 11 görevinde Neil Armstrong ve Buzz Aldrin Ay yüzeyine inerken, Michael Collins komuta modülü Columbia'da Ay yörüngesinde kalmıştır."
+      },
+      {
+        "id": 13,
+        "text": "Kennedy'nin Ay konuşmasının ana başlığı neydi?",
+        "options": [
+          "Yeni Sınırımız",
+          "Uzayda Barış",
+          "Ulusal İhtiyaçlar",
+          "Büyük Sıçrayış"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kennedy'nin 25 Mayıs 1961'deki konuşmasının resmi başlığı 'Özel Mesaj: Ulusal İhtiyaçlar' idi."
+      },
+      {
+        "id": 14,
+        "text": "Apollo Programı'nın başarısının dünya üzerindeki en belirgin etkilerinden biri neydi?",
+        "options": [
+          "Soğuk Savaş'ın sona ermesi",
+          "Uluslararası uzay işbirliğinin durması",
+          "Teknolojik inovasyonlarda büyük bir sıçrama",
+          "Dünya genelinde ekonomik durgunluk"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Apollo Programı, roketçilik, bilgisayar teknolojisi, malzeme bilimi ve iletişim gibi birçok alanda muazzam teknolojik inovasyonlara yol açmıştır."
+      },
+      {
+        "id": 15,
+        "text": "Kennedy'nin konuşmasında vurguladığı 'on yıl sona ermeden' hedefi hangi yıl tamamlanmıştır?",
+        "options": [
+          "1965",
+          "1970",
+          "1969",
+          "1975"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kennedy'nin 1960'lı yıllar sona ermeden Ay'a iniş hedefi, 1969 yılında Apollo 11'in başarısıyla gerçekleştirilmiştir."
+      }
+    ]
   }
 ];

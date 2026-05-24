@@ -150,4 +150,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/aya-yolculuk-basliyor-john-f-kennedynin-uzay-yarisi-konusmasi</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/aya-yolculuk-basliyor-john-f-kennedynin-uzay-yarisi-konusmasi/oyna</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
