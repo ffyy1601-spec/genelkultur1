@@ -100,4 +100,44 @@
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/dunyayi-degistiren-iletisim-samuel-morse-ve-ilk-telgraf-mesaji</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/dunyayi-degistiren-iletisim-samuel-morse-ve-ilk-telgraf-mesaji/oyna</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/cag-acip-cag-kapatan-zafer-istanbulun-fethi</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/cag-acip-cag-kapatan-zafer-istanbulun-fethi/oyna</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/everestin-insanlikla-bulusmasi-hillary-ve-norgayin-zirve-zaferi</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/everestin-insanlikla-bulusmasi-hillary-ve-norgayin-zirve-zaferi/oyna</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/24-mayis-1844-dunyayi-degistiren-ilk-telgraf-mesaji</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/24-mayis-1844-dunyayi-degistiren-ilk-telgraf-mesaji/oyna</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
