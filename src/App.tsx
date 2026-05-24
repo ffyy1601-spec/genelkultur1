@@ -23,6 +23,9 @@ const BilimSorulariCevaplari = lazy(() => import("./pages/BilimSorulariCevaplari
 const SanatSorulari = lazy(() => import("./pages/SanatSorulari"));
 const SanatSorulariCevaplari = lazy(() => import("./pages/SanatSorulariCevaplari"));
 const Terms = lazy(() => import("./pages/Terms"));
+const DailyList = lazy(() => import("./pages/DailyList"));
+const DailyLanding = lazy(() => import("./pages/DailyLanding"));
+const DailyGame = lazy(() => import("./pages/DailyGame"));
 import { LEGACY_ROUTES, ROUTES } from "./lib/routes";
 import RouteEffects from "./components/RouteEffects";
 
@@ -70,6 +73,9 @@ export function AppContent({ includeRouteEffects = true }: AppContentProps) {
             <Route path={ROUTES.contentPolicy} element={<ContentPolicy />} />
             <Route path={ROUTES.adsDisclosure} element={<AdsDisclosure />} />
             <Route path={ROUTES.terms} element={<Terms />} />
+            <Route path={ROUTES.dailyList} element={<DailyList />} />
+            <Route path={ROUTES.dailyLanding} element={<DailyLanding />} />
+            <Route path={ROUTES.dailyGame} element={<DailyGame />} />
 
             <Route path={LEGACY_ROUTES.categories} element={<Navigate replace to={ROUTES.categories} />} />
             <Route path={LEGACY_ROUTES.game} element={<Navigate replace to={ROUTES.game} />} />

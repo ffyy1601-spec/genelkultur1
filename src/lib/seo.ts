@@ -21,6 +21,7 @@ export const SITE_LINKS = [
   { label: "Ana Sayfa", to: ROUTES.home },
   { label: "Genel Kultur Testi", to: ROUTES.categories },
   { label: "Sorular ve Cevaplar", to: ROUTES.contentHub },
+  { label: "AI Testleri", to: ROUTES.dailyList },
   { label: "Icerik Politikasi", to: ROUTES.contentPolicy },
   { label: "Hakkimizda", to: ROUTES.about },
   { label: "Iletisim", to: ROUTES.contact },
