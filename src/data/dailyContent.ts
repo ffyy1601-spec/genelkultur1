@@ -1242,5 +1242,209 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Bu gözlemlerle birlikte, kütleçekiminin sadece bir kuvvet olmak yerine, kütlenin uzay-zaman dokusunda yarattığı bir eğrilik olduğu yönündeki Einsteincı anlayış bilim dünyasında baskın hale geldi."
       }
     ]
+  },
+  {
+    "slug": "orlans-bakiresi-jan-darkin-yukselisi-ve-dususu",
+    "dateId": "2026-05-24",
+    "title": "Jan Dark: Yüz Yıl Savaşları'nın Efsanevi Kahramanı ve Trajik Sonu | GenelKultur",
+    "description": "Fransa'nın ulusal kahramanı Jan Dark'ın hayatı, Yüz Yıl Savaşları'ndaki rolü, mucizevi zaferleri ve trajik sonu hakkında detaylı bilgi edinin. İlahi vizyonları, Orléans Kuşatması'nı nasıl kırdığı ve tarihteki yerini keşfedin.",
+    "keywords": [
+      "Jan Dark",
+      "Joan of Arc",
+      "Yüz Yıl Savaşları",
+      "Fransa tarihi",
+      "İngiltere Fransa savaşları",
+      "Orléans Kuşatması",
+      "Kutsal Bakire",
+      "Azize Jan Dark",
+      "Orta Çağ",
+      "kahraman kadın"
+    ],
+    "heading": "Orléans Bakiresi: Jan Dark'ın Yükselişi ve Düşüşü",
+    "intro": "Orta Çağ Avrupa'sının en çalkantılı dönemlerinden biri olan Yüz Yıl Savaşları, destansı mücadelelere ve efsanevi kahramanlara sahne olmuştur. Bu kahramanlardan biri de, genç yaşına rağmen Fransa'nın kaderini değiştiren, azize Jan Dark'tır. Tanrı'dan aldığı ilahi emirlerle bir köylü kızından ordu komutanına dönüşen Jan Dark'ın hikayesi, günümüzde bile insanlığa ilham vermeye devam etmektedir. Peki, Orléans Bakiresi olarak anılan bu genç kadın kimdi ve Fransa'yı nasıl kurtardı?",
+    "article": "Jan Dark, 1412 civarında Fransa'nın Domrémy köyünde, dindar bir köylü ailenin kızı olarak dünyaya geldi. O dönemin Fransa'sı, İngiltere ile süren Yüz Yıl Savaşları'nın yıkımı altındaydı; topraklarının büyük bir kısmı İngiliz işgali altındaydı ve veliaht prens (Dauphin) VII. Charles taç giyemiyordu. Jan Dark, 13 yaşından itibaren Aziz Mihail, Azize Katerina ve Azize Margaret gibi azizelerden ilahi sesler ve vizyonlar almaya başladığını iddia etti. Bu sesler ona Fransa'yı kurtarma ve VII. Charles'ı Reims'te kral olarak taçlandırma görevini veriyordu. Başlangıçta inançsızlıkla karşılaşsa da, kararlılığı ve samimiyeti sayesinde yerel lord Robert de Baudricourt'u ikna ederek Chinon'a, Dauphin Charles'ın yanına gitmek için izin ve koruma sağladı.\n\n1429 yılında, Chinon'da Dauphin VII. Charles ile görüşen Jan Dark, kimliğini gizlemeye çalışan Charles'ı ilahi bir şekilde tanıdığında, onun güvenini kazandı. Charles, Jan Dark'ın kararlılığından ve cesaretinden etkilenerek ona bir ordu verdi ve İngilizler tarafından kuşatılmış olan stratejik öneme sahip Orléans şehrini kurtarma görevini tevdi etti. Jan Dark, o zamana kadar çaresiz kalan Fransız ordusuna moral ve inanç aşılayarak, alışılmadık bir saldırı ruhuyla hareket etti. Kısa sürede Orléans Kuşatması'nı kırmayı başardı ve İngilizleri şehirden püskürttü. Bu zafer, Yüz Yıl Savaşları'nın seyrini değiştiren bir dönüm noktası oldu ve Fransızların moralini yükseltti. Orléans'tan sonra Patay gibi diğer önemli zaferler de geldi. Jan Dark'ın önderliğindeki bu başarılar, VII. Charles'ın Reims Katedrali'nde geleneksel olarak Fransa Kralı olarak taç giymesinin yolunu açtı.\n\nAncak Jan Dark'ın yükselişi, düşmanlarının gözünden kaçmadı. 1430 yılında, Compiègne Kuşatması sırasında Burgonyalılar tarafından ele geçirildi. Burgonyalılar, Jan Dark'ı İngilizlere yüksek bir fidye karşılığında sattılar. İngilizler ve onların desteklediği din adamları, Jan Dark'ı yargılamak ve itibarını sarsmak için bir cadılık ve sapkınlık davası düzenlediler. Rouen'da, Piskopos Pierre Cauchon başkanlığında kurulan mahkeme, siyasi güdülerle hareket ediyordu ve Jan Dark'ın suçlu bulunması önceden kararlaştırılmış gibiydi. Aylar süren sorgulamalar ve baskılar karşısında Jan Dark, inancından ve vizyonlarından vazgeçmeyi reddetti. Hukuki ve dini usulsüzlüklerle dolu bu mahkeme sonucunda, 30 Mayıs 1431'de henüz 19 yaşındayken Rouen'da kazığa bağlanarak yakıldı.\n\nJan Dark'ın ölümü, başlangıçta İngilizlerin işine yaramış gibi görünse de, onun şehadeti Fransız ulusal bilincini daha da güçlendirdi. Yakıldıktan 25 yıl sonra, Papa III. Callixtus'un emriyle davası yeniden incelendi ve 1456 yılında resmi olarak aklandı. Yüzyıllar sonra, 1920'de Katolik Kilisesi tarafından azize ilan edildi ve Fransa'nın koruyucu azizesi oldu. Jan Dark, hem dini inancının gücüyle hem de cesaretiyle, tarihin en ilham verici figürlerinden biri olarak anılmaya devam etmektedir. Onun hikayesi, zor zamanlarda umudu, direnişi ve adaletsizliğe karşı duruşu simgelemektedir.",
+    "category": "tarih",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Jan Dark hangi köyde doğmuştur?",
+        "options": [
+          "Chinon",
+          "Rouen",
+          "Domrémy",
+          "Orléans"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Jan Dark, 1412 civarında Fransa'nın Domrémy köyünde dünyaya gelmiştir. Diğer şıklar hayatında önemli rol oynayan yerlerdir ancak doğum yeri değildir."
+      },
+      {
+        "id": 2,
+        "text": "Jan Dark'ın ilahi vizyonlar almaya başladığını iddia ettiği yaş kaçtır?",
+        "options": [
+          "7",
+          "10",
+          "13",
+          "16"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Jan Dark, makalede belirtildiği üzere, 13 yaşından itibaren Aziz Mihail, Azize Katerina ve Azize Margaret gibi azizelerden ilahi sesler ve vizyonlar almaya başlamıştır."
+      },
+      {
+        "id": 3,
+        "text": "Jan Dark, Yüz Yıl Savaşları sırasında hangi Fransız veliaht prensini (Dauphin) desteklemiştir?",
+        "options": [
+          "VI. Louis",
+          "IV. Philip",
+          "VII. Charles",
+          "II. Henry"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Jan Dark, Fransa'yı kurtarma ve VII. Charles'ı Reims'te kral olarak taçlandırma görevini üstlenmiştir. Onunla görüşmek için Chinon'a gitmiştir."
+      },
+      {
+        "id": 4,
+        "text": "Jan Dark'ın önderliğinde Fransızların İngilizlere karşı kazandığı ilk büyük zafer hangi kuşatmanın kırılmasıyla gerçekleşmiştir?",
+        "options": [
+          "Paris Kuşatması",
+          "Bordeaux Kuşatması",
+          "Orléans Kuşatması",
+          "Calais Kuşatması"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Jan Dark'ın liderliğindeki ilk ve en önemli zafer, İngilizler tarafından kuşatılmış olan stratejik öneme sahip Orléans şehrinin kurtarılmasıdır."
+      },
+      {
+        "id": 5,
+        "text": "Orléans Kuşatması'nı kırması, Yüz Yıl Savaşları için nasıl bir dönüm noktası olmuştur?",
+        "options": [
+          "İngilizlerin Fransa'dan tamamen çekilmesine yol açtı.",
+          "Savaşın tamamen sona ermesini sağladı.",
+          "Fransızların moralini yükseltti ve savaşın seyrini değiştirdi.",
+          "Burgonyalıların İngilizlerle ittifakını güçlendirdi."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Orléans Kuşatması'nın kırılması, Fransızların moralini yükselten ve Yüz Yıl Savaşları'nın seyrini değiştiren kritik bir dönüm noktası olmuştur."
+      },
+      {
+        "id": 6,
+        "text": "VII. Charles, Jan Dark'ın başarıları sayesinde hangi şehirde Fransa Kralı olarak taç giymiştir?",
+        "options": [
+          "Paris",
+          "Chinon",
+          "Rouen",
+          "Reims"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Jan Dark'ın önderliğindeki başarılar, VII. Charles'ın geleneksel olarak Fransa Kralı olarak taç giydiği Reims Katedrali'nin yolunu açmıştır."
+      },
+      {
+        "id": 7,
+        "text": "Jan Dark, 1430 yılında hangi kuşatma sırasında kimler tarafından ele geçirilmiştir?",
+        "options": [
+          "Orléans Kuşatması sırasında İngilizler tarafından.",
+          "Paris Kuşatması sırasında Fransızlar tarafından.",
+          "Compiègne Kuşatması sırasında Burgonyalılar tarafından.",
+          "Rouen Kuşatması sırasında Almanlar tarafından."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Makalede belirtildiği gibi, Jan Dark 1430 yılında Compiègne Kuşatması sırasında Burgonyalılar tarafından ele geçirilmiştir."
+      },
+      {
+        "id": 8,
+        "text": "Burgonyalılar, Jan Dark'ı ele geçirdikten sonra kime satmıştır?",
+        "options": [
+          "Fransız Kralı VII. Charles'a",
+          "İngilizlere",
+          "Papa'ya",
+          "Kutsal Roma İmparatoru'na"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Burgonyalılar, Jan Dark'ı yüksek bir fidye karşılığında İngilizlere satmışlardır. Bu satış, onun yargılanma sürecini başlatmıştır."
+      },
+      {
+        "id": 9,
+        "text": "Jan Dark'ın cadılık ve sapkınlık davası hangi şehirde görülmüştür?",
+        "options": [
+          "Paris",
+          "Chinon",
+          "Rouen",
+          "Orléans"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Jan Dark, İngilizler ve desteklediği din adamları tarafından cadılık ve sapkınlık suçlamalarıyla Rouen şehrinde yargılanmıştır."
+      },
+      {
+        "id": 10,
+        "text": "Jan Dark'ın mahkemesine başkanlık eden piskopos kimdi?",
+        "options": [
+          "Piskopos Thomas",
+          "Piskopos Pierre Cauchon",
+          "Piskopos Jean de La Fontaine",
+          "Piskopos Robert de Baudricourt"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Rouen'da kurulan mahkemeye Piskopos Pierre Cauchon başkanlık etmiştir. Mahkeme siyasi güdülerle hareket etmiştir."
+      },
+      {
+        "id": 11,
+        "text": "Jan Dark'a yöneltilen başlıca suçlama neydi?",
+        "options": [
+          "Vatana ihanet",
+          "Hırsızlık",
+          "Cadılık ve sapkınlık",
+          "Askeri firar"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Jan Dark, İngilizler tarafından desteklenen mahkemede cadılık ve sapkınlık suçlamalarıyla yargılanmıştır. Bu suçlamalar, onun itibarını sarsmayı ve onu ortadan kaldırmayı amaçlıyordu."
+      },
+      {
+        "id": 12,
+        "text": "Jan Dark kaç yaşında idam edilmiştir?",
+        "options": [
+          "17",
+          "19",
+          "21",
+          "25"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Jan Dark, 30 Mayıs 1431'de, henüz 19 yaşındayken Rouen'da yakılarak idam edilmiştir."
+      },
+      {
+        "id": 13,
+        "text": "Jan Dark'ın idam tarihi nedir?",
+        "options": [
+          "15 Mayıs 1429",
+          "20 Nisan 1430",
+          "30 Mayıs 1431",
+          "10 Haziran 1432"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Jan Dark, hukuki ve dini usulsüzlüklerle dolu bir mahkeme sonucunda 30 Mayıs 1431'de Rouen'da kazığa bağlanarak yakılmıştır."
+      },
+      {
+        "id": 14,
+        "text": "Jan Dark'ın ölümünden ne kadar süre sonra davası yeniden incelenmiş ve resmen aklanmıştır?",
+        "options": [
+          "5 yıl",
+          "10 yıl",
+          "25 yıl",
+          "50 yıl"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Jan Dark'ın ölümünden 25 yıl sonra, Papa III. Callixtus'un emriyle davası yeniden incelenmiş ve 1456 yılında resmi olarak aklandığı ilan edilmiştir."
+      },
+      {
+        "id": 15,
+        "text": "Jan Dark, Katolik Kilisesi tarafından ne zaman azize ilan edilmiştir?",
+        "options": [
+          "1456",
+          "1789",
+          "1920",
+          "2000"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Yüzyıllar sonra, 1920 yılında Katolik Kilisesi tarafından azize ilan edilmiş ve Fransa'nın koruyucu azizesi olmuştur."
+      }
+    ]
   }
 ];
