@@ -630,5 +630,209 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Samuel Morse'un ilk telgraf mesajını gönderdiği tarih olan 1844, 19. yüzyılın ortalarına denk gelmektedir."
       }
     ]
+  },
+  {
+    "slug": "gokyuzu-ile-bulusan-mimarlik-harikasi-golden-gate-koprusu",
+    "dateId": "2026-05-24",
+    "title": "Golden Gate Köprüsü: İnşası, Tarihi ve Mimari Harikası | GenelKultur",
+    "description": "San Francisco Körfezi'nin ikonik sembolü Golden Gate Köprüsü'nün inşası, zorlukları, mimari özellikleri ve dünya üzerindeki etkisini keşfedin.",
+    "keywords": [
+      "Golden Gate Köprüsü",
+      "San Francisco",
+      "köprü mimarisi",
+      "inşaat tarihi",
+      "mühendislik harikası",
+      "Joseph Strauss",
+      "askı köprüsü",
+      "çelik köprü",
+      "International Orange",
+      "sismik tasarım"
+    ],
+    "heading": "Gökyüzü ile Buluşan Mimarlık Harikası: Golden Gate Köprüsü",
+    "intro": "Dünya üzerinde sembolleşmiş yapıların başında gelen Golden Gate Köprüsü, sadece bir ulaşım aracı değil, aynı zamanda insan azminin, mühendislik dehasının ve estetik anlayışının eşsiz bir göstergesidir. San Francisco Körfezi'nin çalkantılı suları üzerinde yükselen bu kırmızımsı turuncu dev, sisli manzaralarıyla adeta bir sanat eseri gibi durur ve her yıl milyonlarca ziyaretçiyi kendine hayran bırakır. Ancak bu ikonik yapının arkasında, onyıllar süren planlama, zorlu inşaat süreçleri ve döneminin en ileri mühendislik bilgisi yatmaktadır.",
+    "article": "San Francisco ve Marin County arasında köprü kurma fikri, 19. yüzyılın sonlarına kadar uzansa da, bu vizyonu gerçeğe dönüştürmek için cesur bir mühendislik projesi gerekiyordu. Pasifik Okyanusu'nun hırçın akıntıları, sürekli değişen hava koşulları ve körfezin derinliği, birçok mühendisi bu projenin imkansız olduğuna ikna etmişti. Hatta \"Altın Kapı\" adı verilen boğazın geçilemez olduğu düşünülüyordu. Ancak Baş Mühendis Joseph Strauss'un öncülüğünde bir ekip, bu devasa zorluğun üstesinden gelmeye kararlıydı.\n\n1933 yılında başlayan inşaat süreci, birçok yeniliği ve dönemin en yüksek güvenlik önlemlerini içeriyordu. En büyük zorluklardan biri, okyanus akıntılarının çok güçlü olduğu, 30 metreden daha derin sulara kule temellerini yerleştirmekti. İşçilerin güvenliği de büyük bir öncelikti; inşaat alanının altına yerleştirilen dev güvenlik ağları sayesinde 19 işçinin hayatı kurtarılmış ve bu, o zamana kadar görülmemiş bir uygulama olarak tarihe geçmiştir. Köprünün benzersiz rengi olan \"International Orange\" (Uluslararası Turuncu) ise sadece estetik değil, aynı zamanda sisli havalarda gemiler için görünürlüğü artırma amacı taşıyordu.\n\nKöprünün tasarımı, askı köprü teknolojisinde bir zirveyi temsil ediyordu. Joseph Strauss, projenin başındaki isim olsa da, köprünün mimari ve yapısal tasarımındaki anahtar rollerden biri, köprünün estetik güzelliğini ve mühendislik doğruluğunu sağlayan Charles Alton Ellis ve Leon Moisseiff'e aittir. Moisseiff'in askı köprüler üzerine yaptığı çalışmalar, bu tip yapıların esneklik ve rüzgar direnci konusundaki anlayışını kökten değiştirmiştir. Bu dehaların birleşimiyle, rüzgarın ve sismik hareketlerin etkilerine dayanabilecek, zarif ve güçlü bir yapı ortaya çıktı.\n\n1937'de tamamlandığında, Golden Gate Köprüsü 4.200 fit (yaklaşık 1.280 metre) ana açıklığıyla dünyanın en uzun askı köprüsü unvanını kazandı ve bu unvanı 1964'e kadar korudu. Toplam maliyeti o dönemin parasıyla yaklaşık 35 milyon doları bulan bu devasa yapı, Amerikan işçiliğinin ve yenilikçiliğinin bir simgesi haline geldi. Açılış günü, San Francisco halkı tarafından büyük bir coşkuyla karşılandı; on binlerce insan yürüyerek veya araçlarıyla köprüden geçti ve bu an, kentin tarihinde unutulmaz bir yere sahip oldu.\n\nBugün Golden Gate Köprüsü, sadece bir ulaşım bağlantısı olmanın ötesinde, San Francisco'nun ve hatta Amerika Birleşik Devletleri'nin en tanınmış simgelerinden biridir. Filmlere, kartpostallara ve sayısız esere konu olmuş, mühendislik harikası statüsünü koruyarak varlığını sürdürmektedir. Aynı zamanda, sismik aktivitenin yoğun olduğu bir bölgede, sürekli bakım ve güçlendirme çalışmalarıyla geleceğe taşınmakta, nesiller boyu insanları kendine hayran bırakmaya devam etmektedir.",
+    "category": "bilim",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Golden Gate Köprüsü hangi iki yerleşim yerini birbirine bağlar?",
+        "options": [
+          "Los Angeles ve San Diego",
+          "San Francisco ve Marin County",
+          "New York ve New Jersey",
+          "Seattle ve Tacoma"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Golden Gate Köprüsü, San Francisco şehri ile kuzeyindeki Marin County'yi birbirine bağlayarak Pasifik Okyanusu girişini kapsar."
+      },
+      {
+        "id": 2,
+        "text": "Köprünün resmi açılış tarihi hangi yıldır?",
+        "options": [
+          "1927",
+          "1937",
+          "1947",
+          "1957"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Golden Gate Köprüsü, 27 Mayıs 1937 tarihinde törenle araç trafiğine açılmıştır."
+      },
+      {
+        "id": 3,
+        "text": "Köprünün inşasındaki baş mühendis kimdir?",
+        "options": [
+          "Gustave Eiffel",
+          "John Roebling",
+          "Joseph Strauss",
+          "Isambard Kingdom Brunel"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Golden Gate Köprüsü'nün inşasındaki baş mühendis, projenin vizyonunu gerçeğe dönüştüren Joseph Strauss'tur."
+      },
+      {
+        "id": 4,
+        "text": "Golden Gate Köprüsü'nün inşası sırasında işçilerin güvenliğini artırmak için kullanılan önemli bir yenilik nedir?",
+        "options": [
+          "Kask takma zorunluluğu",
+          "Otomatik vinç sistemleri",
+          "İnşaat alanının altına yerleştirilen güvenlik ağları",
+          "Özel dalgıç elbiseleri"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Köprü inşaatında, işçilerin düşmesini engellemek ve hayatlarını kurtarmak amacıyla inşaat alanının altına dev güvenlik ağları yerleştirilmiştir. Bu sayede 19 işçinin hayatı kurtarılmıştır."
+      },
+      {
+        "id": 5,
+        "text": "Köprünün karakteristik renginin adı nedir?",
+        "options": [
+          "Pasifik Mavisi",
+          "Sis Grisi",
+          "Uluslararası Turuncu (International Orange)",
+          "Körfez Yeşili"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Köprünün kendine özgü rengi \"International Orange\" (Uluslararası Turuncu) olarak bilinir. Bu renk hem estetik bir amaca hizmet eder hem de sisli havalarda gemiler için görünürlüğü artırır."
+      },
+      {
+        "id": 6,
+        "text": "Golden Gate Köprüsü tamamlandığında hangi unvanı almıştır?",
+        "options": [
+          "Dünyanın en yüksek köprüsü",
+          "Dünyanın en uzun askı köprüsü",
+          "Dünyanın en geniş köprüsü",
+          "Dünyanın en pahalı köprüsü"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Köprü 1937'de tamamlandığında, ana açıklığı 4.200 fit (yaklaşık 1.280 metre) ile dünyanın en uzun askı köprüsü unvanını kazanmıştır."
+      },
+      {
+        "id": 7,
+        "text": "Köprünün ana kulelerinin temelleri kaç metreden daha derin sulara yerleştirilmiştir?",
+        "options": [
+          "10 metreden",
+          "20 metreden",
+          "30 metreden",
+          "40 metreden"
+        ],
+        "correctAnswer": 2,
+        "explanation": "İnşaattaki en büyük zorluklardan biri, okyanus akıntılarının çok güçlü olduğu, 30 metreden daha derin sulara kule temellerini yerleştirmekti."
+      },
+      {
+        "id": 8,
+        "text": "Golden Gate Köprüsü'nün askı köprü tasarımının estetik ve yapısal doğruluğuna katkıda bulunan önemli mühendislerden biri kimdir?",
+        "options": [
+          "Nikola Tesla",
+          "Wright Kardeşler",
+          "Charles Alton Ellis",
+          "Thomas Edison"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Joseph Strauss baş mühendis olsa da, köprünün mimari ve yapısal tasarımındaki anahtar rollerden biri, köprünün estetik güzelliğini ve mühendislik doğruluğunu sağlayan Charles Alton Ellis'e aittir."
+      },
+      {
+        "id": 9,
+        "text": "Köprünün yapım maliyeti yaklaşık olarak ne kadardı?",
+        "options": [
+          "15 milyon dolar",
+          "35 milyon dolar",
+          "75 milyon dolar",
+          "100 milyon dolar"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Golden Gate Köprüsü'nün toplam maliyeti o dönemin parasıyla yaklaşık 35 milyon dolardı."
+      },
+      {
+        "id": 10,
+        "text": "Köprünün inşasına hangi yıl başlanmıştır?",
+        "options": [
+          "1929",
+          "1931",
+          "1933",
+          "1935"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Golden Gate Köprüsü'nün inşaat süreci 1933 yılında başlamıştır."
+      },
+      {
+        "id": 11,
+        "text": "Köprünün tamamlanmasıyla elde ettiği \"dünyanın en uzun askı köprüsü\" unvanını kaç yılına kadar korumuştur?",
+        "options": [
+          "1954",
+          "1964",
+          "1974",
+          "1984"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Golden Gate Köprüsü, 1937'de kazandığı \"dünyanın en uzun askı köprüsü\" unvanını 1964 yılına kadar korumuştur."
+      },
+      {
+        "id": 12,
+        "text": "Köprü, bulunduğu bölgedeki hangi doğal riske karşı dayanıklı olacak şekilde tasarlanmıştır?",
+        "options": [
+          "Kasırgalar",
+          "Tsunamiler",
+          "Sismik hareketler (Depremler)",
+          "Volkanik patlamalar"
+        ],
+        "correctAnswer": 2,
+        "explanation": "San Francisco bölgesi yüksek sismik aktiviteye sahip olduğu için, Golden Gate Köprüsü sismik hareketlere (depremlere) karşı dayanıklı olacak şekilde özel olarak tasarlanmıştır ve sürekli güçlendirme çalışmaları yapılmaktadır."
+      },
+      {
+        "id": 13,
+        "text": "Köprü, inşası sırasında kurtarılan işçilerin sayısı ile hangi özelliğiyle anılır?",
+        "options": [
+          "En hızlı inşa edilen köprü",
+          "En çok işçi çalıştıran köprü",
+          "En güvenli inşaat uygulamaları sergileyen köprü",
+          "En az maliyetli köprü"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Güvenlik ağları sayesinde 19 işçinin hayatının kurtarılması, köprünün o zamana kadar görülmemiş güvenlik uygulamaları sergileyen bir inşaat projesi olarak anılmasına neden olmuştur."
+      },
+      {
+        "id": 14,
+        "text": "Golden Gate Köprüsü'nün tasarımında esneklik ve rüzgar direnci konusunda önemli çalışmalar yapan diğer bir mühendis kimdir?",
+        "options": [
+          "Thomas Telford",
+          "Robert Maillart",
+          "Leon Moisseiff",
+          "Ferdinand de Lesseps"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Askı köprülerin esneklik ve rüzgar direnci konusundaki anlayışını değiştiren, köprünün yapısal tasarımında kilit rol oynayan mühendislerden biri Leon Moisseiff'tir."
+      },
+      {
+        "id": 15,
+        "text": "Köprünün ana açıklığı yaklaşık olarak kaç metredir?",
+        "options": [
+          "850 metre",
+          "1000 metre",
+          "1280 metre",
+          "1500 metre"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Golden Gate Köprüsü'nün ana açıklığı 4.200 fit yani yaklaşık 1.280 metredir."
+      }
+    ]
   }
 ];
