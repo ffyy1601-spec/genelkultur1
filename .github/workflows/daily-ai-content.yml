@@ -29,6 +29,7 @@ jobs:
       - name: Generate AI Content
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GOOGLE_SERVICE_ACCOUNT_KEY: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }}
         run: node scripts/generate-daily.mjs
 
       - name: Commit and Push changes

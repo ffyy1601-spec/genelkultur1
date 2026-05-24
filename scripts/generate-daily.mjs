@@ -1,6 +1,7 @@
 import fs from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import crypto from "node:crypto";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -206,16 +207,92 @@ export const dailyQuizzes: DailyQuiz[] = ${JSON.stringify(dailyQuizzes, null, 2)
     console.error("Sitemap güncellenirken bir hata oluştu:", err);
   }
 
-  // 5. Google'a Sitemap Ping İsteği Gönder (Google botlarını tetikler)
-  try {
-    console.log("[AI] Google Arama Motoruna sitemap pingi gönderiliyor...");
-    await fetch("https://www.google.com/ping?sitemap=https://genelkultur.com.tr/sitemap.xml");
-    console.log("[AI] Google ping başarıyla gönderildi.");
-  } catch (e) {
-    // Ping bazen 404/reddedilebilir (Google son dönemde kısıtladı), hata vermesi kritik değil.
-    console.log("[AI] Google ping başarısız oldu (Kritik değil, sitemap dosyası güncellendi).");
+  // 5. Google Indexing API — yeni sayfaları doğrudan dizine bildir
+  await notifyGoogleIndexingAPI(slug);
+}
+
+// ─── Google Indexing API ──────────────────────────────────────────────────────
+// Node.js built-in crypto ile RS256 JWT oluşturur — ekstra npm paketi gerekmez.
+
+async function getGoogleAccessToken(serviceAccountJson) {
+  const sa = JSON.parse(serviceAccountJson);
+  const now = Math.floor(Date.now() / 1000);
+
+  const header  = Buffer.from(JSON.stringify({ alg: "RS256", typ: "JWT" })).toString("base64url");
+  const payload = Buffer.from(JSON.stringify({
+    iss  : sa.client_email,
+    scope: "https://www.googleapis.com/auth/indexing",
+    aud  : "https://oauth2.googleapis.com/token",
+    iat  : now,
+    exp  : now + 3600,
+  })).toString("base64url");
+
+  const signingInput = `${header}.${payload}`;
+  const sign = crypto.createSign("RSA-SHA256");
+  sign.update(signingInput);
+  sign.end();
+  const signature = sign.sign(sa.private_key, "base64url");
+
+  const jwt = `${signingInput}.${signature}`;
+
+  const tokenRes = await fetch("https://oauth2.googleapis.com/token", {
+    method : "POST",
+    headers: { "Content-Type": "application/x-www-form-urlencoded" },
+    body   : new URLSearchParams({
+      grant_type: "urn:ietf:params:oauth:grant-type:jwt-bearer",
+      assertion : jwt,
+    }),
+  });
+
+  if (!tokenRes.ok) {
+    const err = await tokenRes.text();
+    throw new Error(`Google token alınamadı: ${err}`);
+  }
+
+  const { access_token } = await tokenRes.json();
+  return access_token;
+}
+
+async function indexUrl(accessToken, url) {
+  const res = await fetch("https://indexing.googleapis.com/v3/urlNotifications:publish", {
+    method : "POST",
+    headers: {
+      "Content-Type" : "application/json",
+      "Authorization": `Bearer ${accessToken}`,
+    },
+    body: JSON.stringify({ url, type: "URL_UPDATED" }),
+  });
+
+  if (res.ok) {
+    console.log(`[Indexing API] ✅ Dizine bildirildi: ${url}`);
+  } else {
+    const errText = await res.text();
+    console.warn(`[Indexing API] ⚠️ Başarısız (${res.status}): ${url} — ${errText}`);
   }
 }
+
+async function notifyGoogleIndexingAPI(slug) {
+  const saJson = process.env.GOOGLE_SERVICE_ACCOUNT_KEY;
+  if (!saJson) {
+    console.log("[Indexing API] GOOGLE_SERVICE_ACCOUNT_KEY tanımlı değil, atlanıyor.");
+    return;
+  }
+
+  try {
+    console.log("[Indexing API] Google erişim token'ı alınıyor...");
+    const accessToken = await getGoogleAccessToken(saJson);
+
+    const baseUrl = "https://genelkultur.com.tr";
+    await indexUrl(accessToken, `${baseUrl}/test/${slug}`);
+    await indexUrl(accessToken, `${baseUrl}/test/${slug}/oyna`);
+    await indexUrl(accessToken, `${baseUrl}/yapay-zeka-testleri`);
+
+    console.log("[Indexing API] Tüm URL bildirimleri tamamlandı.");
+  } catch (e) {
+    console.error("[Indexing API] Hata (kritik değil):", e.message);
+  }
+}
+// ─────────────────────────────────────────────────────────────────────────────
 
 generateDailyContent().catch((err) => {
   console.error("Beklenmedik Hata:", err);
