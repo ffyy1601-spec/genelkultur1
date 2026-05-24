@@ -1,0 +1,40 @@
+name: Auto AI Content Generation
+
+on:
+  schedule:
+    # Her 2 saatte bir çalışır (Günde 12 kez - Türkiye saatiyle 02:00, 04:00, ..., 22:00, 00:00 vb.)
+    - cron: '0 */2 * * *'
+  workflow_dispatch: # GitHub arayüzünden el ile tetikleme butonu ekler
+
+permissions:
+  contents: write # Kodları geri pushlamak için yazma izni gerekli
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate AI Content
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: node scripts/generate-daily.mjs
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add src/data/dailyContent.ts public/sitemap.xml
+          git commit -m "chore: AI generated daily content update [skip ci]" || exit 0
+          git push

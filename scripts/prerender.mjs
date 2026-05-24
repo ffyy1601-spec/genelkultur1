@@ -19,9 +19,10 @@ const server = await createServer({
 });
 
 try {
-  const [{ AppContent }, { ROUTES }] = await Promise.all([
+  const [{ AppContent }, { ROUTES }, { dailyQuizzes }] = await Promise.all([
     server.ssrLoadModule("/src/App.tsx"),
     server.ssrLoadModule("/src/lib/routes.ts"),
+    server.ssrLoadModule("/src/data/dailyContent.ts"),
   ]);
 
   const prerenderRoutes = [
@@ -45,7 +46,15 @@ try {
     ROUTES.contentPolicy,
     ROUTES.adsDisclosure,
     ROUTES.terms,
+    // AI Otomasyon Rotaları
+    ROUTES.dailyList,
   ];
+
+  // Her yapay zeka testi ve oyun sayfası için rotaları ekle
+  for (const quiz of dailyQuizzes) {
+    prerenderRoutes.push(`/test/${quiz.slug}`);
+    prerenderRoutes.push(`/test/${quiz.slug}/oyna`);
+  }
 
   const template = await fs.readFile(path.join(distDir, "index.html"), "utf8");
 

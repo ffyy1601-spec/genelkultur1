@@ -21,6 +21,10 @@ export const ROUTES = {
   contentPolicy: "/icerik-politikasi",
   adsDisclosure: "/reklam-bilgilendirmesi",
   terms: "/kullanim-kosullari",
+  // AI Otomasyon Rotalari
+  dailyList: "/yapay-zeka-testleri",
+  dailyLanding: "/test/:slug",
+  dailyGame: "/test/:slug/oyna",
 } as const;
 
 export const LEGACY_ROUTES = {
