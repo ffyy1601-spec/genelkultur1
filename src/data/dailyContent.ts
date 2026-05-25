@@ -2676,5 +2676,211 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Sesli film teknolojisinin ilk versiyonları karmaşık, pahalıydı ve stüdyoların yeni ekipmanlara yatırım yapmasını gerektiriyordu, bu da yaygınlaşmasını geciktirdi."
       }
     ]
+  },
+  {
+    "slug": "gokyuzunu-yeniden-tanimlayan-devrim-kopernik-ve-gunes-merkezli-evren",
+    "dateId": "2026-05-25",
+    "title": "Kopernik Devrimi: Dünya Merkezli Evrenden Güneş Merkezli Evrene Geçiş | Bilim Tarihi",
+    "description": "Nicolaus Kopernik'in 24 Mayıs 1543'te yayımlanan \"De revolutionibus orbium coelestium\" eseriyle bilim dünyasında yarattığı devrimi keşfedin. Dünya'nın evrendeki konumunu değiştiren bu teoriyi ve etkilerini öğrenin.",
+    "keywords": [
+      "Kopernik",
+      "Nicolaus Copernicus",
+      "De revolutionibus orbium coelestium",
+      "Güneş merkezli sistem",
+      "Heliocentrik model",
+      "Dünya merkezli sistem",
+      "Jeosentrik model",
+      "Astronomi tarihi",
+      "Bilim devrimi",
+      "1543",
+      "Polonyalı astronom",
+      "Evren modeli"
+    ],
+    "heading": "Gökyüzünü Yeniden Tanımlayan Devrim: Kopernik ve Güneş Merkezli Evren",
+    "intro": "Binlerce yıldır kabul gören bir inanç vardı: Dünya, evrenin tartışmasız merkeziydi. Güneş, Ay ve yıldızlar, etrafımızda dönen göksel kürelerdi. Ancak 16. yüzyılın başlarında sessizce çalışan bir rahip ve matematikçi, bu köklü anlayışı temelinden sarsacak bir teori geliştirdi. Nicolaus Kopernik'in gözlemleri ve matematiksel hesaplamaları, insanlığın evrendeki yerini yeniden düşünmesine yol açan büyük bir bilimsel devrimin ilk kıvılcımını çaktı.",
+    "article": "16. yüzyılın başlarına kadar Batı dünyasında, Antik Yunan filozofları Aristoteles ve Batlamyus tarafından ortaya atılan \"jeosentrik\" (dünya merkezli) evren modeli hüküm sürüyordu. Bu modele göre, Dünya evrenin sabit merkeziydi ve tüm gök cisimleri onun etrafında kusursuz dairesel yörüngelerde dönüyordu. Kilise tarafından da desteklenen bu model, insanlığın evrendeki özel konumunu vurguluyordu. Ancak zamanla yapılan gözlemler, Batlamyus'un modelindeki karmaşık \"deferent\" ve \"epicycle\" sistemleri ile bile tam olarak açıklanamayan tutarsızlıklar göstermeye başlamıştı.\n\nPolonyalı astronom ve matematikçi Nicolaus Kopernik (1473-1543), bu tutarsızlıkları gidermek ve göksel hareketleri daha basit bir şekilde açıklamak amacıyla alternatif bir model üzerinde çalıştı. Yaklaşık 30 yıl süren gözlem ve hesaplamalar sonucunda, Dünya'nın değil, Güneş'in evrenin merkezinde olduğunu, Dünya ve diğer gezegenlerin Güneş etrafında döndüğünü öne süren \"heliosentrik\" (Güneş merkezli) modelini geliştirdi. Ancak Kopernik, teorisinin kilise ve bilim çevrelerinde yaratacağı büyük tartışmalar nedeniyle eserini yayınlamakta çekingen davrandı. Sonunda, ömrünün son demlerinde, 24 Mayıs 1543'te, ölüm döşeğindeyken \"De revolutionibus orbium coelestium\" (Göksel Kürelerin Dönüşleri Üzerine) adlı çığır açıcı eserini yayımladı.\n\nKopernik'in eseri, yayınlandığında hemen geniş kabul görmese de, zamanla bilimsel düşüncede köklü bir dönüşümün fitilini ateşledi. Bu eser, Galileo Galilei, Johannes Kepler ve Isaac Newton gibi sonraki büyük bilim insanlarına ilham kaynağı oldu ve modern astronomi ile fizikin temellerini attı. Kopernik Devrimi olarak anılan bu paradigma değişimi, sadece gezegenlerin hareketini açıklamakla kalmayıp, insanlığın evrendeki yerini ve bilimin doğasını yeniden sorgulamasına yol açtı. İnsan merkezli bir evren anlayışından, bilimsel gözlem ve matematiğe dayalı daha objektif bir evren anlayışına geçişin ilk adımıydı.",
+    "category": "bilim",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Nicolaus Kopernik'in \"De revolutionibus orbium coelestium\" adlı eseri hangi tarihi olayı başlattı?",
+        "options": [
+          "Sanayi Devrimi",
+          "Rönesans",
+          "Reform",
+          "Bilim Devrimi"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Kopernik'in eseri, modern bilim anlayışının temelini atan ve gözlem ile matematiği merkeze koyan Bilim Devrimi'nin başlangıcı kabul edilir."
+      },
+      {
+        "id": 2,
+        "text": "Kopernik'in savunduğu evren modeli aşağıdakilerden hangisidir?",
+        "options": [
+          "Jeosentrik model",
+          "Helyosentrik model",
+          "Statik evren modeli",
+          "Sonsuz evren modeli"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Kopernik, Güneş'in evrenin merkezinde olduğu ve gezegenlerin onun etrafında döndüğü helyosentrik (Güneş merkezli) modeli savunmuştur."
+      },
+      {
+        "id": 3,
+        "text": "\"De revolutionibus orbium coelestium\" adlı eser hangi tarihte yayımlanmıştır?",
+        "options": [
+          "1492",
+          "1517",
+          "1543",
+          "1609"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kopernik'in çığır açıcı eseri, ömrünün sonlarında, 24 Mayıs 1543 tarihinde yayımlanmıştır."
+      },
+      {
+        "id": 4,
+        "text": "Kopernik'ten önce yaygın olarak kabul gören ve Dünya'yı merkeze alan evren modeli nedir?",
+        "options": [
+          "Helyosentrik model",
+          "Galaktik model",
+          "Jeosentrik model",
+          "Kozmolojik model"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kopernik öncesinde, Aristoteles ve Batlamyus'un geliştirdiği jeosentrik (Dünya merkezli) model kabul görmekteydi."
+      },
+      {
+        "id": 5,
+        "text": "Kopernik'in eseri \"Göksel Kürelerin Dönüşleri Üzerine\" adıyla da bilinir. Eserin orijinal Latince adı nedir?",
+        "options": [
+          "Principia Mathematica",
+          "Dialogo sopra i due massimi sistemi del mondo",
+          "De revolutionibus orbium coelestium",
+          "Harmonices Mundi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kopernik'in eseri \"De revolutionibus orbium coelestium\" (Göksel Kürelerin Dönüşleri Üzerine) başlığını taşımaktadır."
+      },
+      {
+        "id": 6,
+        "text": "Kopernik'in teorisi başlangıçta neden dirençle karşılaşmıştır?",
+        "options": [
+          "Yeterli matematiksel kanıt sunmadığı için",
+          "Kopernik'in bilimsel otoritesinin olmaması nedeniyle",
+          "Dini ve felsefi inançlara aykırı olduğu için",
+          "Sadece teorik olduğu, gözleme dayanmadığı için"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kopernik'in helyosentrik modeli, o dönemde yaygın olan dini ve felsefi inançlarla, özellikle de Dünya'nın evrenin merkezi olduğu anlayışıyla çeliştiği için büyük dirençle karşılaşmıştır."
+      },
+      {
+        "id": 7,
+        "text": "Kopernik hangi ülkede doğmuş ve yaşamıştır?",
+        "options": [
+          "İtalya",
+          "Almanya",
+          "Polonya",
+          "Fransa"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Nicolaus Kopernik, Polonyalı bir astronom ve matematikçidir."
+      },
+      {
+        "id": 8,
+        "text": "Kopernik'in teorisini daha sonra geliştiren ve destekleyen önemli bilim insanlarından biri aşağıdakilerden hangisidir?",
+        "options": [
+          "Batlamyus",
+          "Aristoteles",
+          "Galileo Galilei",
+          "İbn-i Sina"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Galileo Galilei, Kopernik'in teorisini teleskopik gözlemleriyle destekleyen ve yaygınlaşmasına önemli katkılarda bulunan bilim insanlarından biridir."
+      },
+      {
+        "id": 9,
+        "text": "Jeosentrik modelde, Güneş'in Dünya'ya göre konumu nasıldı?",
+        "options": [
+          "Güneş evrenin merkeziydi",
+          "Güneş Dünya etrafında dönüyordu",
+          "Güneş ve Dünya sabitti",
+          "Güneş, diğer gezegenlerle birlikte Dünya etrafında dönüyordu"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Jeosentrik modelde, Dünya evrenin merkezi kabul edilirken, Güneş dahil tüm gök cisimlerinin Dünya etrafında döndüğü varsayılıyordu."
+      },
+      {
+        "id": 10,
+        "text": "Kopernik'in eseri yayınlandığında Kopernik hayatta mıydı?",
+        "options": [
+          "Hayatta değildi, eser ölümünden sonra yayımlandı",
+          "Evet, kitabın yayımlandığı gün vefat etti",
+          "Kitabı yayımladıktan sonra uzun yıllar yaşadı",
+          "Eserin yayınlanmasından birkaç yıl önce vefat etti"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Kopernik'in eseri, onun ölüm döşeğindeyken, yani kitabın yayınlandığı gün vefat ettiği sırada kendisine ulaştırılmıştır."
+      },
+      {
+        "id": 11,
+        "text": "Kopernik'in teorisi, gök cisimlerinin yörüngelerini hangi geometrik şekle göre tanımlamıştır?",
+        "options": [
+          "Elips",
+          "Parabol",
+          "Hiperbol",
+          "Daire"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Kopernik, antik Yunan geleneğine uygun olarak gezegenlerin Güneş etrafında kusursuz daireler çizdiğini düşünmüştür. Elips yörüngeler fikri daha sonra Kepler tarafından ortaya atılmıştır."
+      },
+      {
+        "id": 12,
+        "text": "\"De revolutionibus orbium coelestium\" kitabının tam başlığındaki \"orbium coelestium\" ifadesi ne anlama gelmektedir?",
+        "options": [
+          "Göksel cisimlerin hareketi",
+          "Gökbilim araçları",
+          "Göksel küreler",
+          "Uzay keşifleri"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Latince \"orbium coelestium\" ifadesi, \"göksel küreler\" veya \"göksel kürelerin\" anlamına gelir."
+      },
+      {
+        "id": 13,
+        "text": "Kopernik'in çalışmaları, astronomide hangi tür gözlemlerin öncüsü sayılabilir?",
+        "options": [
+          "Sadece teleskopik gözlemler",
+          "Sadece teorik hesaplamalar",
+          "Çıplak gözle yapılan gözlemler ve matematiksel hesaplamalar",
+          "Sadece dini metinlere dayalı çıkarımlar"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kopernik, kendi dönemindeki kısıtlı araçlarla çıplak gözle yaptığı uzun süreli gözlemleri ve bu gözlemleri matematiksel hesaplamalarla birleştirerek teorisini geliştirmiştir."
+      },
+      {
+        "id": 14,
+        "text": "Kopernik Devrimi'nin insanlık için en önemli sonuçlarından biri nedir?",
+        "options": [
+          "Yeni kıtaların keşfedilmesi",
+          "Dini metinlerin tamamen reddedilmesi",
+          "İnsanlığın evrendeki yerini ve rolünü yeniden sorgulatması",
+          "Teknolojik gelişmeleri hızlandırması"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kopernik Devrimi, insanlığın evrenin merkezi olduğu inancını sarsarak, evrendeki konumunu ve rolünü yeniden düşünmesine yol açan felsefi ve bilimsel bir dönüşüme neden olmuştur."
+      },
+      {
+        "id": 15,
+        "text": "Kopernik'in teorisi, aşağıdaki düşünürlerden hangisinin jeosentrik evren modelini geçersiz kılmıştır?",
+        "options": [
+          "Isaac Newton",
+          "Johannes Kepler",
+          "Batlamyus",
+          "Albert Einstein"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kopernik'in helyosentrik modeli, binlerce yıldır kabul görmüş olan Antik Yunanlı astronom Batlamyus'un jeosentrik evren modelini geçersiz kılmıştır."
+      }
+    ]
   }
 ];

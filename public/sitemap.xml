@@ -240,4 +240,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/gokyuzunu-yeniden-tanimlayan-devrim-kopernik-ve-gunes-merkezli-evren</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/gokyuzunu-yeniden-tanimlayan-devrim-kopernik-ve-gunes-merkezli-evren/oyna</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
