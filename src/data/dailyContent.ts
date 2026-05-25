@@ -2063,5 +2063,209 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Graf Zeppelin, Hindenburg faciasından sonra hizmetten çekilmiş ve II. Dünya Savaşı başlamadan önce 1940 yılında hurdaya ayrılarak parçalanmıştır."
       }
     ]
+  },
+  {
+    "slug": "bilim-ve-hukukun-kesistigi-an-scopes-maymun-davasi",
+    "dateId": "2026-05-25",
+    "title": "Scopes Maymun Davası: Bilim ve İnanç Arasındaki Çatışma | GenelKultur",
+    "description": "1925 yılında ABD'de gerçekleşen ve evrim teorisinin okullarda öğretilmesi üzerine çıkan Scopes Maymun Davası'nın tarihini, taraflarını ve etkilerini keşfedin.",
+    "keywords": [
+      "Scopes Davası",
+      "Maymun Davası",
+      "Evrim Teorisi",
+      "John T. Scopes",
+      "William Jennings Bryan",
+      "Clarence Darrow",
+      "Biyoloji Eğitimi",
+      "Tennessee Kanunu",
+      "Kreasyonizm",
+      "Bilim ve İnanç"
+    ],
+    "heading": "Bilim ve Hukukun Kesiştiği An: Scopes Maymun Davası",
+    "intro": "Tarihin tozlu sayfalarında öyle anlar vardır ki, bir ülkenin değil, tüm insanlığın düşünce yapısını derinden etkiler. 1925 yılının sıcak bir yaz gününde, Amerika Birleşik Devletleri'nin Dayton, Tennessee eyaletinde başlayan 'Scopes Maymun Davası', bilim, inanç ve eğitim özgürlüğü arasındaki kadim çatışmayı adeta bir yargı salonunda gözler önüne serdi. Bu dava, sadece bir biyoloji öğretmeninin yargılanmasından ibaret değildi; modern bilimin toplumsal kabulü ve eğitim sisteminin sınırları üzerine yapılan devasa bir tartışmanın fitilini ateşledi.",
+    "article": "1925 yılının Mart ayında, Tennessee eyaleti, kamu okullarında 'insanın maymun soyundan geldiği' teorisinin öğretilmesini yasaklayan 'Butler Yasası'nı kabul etti. Bu yasa, köktendinci Hristiyan grupların evrim teorisine karşı duyduğu yoğun rahatsızlığın bir sonucuydu. Amerikan Medeni Haklar Birliği (ACLU), bu yasanın anayasaya aykırı olduğunu savunarak, yasanın test edilmesi için bir öğretmen arayışına girdi. İşte bu noktada, Dayton Lisesi'nde vekil öğretmenlik yapan John T. Scopes sahneye çıktı. Scopes, kasıtlı olarak bir biyoloji dersinde evrim teorisini anlattığını itiraf etti ve dava süreci böylece başlamış oldu.\n\nDavada savcılık makamını, üç kez başkan adayı olmuş, ateşli bir hatip ve dindar bir Hristiyan olan William Jennings Bryan üstlendi. Bryan, evrim teorisinin dini inançlara aykırı olduğunu ve genç zihinleri yoldan çıkardığını savunuyordu. Savunma tarafında ise, dönemin en ünlü ve karizmatik avukatlarından biri olan Clarence Darrow vardı. Darrow, Butler Yasası'nın ifade özgürlüğünü kısıtladığını, bilimin ilerlemesini engellediğini ve eyaletlerin eğitim müfredatına müdahalesini sorguluyordu. Duruşma, ulusal ve uluslararası basının yoğun ilgisiyle karşılandı ve radyo aracılığıyla milyonlarca kişiye ulaştı. Dayton kasabası, adeta bir medya sirki haline geldi; sokaklar muhabirler, fotoğrafçılar ve meraklı kalabalıklarla dolup taştı.\n\nDavanın en çarpıcı anlarından biri, Darrow'un Bryan'ı İncil'in kelime kelime doğruluğu üzerine sorguya çekmesiydi. Bu çapraz sorgu, Bryan'ın yorumlarını zayıflattı ve davanın dini ve bilimsel boyutu arasındaki gerilimi doruğa çıkardı. Scopes, jüri tarafından suçlu bulundu ve 100 dolar para cezasına çarptırıldı. Ancak Yüksek Mahkeme, teknik bir gerekçeyle cezayı bozdu ve dava böylece yasal bir emsal oluşturmadan sona erdi. Yine de Scopes Davası, Amerikan toplumunda bilim ve inanç arasındaki tartışmayı alevlendirdi, evrim teorisinin kamusal alandaki tartışmasını derinleştirdi ve sonraki yıllarda benzer yasal mücadelelere zemin hazırladı. Davanın mirası, günümüzde bile eğitimde bilimin yeri ve dini inançların müfredata etkisi üzerine süregelen tartışmalarda yankılanmaktadır.",
+    "category": "bilim",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Scopes Maymun Davası hangi yıl ve nerede gerçekleşmiştir?",
+        "options": [
+          "1935, Boston, Massachusetts",
+          "1925, Dayton, Tennessee",
+          "1915, New York, New York",
+          "1945, Los Angeles, Kaliforniya"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Scopes Maymun Davası, 1925 yılında ABD'nin Tennessee eyaletindeki Dayton kasabasında gerçekleşmiştir. Bu dava, evrim teorisinin okullarda öğretilmesinin yasaklandığı Butler Yasası'na karşı açılmıştır."
+      },
+      {
+        "id": 2,
+        "text": "Davaya konu olan \"Butler Yasası\" neyi yasaklıyordu?",
+        "options": [
+          "Din dersi müfredatının değiştirilmesini",
+          "Evrim teorisinin kamu okullarında öğretilmesini",
+          "Bilimsel deneylerin yapılmasını",
+          "Öğretmenlerin sendikalara üye olmasını"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Butler Yasası, Tennessee eyaletinde kamu okullarında \"insanın maymun soyundan geldiği\" teorisinin, yani evrim teorisinin öğretilmesini yasaklayan bir kanundu."
+      },
+      {
+        "id": 3,
+        "text": "Scopes Davası'nda yargılanan biyoloji öğretmeni kimdi?",
+        "options": [
+          "William Jennings Bryan",
+          "Clarence Darrow",
+          "John T. Scopes",
+          "Charles Darwin"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Davada \"Butler Yasası\"nı ihlal ettiği gerekçesiyle yargılanan kişi, Dayton Lisesi'nde vekil öğretmenlik yapan John T. Scopes'tu."
+      },
+      {
+        "id": 4,
+        "text": "Savcılık makamını üstlenen ve ateşli bir hatip olan devlet adamı kimdi?",
+        "options": [
+          "Clarence Darrow",
+          "Franklin D. Roosevelt",
+          "William Jennings Bryan",
+          "John T. Scopes"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Davada savcılık rolünü üstlenen kişi, üç kez başkan adayı olmuş, dindar ve köktendinci bir hatip olan William Jennings Bryan'dı."
+      },
+      {
+        "id": 5,
+        "text": "Savunma avukatı olarak tanınmış ve karizmatik avukat kimdi?",
+        "options": [
+          "Abraham Lincoln",
+          "Clarence Darrow",
+          "Thurgood Marshall",
+          "Robert H. Jackson"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Savunma tarafında, o dönemin en ünlü ve yetenekli avukatlarından biri olan Clarence Darrow yer almıştır. Darrow, ifade özgürlüğünü ve bilimi savunmuştur."
+      },
+      {
+        "id": 6,
+        "text": "Amerikan Medeni Haklar Birliği (ACLU), bu davadaki rolü neydi?",
+        "options": [
+          "Butler Yasası'nın çıkarılması için lobi yapmak",
+          "John T. Scopes'u yargılamak",
+          "Butler Yasası'nın anayasaya uygunluğunu savunmak",
+          "Butler Yasası'nı test etmek ve iptalini sağlamak için öğretmen aramak"
+        ],
+        "correctAnswer": 3,
+        "explanation": "ACLU, Butler Yasası'nın anayasaya aykırı olduğunu savunuyordu ve bu yasanın geçerliliğini yargı yoluyla test etmek için bir öğretmen aramıştı."
+      },
+      {
+        "id": 7,
+        "text": "Dava sırasında basının yoğun ilgisi ne tür bir etki yaratmıştır?",
+        "options": [
+          "Davanın gizli kalmasına neden oldu",
+          "Sadece yerel halkın ilgisini çekti",
+          "Dayton kasabasını ulusal bir medya merkezine dönüştürdü",
+          "Davanın erken sona ermesine yol açtı"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Dava, ulusal ve uluslararası basının yoğun ilgisini çekmiş, radyo yayınlarıyla milyonlarca kişiye ulaşmış ve Dayton kasabasını adeta bir medya sirki haline getirmiştir."
+      },
+      {
+        "id": 8,
+        "text": "Davanın en çarpıcı anlarından biri olarak kabul edilen olay nedir?",
+        "options": [
+          "Scopes'un suçunu itiraf etmesi",
+          "Darrow'un İncil'in kelime kelime doğruluğu üzerine Bryan'ı sorguya çekmesi",
+          "Jürinin hızla karar vermesi",
+          "Yargıcın davayı reddetmesi"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Davanın en akılda kalıcı anlarından biri, savunma avukatı Clarence Darrow'un savcı William Jennings Bryan'ı İncil'in literal (kelime kelime) doğruluğu üzerine çapraz sorguya çekmesiydi."
+      },
+      {
+        "id": 9,
+        "text": "John T. Scopes'un dava sonucunda aldığı ceza neydi?",
+        "options": [
+          "Hapis cezası",
+          "Sürgün",
+          "100 dolar para cezası",
+          "Öğretmenlikten men edilme"
+        ],
+        "correctAnswer": 2,
+        "explanation": "John T. Scopes, jüri tarafından suçlu bulundu ve 100 dolar para cezasına çarptırıldı."
+      },
+      {
+        "id": 10,
+        "text": "Scopes'a verilen ceza hangi gerekçeyle Yüksek Mahkeme tarafından bozuldu?",
+        "options": [
+          "Yasanın anayasaya aykırı olması nedeniyle",
+          "Jüri kararlarının geçersiz olması nedeniyle",
+          "Teknik bir gerekçeyle (para cezasını hakimin belirlemesi yerine jürinin belirlemesi gerektiği)",
+          "Savunma avukatının yetersizliği nedeniyle"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Yüksek Mahkeme, Scopes'a verilen 100 dolarlık para cezasını, teknik bir gerekçeyle (para cezasının yargıç tarafından değil, jüri tarafından belirlenmesi gerektiği) bozmuştur. Bu, davanın yasal bir emsal oluşturmasını engelledi."
+      },
+      {
+        "id": 11,
+        "text": "Scopes Maymun Davası'nın mirası, günümüzde hangi tartışmalarda yankı bulmaktadır?",
+        "options": [
+          "Eğitimde yabancı dil öğretiminin önemi",
+          "Spor etkinliklerinin toplumsal faydaları",
+          "Eğitimde bilimin yeri ve dini inançların müfredata etkisi",
+          "Ekonomik büyüme stratejileri"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Davanın mirası, günümüzde bile eğitimde bilimin yeri, dini inançların eğitim müfredatına etkisi ve bilim ile inanç arasındaki çatışma üzerine süregelen tartışmalarda önemini korumaktadır."
+      },
+      {
+        "id": 12,
+        "text": "Dava sırasında, Dayton kasabasının durumu nasıl tasvir edilmiştir?",
+        "options": [
+          "Sakin ve sessiz bir tatil yeri",
+          "Adeta bir medya sirki",
+          "Yüksek suç oranına sahip bir şehir",
+          "Bilimsel araştırmalar merkezi"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Makalede, Dayton kasabasının dava sırasında muhabirler, fotoğrafçılar ve meraklı kalabalıklarla dolup taşarak \"adeta bir medya sirki\" haline geldiği belirtilmiştir."
+      },
+      {
+        "id": 13,
+        "text": "William Jennings Bryan'ın davadaki temel argümanı neydi?",
+        "options": [
+          "Evrim teorisinin bilimsel gerçekliği",
+          "Eğitim özgürlüğünün kısıtlanamazlığı",
+          "Evrim teorisinin dini inançlara aykırı olduğu ve genç zihinleri yoldan çıkardığı",
+          "Öğretmenlerin maaşlarının artırılması gerektiği"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bryan, evrim teorisinin dini inançlara aykırı olduğunu, İncil'in literal yorumuyla çeliştiğini ve gençlerin ahlakını bozduğunu savunuyordu."
+      },
+      {
+        "id": 14,
+        "text": "Clarence Darrow'un davadaki temel savunma argümanı neydi?",
+        "options": [
+          "Butler Yasası'nın ekonomik faydaları",
+          "Evrim teorisinin dinsel kökenleri",
+          "Butler Yasası'nın ifade özgürlüğünü kısıtladığı ve bilimin ilerlemesini engellediği",
+          "Yargılanan öğretmenin suçsuz olduğu"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Darrow, Butler Yasası'nın ifade özgürlüğünü kısıtladığını, bilimin ilerlemesini engellediğini ve eyaletlerin eğitim müfredatına müdahalesini sorgulayarak anayasal hakları savunmuştur."
+      },
+      {
+        "id": 15,
+        "text": "Scopes Davası, hangi konuda \"devasa bir tartışmanın fitilini ateşledi\"?",
+        "options": [
+          "Tarım politikaları",
+          "Modern bilimin toplumsal kabulü ve eğitim sisteminin sınırları",
+          "Ulaşım altyapısı",
+          "Uluslararası ilişkiler"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Bu dava, modern bilimin toplumsal kabulü, eğitim sisteminin sınırları ve bilim ile inanç arasındaki çatışma üzerine devasa bir tartışmanın fitilini ateşlemiştir."
+      }
+    ]
   }
 ];
