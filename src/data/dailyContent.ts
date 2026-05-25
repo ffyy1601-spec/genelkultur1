@@ -1858,5 +1858,210 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Orijinal üçleme, 'Yıldız Savaşları: Bölüm VI - Jedi'ın Dönüşü' (Return of the Jedi) filmiyle 1983 yılında sona ermiştir."
       }
     ]
+  },
+  {
+    "slug": "gokyuzunu-fetheden-gemi-graf-zeppelin-ve-hava-yolculugunun-altin-cagi",
+    "dateId": "2026-05-25",
+    "title": "Gökyüzünün Devleri: Graf Zeppelin'in Yükselişi ve Hava Yolculuğunun Dönüşümü | GenelKultur",
+    "description": "Graf Zeppelin'in ilk uçuşu ve hava gemisi teknolojisinin altın çağına yolculuk yapın. Bu devasa hava gemisinin tarihi, rekorları ve havacılık üzerindeki etkilerini keşfedin.",
+    "keywords": [
+      "Graf Zeppelin",
+      "Zeplin",
+      "hava gemisi",
+      "hava yolculuğu tarihi",
+      "LZ 127",
+      "Ferdinand von Zeppelin",
+      "havacılık tarihi",
+      "ilk uçuş",
+      "1928",
+      "Hindenburg",
+      "Blau gazı"
+    ],
+    "heading": "Gökyüzünü Fetheden Gemi: Graf Zeppelin ve Hava Yolculuğunun Altın Çağı",
+    "intro": "20. yüzyılın başlarında, gökyüzü insanoğlunun yeni keşif alanıydı. Uçaklar henüz emekleme dönemindeyken, devasa boyutları ve zarif tasarımlarıyla hava gemileri, lüks ve hızlı seyahatin simgesi haline gelmişti. İşte bu dönemin en ikonik ve başarılı temsilcilerinden biri olan Graf Zeppelin, ilk uçuşunu 25 Mayıs 1928'de yaparak havacılık tarihinde bir devrime imza attı.",
+    "article": "Graf Zeppelin (LZ 127), Alman kontu Ferdinand von Zeppelin'in anısına isimlendirilen, rijit yapılı bir hava gemisiydi. Almanya'da inşa edilen bu muhteşem araç, 236 metre uzunluğuyla döneminin en büyük ve en gelişmiş hava taşıtlarından biriydi. Tasarımı, uzun menzilli uçuşlar ve lüks yolcu taşımacılığı için optimize edilmişti. Hidrojen gazıyla kaldırma kuvveti sağlayan zeplin, beş adet Maybach motoruyla güçlendirilmişti ve saatte yaklaşık 128 kilometre hız yapabiliyordu. İlk uçuşu, Friedrichshafen'den başlayarak gökyüzünde bir dönemin başlangıcını müjdeledi.\n\nGraf Zeppelin, hizmete girdiği andan itibaren sayısız rekor kırdı ve olağanüstü başarılara imza attı. 1929 yılında dünya turunu tamamlayarak tarihe geçti; 21 gün içinde doğudan batıya dünya çevresini dolaşan ilk hava taşıtı oldu. Bu seyahat, hava gemilerinin potansiyelini tüm dünyaya gösterdi ve uluslararası medyada büyük yankı uyandırdı. Zeplin ayrıca Atlantik'i düzenli olarak geçen ilk hava gemisiydi ve bu rotada yüzlerce sefer yaptı. Posta ve yolcu taşımacılığında rakipsiz bir lüks ve konfor sunarak, zenginler ve ünlüler arasında popüler bir seyahat aracı haline geldi. İçerisinde yemek salonları, dinlenme alanları ve özel kamaralar bulunuyordu.\n\nAncak hava gemilerinin altın çağı, 1937'deki Hindenburg faciasıyla trajik bir şekilde sona erdi. Hindenburg'un alev alarak yok olması, hidrojen gazının tehlikelerine dikkat çekerek kamuoyunda büyük bir korkuya yol açtı. Bu olaydan sonra Graf Zeppelin de dahil olmak üzere çoğu hava gemisi seferden çekildi. Graf Zeppelin, ticari uçuşlarına 1937'ye kadar devam etti ve Hindenburg faciası yaşanmadan önce hizmetten çekilerek 1940'ta hurdaya ayrıldı. Hava gemisi teknolojisi, uçakların hızla gelişmesi ve güvenilirliklerinin artmasıyla yerini onlara bıraktı. Yine de Graf Zeppelin, havacılık tarihinde bir efsane olarak anılmaya devam etmektedir.",
+    "category": "bilim",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Graf Zeppelin'in ilk uçuşu hangi tarihte gerçekleşmiştir?",
+        "options": [
+          "12 Nisan 1912",
+          "20 Temmuz 1969",
+          "25 Mayıs 1928",
+          "17 Aralık 1903"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Graf Zeppelin'in ilk uçuşu 25 Mayıs 1928 tarihinde gerçekleşmiş olup, havacılık tarihinde önemli bir dönüm noktası olmuştur."
+      },
+      {
+        "id": 2,
+        "text": "Graf Zeppelin'e ismini veren kişi kimdir?",
+        "options": [
+          "Wright Kardeşler",
+          "Thomas Edison",
+          "Ferdinand von Zeppelin",
+          "Alexander Graham Bell"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Graf Zeppelin, Alman hava gemisi öncüsü Kont Ferdinand von Zeppelin'in anısına isimlendirilmiştir."
+      },
+      {
+        "id": 3,
+        "text": "Graf Zeppelin'in kaldırma kuvvetini sağlamak için hangi gaz kullanılıyordu?",
+        "options": [
+          "Helyum",
+          "Azot",
+          "Oksijen",
+          "Hidrojen"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Graf Zeppelin, o dönemde daha ucuz ve bol bulunan hidrojen gazını kaldırma kuvveti için kullanıyordu. Ancak hidrojen, yanıcı ve tehlikeli bir gazdır."
+      },
+      {
+        "id": 4,
+        "text": "Graf Zeppelin'in havacılık tarihindeki en önemli başarılarından biri nedir?",
+        "options": [
+          "Sesten hızlı uçması",
+          "Ay'a iniş yapması",
+          "Dünya turunu tamamlaması",
+          "İlk jet motorlu uçağı olması"
+        ],
+        "correctAnswer": 2,
+        "explanation": "1929 yılında dünya turunu başarıyla tamamlaması, Graf Zeppelin'in havacılık tarihindeki en önemli ve dikkat çekici başarılarından biridir."
+      },
+      {
+        "id": 5,
+        "text": "Graf Zeppelin, hangi ülkenin eseriydi?",
+        "options": [
+          "Amerika Birleşik Devletleri",
+          "Fransa",
+          "Almanya",
+          "Birleşik Krallık"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Graf Zeppelin, Alman mühendislik harikasıydı ve Almanya'da tasarlanıp inşa edilmişti."
+      },
+      {
+        "id": 6,
+        "text": "Hava gemisi seyahatlerinin popülaritesinin azalmasına neden olan en büyük olay nedir?",
+        "options": [
+          "Titanic faciası",
+          "Çernobil faciası",
+          "Hindenburg faciası",
+          "Apollo 13 kazası"
+        ],
+        "correctAnswer": 2,
+        "explanation": "1937'deki Hindenburg faciası, hava gemisi seyahatlerinin güvenilirliği konusundaki endişeleri artırarak bu tür seyahatlerin sonunu getiren en büyük olay olmuştur."
+      },
+      {
+        "id": 7,
+        "text": "Graf Zeppelin'in teknik kodu (tanımlayıcısı) neydi?",
+        "options": [
+          "LZ 100",
+          "LZ 127",
+          "LZ 200",
+          "LZ 300"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Graf Zeppelin'in teknik tanımlayıcısı LZ 127'dir. 'LZ' 'Luftschiff Zeppelin'in kısaltmasıdır."
+      },
+      {
+        "id": 8,
+        "text": "Graf Zeppelin'in uzunluğu yaklaşık olarak ne kadardı?",
+        "options": [
+          "50 metre",
+          "100 metre",
+          "150 metre",
+          "236 metre"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Graf Zeppelin, 236 metre uzunluğuyla döneminin en büyük hava taşıtlarından biriydi."
+      },
+      {
+        "id": 9,
+        "text": "Graf Zeppelin hangi kıtalar arasında düzenli seferler yapmıştır?",
+        "options": [
+          "Asya ve Afrika",
+          "Avrupa ve Güney Amerika",
+          "Kuzey Amerika ve Asya",
+          "Avustralya ve Avrupa"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Graf Zeppelin, özellikle Avrupa ve Güney Amerika arasında düzenli olarak Atlantik ötesi seferler yapmıştır."
+      },
+      {
+        "id": 10,
+        "text": "Graf Zeppelin'in motorlarında ana yakıt olarak ne kullanılıyordu?",
+        "options": [
+          "Benzin",
+          "Dizel",
+          "Kerozen",
+          "Blau gazı"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Graf Zeppelin'in motorları, zeplinin dengesini korumaya yardımcı olan ve benzin kadar ağır olmayan özel bir gaz olan 'Blau gazı' ile çalışıyordu."
+      },
+      {
+        "id": 11,
+        "text": "Graf Zeppelin kaç yılına kadar ticari uçuşlarına devam etmiştir?",
+        "options": [
+          "1929",
+          "1933",
+          "1937",
+          "1945"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Graf Zeppelin, Hindenburg faciasından önce, 1937 yılına kadar ticari uçuşlarına devam etmiştir. Facianın ardından kısa süre içinde seferden çekilmiştir."
+      },
+      {
+        "id": 12,
+        "text": "Hava gemileri, 20. yüzyılın başlarında hangi tür yolcular için popüler bir seyahat aracıydı?",
+        "options": [
+          "Sadece askeri personel",
+          "Zenginler ve ünlüler",
+          "Posta görevlileri",
+          "Yük taşımacılığı"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Lüks ve konforlu yapısı sayesinde, hava gemileri özellikle zenginler ve ünlüler arasında popüler bir seyahat aracı haline gelmişti."
+      },
+      {
+        "id": 13,
+        "text": "Graf Zeppelin'in içindeki yolcu kabinleri ve hizmetleri nasıldı?",
+        "options": [
+          "Sadece temel oturma yerleri",
+          "Lüks kamara ve yemek salonları",
+          "Ayakta durulan bölmeler",
+          "Askeri koğuşlar"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Graf Zeppelin, yolcularına lüks kamara, yemek salonları ve dinlenme alanları gibi imkanlar sunuyordu, adeta 'uçan bir otel' gibiydi."
+      },
+      {
+        "id": 14,
+        "text": "Graf Zeppelin'in hizmetten çekilmesinin ana nedeni nedir?",
+        "options": [
+          "Yeterli yolcu bulamaması",
+          "Uçak teknolojisinin gelişmesi ve Hindenburg faciası",
+          "Daha yavaş olması",
+          "Sadece kargo taşıması"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Uçak teknolojisinin hızla gelişmesi, daha hızlı ve güvenli hale gelmesi, Hindenburg faciasının yarattığı korku ile birleşerek hava gemisi döneminin sonunu getirmiştir."
+      },
+      {
+        "id": 15,
+        "text": "Graf Zeppelin'e ne oldu?",
+        "options": [
+          "Okyanusa düştü",
+          "Savaşta imha edildi",
+          "Müzeye dönüştürüldü",
+          "Hurdaya ayrılarak parçalandı"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Graf Zeppelin, Hindenburg faciasından sonra hizmetten çekilmiş ve II. Dünya Savaşı başlamadan önce 1940 yılında hurdaya ayrılarak parçalanmıştır."
+      }
+    ]
   }
 ];
