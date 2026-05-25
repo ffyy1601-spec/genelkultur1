@@ -1446,5 +1446,213 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Yüzyıllar sonra, 1920 yılında Katolik Kilisesi tarafından azize ilan edilmiş ve Fransa'nın koruyucu azizesi olmuştur."
       }
     ]
+  },
+  {
+    "slug": "atlantikin-en-guclu-zirhlisi-bismarckin-destansi-son-yolculugu",
+    "dateId": "2026-05-25",
+    "title": "Atlantik'in Canavarı: Bismarck Zırhlısının Destansı Son Savaşı | GenelKultur",
+    "description": "İkinci Dünya Savaşı'nın en heyecan verici deniz operasyonlarından biri olan Alman zırhlısı Bismarck'ın hikayesini ve 1941'deki destansı son savaşını keşfedin. HMS Hood'u batıran bu devasa geminin peşine düşen İngiliz donanmasının amansız takibi ve Bismarck'ın trajik sonu hakkında bilgi edinin.",
+    "keywords": [
+      "Bismarck",
+      "zırhlı",
+      "II. Dünya Savaşı",
+      "deniz savaşı",
+      "Atlantik",
+      "HMS Hood",
+      "Kraliyet Donanması",
+      "Operation Rheinübung",
+      "Swordfish",
+      "Amiral Tovey",
+      "Prinz Eugen",
+      "deniz tarihi",
+      "savaş gemisi",
+      "Mayıs 1941"
+    ],
+    "heading": "Atlantik'in En Güçlü Zırhlısı: Bismarck'ın Destansı Son Yolculuğu",
+    "intro": "İkinci Dünya Savaşı'nın çalkantılı sularında, bir gemi hem mühendislik harikası hem de bir ulusun gücünün sembolü olarak Atlantik'in korkulu rüyası haline geldi: Alman zırhlısı Bismarck. Okyanusların enginliğinde, Müttefik ikmal hatlarına kabus gibi çökmek üzere tasarlanmış bu devasa savaş makinesi, kısa ama nefes kesici kariyeriyle denizcilik tarihine damgasını vurdu. HMS Hood'u saniyeler içinde batırma becerisiyle şok etkisi yaratan Bismarck, İngiliz Kraliyet Donanması'nın tüm dikkatini üzerine çekti ve tarihin en büyük insan avlarından birine yol açtı.",
+    "article": "İkinci Dünya Savaşı'nın en güçlü savaş gemilerinden biri olarak kabul edilen Bismarck, Almanya'nın Atlantik'teki Müttefik ikmal konvoylarını kesintiye uğratma stratejisinin önemli bir parçasıydı. 1940'ta denize indirilen ve o dönemin en modern zırhlılarından biri olan Bismarck, 251 metre uzunluğu, 41.700 ton deplasmanı ve 38 cm'lik sekiz ana topuyla tam bir mühendislik harikasıydı. Geminin gücü ve hızı, ona \"Atlantik'in Canavarı\" lakabını kazandırmıştı. İngilizler için büyük bir tehdit oluşturan Bismarck'ın ilk ve son operasyonu, \"Rheinübung Harekâtı\" adı altında 18 Mayıs 1941'de başladı. Amacı, Norveç kıyılarından Atlantik'e çıkarak İngiliz ticaret gemilerine saldırmaktı.\n\nBismarck'a, ağır kruvazör Prinz Eugen eşlik ediyordu ve bu iki gemi, Kuzey Atlantik'te İngiliz gemilerine karşı büyük bir güç teşkil edecekti. Ancak İngiliz keşif uçakları kısa sürede Alman gemilerinin hareketini tespit etti ve Kraliyet Donanması, bu tehdidi durdurmak için harekete geçti. 24 Mayıs 1941'de, Danimarka Boğazı'nda, İngiliz gemileri HMS Hood ve HMS Prince of Wales, Bismarck ve Prinz Eugen ile karşı karşıya geldi. Bu kısa ama şiddetli çatışmada, Hood'dan gelen bir mermi Bismarck'a hasar verse de, Bismarck'ın isabetli atışları HMS Hood'un mühimmat deposuna ulaştı. Korkunç bir patlamayla HMS Hood ikiye ayrılarak dakikalar içinde battı, mürettebatından sadece üç kişi kurtulabildi. Bu olay, İngilizler için büyük bir şok ve prestij kaybı oldu.\n\nHMS Hood'un batırılması, İngiliz Başbakanı Winston Churchill'in \"Bismarck batırılmalı!\" emrini vermesine neden oldu. Kraliyet Donanması, adeta topyekün bir av başlatarak Atlantik'teki tüm mevcut gemilerini Bismarck'ın peşine saldı. Hasar alan Bismarck, onarım için Fransa'daki bir limana yönelirken, Prinz Eugen'dan ayrılarak yalnız başına yoluna devam etti. Takipçilerinden kurtulmak için çeşitli manevralar yapan Bismarck, bir süreliğine izini kaybettirmeyi başarsa da, 26 Mayıs'ta bir Catalina keşif uçağı tarafından tekrar tespit edildi. Aynı gün, İngiliz uçak gemisi Ark Royal'dan kalkan Fairey Swordfish torpido uçakları, Bismarck'a kritik hasarlar verdi. Özellikle geminin dümen sistemine isabet eden bir torpido, Bismarck'ın kontrolünü ele geçiremez hale getirdi ve gemiyi çaresizce daireler çizmeye zorladı.\n\n27 Mayıs 1941 sabahı, İngiliz savaş gemileri HMS King George V ve HMS Rodney, hareket kabiliyetini yitirmiş Bismarck'a son saldırılarını başlattı. Amiral Tovey komutasındaki İngiliz filosu, sabahın erken saatlerinden itibaren Bismarck'ı şiddetli bir ateş altına aldı. Zırhlı, yüzlerce mermi darbesiyle delik deşik oldu, kuleleri sustu ve üst yapısı hurda yığınına döndü. Saat 10:39'da, mürettebat tarafından batırılma emri verildiği tahmin edilen Bismarck, aşırı hasar alıp su alarak yavaşça Atlantik'in soğuk sularına gömüldü. Binlerce Alman denizcisinden sadece 114'ü kurtulabildi. Bismarck'ın batırılması, Kraliyet Donanması için büyük bir zaferdi ve Müttefik ikmal hatları üzerindeki en büyük tehditlerden birini ortadan kaldırmıştı. Bu olay, büyük zırhlıların deniz savaşlarındaki rolünün sonunun başlangıcı olarak da yorumlandı; artık hava gücünün, denizde hakimiyet kurma potansiyelini açıkça göstermişti.",
+    "category": "tarih",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Alman zırhlısı Bismarck'ın Atlantik'teki ilk ve son operasyonunun adı nedir?",
+        "options": [
+          "Deniz Aslanı Harekâtı",
+          "Rheinübung Harekâtı",
+          "Barbarossa Harekâtı",
+          "Weserübung Harekâtı"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Bismarck'ın Atlantik'teki ilk ve tek büyük operasyonu, Müttefik ikmal konvoylarını hedef alan 'Rheinübung Harekâtı' (Ren Tatbikatı) olarak adlandırılmıştır."
+      },
+      {
+        "id": 2,
+        "text": "Bismarck'a Atlantik'e çıkışında eşlik eden ağır kruvazörün adı nedir?",
+        "options": [
+          "Admiral Hipper",
+          "Scharnhorst",
+          "Prinz Eugen",
+          "Gneisenau"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bismarck'a Rheinübung Harekâtı sırasında ağır kruvazör Prinz Eugen eşlik etmiştir. Bu iki gemi birlikte büyük bir tehdit oluşturmuştur."
+      },
+      {
+        "id": 3,
+        "text": "Bismarck, Danimarka Boğazı'nda hangi ünlü İngiliz savaş gemisini batırmıştır?",
+        "options": [
+          "HMS Repulse",
+          "HMS Royal Oak",
+          "HMS Hood",
+          "HMS Prince of Wales"
+        ],
+        "correctAnswer": 2,
+        "explanation": "24 Mayıs 1941'deki Danimarka Boğazı Savaşı'nda, Bismarck, İngiliz Kraliyet Donanması'nın gururu olan HMS Hood zırhlısını saniyeler içinde batırmıştır."
+      },
+      {
+        "id": 4,
+        "text": "HMS Hood'un batırılması üzerine, İngiliz Başbakanı Winston Churchill hangi emri vermiştir?",
+        "options": [
+          "Bismarck geri çekilmeli!",
+          "Bismarck batırılmalı!",
+          "Bismarck ele geçirilmeli!",
+          "Bismarck ile müzakere edilmeli!"
+        ],
+        "correctAnswer": 1,
+        "explanation": "HMS Hood'un batırılması, Churchill üzerinde büyük bir etki yaratmış ve 'Bismarck batırılmalı!' emrini vererek tüm Kraliyet Donanması'nı Bismarck'ın peşine düşürmüştür."
+      },
+      {
+        "id": 5,
+        "text": "Bismarck'ın dümen sistemine isabet ederek hareket kabiliyetini kısıtlayan uçaklar hangi gemiden kalkmıştır?",
+        "options": [
+          "HMS Furious",
+          "HMS Victorious",
+          "HMS Ark Royal",
+          "HMS Illustrious"
+        ],
+        "correctAnswer": 2,
+        "explanation": "26 Mayıs 1941'de İngiliz uçak gemisi HMS Ark Royal'dan kalkan Fairey Swordfish torpido uçakları, Bismarck'ın dümen sistemine kritik bir darbe indirerek gemiyi kontrol edilemez hale getirmiştir."
+      },
+      {
+        "id": 6,
+        "text": "Bismarck'ın battığı tarih nedir?",
+        "options": [
+          "21 Mayıs 1941",
+          "24 Mayıs 1941",
+          "27 Mayıs 1941",
+          "30 Mayıs 1941"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bismarck, İngiliz savaş gemilerinin yoğun bombardımanı ve mürettebatın kendi gemilerini batırma çabaları sonucunda 27 Mayıs 1941 sabahı Atlantik'in sularına gömülmüştür."
+      },
+      {
+        "id": 7,
+        "text": "Bismarck'a son saldırıyı başlatan başlıca İngiliz savaş gemileri arasında hangileri yer almaktadır?",
+        "options": [
+          "HMS Nelson ve HMS Rodney",
+          "HMS King George V ve HMS Prince of Wales",
+          "HMS King George V ve HMS Rodney",
+          "HMS Valiant ve HMS Renown"
+        ],
+        "correctAnswer": 2,
+        "explanation": "27 Mayıs 1941 sabahı, hareket kabiliyetini yitirmiş Bismarck'a son saldırıları düzenleyen ana İngiliz savaş gemileri HMS King George V ve HMS Rodney idi."
+      },
+      {
+        "id": 8,
+        "text": "Bismarck'ın batırılmasının deniz savaşındaki uzun vadeli etkilerinden biri nedir?",
+        "options": [
+          "Denizaltıların önemini artırması",
+          "Büyük zırhlıların çağının sonunun başlangıcı olarak görülmesi",
+          "Hava gücünün deniz savaşındaki etkisini azaltması",
+          "İkmal konvoylarının tamamen güvenli hale gelmesi"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Bismarck'ın, özellikle hava saldırıları sonucu batırılması, büyük zırhlıların deniz savaşlarındaki mutlak üstünlüğünün sonunun geldiğini ve hava gücünün deniz savaşlarında belirleyici bir rol oynayacağını göstermiştir."
+      },
+      {
+        "id": 9,
+        "text": "Bismarck'ın yaklaşık deplasmanı kaç tondur?",
+        "options": [
+          "25.000 ton",
+          "35.000 ton",
+          "41.700 ton",
+          "50.000 ton"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bismarck, yaklaşık 41.700 tonluk deplasmanı ile o dönemin en büyük ve en güçlü zırhlılarından biriydi."
+      },
+      {
+        "id": 10,
+        "text": "Bismarck'ın ana top çapı kaç santimetredir?",
+        "options": [
+          "28 cm",
+          "32 cm",
+          "38 cm",
+          "42 cm"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bismarck, sekiz adet 38 cm'lik ana topuyla büyük bir ateş gücüne sahipti."
+      },
+      {
+        "id": 11,
+        "text": "Aşırı hasar alan Bismarck'ın su alımını hızlandırmak ve İngilizlerin eline geçmesini engellemek için ne yapıldığı tahmin edilmektedir?",
+        "options": [
+          "Kaptan tarafından teslim emri verildi",
+          "Amiral tarafından gemiyi terk etme emri verildi",
+          "Mürettebat tarafından batırılma emri verildi",
+          "Gemi kendi kendine battı"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Ağır hasar alan Bismarck'ın su alımını hızlandırmak ve İngilizlerin eline geçmesini engellemek için mürettebat tarafından batırılma emri verildiği yaygın olarak kabul edilmektedir, ancak kesin bir emir belgesi yoktur."
+      },
+      {
+        "id": 12,
+        "text": "Bismarck'ın ilk olarak Norveç kıyılarından Atlantik'e çıkmaya çalışırken geçtiği önemli boğazlardan biri hangisidir?",
+        "options": [
+          "Cebelitarık Boğazı",
+          "Süveyş Kanalı",
+          "Danimarka Boğazı",
+          "Manş Denizi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bismarck ve Prinz Eugen, Atlantik'e çıkarken İngiliz gemileriyle Danimarka Boğazı'nda karşı karşıya gelmişlerdir."
+      },
+      {
+        "id": 13,
+        "text": "Bismarck'ın batırılmasından sonra gemi mürettebatından yaklaşık kaç kişi kurtarılabilmiştir?",
+        "options": [
+          "50 kişi",
+          "114 kişi",
+          "500 kişi",
+          "1000 kişi"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Bismarck'ın yaklaşık 2.200 kişilik mürettebatından sadece 114'ü İngiliz gemileri tarafından kurtarılabilmiştir."
+      },
+      {
+        "id": 14,
+        "text": "Bismarck'ı izini kaybettirdikten sonra tekrar tespit eden İngiliz keşif uçağının türü nedir?",
+        "options": [
+          "Spitfire",
+          "Hurricane",
+          "Catalina",
+          "Mosquito"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bismarck, bir süreliğine izini kaybettirdikten sonra 26 Mayıs'ta bir Amerikan yapımı Catalina keşif uçağı tarafından tekrar tespit edilmiştir. Bu tespit, son takibin başlamasında kritik rol oynamıştır."
+      },
+      {
+        "id": 15,
+        "text": "Bismarck Zırhlısı'nın komutanı kimdi (gemi kaptanı)?",
+        "options": [
+          "Amiral Karl Dönitz",
+          "Kaptan Ernst Lindemann",
+          "Amiral Günther Lütjens",
+          "Kaptan Otto Ciliax"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Bismarck'ın komutanı ve kaptanı Kaptan Ernst Lindemann'dı. Amiral Günther Lütjens ise Rheinübung Harekâtı'nın filo komutanıydı ancak geminin doğrudan komutasında değildi."
+      }
+    ]
   }
 ];
