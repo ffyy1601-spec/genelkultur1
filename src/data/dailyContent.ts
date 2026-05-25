@@ -2267,5 +2267,210 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Bu dava, modern bilimin toplumsal kabulü, eğitim sisteminin sınırları ve bilim ile inanç arasındaki çatışma üzerine devasa bir tartışmanın fitilini ateşlemiştir."
       }
     ]
+  },
+  {
+    "slug": "bir-kitanin-birlesme-ruyasi-afrika-birligi-orgutunun-dogusu",
+    "dateId": "2026-05-25",
+    "title": "Afrika Birliği Örgütü: Sömürgecilikten Bütünleşmeye Bir Kıtanın Hikayesi | GenelKultur",
+    "description": "25 Mayıs 1963'te kurulan Afrika Birliği Örgütü (OAU) ve ardından gelen Afrika Birliği (AU) hakkında detaylı bilgi edinin. Afrika'nın bağımsızlık mücadelesi, kıtasal entegrasyonu ve geleceğe yönelik hedeflerini keşfedin.",
+    "keywords": [
+      "Afrika Birliği Örgütü",
+      "OAU",
+      "Afrika Birliği",
+      "AU",
+      "Pan-Afrikanizm",
+      "Afrika tarihi",
+      "sömürgecilik",
+      "bağımsızlık hareketleri",
+      "Addis Ababa",
+      "Kwame Nkrumah",
+      "25 Mayıs 1963"
+    ],
+    "heading": "Bir Kıtanın Birleşme Rüyası: Afrika Birliği Örgütü'nün Doğuşu",
+    "intro": "Afrika kıtası, yüzyıllar süren sömürgecilik döneminin ardından 20. yüzyılın ortalarında bağımsızlık rüzgarlarıyla yeniden doğdu. Bu dönem, siyasi ve ekonomik bağımsızlık arayışlarının yanı sıra, kıtanın kaderini kendi ellerine alma ve ortak bir gelecek inşa etme idealini de beraberinde getirdi. İşte bu büyük dönüşümün en önemli adımlarından biri, 25 Mayıs 1963'te Etiyopya'nın başkenti Addis Ababa'da atıldı: Afrika Birliği Örgütü (OAU) kuruldu.",
+    "article": "Afrika Birliği Örgütü'nün temel amacı, yeni bağımsızlığını kazanmış Afrika devletleri arasında birliği, dayanışmayı ve işbirliğini teşvik etmek, sömürgeciliğin ve ırk ayrımcılığının kıtadaki son kalıntılarını ortadan kaldırmaktı. Örgüt, üye devletlerin egemenliğini, toprak bütünlüğünü ve bağımsızlığını güvence altına alırken, aynı zamanda iç işlerine karışmama prensibini de benimsedi. Kuruluşunda 32 bağımsız Afrika ülkesinin bir araya gelmesiyle, OAU, kıtanın uluslararası arenada tek bir ses olarak konuşmasını sağlama yolunda önemli bir platform haline geldi. İlk yıllarda, özellikle Portekiz sömürgeleri ve Güney Afrika'daki apartheid rejimine karşı yürütülen bağımsızlık mücadelelerine büyük destek verdi.\n\nAncak OAU'nun yolculuğu zorluklarla doluydu. Kıtadaki sayısız iç çatışma, sınır anlaşmazlıkları, etnik gerilimler ve askeri darbeler örgütün etkinliğini zaman zaman sekteye uğrattı. Üye ülkeler arasındaki ideolojik farklılıklar ve liderlerin kişisel çıkarları, ortak politikaların belirlenmesini ve uygulanmasını güçleştirdi. Özellikle soğuk savaş döneminde büyük güçlerin Afrika üzerindeki nüfuz mücadeleleri, OAU'nun tarafsızlığını korumasını zorlaştırdı. Buna rağmen, örgüt, kıtanın bağımsızlık savaşlarının tamamlanmasında ve Güney Afrika'daki apartheid rejiminin sona ermesinde kritik bir rol oynadı, Nelson Mandela'nın özgürlük mücadelesine uluslararası destek sağlamada önemli katkılarda bulundu.\n\n21. yüzyılın eşiğinde, küresel dinamiklerin değişmesi ve Afrika'nın karşı karşıya kaldığı yeni nesil zorluklar (küreselleşme, terör, iklim değişikliği, ekonomik kalkınma ihtiyacı), OAU'nun yapısında köklü bir değişikliğe gitme ihtiyacını doğurdu. Bu çerçevede, 9 Temmuz 2002 tarihinde Güney Afrika'nın Durban kentinde düzenlenen zirvede, OAU resmen lağvedilerek yerini daha güçlü ve entegrasyon odaklı bir yapıya, yani Afrika Birliği'ne (AU) bıraktı. AU, OAU'nun temel hedeflerini sürdürmekle birlikte, barış ve güvenlik operasyonları yürütebilme, ekonomik entegrasyonu hızlandırma, demokratik yönetişimi teşvik etme ve insan haklarını koruma gibi alanlarda daha geniş yetkilere sahip oldu. Günümüzde Afrika Birliği, kıtanın karşılaştığı zorlukları aşmak ve küresel arenada hak ettiği yeri almasını sağlamak için aktif bir rol oynamaya devam etmektedir.",
+    "category": "tarih",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Afrika Birliği Örgütü (OAU) hangi tarihte kurulmuştur?",
+        "options": [
+          "25 Mayıs 1945",
+          "25 Mayıs 1955",
+          "25 Mayıs 1963",
+          "25 Mayıs 1970"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Afrika Birliği Örgütü (OAU), Afrika kıtasının bağımsızlığını kazanmasının ardından birleşme ve dayanışmayı sağlamak amacıyla 25 Mayıs 1963 tarihinde kurulmuştur."
+      },
+      {
+        "id": 2,
+        "text": "OAU'nun kurulduğu şehir ve ülke neresidir?",
+        "options": [
+          "Kahire, Mısır",
+          "Akra, Gana",
+          "Addis Ababa, Etiyopya",
+          "Pretoria, Güney Afrika"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Afrika Birliği Örgütü, 25 Mayıs 1963'te Etiyopya'nın başkenti Addis Ababa'da düzenlen bir konferansta kurulmuştur."
+      },
+      {
+        "id": 3,
+        "text": "OAU'nun temel hedeflerinden biri aşağıdakilerden hangisi DEĞİLDİR?",
+        "options": [
+          "Üye devletlerin egemenliğini ve toprak bütünlüğünü korumak",
+          "Sömürgeciliğin ve ırk ayrımcılığının son kalıntılarını ortadan kaldırmak",
+          "Kıtada tek bir para birimi oluşturmak",
+          "Üye devletler arasında birliği ve dayanışmayı teşvik etmek"
+        ],
+        "correctAnswer": 2,
+        "explanation": "OAU'nun ilk dönemdeki temel hedefleri arasında kıtada tek bir para birimi oluşturmak gibi kapsamlı ekonomik entegrasyon hedefleri yer almamıştır; bu tür hedefler daha çok Afrika Birliği (AU) döneminde ön plana çıkmıştır."
+      },
+      {
+        "id": 4,
+        "text": "OAU'nun kuruluşunda kaç bağımsız Afrika ülkesi bir araya gelmiştir?",
+        "options": [
+          "15",
+          "20",
+          "32",
+          "50"
+        ],
+        "correctAnswer": 2,
+        "explanation": "OAU'nun kuruluşunda 32 bağımsız Afrika ülkesi bir araya gelerek örgütü kurmuştur."
+      },
+      {
+        "id": 5,
+        "text": "OAU, özellikle hangi ülkedeki ırk ayrımcılığı (apartheid) rejimine karşı mücadeleye destek vermiştir?",
+        "options": [
+          "Angola",
+          "Güney Afrika",
+          "Nijerya",
+          "Kenya"
+        ],
+        "correctAnswer": 1,
+        "explanation": "OAU, Güney Afrika'daki beyaz azınlık yönetiminin uyguladığı apartheid rejimine karşı uluslararası arenada güçlü bir muhalefet sergilemiş ve Nelson Mandela'nın mücadelesine destek vermiştir."
+      },
+      {
+        "id": 6,
+        "text": "OAU'nun en çok karşılaştığı iç zorluklardan biri aşağıdakilerden hangisidir?",
+        "options": [
+          "Kıtadaki doğal afetler",
+          "Dış ticaretteki kısıtlamalar",
+          "İç çatışmalar ve sınır anlaşmazlıkları",
+          "Teknolojik geri kalmışlık"
+        ],
+        "correctAnswer": 2,
+        "explanation": "OAU, kurulduğu günden itibaren kıtadaki sayısız iç çatışma, askeri darbe ve sınır anlaşmazlıkları gibi sorunlarla başa çıkmakta zorlanmıştır."
+      },
+      {
+        "id": 7,
+        "text": "OAU, hangi yıl lağvedilerek yerini Afrika Birliği'ne (AU) bırakmıştır?",
+        "options": [
+          "1999",
+          "2000",
+          "2002",
+          "2005"
+        ],
+        "correctAnswer": 2,
+        "explanation": "OAU, küresel dinamiklerin değişmesi ve kıtanın yeni nesil zorluklarla başa çıkabilmesi için 9 Temmuz 2002 tarihinde Afrika Birliği'ne (AU) dönüşmüştür."
+      },
+      {
+        "id": 8,
+        "text": "Afrika Birliği (AU) hangi şehirde kurulmuştur?",
+        "options": [
+          "Addis Ababa, Etiyopya",
+          "Durban, Güney Afrika",
+          "Kahire, Mısır",
+          "Abuja, Nijerya"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Afrika Birliği (AU), OAU'nun yerine 2002 yılında Güney Afrika'nın Durban kentinde düzenlenen zirvede resmen kurulmuştur."
+      },
+      {
+        "id": 9,
+        "text": "Aşağıdaki liderlerden hangisi Pan-Afrikanizm hareketinin önemli figürlerinden biridir ve OAU'nun kuruluşunda etkili olmuştur?",
+        "options": [
+          "Julius Nyerere",
+          "Jomo Kenyatta",
+          "Nelson Mandela",
+          "Kwame Nkrumah"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Gana'nın ilk başkanı Kwame Nkrumah, Pan-Afrikanizm idealinin en ateşli savunucularından biriydi ve OAU'nun kuruluş sürecinde önemli bir rol oynamıştır."
+      },
+      {
+        "id": 10,
+        "text": "OAU'nun temel prensiplerinden biri, üye devletlerin __________ işlerine karışmamaktı.",
+        "options": [
+          "Ekonomik",
+          "Askeri",
+          "Dış",
+          "İç"
+        ],
+        "correctAnswer": 3,
+        "explanation": "OAU'nun kuruluş ilkelerinden biri, üye devletlerin iç işlerine karışmama prensibiydi; bu durum, birçok iç çatışmada örgütün müdahale yeteneğini sınırlamıştır."
+      },
+      {
+        "id": 11,
+        "text": "Afrika Birliği (AU) ile OAU arasındaki temel farklardan biri nedir?",
+        "options": [
+          "AU'nun merkezi başka bir kıtada bulunması",
+          "AU'nun daha az üye ülkeye sahip olması",
+          "AU'nun barış gücü operasyonları yürütebilme yetkisine sahip olması",
+          "AU'nun sömürgecilik karşıtı mücadeleyi bırakmış olması"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Afrika Birliği (AU), OAU'dan farklı olarak, barış ve güvenlik operasyonları yürütebilme, askeri müdahalede bulunabilme gibi daha geniş yetkilere sahiptir."
+      },
+      {
+        "id": 12,
+        "text": "OAU'nun soğuk savaş döneminde karşılaştığı zorluklardan biri aşağıdakilerden hangisidir?",
+        "options": [
+          "Avrupa Birliği'nin genişlemesi",
+          "Büyük güçlerin Afrika üzerindeki nüfuz mücadeleleri",
+          "Çin'in Afrika'ya yatırımları",
+          "İklim değişikliğinin etkileri"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Soğuk savaş döneminde ABD ve Sovyetler Birliği gibi büyük güçlerin Afrika üzerindeki nüfuz mücadeleleri, OAU'nun tarafsızlığını korumasını ve ortak bir dış politika geliştirmesini zorlaştırmıştır."
+      },
+      {
+        "id": 13,
+        "text": "Afrika Birliği (AU) günümüzde hangi alanda daha aktif bir rol oynamaktadır?",
+        "options": [
+          "Uzay araştırmaları",
+          "Kıtalararası göç düzenlemeleri",
+          "Ekonomik entegrasyon ve demokratik yönetişim",
+          "Kuzey Kutbu araştırmaları"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Afrika Birliği (AU), günümüzde özellikle ekonomik entegrasyonu hızlandırma, demokratik yönetişimi teşvik etme ve insan haklarını koruma gibi alanlarda daha aktif rol oynamaktadır."
+      },
+      {
+        "id": 14,
+        "text": "OAU'nun kurulmasındaki temel motivasyonlardan biri, bağımsızlığını yeni kazanmış Afrika devletleri arasında neyi teşvik etmekti?",
+        "options": [
+          "Askeri rekabet",
+          "Kültürel farklılaşma",
+          "Birlik, dayanışma ve işbirliği",
+          "Ekonomik izolasyon"
+        ],
+        "correctAnswer": 2,
+        "explanation": "OAU'nun temel motivasyonu, yeni bağımsızlığını kazanmış Afrika ülkeleri arasında birliği, dayanışmayı ve her alanda işbirliğini geliştirmekti."
+      },
+      {
+        "id": 15,
+        "text": "Afrika Birliği'nin (AU) kuruluşu hangi küresel dinamiklere bir yanıt olarak ortaya çıkmıştır?",
+        "options": [
+          "Sömürgeciliğin yeniden canlanması",
+          "Küresel ısınmanın etkileri",
+          "Küreselleşme, terör ve ekonomik kalkınma ihtiyacı",
+          "Uzay yarışının hızlanması"
+        ],
+        "correctAnswer": 2,
+        "explanation": "AU'nun kurulması, küreselleşme, terör, iklim değişikliği ve ekonomik kalkınma ihtiyacı gibi 21. yüzyılın getirdiği yeni zorluklara karşı daha güçlü ve entegre bir yanıt verme ihtiyacından doğmuştur."
+      }
+    ]
   }
 ];
