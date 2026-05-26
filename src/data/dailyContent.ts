@@ -3497,5 +3497,210 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Mars Odyssey, Birleşik Devletler'in Ulusal Havacılık ve Uzay İdaresi (NASA) tarafından yürütülen bir görevdir."
       }
     ]
+  },
+  {
+    "slug": "gotik-korkunun-ikonu-bram-stokerin-draculasi-yayimlandi",
+    "dateId": "2026-05-26",
+    "title": "Gotik Korkunun İkonu: Bram Stoker'ın 'Dracula'sı ve Mirası | GenelKultur",
+    "description": "Bram Stoker'ın ölümsüz eseri Dracula'nın 26 Mayıs 1897'de yayımlanışının 127. yıl dönümünde, gotik korku edebiyatının bu başyapıtının nasıl ortaya çıktığını, vampir mitini nasıl şekillendirdiğini ve dünya kültüründeki derin etkilerini keşfedin.",
+    "keywords": [
+      "Dracula",
+      "Bram Stoker",
+      "vampir",
+      "gotik edebiyat",
+      "korku romanı",
+      "Transilvanya",
+      "Kont Dracula",
+      "1897",
+      "edebiyat tarihi",
+      "Bram Stoker Dracula",
+      "vampir mitolojisi"
+    ],
+    "heading": "Gotik Korkunun İkonu: Bram Stoker'ın 'Dracula'sı Yayımlandı",
+    "intro": "Mayıs 1897'nin sonlarına doğru, gotik edebiyat dünyasında bir dönüm noktası yaşandı. İrlandalı yazar Bram Stoker'ın 'Dracula' adlı romanı, ilk kez okuyucularla buluşarak sadece edebiyatı değil, tüm popüler kültürü derinden etkileyecek bir fenomenin kapılarını araladı. Yayımlandığı günden itibaren eleştirmenlerden ve okuyuculardan karışık tepkiler alsa da, zamanla bir klasik haline geldi ve vampir mitini modern dünyaya taşıyan en ikonik eserlerden biri olarak tarihe geçti. Stoker'ın bu başyapıtı, korku edebiyatının en bilinen figürlerinden Kont Dracula'yı yaratarak, karanlık ve gizemli bir dünyayı okuyucuların zihnine kazıdı.",
+    "article": "Bram Stoker'ın 'Dracula' romanı, 26 Mayıs 1897'de yayımlandığında, Viktorya dönemi İngiltere'sinde hızla dikkatleri üzerine çekti. Yazarın detaylı araştırmaları ve güçlü hayal gücüyle harmanladığı bu eser, okuyucuları Transilvanya'nın ürpertici şatolarından Londra'nın sisli sokaklarına uzanan destansı bir korku yolculuğuna çıkardı. Kont Dracula'nın karizmatik ama ürkütücü karakteri, ölümsüzlük arayışı ve insanlık üzerindeki hakimiyet kurma çabası, edebiyat tarihinde eşi benzeri görülmemiş bir kötü adam portresi çizdi. Roman, o dönemin toplumsal kaygılarını, batıl inançların gücünü ve bilimin bu korkular karşısındaki mücadelesini ustaca harmanlayarak, sadece bir korku hikayesi olmaktan öteye geçti.\n\nStoker, romanını yazarken çeşitli kaynaklardan ilham aldı. En bilineni, 15. yüzyılda Eflak Prensi olarak yaşamış ve düşmanlarına karşı acımasızlığıyla tanınan Vlad III Tepeş, yani Kazıklı Voyvoda'dır. Stoker'ın araştırmaları, vampir inanışlarının kökenlerine inmesini ve Doğu Avrupa folklorundaki bu korkutucu figürleri Batı okuyucusuyla tanıştırmasını sağladı. Kitap, yalnızca tarihten ve folklorik öğelerden beslenmekle kalmadı, aynı zamanda Viktorya döneminin bilimsel ilerlemeler, cinsel baskılar ve dini inançlar arasındaki gerilimli atmosferini de yansıttı. Romanın epistolar yapısı – yani günlükler, mektuplar ve gazete kupürleri aracılığıyla anlatılması – okuyucuya hikayenin gerçekliğine dair ürpertici bir his verdi.\n\n'Dracula', sadece bir korku hikayesi olmanın ötesinde, iyi ve kötü, eski dünya ile modernite, inanç ve şüphecilik gibi derin temaları işler. Kont Dracula'nın ölümsüzlüğe ve gençleşmeye olan arayışı, insanlığın varoluşsal korkularını ve arzularını sembolize eder. Romanın yayınlanışından bu yana geçen 127 yılda, Dracula karakteri ve Stoker'ın yarattığı evren, sayısız tiyatro oyununa, filme, televizyon dizisine, çizgi romana ve hatta video oyununa konu oldu. Bela Lugosi'den Christopher Lee'ye, Gary Oldman'dan Robert Pattinson'a kadar birçok aktör, Kont Dracula'yı beyazperdeye taşıdı. Stoker'ın eseri, vampir arketipini küresel bilince yerleştirdi ve gotik korku edebiyatının temel taşlarından biri olarak kültürel mirasımızdaki yerini sağlamlaştırdı. Bugün bile 'Dracula', okuyucularını karanlığın derinliklerine çekmeye devam eden, zamanın ötesinde bir başyapıt olmayı sürdürüyor.",
+    "category": "sanat",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Bram Stoker'ın 'Dracula' romanı hangi yıl yayımlanmıştır?",
+        "options": [
+          "1887",
+          "1897",
+          "1907",
+          "1917"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Dracula' romanı, İrlandalı yazar Bram Stoker tarafından 26 Mayıs 1897 tarihinde yayımlanmıştır."
+      },
+      {
+        "id": 2,
+        "text": "'Dracula' romanının yazarı kimdir?",
+        "options": [
+          "Mary Shelley",
+          "Edgar Allan Poe",
+          "Bram Stoker",
+          "H.P. Lovecraft"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Romanın yaratıcısı ve gotik korku edebiyatının önemli isimlerinden biri olan Bram Stoker'dır."
+      },
+      {
+        "id": 3,
+        "text": "Kont Dracula karakterinin temel ilham kaynaklarından biri olan tarihi figür kimdir?",
+        "options": [
+          "Fatih Sultan Mehmet",
+          "Vlad III Tepeş",
+          "Cengiz Han",
+          "Attila"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Bram Stoker, Kont Dracula karakterini yaratırken 15. yüzyıl Eflak Prensi Vlad III Tepeş'in (Kazıklı Voyvoda) acımasızlığından ve tarihindeki bazı detaylardan esinlenmiştir."
+      },
+      {
+        "id": 4,
+        "text": "'Dracula' romanı hangi edebiyat akımının önemli bir örneğidir?",
+        "options": [
+          "Romantizm",
+          "Realizm",
+          "Gotik Edebiyat",
+          "Sembolizm"
+        ],
+        "correctAnswer": 2,
+        "explanation": "'Dracula', karanlık atmosferi, doğaüstü unsurları ve korku temalarıyla gotik edebiyatın en bilinen ve etkili eserlerinden biridir."
+      },
+      {
+        "id": 5,
+        "text": "Romanın ana anlatım tekniği nedir?",
+        "options": [
+          "Birinci tekil şahıs",
+          "Üçüncü tekil şahıs",
+          "Diyaloglar",
+          "Epistolar (mektuplar, günlükler)"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Roman, karakterlerin yazdığı günlükler, mektuplar, gemi kayıtları ve gazete kupürleri gibi belgeler aracılığıyla anlatılan epistolar bir yapıya sahiptir."
+      },
+      {
+        "id": 6,
+        "text": "Kont Dracula'nın yaşadığı ve Jonathan Harker'ın ziyaret ettiği bölge neresidir?",
+        "options": [
+          "Venedik",
+          "Transilvanya",
+          "Paris",
+          "Londra"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Kont Dracula'nın şatosu ve hikayenin başlangıcı, Karpat Dağları'nda yer alan gizemli Transilvanya bölgesinde geçer."
+      },
+      {
+        "id": 7,
+        "text": "Romanda Kont Dracula'nın avcısı olarak bilinen karakter kimdir?",
+        "options": [
+          "Sherlock Holmes",
+          "Dr. John Watson",
+          "Abraham Van Helsing",
+          "Dr. Jekyll"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Profesör Abraham Van Helsing, Kont Dracula'yı durdurmak için uluslararası bir ekibe liderlik eden Hollandalı bir metafizikçi ve doktordur."
+      },
+      {
+        "id": 8,
+        "text": "Dracula'nın modern vampir mitolojisine en önemli katkılarından biri aşağıdakilerden hangisidir?",
+        "options": [
+          "Gündüzleri uçabilmesi",
+          "Sadece kadınlara saldırması",
+          "Kan emerek ölümsüzleşmesi",
+          "Gümüş kurşunla ölmesi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Stoker'ın romanı, vampirlerin kan emerek yaşamlarını sürdürdüğü ve kurbanlarını da vampire dönüştürdüğü fikrini popülerleştirerek modern vampir mitolojisini derinden etkilemiştir."
+      },
+      {
+        "id": 9,
+        "text": "Romanın kahramanlarından ve Kont Dracula'ya karşı mücadele eden genç avukatın adı nedir?",
+        "options": [
+          "Arthur Holmwood",
+          "Quincey Morris",
+          "Jonathan Harker",
+          "Dr. Seward"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Jonathan Harker, Transilvanya'ya Kont Dracula'nın Londra'daki mülk satışıyla ilgili işlemleri tamamlamak için giden ve romanın başlangıcında olayları başlatan genç avukattır."
+      },
+      {
+        "id": 10,
+        "text": "'Dracula' romanı, yayınlandığı dönemdeki hangi toplumsal ve bilimsel kaygıları yansıtır?",
+        "options": [
+          "Endüstri devrimi etkileri",
+          "Uzay keşifleri merakı",
+          "Cinsel baskılar ve bilimsel ilerlemeler",
+          "Dünya savaşları endişesi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Roman, Viktorya dönemi İngiltere'sinin cinsel baskıları, batıl inançlarla bilimsel gelişmeler arasındaki çatışma ve kadının toplumdaki yeri gibi temaları ustalıkla işler."
+      },
+      {
+        "id": 11,
+        "text": "Dracula'nın sinema tarihindeki ilk önemli adaptasyonlarından biri genellikle hangi filmle ilişkilendirilir (telif hakkı sorunları yaşasa da)?",
+        "options": [
+          "Dracula (1931)",
+          "Nosferatu (1922)",
+          "Horror of Dracula (1958)",
+          "Bram Stoker's Dracula (1992)"
+        ],
+        "correctAnswer": 1,
+        "explanation": "F.W. Murnau'nun 'Nosferatu' filmi, telif hakkı sorunları nedeniyle karakter ve isim değişiklikleri yaparak çekilmiş olsa da, 'Dracula'nın ilk ve en ikonik sinema adaptasyonlarından biri olarak kabul edilir."
+      },
+      {
+        "id": 12,
+        "text": "Bram Stoker hangi ülkenin vatandaşıdır?",
+        "options": [
+          "İngiltere",
+          "İskoçya",
+          "İrlanda",
+          "Galler"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bram Stoker, 8 Kasım 1847'de Dublin, İrlanda'da doğmuş ve hayatının önemli bir kısmını orada geçirmiştir."
+      },
+      {
+        "id": 13,
+        "text": "Dracula romanında Mina Harker'ın rolü nedir?",
+        "options": [
+          "Kont Dracula'nın ilk kurbanı",
+          "Jonathan Harker'ın eşi ve ekibin en zeki üyelerinden biri",
+          "Kont Dracula'ya gönüllü hizmet eden bir vampir",
+          "Van Helsing'in öğrencisi"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Mina Harker, Jonathan Harker'ın eşidir ve zekası, organizasyon yeteneği ve Kont Dracula ile kurduğu telepatik bağ sayesinde vampir avcısı ekibine önemli katkılarda bulunur."
+      },
+      {
+        "id": 14,
+        "text": "Aşağıdakilerden hangisi 'Dracula'nın kültürel mirasına bir örnek değildir?",
+        "options": [
+          "Sayısız film ve televizyon adaptasyonu",
+          "Gotik edebiyatın popülerleşmesi",
+          "Vampir mitolojisinin evrenselleşmesi",
+          "Mars'a gönderilen uzay aracı ismi olması"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Dracula'nın kültürel etkisi filmler, edebiyat, tiyatro ve vampir mitolojisi üzerinde görülse de, Mars'a gönderilen bir uzay aracına isminin verilmesi gibi bir durum söz konusu değildir."
+      },
+      {
+        "id": 15,
+        "text": "'Dracula' romanında Kont Dracula'yı durdurmak için kullanılan geleneksel yöntemlerden biri aşağıdakilerden hangisidir?",
+        "options": [
+          "Güneş ışığı, sarımsak, kutsal su ve haç",
+          "Ayna karşısında büyü yapmak",
+          "Yüksek sesli müzik çalmak",
+          "Elektrik şoku vermek"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Romanda ve vampir mitolojisinde, Kont Dracula ve diğer vampirleri zayıflatmak veya yok etmek için güneş ışığı, sarımsak, kutsal su, haç gibi unsurlar kullanılır."
+      }
+    ]
   }
 ];
