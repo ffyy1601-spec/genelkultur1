@@ -3086,5 +3086,212 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Şehrin inşasında binlerce savaş esiri ve zorunlu çalıştırılan köylü, çok ağır şartlar altında kullanılmıştır."
       }
     ]
+  },
+  {
+    "slug": "aleksandr-puskin-rus-edebiyatinin-altin-caginin-mimari",
+    "dateId": "2026-05-26",
+    "title": "Aleksandr Puşkin Kimdir? Rus Edebiyatının Güneşi ve Hayatı | GenelKultur",
+    "description": "Rus edebiyatının kurucusu ve modern Rusça'nın babası olarak kabul edilen Aleksandr Puşkin'in hayatını, eserlerini ve edebi mirasını keşfedin.",
+    "keywords": [
+      "Aleksandr Puşkin",
+      "Puşkin",
+      "Rus edebiyatı",
+      "Rus şiiri",
+      "Eugene Onegin",
+      "Boris Godunov",
+      "Yüzbaşının Kızı",
+      "Altın Balık Masalı",
+      "Romantizm",
+      "Rusça",
+      "şair",
+      "yazar",
+      "26 Mayıs"
+    ],
+    "heading": "Aleksandr Puşkin: Rus Edebiyatının Altın Çağının Mimarı",
+    "intro": "19. yüzyılın başlarında Rusya'da doğan ve kısa ama dolu dolu bir hayat süren Aleksandr Puşkin, sadece bir şair olmanın ötesinde, modern Rus edebiyatının ve dilinin temellerini atan eşsiz bir figürdür. Puşkin, eserleriyle Rus ruhunu, tarihini ve insanlık hallerini derinlemesine işleyerek, adını dünya edebiyatına altın harflerle yazdırmıştır. Onun 26 Mayıs'taki doğum günü, her yıl Rusya'da ve tüm dünyada edebi bir bayram olarak kutlanır.",
+    "article": "Aleksandr Sergeyeviç Puşkin, 6 Haziran 1799 (Jülyen takvimine göre 26 Mayıs) tarihinde Moskova'da soylu bir ailenin çocuğu olarak dünyaya geldi. Erken yaşta okuma tutkusu ve dil yeteneğiyle dikkat çeken Puşkin, Lyceum'daki eğitimi sırasında şiir yazmaya başladı. Fransa İhtilali'nin yankılarının sürdüğü, Avrupa'da romantizm akımının yükseldiği bir dönemde yetişen Puşkin, genç yaşta edebi çevrelere girdi ve siyasi hicivleriyle dikkat çekti. Bu hicivler yüzünden dönemin çarlık yönetimi tarafından sürgüne gönderilmesi, onun edebi gelişimine engel olmak yerine, farklı bölgelerin kültürlerini ve halk hikayelerini tanımasına olanak sağladı.\\n\\nPuşkin'in eserleri, Rusça'nın zenginliğini ve esnekliğini ortaya koyarak, o dönemde sarayda ve üst sınıflar arasında yaygın olan Fransızca yerine, Rusça'nın edebi dil olarak yerleşmesinde kilit bir rol oynadı. Onun \"Yevgeni Onegin\" adlı manzum romanı, Rus edebiyatının en önemli eserlerinden biri kabul edilir ve \"gereksiz insan\" temasını işleyerek Rus roman geleneğine ilham vermiştir. \"Boris Godunov\" adlı trajedisi, Rus tarihini sahneye taşırken, \"Yüzbaşının Kızı\" romanı ise Rus toplumunun farklı kesimlerinden karakterleri ve tarihsel olayları gerçekçi bir şekilde yansıtır.\\n\\nPuşkin'in hayatı trajik bir şekilde sona erdi. Eşinin onurunu korumak amacıyla girdiği bir düelloda, 10 Şubat 1837'de (Jülyen takvimine göre 29 Ocak) aldığı yara sonucu sadece 37 yaşındayken vefat etti. Kısa ömrüne rağmen bıraktığı edebi miras, Gogol, Dostoyevski, Tolstoy gibi sonraki nesil büyük Rus yazarlarını derinden etkilemiş ve Rus edebiyatının \"Altın Çağı\"nın başlangıcı kabul edilmiştir. Puşkin, sadece bir şair değil, aynı zamanda Rus halkının kültürel kimliğinin ve dilinin sembolü haline gelmiştir.",
+    "category": "sanat",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Aleksandr Puşkin hangi şehirde dünyaya gelmiştir?",
+        "options": [
+          "Sankt-Peterburg",
+          "Moskova",
+          "Kiev",
+          "Varşova"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Puşkin, 6 Haziran 1799 tarihinde Moskova'da doğmuştur."
+      },
+      {
+        "id": 2,
+        "text": "Puşkin'in doğum günü Jülyen takvimine göre hangi ayda kutlanır?",
+        "options": [
+          "Nisan",
+          "Mayıs",
+          "Haziran",
+          "Temmuz"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Aleksandr Puşkin, Jülyen takvimine göre 26 Mayıs 1799 tarihinde doğmuştur."
+      },
+      {
+        "id": 3,
+        "text": "Puşkin hangi edebi akımın önemli temsilcilerinden biridir?",
+        "options": [
+          "Klasisizm",
+          "Romantizm",
+          "Realizm",
+          "Sembolizm"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Puşkin, Avrupa'da romantizm akımının yükselişte olduğu bir dönemde yetişmiş ve bu akımın Rusya'daki önemli temsilcilerinden biri olmuştur."
+      },
+      {
+        "id": 4,
+        "text": "Aşağıdaki eserlerden hangisi Puşkin'e ait değildir?",
+        "options": [
+          "Yevgeni Onegin",
+          "Boris Godunov",
+          "Yüzbaşının Kızı",
+          "Savaş ve Barış"
+        ],
+        "correctAnswer": 3,
+        "explanation": "\"Savaş ve Barış\" Lev Tolstoy'a ait bir eserdir. Diğerleri Puşkin'in önemli eserleridir."
+      },
+      {
+        "id": 5,
+        "text": "Puşkin'in \"Yevgeni Onegin\" adlı eseri hangi edebi türdedir?",
+        "options": [
+          "Roman",
+          "Oyun",
+          "Manzum Roman",
+          "Kısa Öykü"
+        ],
+        "correctAnswer": 2,
+        "explanation": "\"Yevgeni Onegin\", Puşkin'in en bilinen eserlerinden biri olan ve Rus edebiyatında önemli bir yer tutan bir manzum romandır."
+      },
+      {
+        "id": 6,
+        "text": "Puşkin, siyasi hicivleri nedeniyle dönemin çarlık yönetimi tarafından ne yapılmıştır?",
+        "options": [
+          "Hapse atılmıştır",
+          "Sürgüne gönderilmiştir",
+          "İdam edilmiştir",
+          "Eserleri yasaklanmıştır"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Puşkin, siyasi hicivleri yüzünden dönemin çarlık yönetimi tarafından Rusya'nın güney bölgelerine sürgüne gönderilmiştir."
+      },
+      {
+        "id": 7,
+        "text": "Puşkin'in eserleri, hangi dilin Rusya'da edebi dil olarak yerleşmesinde kilit rol oynamıştır?",
+        "options": [
+          "Fransızca",
+          "Almanca",
+          "Latince",
+          "Rusça"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Puşkin, o dönemde Fransızca'nın yaygın olduğu soylu çevrelerde, Rusça'nın edebi dil olarak kabul görmesini sağlamıştır."
+      },
+      {
+        "id": 8,
+        "text": "Puşkin'in ölümüne neden olan olay nedir?",
+        "options": [
+          "Hastalık",
+          "Suikast",
+          "Düello",
+          "Kaza"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Puşkin, eşinin onurunu korumak amacıyla girdiği bir düelloda aldığı yara sonucu vefat etmiştir."
+      },
+      {
+        "id": 9,
+        "text": "Puşkin, kaç yaşında vefat etmiştir?",
+        "options": [
+          "27",
+          "37",
+          "47",
+          "57"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Puşkin, 1837 yılında vefat ettiğinde sadece 37 yaşındaydı."
+      },
+      {
+        "id": 10,
+        "text": "Puşkin'in \"Boris Godunov\" adlı eseri hangi konuyu işler?",
+        "options": [
+          "Aşk hikayesi",
+          "Rus tarihi",
+          "Bilim kurgu",
+          "Fantastik macera"
+        ],
+        "correctAnswer": 1,
+        "explanation": "\"Boris Godunov\", Rus tarihinden esinlenerek yazılmış bir trajedidir."
+      },
+      {
+        "id": 11,
+        "text": "\"Gereksiz insan\" teması, hangi Puşkin eserinde işlenmiştir?",
+        "options": [
+          "Yüzbaşının Kızı",
+          "Çingeneler",
+          "Yevgeni Onegin",
+          "Dubrovski"
+        ],
+        "correctAnswer": 2,
+        "explanation": "\"Yevgeni Onegin\", Rus edebiyatında \"gereksiz insan\" temasının ilk ve en önemli örneklerinden biridir."
+      },
+      {
+        "id": 12,
+        "text": "Puşkin hangi yüzyılda yaşamıştır?",
+        "options": [
+          "17. yüzyıl",
+          "18. yüzyıl",
+          "19. yüzyıl",
+          "20. yüzyıl"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Puşkin, 1799 doğumlu olup 1837'de vefat etmiştir, bu da onun 19. yüzyılda yaşadığını gösterir."
+      },
+      {
+        "id": 13,
+        "text": "Aşağıdaki yazarlardan hangisi Puşkin'den etkilenen sonraki nesil Rus yazarlarından biri değildir?",
+        "options": [
+          "Nikolay Gogol",
+          "Fyodor Dostoyevski",
+          "Lev Tolstoy",
+          "Mihail Bulgakov"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Bulgakov, Puşkin'den sonraki bir dönemde yaşamış, 20. yüzyıl Rus edebiyatının önemli isimlerindendir. Diğerleri doğrudan Puşkin'in başlattığı \"Altın Çağ\"ın takipçileridir."
+      },
+      {
+        "id": 14,
+        "text": "Puşkin, hangi unvanla anılmaktadır?",
+        "options": [
+          "Rus Biliminin Babası",
+          "Rus Tiyatrosunun Kurucusu",
+          "Rus Edebiyatının Güneşi",
+          "Rus Resminin Önceli"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Puşkin, Rus edebiyatının kurucusu ve modern Rusça'nın babası olarak kabul edilir ve genellikle \"Rus Edebiyatının Güneşi\" olarak anılır."
+      },
+      {
+        "id": 15,
+        "text": "Puşkin'in sürgün edilmesi, onun edebi gelişimine nasıl bir katkı sağlamıştır?",
+        "options": [
+          "Eserlerinin yasaklanmasına neden olmuştur.",
+          "Farklı bölgelerin kültürlerini ve halk hikayelerini tanımasına olanak sağlamıştır.",
+          "Yazmayı bırakmasına yol açmıştır.",
+          "Yabancı dillere yönelmesine neden olmuştur."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Sürgün dönemleri, Puşkin'in Rusya'nın farklı bölgelerini, halk kültürünü ve folklörünü tanımasına ve bunları eserlerine yansıtmasına yardımcı olmuştur."
+      }
+    ]
   }
 ];
