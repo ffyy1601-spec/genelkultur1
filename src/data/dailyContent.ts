@@ -2882,5 +2882,209 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Kopernik'in helyosentrik modeli, binlerce yıldır kabul görmüş olan Antik Yunanlı astronom Batlamyus'un jeosentrik evren modelini geçersiz kılmıştır."
       }
     ]
+  },
+  {
+    "slug": "sankt-peterburgun-dogusu-buyuk-petronun-vizyonu",
+    "dateId": "2026-05-26",
+    "title": "Bataklıktan Doğan İmparatorluk Başkenti: Sankt-Peterburg'un Kuruluşu | GenelKultur",
+    "description": "Rusya'nın Avrupa'ya açılan penceresi Sankt-Peterburg'un, Büyük Petro tarafından 1703 yılında nasıl kurulduğunu, şehrin mimari özelliklerini ve tarihi önemini keşfedin.",
+    "keywords": [
+      "Sankt-Peterburg",
+      "Petro Büyük",
+      "Rusya tarihi",
+      "Neva Nehri",
+      "Baltık Denizi",
+      "kuruluş",
+      "imparatorluk başkenti",
+      "Avrupa'ya açılan pencere",
+      "Peterhof",
+      "Kışlık Saray"
+    ],
+    "heading": "Sankt-Peterburg'un Doğuşu: Büyük Petro'nun Vizyonu",
+    "intro": "Rusya'nın en görkemli şehirlerinden biri olan Sankt-Peterburg, adeta bataklıklar üzerine inşa edilmiş bir rüya gibidir. 18. yüzyılın başlarında, Büyük Petro'nun vizyonuyla, Avrupa'ya açılan bir kapı ve yeni bir imparatorluk başkenti olarak yükselen bu şehir, kısa sürede mimari ve kültürel bir şaheser haline geldi. Peki, bu büyüleyici metropol nasıl ve hangi zorluklarla kuruldu?",
+    "article": "18. yüzyılın başlarında Rusya, ekonomik ve askeri açıdan Avrupa'nın diğer büyük güçlerinin gerisinde kalmış, Baltık Denizi'ne doğrudan bir erişimi olmayan, izole bir ülkeydi. Genç ve reformcu Çar I. Petro, ülkesini modernleştirmek, Batı medeniyetiyle entegre etmek ve deniz gücünü artırmak amacıyla radikal adımlar atmaya karar verdi. Bu vizyonun en cesur ve iddialı parçalarından biri, İsveç İmparatorluğu'ndan ele geçirilen Neva Nehri deltasındaki bataklık bir arazi üzerine, sıfırdan yeni bir başkent kurma fikriydi. Bu, sadece bir şehir kurmak değil, aynı zamanda Rusya'nın geleceğini şekillendirecek bir jeopolitik hamleydi.\\n\\nSankt-Peterburg'un kuruluşu, 27 Mayıs 1703 tarihinde, Neva Nehri'nin Baltık Denizi'ne döküldüğü noktadaki Zayachi Adası (Tavşan Adası) üzerinde, ilk yapı olan Petro ve Pavel Kalesi'nin temellerinin atılmasıyla başladı. Kuruluş süreci insanüstü çabalar ve büyük fedakarlıklarla doluydu. Binlerce köylü ve savaş esiri, ağır koşullar altında çalışmaya zorlandı. Donmuş toprağı kazmak, bataklıkları doldurmak, kereste taşımak gibi zorlu görevler salgın hastalıklar, açlık ve kötü hava koşulları nedeniyle on binlerce insanın hayatına mal oldu. Ancak Petro, tüm bu zorluklara rağmen projesinden vazgeçmedi; şehri kendi elleriyle, tırnaklarıyla kazıyarak inşa ediyordu.\\n\\nÇar I. Petro, şehri sadece bir askeri üs olarak değil, aynı zamanda bir kültür ve sanat merkezi olarak tasavvur ediyordu. Avrupa'dan mimarlar, mühendisler ve zanaatkarlar getirildi; İtalyan Barok ve Neoklasik mimari tarzları şehre hakim oldu. Geniş bulvarlar, kanallar, görkemli saraylar ve bahçeler inşa edildi. Petro'nun yazlık sarayı Peterhof ve daha sonra inşa edilecek olan Kışlık Saray, bu mimari şaheserlerin en bilinen örneklerindendir. 1712 yılında Rusya'nın başkenti ilan edilen Sankt-Peterburg, iki yüzyıldan fazla bir süre bu statüyü korudu ve Rus İmparatorluğu'nun \"Avrupa'ya Açılan Penceresi\" olarak anıldı. Bugün bile, muhteşem mimarisi, zengin kültürel mirası ve büyüleyici atmosferiyle dünyanın en önemli şehirlerinden biri olmaya devam etmektedir.",
+    "category": "tarih",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Sankt-Peterburg şehri hangi tarihte kurulmuştur?",
+        "options": [
+          "1603",
+          "1703",
+          "1803",
+          "1903"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Sankt-Peterburg, 27 Mayıs 1703 tarihinde Büyük Petro tarafından kurulmuştur."
+      },
+      {
+        "id": 2,
+        "text": "Sankt-Peterburg'u kuran Rus çarı kimdir?",
+        "options": [
+          "II. Katerina",
+          "IV. İvan",
+          "I. Petro",
+          "II. Nikola"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Şehir, Rus İmparatorluğu'nun modernleşme vizyonunu benimseyen Büyük Petro (I. Petro) tarafından kurulmuştur."
+      },
+      {
+        "id": 3,
+        "text": "Şehrin ilk yapısı olan Petro ve Pavel Kalesi hangi adanın üzerine inşa edilmiştir?",
+        "options": [
+          "Vasilievski Adası",
+          "Krestovski Adası",
+          "Zayachi (Tavşan) Adası",
+          "Kamenniy Adası"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Petro ve Pavel Kalesi, Neva Nehri deltasındaki Zayachi (Tavşan) Adası üzerine inşa edilen ilk yapıdır."
+      },
+      {
+        "id": 4,
+        "text": "Sankt-Peterburg hangi nehrin deltasında kurulmuştur?",
+        "options": [
+          "Volga Nehri",
+          "Don Nehri",
+          "Neva Nehri",
+          "Moskova Nehri"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Şehir, Baltık Denizi'ne dökülen Neva Nehri'nin bataklık deltasında konumlanmıştır."
+      },
+      {
+        "id": 5,
+        "text": "Büyük Petro'nun Sankt-Peterburg'u kurmasındaki temel amaçlarından biri aşağıdakilerden hangisidir?",
+        "options": [
+          "Rusya'nın güney sınırlarını güçlendirmek",
+          "Avrupa ile kara ticaretini geliştirmek",
+          "Baltık Denizi'ne erişim sağlamak ve Avrupa'ya açılmak",
+          "Sibirya'daki kaynakları kontrol altına almak"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Petro'nun en önemli amaçlarından biri, ülkesine Baltık Denizi'nde bir liman kazandırarak Avrupa ile deniz yoluyla bağlantı kurmaktı."
+      },
+      {
+        "id": 6,
+        "text": "Sankt-Peterburg'un inşası sırasında en büyük zorluklardan biri aşağıdakilerden hangisiydi?",
+        "options": [
+          "İsveç ordusunun sürekli saldırıları",
+          "Nitelikli işçi bulma sıkıntısı",
+          "Çöl iklimi ve su kıtlığı",
+          "Bataklık arazi, hastalıklar ve zorlu çalışma koşulları"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Şehrin bataklık bir araziye inşa edilmesi, soğuk iklim, salgın hastalıklar ve ağır çalışma koşulları binlerce işçinin hayatına mal olmuştur."
+      },
+      {
+        "id": 7,
+        "text": "Sankt-Peterburg, Rus İmparatorluğu'nun başkenti olarak ne kadar süre hizmet vermiştir?",
+        "options": [
+          "Yaklaşık 50 yıl",
+          "Yaklaşık 100 yıl",
+          "İki yüzyıldan fazla",
+          "300 yıldan fazla"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Şehir, 1712'den 1918'e kadar, yani iki yüzyıldan fazla bir süre Rusya'nın başkenti olmuştur."
+      },
+      {
+        "id": 8,
+        "text": "Şehrin mimarisinde hangi Avrupa tarzları etkili olmuştur?",
+        "options": [
+          "Gotik ve Romanesk",
+          "Rönesans ve Barok",
+          "İtalyan Barok ve Neoklasik",
+          "Art Nouveau ve Art Deco"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Büyük Petro, Avrupalı mimarları şehre davet ederek İtalyan Barok ve daha sonra Neoklasik tarzların şehrin siluetinde hakim olmasını sağlamıştır."
+      },
+      {
+        "id": 9,
+        "text": "Petro ve Pavel Kalesi'nin orijinal işlevi nedir?",
+        "options": [
+          "Çarın yazlık konutu",
+          "Bir ticaret merkezi",
+          "Askeri bir tahkimat ve hapishane",
+          "Sanat galerisi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kale, şehrin denizden gelecek saldırılara karşı korunması amacıyla inşa edilmiş ve daha sonra önemli siyasi mahkumlar için bir hapishane olarak da kullanılmıştır."
+      },
+      {
+        "id": 10,
+        "text": "Sankt-Peterburg için kullanılan meşhur lakaplardan biri aşağıdakilerden hangisidir?",
+        "options": [
+          "Asya'ya Açılan Kapı",
+          "Karlar Ülkesinin Kalbi",
+          "Avrupa'ya Açılan Pencere",
+          "Doğu'nun İncisi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Büyük Petro'nun Batılaşma politikaları doğrultusunda kurulan şehir, Rusya'nın Avrupa'ya açılan bir kapısı ve penceresi olarak görülmüştür."
+      },
+      {
+        "id": 11,
+        "text": "Büyük Petro'nun şehrin inşası için Avrupa'dan getirttiği uzmanlar arasında kimler bulunuyordu?",
+        "options": [
+          "Sadece askeri stratejistler",
+          "Tarım uzmanları ve çiftçiler",
+          "Mimarlar, mühendisler ve zanaatkarlar",
+          "Din adamları ve filozoflar"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Petro, şehri modern ve Avrupai bir başkent yapmak amacıyla Avrupa'dan çeşitli uzmanları, özellikle de mimar ve mühendisleri getirtti."
+      },
+      {
+        "id": 12,
+        "text": "Sankt-Peterburg, Baltık Denizi'ne olan konumu itibarıyla hangi ülkeye karşı bir avantaj sağlamayı amaçlamıştır?",
+        "options": [
+          "Osmanlı İmparatorluğu",
+          "Polonya-Litvanya Birliği",
+          "İsveç İmparatorluğu",
+          "Avusturya İmparatorluğu"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Şehir, Kuzey Savaşı sırasında İsveç'ten ele geçirilen topraklara inşa edilmiş olup, Rusya'nın Baltık'taki İsveç hegemonyasına son verme arayışının bir parçasıydı."
+      },
+      {
+        "id": 13,
+        "text": "Şehirde inşa edilen ve Petro'nun yazlık sarayı olarak bilinen ünlü yapı hangisidir?",
+        "options": [
+          "Kışlık Saray",
+          "Ermitaj Müzesi",
+          "Peterhof Sarayı",
+          "Kazan Katedrali"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Peterhof Sarayı, Fransız Versay Sarayı'ndan esinlenilerek inşa edilmiş, görkemli çeşmeleri ve bahçeleriyle bilinen Büyük Petro'nun yazlık ikametgahıdır."
+      },
+      {
+        "id": 14,
+        "text": "Sankt-Peterburg'un ilk adı, kuruluşunda hangi azizin adına atfen verilmiştir?",
+        "options": [
+          "Aziz George",
+          "Aziz Nicholas",
+          "Aziz Peter",
+          "Aziz Andrew"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Şehrin adı, İsa'nın on iki havarisinden biri olan ve Petro'nun adaşı Aziz Peter'a atfen verilmiştir."
+      },
+      {
+        "id": 15,
+        "text": "Sankt-Peterburg'un kuruluşu sırasında kullanılan insan gücünün büyük bir kısmı kimlerden oluşuyordu?",
+        "options": [
+          "Gönüllü Avrupalı işçiler",
+          "Özgür Rus köylüleri",
+          "Savaş esirleri ve zorunlu çalıştırılan köylüler",
+          "Profesyonel askeri birlikler"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Şehrin inşasında binlerce savaş esiri ve zorunlu çalıştırılan köylü, çok ağır şartlar altında kullanılmıştır."
+      }
+    ]
   }
 ];
