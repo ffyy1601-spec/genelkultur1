@@ -310,4 +310,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/dogunun-aydinlik-yuzu-azerbaycan-demokratik-cumhuriyetinin-dogusu</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/dogunun-aydinlik-yuzu-azerbaycan-demokratik-cumhuriyetinin-dogusu/oyna</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>

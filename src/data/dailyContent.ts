@@ -4110,5 +4110,209 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Uluslararası Af Örgütü'nün Türkiye'de de aktif bir şubesi (Amnesty International Turkey) bulunmaktadır ve insan hakları konularında çalışmalar yürütmektedir."
       }
     ]
+  },
+  {
+    "slug": "dogunun-aydinlik-yuzu-azerbaycan-demokratik-cumhuriyetinin-dogusu",
+    "dateId": "2026-05-27",
+    "title": "Azerbaycan Demokratik Cumhuriyeti'nin Kuruluşu: Doğu'daki İlk Türk Cumhuriyeti | GenelKultur",
+    "description": "28 Mayıs 1918'de ilan edilen Azerbaycan Demokratik Cumhuriyeti, Doğu'nun ilk laik demokratik Türk devleti olarak tarihe geçti. Kuruluşu, mirası ve önemi hakkında bilgi edinin.",
+    "keywords": [
+      "Azerbaycan Demokratik Cumhuriyeti",
+      "28 Mayıs 1918",
+      "İlk Türk Cumhuriyeti",
+      "Müsavat Partisi",
+      "Azerbaycan tarihi",
+      "bağımsızlık",
+      "Fatih Han Hoyski",
+      "Tiflis",
+      "Doğu'nun ilk cumhuriyeti",
+      "Kafkasya"
+    ],
+    "heading": "Doğu'nun Aydınlık Yüzü: Azerbaycan Demokratik Cumhuriyeti'nin Doğuşu",
+    "intro": "Tarih sahnesinde önemli bir dönüm noktası olan 28 Mayıs 1918, sadece Azerbaycan için değil, tüm Türk dünyası ve Doğu coğrafyası için derin anlamlar taşır. Birinci Dünya Savaşı'nın çalkantıları ve Rus İmparatorluğu'nun yıkılışının ardından, Kafkaslar'da bağımsızlık rüzgarları eserken, Azerbaycanlı aydınlar ve siyasetçiler, modern bir cumhuriyet kurma vizyonuyla harekete geçti. Bu tarih, Doğu'da kurulmuş ilk laik demokratik Türk Cumhuriyeti'nin doğuşuna tanıklık edecekti.",
+    "article": "Birinci Dünya Savaşı'nın sonlarına doğru, Rus İmparatorluğu'nun çöküşü ve ardından gelen Ekim Devrimi, Güney Kafkasya'da büyük bir boşluk yarattı. Bu durum, bölgedeki halklara kendi kaderlerini tayin etme fırsatı sundu. Gürcü, Ermeni ve Azerbaycanlı liderler, 22 Nisan 1918'de Transkafkasya Federatif Cumhuriyeti'ni kurmuş olsalar da, iç anlaşmazlıklar ve farklı dış politika yönelimleri nedeniyle bu federasyon kısa sürede dağıldı. Azerbaycanlı siyasetçiler, özellikle Müsavat Partisi önderliğinde, bağımsız bir devlet kurma hedefini benimsedi.\n\n28 Mayıs 1918'de, Tiflis'te toplanan Azerbaycan Milli Şurası, Fatih Han Hoyski başkanlığında Azerbaycan Demokratik Cumhuriyeti'nin bağımsızlığını ilan etti. Bu ilan, Müslüman Doğu'sunda kurulan ilk parlamenter cumhuriyet olma özelliğini taşıyordu. Yeni cumhuriyet, sadece siyasi bağımsızlığı değil, aynı zamanda demokratik değerleri, laikliği, çok partili sistemi, kadınlara seçme ve seçilme hakkı tanımayı ve farklı etnik grupların haklarını güvence altına almayı da benimsedi. Bayrağında mavi renk Türkçülüğü, kırmızı renk çağdaşlığı ve yeşil renk İslam'ı temsil ediyordu; ortasındaki ay-yıldız ise bağımsızlık ve Türk milletini simgeliyordu.\n\nAncak, Azerbaycan Demokratik Cumhuriyeti'nin ömrü kısa sürdü. Yaklaşık 23 ay varlığını sürdüren bu genç cumhuriyet, zorlu iç ve dış koşullarla mücadele etmek zorunda kaldı. Bolşevik Rusya'nın genişleme politikaları ve bölgedeki jeopolitik rekabet, cumhuriyetin bağımsızlığını tehdit etti. Nisan 1920'de Kızıl Ordu'nun Azerbaycan'ı işgaliyle, Azerbaycan Demokratik Cumhuriyeti varlığına son verdi ve yerini Azerbaycan Sovyet Sosyalist Cumhuriyeti'ne bıraktı. Kısa ömrüne rağmen, ADC, modern Azerbaycan devletinin temellerini atmış, ulusal kimliğin güçlenmesine katkıda bulunmuş ve gelecekteki bağımsızlık mücadelesine ilham kaynağı olmuştur. Günümüz Azerbaycan Cumhuriyeti, kendisini bu ilk bağımsız devletin mirasçısı olarak görmektedir.",
+    "category": "tarih",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Azerbaycan Demokratik Cumhuriyeti (ADC) hangi tarihte ilan edilmiştir?",
+        "options": [
+          "23 Nisan 1920",
+          "28 Mayıs 1918",
+          "15 Eylül 1918",
+          "18 Ekim 1991"
+        ],
+        "correctAnswer": 1,
+        "explanation": "ADC, 28 Mayıs 1918 tarihinde Tiflis'te Azerbaycan Milli Şurası tarafından bağımsızlığını ilan etmiştir."
+      },
+      {
+        "id": 2,
+        "text": "Azerbaycan Demokratik Cumhuriyeti'nin ilan edildiği şehir neresidir?",
+        "options": [
+          "Bakü",
+          "Gence",
+          "Şuşa",
+          "Tiflis"
+        ],
+        "correctAnswer": 3,
+        "explanation": "ADC'nin bağımsızlığı, dönemin Transkafkasya Federatif Cumhuriyeti'nin merkezi olan Tiflis'te ilan edilmiştir."
+      },
+      {
+        "id": 3,
+        "text": "Azerbaycan Demokratik Cumhuriyeti, hangi özelliği ile Doğu'daki diğer devletlerden ayrılır?",
+        "options": [
+          "İlk petrol devleti olması",
+          "İlk sosyalist cumhuriyet olması",
+          "İlk laik demokratik Türk cumhuriyeti olması",
+          "İlk komünist parti kuran devlet olması"
+        ],
+        "correctAnswer": 2,
+        "explanation": "ADC, Müslüman Doğu'sunda kurulan ilk laik ve demokratik özelliklere sahip Türk cumhuriyeti olarak tarihe geçmiştir."
+      },
+      {
+        "id": 4,
+        "text": "ADC'nin kurulmasına yol açan başlıca uluslararası olaylar hangileridir?",
+        "options": [
+          "Sanayi Devrimi ve Fransız İhtilali",
+          "II. Dünya Savaşı ve Soğuk Savaş",
+          "Birinci Dünya Savaşı ve Rus İmparatorluğu'nun yıkılışı",
+          "Balkan Savaşları ve Osmanlı'nın gerilemesi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Rus İmparatorluğu'nun çöküşü ve ardından gelen Ekim Devrimi, Kafkasya'da bir iktidar boşluğu yaratmış ve bağımsızlık ilanlarının önünü açmıştır."
+      },
+      {
+        "id": 5,
+        "text": "Azerbaycan Demokratik Cumhuriyeti'nin kurucu liderlerinden ve ilk başbakanı kimdir?",
+        "options": [
+          "Mehmed Emin Resulzade",
+          "Neriman Nerimanov",
+          "Fatih Han Hoyski",
+          "Ebülfez Elçibey"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Fatih Han Hoyski, Azerbaycan Milli Şurası'nın başkanı olarak ADC'nin bağımsızlığını ilan eden önemli figürlerden biri ve ilk başbakanıdır."
+      },
+      {
+        "id": 6,
+        "text": "ADC'nin bayrağındaki renkler (mavi, kırmızı, yeşil) sırasıyla hangi anlamları taşır?",
+        "options": [
+          "Özgürlük, eşitlik, kardeşlik",
+          "Türkçülük, çağdaşlık, İslam",
+          "Cumhuriyet, ulus, vatan",
+          "Barış, refah, adalet"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Mavi renk Türkçülüğü, kırmızı renk çağdaşlığı ve yeşil renk İslam'ı temsil etmektedir."
+      },
+      {
+        "id": 7,
+        "text": "Azerbaycan Demokratik Cumhuriyeti'nin siyasi yaşamında etkili olan ve bağımsızlık mücadelesini yürüten başlıca siyasi parti hangisidir?",
+        "options": [
+          "Komünist Parti",
+          "Halk Cephesi",
+          "Müsavat Partisi",
+          "Sosyal Demokrat Parti"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Azerbaycan Demokratik Cumhuriyeti'nin kuruluşunda ve yönetiminde en etkili siyasi güç Müsavat Partisi olmuştur."
+      },
+      {
+        "id": 8,
+        "text": "ADC'nin önemli demokratik adımlarından biri aşağıdakilerden hangisidir?",
+        "options": [
+          "Tek partili sistemin benimsenmesi",
+          "Kadınlara seçme ve seçilme hakkı verilmesi",
+          "Şeriat mahkemelerinin kurulması",
+          "Köleliğin kaldırılması"
+        ],
+        "correctAnswer": 1,
+        "explanation": "ADC, o dönemde dünyanın birçok ülkesinden önce kadınlara tam siyasi haklar tanıyarak önemli bir demokratik adım atmıştır."
+      },
+      {
+        "id": 9,
+        "text": "Azerbaycan Demokratik Cumhuriyeti'nin bağımsızlığına ne zaman ve hangi olayla son verilmiştir?",
+        "options": [
+          "1919 Paris Barış Konferansı ile",
+          "1922 Lozan Antlaşması ile",
+          "1920 Nisan ayında Kızıl Ordu'nun işgali ile",
+          "1923 Türkiye Cumhuriyeti'nin ilanı ile"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Yaklaşık 23 ay varlığını sürdüren ADC, 1920 Nisan ayında Bolşevik Rusya'nın Kızıl Ordusu tarafından işgal edilerek ortadan kaldırılmıştır."
+      },
+      {
+        "id": 10,
+        "text": "ADC kurulmadan önce Azerbaycanlı liderler, Gürcüler ve Ermenilerle birlikte hangi kısa ömürlü devleti kurmuştu?",
+        "options": [
+          "Transkafkasya Sovyet Federatif Sosyalist Cumhuriyeti",
+          "Güney Kafkasya Birliği",
+          "Transkafkasya Federatif Cumhuriyeti",
+          "Kafkasya Emirliği"
+        ],
+        "correctAnswer": 2,
+        "explanation": "ADC'nin ilanından kısa bir süre önce, bölge halkları bağımsızlıklarını ilan etmek üzere Transkafkasya Federatif Cumhuriyeti'ni kurmuş ancak bu birlik kısa ömürlü olmuştur."
+      },
+      {
+        "id": 11,
+        "text": "Azerbaycan Demokratik Cumhuriyeti'nin bağımsızlık ilanı döneminde, başkenti geçici olarak hangi şehir olmuştur?",
+        "options": [
+          "Bakü",
+          "Gence",
+          "Nahçıvan",
+          "Lenkeran"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Bolşeviklerin Bakü üzerindeki kontrolü nedeniyle, ADC hükümeti başlangıçta Gence'yi geçici başkent olarak kullanmıştır."
+      },
+      {
+        "id": 12,
+        "text": "ADC'nin mirası, günümüz Azerbaycan Cumhuriyeti için ne ifade etmektedir?",
+        "options": [
+          "Sömürgecilik dönemini",
+          "Sovyetler Birliği'ne geçişi",
+          "Modern Azerbaycan devletinin temellerini",
+          "Monarşiye dönüş özlemini"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Günümüz Azerbaycan Cumhuriyeti, kendisini Azerbaycan Demokratik Cumhuriyeti'nin doğal mirasçısı olarak görmekte ve onun ilkelerini benimsemektedir."
+      },
+      {
+        "id": 13,
+        "text": "ADC döneminde eğitimin gelişmesi için atılan önemli adımlardan biri nedir?",
+        "options": [
+          "Yabancı okulların kapatılması",
+          "Rusça eğitimin zorunlu hale getirilmesi",
+          "Bakü Devlet Üniversitesi'nin kurulması",
+          "Medreselerin tek eğitim kurumu olması"
+        ],
+        "correctAnswer": 2,
+        "explanation": "ADC hükümeti, 1919'da Bakü Devlet Üniversitesi'ni kurarak modern eğitime büyük önem vermiştir."
+      },
+      {
+        "id": 14,
+        "text": "Azerbaycan Demokratik Cumhuriyeti'nin kısa ömrüne rağmen, bağımsızlık mücadelesi ve ulusal kimlik üzerindeki etkisi nasıldır?",
+        "options": [
+          "Önemsizdir ve unutulmuştur",
+          "Bölgesel çatışmaları artırmıştır",
+          "Ulusal kimliğin güçlenmesine ve gelecekteki bağımsızlık mücadelesine ilham kaynağı olmuştur",
+          "Yalnızca ekonomik reformlara odaklanmıştır"
+        ],
+        "correctAnswer": 2,
+        "explanation": "ADC, kısa sürmesine rağmen Azerbaycan halkının ulusal bilincinin oluşmasında ve bağımsızlık idealinin pekişmesinde kritik bir rol oynamıştır."
+      },
+      {
+        "id": 15,
+        "text": "ADC'nin bayrağında yer alan ay ve sekiz köşeli yıldız neyi simgeler?",
+        "options": [
+          "İslam'ın beş şartını",
+          "Türk boylarının sayısını",
+          "Sekiz Türk milletini",
+          "Bağımsızlık ve Türk milletini"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Bayraktaki ay, genellikle bağımsızlığı ve İslam'ı; sekiz köşeli yıldız ise Azerbaycan kelimesindeki harflerin eski Türk alfabesindeki karşılığını veya sekiz Türk boyunu simgelediği gibi, genel olarak Türk milletini ve bağımsızlığı temsil eder."
+      }
+    ]
   }
 ];
