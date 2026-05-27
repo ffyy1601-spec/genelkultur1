@@ -3907,5 +3907,208 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "1961 Anayasası'nın kabulü ve genel seçimlerin ardından 1961 yılının Ekim ayında sivil yönetime geri dönülmüştür."
       }
     ]
+  },
+  {
+    "slug": "vicdanin-sesi-uluslararasi-af-orgutunun-kurulusu",
+    "dateId": "2026-05-27",
+    "title": "Uluslararası Af Örgütü'nün Doğuşu: Küresel Adalet ve İnsan Hakları İçin Bir Ses | GenelKultur",
+    "description": "28 Mayıs 1961'de kurulan Uluslararası Af Örgütü (Amnesty International) insan hakları mücadelesine nasıl başladı? Örgütün misyonu, tarihi ve dünya üzerindeki etkisi hakkında detaylı bilgi edinin.",
+    "keywords": [
+      "Uluslararası Af Örgütü",
+      "Amnesty International",
+      "insan hakları",
+      "28 Mayıs 1961",
+      "Peter Benenson",
+      "vicdan mahkumları",
+      "küresel adalet",
+      "insan hakları savunuculuğu",
+      "örgütün kuruluşu"
+    ],
+    "heading": "Vicdanın Sesi: Uluslararası Af Örgütü'nün Kuruluşu",
+    "intro": "Dünya genelinde adaletsizliğe, baskıya ve insan hakları ihlallerine karşı duran en güçlü sivil toplum kuruluşlarından biri olan Uluslararası Af Örgütü, köklü bir geçmişe sahiptir. Peki, bu devasa hareket nasıl başladı ve küresel çapta bir etki yaratmayı nasıl başardı? Hikayesi, 1961 yılının Mayıs ayında küçük bir gazete haberiyle atılan bir kıvılcıma dayanıyor.",
+    "article": "Uluslararası Af Örgütü'nün (Amnesty International) kuruluşu, İngiliz avukat Peter Benenson'ın 1961 yılında bir Portekiz gazetesinde okuduğu bir habere dayanır. Habere göre, iki Portekizli öğrenci, Salazar diktatörlüğünü eleştirdiği için kadeh kaldırdıkları gerekçesiyle yedişer yıl hapse mahkum edilmişti. Bu durumdan derinden etkilenen Benenson, \"Unutulmuş Mahkûmlar İçin Bir Çağrı\" (Appeal for Amnesty, 1961) başlıklı bir makale yazdı ve bu makale, The Observer gazetesinde 28 Mayıs 1961 tarihinde yayımlandı. Makale, dünya çapında okuyucuları vicdan mahkumları için harekete geçmeye ve siyasi nedenlerle hapsedilen insanlara destek olmaya çağırdı.\n\nBenenson'ın çağrısı, beklenenden çok daha büyük bir yankı uyandırdı. Makalesinin yayımlanmasından kısa bir süre sonra, farklı ülkelerden hukukçular, yazarlar ve aktivistler bu harekete katıldı. Temelleri atılan örgüt, kısa sürede uluslararası bir nitelik kazandı. \"Uluslararası Af Örgütü\" adını alan bu yeni hareketin temel amacı, haksız yere hapsedilen \"vicdan mahkumları\"nın serbest bırakılması için dünya kamuoyunu harekete geçirmekti. Örgüt, hiçbir zaman siyasi veya ideolojik bir duruş sergilemedi; tek hedefi, herkes için evrensel insan haklarının korunması ve savunulmasıydı.\n\nKuruluşundan bu yana Uluslararası Af Örgütü, işkenceye karşı mücadele, ölüm cezasının kaldırılması, ifade özgürlüğünün korunması, savaş suçlarının soruşturulması ve kadın hakları gibi birçok alanda küresel çapta kampanyalar yürüttü. Milyonlarca üyesi ve destekçisiyle dünyanın en büyük insan hakları örgütlerinden biri haline geldi. Her yıl yayınladığı raporlarla ülkelerin insan hakları karnelerini ortaya koyarak, hükümetler üzerinde baskı kurmakta ve ihlallerin önlenmesi için çalışmaktadır. Örgütün çalışmaları, 1977 yılında Nobel Barış Ödülü ile taçlandırılmıştır. Uluslararası Af Örgütü, dünyanın dört bir yanındaki mağdur ve mazlumlar için umut olmaya devam etmektedir.",
+    "category": "genel",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Uluslararası Af Örgütü'nün kuruluşuna ilham veren olay nedir?",
+        "options": [
+          "Birleşmiş Milletler'in İnsan Hakları Beyannamesi'nin kabulü",
+          "İki Portekizli öğrencinin siyasi nedenlerle hapsedilmesi",
+          "Güney Afrika'daki ırk ayrımcılığına karşı yürütülen kampanyalar",
+          "Soğuk Savaş dönemindeki siyasi gerilimler"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Örgütün kurucusu Peter Benenson, iki Portekizli öğrencinin özgürlükleri için kadeh kaldırdıkları gerekçesiyle hapsedilmeleri haberinden etkilenerek harekete geçmiştir."
+      },
+      {
+        "id": 2,
+        "text": "Uluslararası Af Örgütü hangi tarihte kurulmuştur?",
+        "options": [
+          "10 Aralık 1948",
+          "28 Mayıs 1961",
+          "1 Ocak 1950",
+          "4 Temmuz 1776"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Örgütün kuruluşu, Peter Benenson'ın makalesinin The Observer gazetesinde yayımlandığı 28 Mayıs 1961 tarihine dayanır."
+      },
+      {
+        "id": 3,
+        "text": "Örgütün kurucusu kimdir?",
+        "options": [
+          "Nelson Mandela",
+          "Martin Luther King Jr.",
+          "Peter Benenson",
+          "Eleanor Roosevelt"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Uluslararası Af Örgütü'nün kuruluş fikri ve ilk çağrısı İngiliz avukat Peter Benenson tarafından yapılmıştır."
+      },
+      {
+        "id": 4,
+        "text": "Peter Benenson'ın The Observer gazetesinde yayımlanan makalesinin adı nedir?",
+        "options": [
+          "İnsan Hakları Evrensel Bildirgesi",
+          "Vicdan Mahkumları İçin Bir Çağrı",
+          "Barış İçin Bir Dünya",
+          "Adalet Herkes İçin"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Makalenin başlığı \"Appeal for Amnesty, 1961\" (Unutulmuş Mahkûmlar İçin Bir Çağrı) idi."
+      },
+      {
+        "id": 5,
+        "text": "Uluslararası Af Örgütü'nün temel amacı nedir?",
+        "options": [
+          "Dünya genelinde siyasi partiler kurmak",
+          "Vicdan mahkumlarının serbest bırakılması için kamuoyu oluşturmak",
+          "Uluslararası ekonomik yaptırımlar uygulamak",
+          "Silahlı çatışmalara doğrudan müdahil olmak"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Örgütün temel amacı, siyasi, dini veya vicdani nedenlerle hapsedilen ve şiddete başvurmamış kişilerin serbest bırakılması için çalışmaktır."
+      },
+      {
+        "id": 6,
+        "text": "\"Vicdan mahkumu\" kavramı neyi ifade eder?",
+        "options": [
+          "Ciddi suçlar işlemiş ve pişmanlık duyan mahkumlar",
+          "Siyasi, dini veya vicdani inançları nedeniyle hapsedilen ve şiddete başvurmamış kişiler",
+          "Mali suçlardan hüküm giymiş kişiler",
+          "Savaş esirleri"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Vicdan mahkumu, sadece inançları, etnik kökeni, dili, cinsiyeti veya rengi yüzünden hapsedilmiş, şiddete başvurmamış veya şiddeti savunmamış kişidir."
+      },
+      {
+        "id": 7,
+        "text": "Uluslararası Af Örgütü, hangi yıl Nobel Barış Ödülü'nü kazanmıştır?",
+        "options": [
+          "1961",
+          "1977",
+          "1989",
+          "2000"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Örgüt, işkenceye karşı mücadelesi ve insan hakları savunuculuğu nedeniyle 1977 yılında Nobel Barış Ödülü'ne layık görülmüştür."
+      },
+      {
+        "id": 8,
+        "text": "Örgütün temel çalışma prensiplerinden biri hangisidir?",
+        "options": [
+          "Sadece Batı ülkelerindeki insan hakları ihlallerine odaklanmak",
+          "Belirli bir ideolojinin veya siyasi partinin savunuculuğunu yapmak",
+          "Siyasi ve ideolojik olarak tarafsız kalmak",
+          "Hükümetleri devirme amaçlı eylemler düzenlemek"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Uluslararası Af Örgütü, çalışmalarında siyasi ve ideolojik olarak tarafsız kalmayı ilke edinmiştir."
+      },
+      {
+        "id": 9,
+        "text": "Aşağıdakilerden hangisi Uluslararası Af Örgütü'nün mücadele ettiği başlıca konulardan biri değildir?",
+        "options": [
+          "İfade özgürlüğü",
+          "İşkenceye karşı mücadele",
+          "Ölüm cezasının kaldırılması",
+          "Ticari şirketlerin birleşmeleri"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Ticari şirketlerin birleşmeleri, Uluslararası Af Örgütü'nün insan hakları odaklı çalışma alanlarından biri değildir."
+      },
+      {
+        "id": 10,
+        "text": "Uluslararası Af Örgütü, dünya kamuoyunu harekete geçirmek için hangi yöntemleri kullanır?",
+        "options": [
+          "Sadece kapalı kapılar ardında diplomatik görüşmeler",
+          "İmza kampanyaları, raporlar, lobi faaliyetleri ve farkındalık çalışmaları",
+          "Silahlı direniş gruplarına destek vermek",
+          "Hükümetlerin iç işlerine doğrudan müdahale etmek"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Örgüt, halkın desteğini almak için imza kampanyaları, yıllık raporlar, lobi faaliyetleri ve çeşitli farkındalık kampanyaları yürütür."
+      },
+      {
+        "id": 11,
+        "text": "Örgüt, kuruluşundan bu yana hangi alanda önemli başarılar elde etmiştir?",
+        "options": [
+          "Uzay araştırmaları",
+          "Genetik mühendisliği",
+          "Vicdan mahkumlarının serbest bırakılması ve işkencenin önlenmesi",
+          "Dünya ticaretinin düzenlenmesi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Örgüt, milyonlarca vicdan mahkumunun serbest bırakılmasına ve birçok ülkede işkencenin yasaklanmasına yardımcı olmuştur."
+      },
+      {
+        "id": 12,
+        "text": "Uluslararası Af Örgütü'nün küresel ölçekteki etkisi için ne söylenebilir?",
+        "options": [
+          "Sadece belirli bir bölgede etkilidir.",
+          "Uluslararası hukuku etkileme gücü yoktur.",
+          "Milyonlarca üyesi ve destekçisiyle en büyük insan hakları örgütlerinden biridir.",
+          "Sadece Birleşmiş Milletler'e bağlı bir kuruluştur."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Örgüt, dünya çapında geniş bir destekçi kitlesine sahip olup, küresel insan hakları mücadelesinde önemli bir rol oynamaktadır."
+      },
+      {
+        "id": 13,
+        "text": "Örgütün yıllık raporlarının amacı nedir?",
+        "options": [
+          "Ülkeler arasındaki ticari anlaşmaları değerlendirmek",
+          "Dünya genelindeki ülkelerin insan hakları karnelerini ortaya koymak",
+          "Bilimsel ve teknolojik gelişmeleri belgelemek",
+          "Küresel ekonomi politikaları hakkında öneriler sunmak"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Yıllık raporlar, dünya ülkelerindeki insan hakları durumunu gözden geçirmek ve ihlallere dikkat çekmek amacıyla hazırlanır."
+      },
+      {
+        "id": 14,
+        "text": "Uluslararası Af Örgütü hangi tür hakları savunur?",
+        "options": [
+          "Sadece ekonomik hakları",
+          "Sadece kültürel hakları",
+          "Evrensel insan haklarını (siyasi, medeni, sosyal vb.)",
+          "Sadece çocuk haklarını"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Örgüt, Birleşmiş Milletler İnsan Hakları Evrensel Beyannamesi'nde belirtilen tüm evrensel insan haklarını savunur."
+      },
+      {
+        "id": 15,
+        "text": "Türkiye'de Uluslararası Af Örgütü'nün bir şubesi veya yapılanması var mıdır?",
+        "options": [
+          "Hayır, Türkiye'de herhangi bir faaliyeti bulunmamaktadır.",
+          "Evet, Türkiye'de de aktif olarak faaliyet gösteren bir şubesi bulunmaktadır.",
+          "Sadece online platformlarda temsil edilmektedir.",
+          "Yalnızca geçici projeler için faaliyet yürütmektedir."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Uluslararası Af Örgütü'nün Türkiye'de de aktif bir şubesi (Amnesty International Turkey) bulunmaktadır ve insan hakları konularında çalışmalar yürütmektedir."
+      }
+    ]
   }
 ];
