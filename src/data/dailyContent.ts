@@ -4518,5 +4518,211 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Mariner 9 görevi, gezegenlerin yapısını, oluşumunu ve evrimini inceleyen gezegen bilimi (planetary science) alanına büyük katkılar sağlamıştır."
       }
     ]
+  },
+  {
+    "slug": "gokyuzunde-bir-destan-charles-lindberghin-atlantik-macerasi",
+    "dateId": "2026-05-27",
+    "title": "Atlantik'i Tek Başına Aşan Adam: Charles Lindbergh ve Ruhunun Zaferi | Bilim Tarihi",
+    "description": "Charles Lindbergh'in 1927'de Spirit of St. Louis uçağıyla Atlantik Okyanusu'nu tek başına geçen ilk pilot olma hikayesi. Havacılık tarihinin bu dönüm noktasını ve Lindbergh'in cesaretini keşfedin.",
+    "keywords": [
+      "Charles Lindbergh",
+      "Atlantik uçuşu",
+      "Spirit of St. Louis",
+      "solo uçuş",
+      "havacılık tarihi",
+      "1927",
+      "New York-Paris",
+      "tarihte ilk",
+      "bilim tarihi",
+      "havacılık devrimi",
+      "Orteig Ödülü",
+      "yalnız kartal"
+    ],
+    "heading": "Gökyüzünde Bir Destan: Charles Lindbergh'in Atlantik Macerası",
+    "intro": "20. yüzyılın başları, insanlığın gökyüzüyle olan randevusunun hız kazandığı bir dönemdi. Ancak Atlantik Okyanusu'nu aşmak, henüz hiç kimsenin tek başına başaramadığı devasa bir meydan okumaydı. Ta ki 1927 yılının Mayıs ayına kadar... Genç bir pilot, tek motorlu uçağıyla bu imkansız görünen göreve talip oldu ve tarihin seyrini değiştirecek bir destana imza attı.",
+    "article": "Havacılık dünyası, 1920'lerde büyük bir heyecan içindeydi. New York'tan Paris'e kesintisiz bir uçuşu gerçekleştiren ilk pilot için 25.000 dolarlık bir Orteig Ödülü vaat edilmişti. Birçok deneyimli pilot ve zengin finansör bu iddialı hedefe ulaşmak için büyük yatırımlar yapıyor, ancak peş peşe başarısızlıklar ve trajik kazalar yaşanıyordu. Bu sırada, nispeten bilinmeyen bir hava postası pilotu olan 25 yaşındaki Charles Lindbergh, kendi tasarladığı, özel olarak modifiye edilmiş \"Spirit of St. Louis\" adlı tek motorlu uçağıyla bu meydan okumaya girişti. Uçağının basit ama dayanıklı tasarımı, uzun menzilli uçuş için maksimize edilmiş yakıt kapasitesi ve en önemlisi pilotun yalnızlığı, bu girişimi diğerlerinden ayırıyordu.\n\n20 Mayıs 1927 sabahı, Long Island, New York'tan havalanan Lindbergh, Atlantik'in zorlu ve tehlikeli sularına doğru yola çıktı. Uçuş süresince uykuyla mücadele etti, sis ve buzlanma gibi ölümcül hava koşullarıyla karşılaştı ve navigasyon becerilerini sonuna kadar kullandı. Sadece bir pusula ve saat gibi temel aletlere güvenen Lindbergh, 33 saat 30 dakika süren destansı yolculuğunda tamamen yalnızdı. Motorun monoton sesi, sonsuz okyanusun üzerinde geçen her anı daha da zorlaştırıyordu. Ancak Lindbergh'in azmi ve insanüstü çabası, onu hedefine doğru itiyordu.\n\n21 Mayıs 1927 akşamı, Paris'teki Le Bourget Havalimanı'na iniş yaptığında, onu karşılamak için toplanan on binlerce kişilik coşkulu kalabalık tarafından bir kahraman gibi karşılandı. Lindbergh, sadece Orteig Ödülü'nü kazanmakla kalmadı, aynı zamanda havacılık tarihinde yeni bir sayfa açtı. Bu uçuş, havacılık teknolojilerinin gelişmesine ivme kazandırdı, uçak yolculuklarına olan güveni artırdı ve insanlığın sınırları zorlama kapasitesinin bir sembolü haline geldi. \"Yalnız Kartal\" lakabıyla anılan Lindbergh, cesareti ve mühendislik dehasıyla dünya çapında bir efsaneye dönüştü. Onun başarısı, gelecekteki havacılık inovasyonlarına ilham verdi ve kıtalararası yolculukların kapısını araladı.",
+    "category": "bilim",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Charles Lindbergh, Atlantik Okyanusu'nu tek başına geçen ilk kişi olduğunda kaç yaşındaydı?",
+        "options": [
+          "20",
+          "25",
+          "30",
+          "35"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Charles Lindbergh, 1927'de tarihi uçuşunu gerçekleştirdiğinde 25 yaşındaydı."
+      },
+      {
+        "id": 2,
+        "text": "Lindbergh'in tek motorlu uçağının adı neydi?",
+        "options": [
+          "Wright Flyer",
+          "Columbia",
+          "Spirit of St. Louis",
+          "Kitty Hawk"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Charles Lindbergh, bu tarihi uçuşunu \"Spirit of St. Louis\" adını verdiği özel yapım tek motorlu uçağıyla gerçekleştirdi."
+      },
+      {
+        "id": 3,
+        "text": "Charles Lindbergh'in Atlantik uçuşu hangi iki şehir arasında gerçekleşti?",
+        "options": [
+          "Londra - New York",
+          "Paris - Roma",
+          "New York - Paris",
+          "Berlin - Washington"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Lindbergh, New York'tan (Long Island) Paris'e (Le Bourget Havalimanı) kesintisiz bir uçuş yaptı."
+      },
+      {
+        "id": 4,
+        "text": "Lindbergh'in Atlantik Okyanusu'nu tek başına geçtiği yıl hangisidir?",
+        "options": [
+          "1919",
+          "1927",
+          "1932",
+          "1945"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Charles Lindbergh, bu tarihi uçuşu 1927 yılında tamamladı."
+      },
+      {
+        "id": 5,
+        "text": "Charles Lindbergh'in New York'tan Paris'e yaptığı solo uçuşu yaklaşık ne kadar sürdü?",
+        "options": [
+          "15 saat",
+          "24 saat",
+          "33 saat 30 dakika",
+          "48 saat"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Lindbergh'in destansı yolculuğu yaklaşık 33 saat 30 dakika sürdü."
+      },
+      {
+        "id": 6,
+        "text": "Lindbergh'in Atlantik'i geçerek kazandığı ödülün adı neydi?",
+        "options": [
+          "Nobel Ödülü",
+          "Pulitzer Ödülü",
+          "Orteig Ödülü",
+          "Victoria Haçı"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Lindbergh, New York'tan Paris'e kesintisiz uçan ilk kişiye verilen 25.000 dolarlık Orteig Ödülü'nü kazandı."
+      },
+      {
+        "id": 7,
+        "text": "Lindbergh'in uçuşunun havacılık tarihi üzerindeki en önemli etkisi neydi?",
+        "options": [
+          "Jet motorlarının icadına yol açtı",
+          "Uçak gemilerinin geliştirilmesini sağladı",
+          "Havacılık teknolojilerine ivme kazandırdı ve uçak yolculuğuna güveni artırdı",
+          "İlk uzay seyahatini mümkün kıldı"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bu uçuş, havacılık teknolojilerinin gelişmesine büyük bir ivme kazandırdı ve uçak yolculuklarına olan kamu güvenini artırdı."
+      },
+      {
+        "id": 8,
+        "text": "Lindbergh uçuşu sırasında aşağıdaki zorluklardan hangisiyle karşılaşmadı?",
+        "options": [
+          "Uykuyla mücadele",
+          "Sis ve buzlanma",
+          "Motor arızası",
+          "Yetersiz navigasyon araçları"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Makalede uykuyla mücadele, sis ve buzlanma ve temel navigasyon aletlerine güvenmek gibi zorluklar belirtilmiştir. Motor arızası yaşandığına dair bir bilgi yoktur; aksine uçağın dayanıklı olduğu vurgulanmıştır."
+      },
+      {
+        "id": 9,
+        "text": "Spirit of St. Louis uçağının tasarımı, bu uzun menzilli uçuş için hangi amaca hizmet ediyordu?",
+        "options": [
+          "Yüksek hız",
+          "Yolcu kapasitesi",
+          "Maksimum yakıt kapasitesi",
+          "Silah taşıma"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Uçağın özel olarak modifiye edilmiş tasarımı, uzun menzilli uçuş için maksimize edilmiş yakıt kapasitesine sahipti."
+      },
+      {
+        "id": 10,
+        "text": "Charles Lindbergh'e bu tarihi başarısından sonra genellikle hangi lakap verilmiştir?",
+        "options": [
+          "Göklerin Hakimi",
+          "Uçan Hollandalı",
+          "Yalnız Kartal",
+          "Demir Kanat"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Lindbergh, Atlantik'i tek başına geçtiği için \"Yalnız Kartal\" lakabıyla anılmıştır."
+      },
+      {
+        "id": 11,
+        "text": "Charles Lindbergh, Atlantik Okyanusu üzerindeki uçuşunu kaç mürettebatla tamamladı?",
+        "options": [
+          "İki yardımcı pilotla",
+          "Tek başına",
+          "Bir mühendis ve bir navigatörle",
+          "Bir radyo operatörüyle"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Lindbergh, Atlantik Okyanusu'nu \"tek başına\" geçen ilk pilot olarak tarihe geçti, yani mürettebatı yoktu."
+      },
+      {
+        "id": 12,
+        "text": "Orteig Ödülü, havacılık tarihinde hangi tür bir başarıyı teşvik etmek amacıyla oluşturulmuştu?",
+        "options": [
+          "En hızlı jet uçağını yapmak",
+          "İlk insanlı uzay uçuşunu gerçekleştirmek",
+          "New York'tan Paris'e kesintisiz uçmak",
+          "Dünya turu yapmak"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Orteig Ödülü, New York'tan Paris'e kesintisiz uçuşu gerçekleştiren ilk pilota verilmek üzere vaat edilmişti."
+      },
+      {
+        "id": 13,
+        "text": "Lindbergh'in uçuşu, havacılıkta hangi konuda önemli bir paradigma değişimi başlattı?",
+        "options": [
+          "Sivil havacılığın önemsizleşmesi",
+          "Askeri havacılığın tek öncelik olması",
+          "Uzak mesafeli ticari uçuşların fizibilitesini göstermesi",
+          "Balonla seyahatin popülerleşmesi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bu uçuş, uzak mesafeli ticari uçuşların teknik olarak mümkün olduğunu göstererek, modern sivil havacılığın gelişimine zemin hazırladı."
+      },
+      {
+        "id": 14,
+        "text": "Lindbergh'in bu başarıda kullandığı ana navigasyon yöntemlerinden biri neydi?",
+        "options": [
+          "GPS sistemi",
+          "Radar teknolojisi",
+          "Sadece pusula ve saat gibi temel aletler",
+          "Radyo sinyalleri"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Lindbergh, uçuşu sırasında sadece bir pusula ve saat gibi temel aletlere güvenerek navigasyonunu sağlamıştır."
+      },
+      {
+        "id": 15,
+        "text": "Charles Lindbergh'in bu uçuşu gerçekleştirmedeki temel motivasyonlarından biri neydi?",
+        "options": [
+          "Sadece para ödülünü kazanmak",
+          "Şöhret olmak",
+          "İnsanlığın sınırlarını zorlamak ve havacılığın potansiyelini göstermek",
+          "Yeni bir savaş stratejisi geliştirmek"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Lindbergh'in bu uçuşu, sadece bir ödül veya şöhret arayışı olmanın ötesinde, insanlığın sınırlarını zorlama ve havacılığın potansiyelini tüm dünyaya gösterme arzusunu taşıyordu."
+      }
+    ]
   }
 ];
