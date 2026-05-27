@@ -4314,5 +4314,209 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Bayraktaki ay, genellikle bağımsızlığı ve İslam'ı; sekiz köşeli yıldız ise Azerbaycan kelimesindeki harflerin eski Türk alfabesindeki karşılığını veya sekiz Türk boyunu simgelediği gibi, genel olarak Türk milletini ve bağımsızlığı temsil eder."
       }
     ]
+  },
+  {
+    "slug": "marsin-yorungesel-gozu-mariner-9-ve-kizil-gezegenin-sirlari",
+    "dateId": "2026-05-27",
+    "title": "Mariner 9: Mars'ı Yörüngeden Keşfeden İlk Uzay Sondası | GenelKultur",
+    "description": "1971'de fırlatılan Mariner 9, Mars'ın ilk yörünge sondasıydı. Bu öncü görev, Kızıl Gezegen'in yüzeyini, atmosferini ve iki uydusunu detaylı inceleyerek bilim dünyasına çığır açan bilgiler sundu.",
+    "keywords": [
+      "Mariner 9",
+      "Mars keşfi",
+      "uzay sondası",
+      "NASA",
+      "uzay araştırmaları",
+      "Kızıl Gezegen",
+      "Mars atmosferi",
+      "Mars uyduları",
+      "uzay tarihi",
+      "gezegen bilimi"
+    ],
+    "heading": "Mars'ın Yörüngesel Gözü: Mariner 9 ve Kızıl Gezegen'in Sırları",
+    "intro": "İnsanlığın uzaydaki merakı, her geçen gün yeni bir gezegeni keşfetme arzusuyla besleniyor. Bu büyük serüvende Mars, özellikle ilgi odağı oldu. Kızıl Gezegen'in gizemli yüzeyi ve potansiyel yaşam izleri, yıllarca bilim insanlarının uykusunu kaçırdı. Ancak 1971 yılında fırlatılan bir uzay aracı, Mars'ı hiç olmadığı kadar yakından tanımamızı sağlayacak devrim niteliğinde bir adım attı: Mariner 9.",
+    "article": "Mariner 9, Amerikan Ulusal Havacılık ve Uzay Dairesi (NASA) tarafından yürütülen Mariner programının bir parçasıydı. 30 Mayıs 1971'de fırlatılan bu insansız uzay sondası, tam olarak 14 Kasım 1971'de Mars yörüngesine başarıyla girerek bir ilke imza attı. Daha önceki Mariner görevleri Mars'a sadece yakın uçuşlar gerçekleştirmişti; ancak Mariner 9, gezegenin yörüngesinde kalarak uzun süreli ve detaylı gözlemler yapma yeteneğine sahipti. Bu, Mars'ın mevsimsel değişimlerini, yüzey özelliklerini ve atmosferik olaylarını yakından incelemek için eşsiz bir fırsat sunuyordu.\n\nMariner 9'un Mars'a ulaştığı dönemde, gezegeni büyük bir toz fırtınası sarmıştı. Bu beklenmedik durum, ilk başta görev bilimcileri hayal kırıklığına uğratsa da, uzay aracı fırtınanın dağılmasını sabırla bekledi. Toz bulutları çekildiğinde, Mariner 9 muhteşem bir manzara ile karşılaştı ve hemen göreve başladı. Yaklaşık bir yıl süren görevi boyunca, gezegenin yüzeyinin %70'inden fazlasının 7.000'den fazla fotoğrafını çekti. Bu fotoğraflar, devasa kanyonlar (Valles Marineris gibi), antik nehir yatakları, volkanlar (Olympus Mons gibi) ve kutup buzulları gibi dikkat çekici jeolojik oluşumları gözler önüne serdi. Ayrıca Mars'ın küçük uyduları Phobos ve Deimos'un ilk yakın çekim görüntülerini de gönderdi.\n\nMariner 9'un en önemli keşiflerinden biri, Mars'ın geçmişte su bulundurma potansiyeline işaret eden kanıtlar oldu. Antik nehir yatakları ve erozyon izleri, bir zamanlar Kızıl Gezegen'de sıvı suyun akmış olabileceğini düşündürdü. Atmosferik veriler ise Mars'ın ince ve karbondioksit ağırlıklı atmosferinin yapısını anlamamızı sağladı. Bu görev, gelecekteki Mars keşifleri için sağlam bir temel oluşturdu ve Viking, Mars Pathfinder, Mars Odyssey gibi daha gelişmiş uzay araçlarının yolunu açtı. Mariner 9, sadece Mars'ı keşfetmekle kalmadı, aynı zamanda insanlığın uzaydaki araştırma kapasitesini de gözler önüne serdi ve uzay bilimleri tarihinde altın harflerle yazılan bir başarı öyküsü oldu.",
+    "category": "bilim",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Mariner 9 görevi hangi uzay ajansı tarafından yürütülmüştür?",
+        "options": [
+          "ESA",
+          "Roscosmos",
+          "NASA",
+          "JAXA"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Mariner 9, Amerikan Ulusal Havacılık ve Uzay Dairesi (NASA) tarafından yürütülen Mariner programının bir parçasıdır."
+      },
+      {
+        "id": 2,
+        "text": "Mariner 9, Mars yörüngesine ne zaman başarılı bir şekilde girmiştir?",
+        "options": [
+          "30 Mayıs 1971",
+          "14 Kasım 1971",
+          "20 Temmuz 1976",
+          "1 Ocak 1972"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Mariner 9, 30 Mayıs 1971'de fırlatılmış, ancak Mars yörüngesine 14 Kasım 1971'de girerek başarılı olmuştur."
+      },
+      {
+        "id": 3,
+        "text": "Mariner 9'un en önemli ilki nedir?",
+        "options": [
+          "Mars'a iniş yapan ilk araç olması",
+          "Mars'tan insanlı örnek getiren ilk araç olması",
+          "Mars yörüngesine giren ilk uzay sondası olması",
+          "Güneş Sistemi dışına çıkan ilk araç olması"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Mariner 9, Mars yörüngesine giren ve gezegeni yörüngeden inceleyen ilk uzay sondasıdır. Daha önceki Mariner görevleri sadece yakın geçişler yapmıştır."
+      },
+      {
+        "id": 4,
+        "text": "Mariner 9, Mars'a ulaştığında gezegende hangi doğal olay yaşanmaktaydı?",
+        "options": [
+          "Büyük bir buz fırtınası",
+          "Küresel bir volkanik patlama",
+          "Yoğun bir meteor yağmuru",
+          "Büyük bir toz fırtınası"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Mariner 9 Mars'a ulaştığında, gezegeni kaplayan küresel bir toz fırtınası ile karşılaşmıştır."
+      },
+      {
+        "id": 5,
+        "text": "Mariner 9 görevi boyunca Mars yüzeyinin yaklaşık ne kadarını fotoğraflamıştır?",
+        "options": [
+          "%30'undan azını",
+          "%50'sini",
+          "%70'inden fazlasını",
+          "%100'ünü"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Mariner 9, yaklaşık bir yıl süren görevi boyunca Mars yüzeyinin %70'inden fazlasının fotoğrafını çekmiştir."
+      },
+      {
+        "id": 6,
+        "text": "Mariner 9'un çektiği fotoğraflar arasında hangi jeolojik yapıların kanıtları bulunmuştur?",
+        "options": [
+          "Okyanuslar ve mercan resifleri",
+          "Büyük şehir kalıntıları ve tarım alanları",
+          "Devasa kanyonlar, antik nehir yatakları ve volkanlar",
+          "Büyük ormanlar ve göller"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Mariner 9'un gönderdiği görüntülerde Valles Marineris gibi kanyonlar, antik nehir yatakları ve Olympus Mons gibi volkanlar keşfedilmiştir."
+      },
+      {
+        "id": 7,
+        "text": "Mariner 9, Mars'ın hangi uydularının ilk yakın çekim görüntülerini göndermiştir?",
+        "options": [
+          "Ay ve Triton",
+          "Phobos ve Deimos",
+          "Europa ve Ganymede",
+          "Titan ve Enceladus"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Mariner 9, Mars'ın iki doğal uydusu olan Phobos ve Deimos'un ilk detaylı ve yakın çekim görüntülerini Dünya'ya iletmiştir."
+      },
+      {
+        "id": 8,
+        "text": "Mariner 9'un keşifleri, Mars'ın geçmişte neye sahip olabileceğine dair önemli kanıtlar sunmuştur?",
+        "options": [
+          "Yoğun bitki örtüsüne",
+          "Gelişmiş medeniyetlere",
+          "Sıvı suya",
+          "Oksijen zengini bir atmosfere"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Antik nehir yatakları ve erozyon izleri gibi bulgular, Mars'ın geçmişte yüzeyinde sıvı suya sahip olabileceğine işaret etmiştir."
+      },
+      {
+        "id": 9,
+        "text": "Mars'ın atmosferinin yapısı hakkında Mariner 9 hangi bilgileri sağlamıştır?",
+        "options": [
+          "Oksijen açısından zengin olduğunu",
+          "Metan gazı ağırlıklı olduğunu",
+          "İnce ve karbondioksit ağırlıklı olduğunu",
+          "Hidrojen ve helyumdan oluştuğunu"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Mariner 9, Mars'ın atmosferinin ince ve büyük ölçüde karbondioksitten oluştuğunu gösteren veriler sağlamıştır."
+      },
+      {
+        "id": 10,
+        "text": "Mariner 9 görevinden sonra Mars'a gönderilen ve Mariner 9'un açtığı yoldan ilerleyen bir uzay aracı hangisi değildir?",
+        "options": [
+          "Viking",
+          "Mars Pathfinder",
+          "Mars Odyssey",
+          "Voyager 1"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Voyager 1, Güneş Sistemi'nin dış gezegenlerini ve ötesini keşfetmek için tasarlanmış bir araç olup, Mars görevleriyle doğrudan ilişkili değildir. Viking, Mars Pathfinder ve Mars Odyssey ise Mars görevleridir."
+      },
+      {
+        "id": 11,
+        "text": "Mariner 9 kaç fotoğraftan fazla görüntü almıştır?",
+        "options": [
+          "Yaklaşık 1000",
+          "Yaklaşık 3000",
+          "7.000'den fazla",
+          "20.000'den fazla"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Mariner 9, görevi boyunca 7.000'den fazla fotoğraf çekmiştir."
+      },
+      {
+        "id": 12,
+        "text": "Mariner 9'un Mars'taki görevi yaklaşık ne kadar sürmüştür?",
+        "options": [
+          "Bir ay",
+          "Altı ay",
+          "Bir yıl",
+          "Beş yıl"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Mariner 9'un Mars yörüngesindeki aktif görevi yaklaşık bir yıl sürmüştür."
+      },
+      {
+        "id": 13,
+        "text": "Mariner 9'un Mars yörüngesine girmesi neden diğer Mariner görevlerinden daha önemliydi?",
+        "options": [
+          "Daha hızlı hareket ettiği için",
+          "Uydularını incelediği için",
+          "Uzun süreli ve detaylı gözlemler yapabilmesini sağladığı için",
+          "Daha renkli fotoğraflar çektiği için"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Yörüngede kalması, Mariner 9'a gezegenin mevsimsel değişimlerini ve yüzey özelliklerini uzun bir süre boyunca detaylı bir şekilde inceleme imkanı sunmuştur."
+      },
+      {
+        "id": 14,
+        "text": "Mariner 9 tarafından keşfedilen ve Güneş Sistemi'nin en büyük kanyonlarından biri olan yapı hangisidir?",
+        "options": [
+          "Grand Canyon",
+          "Mariana Çukuru",
+          "Valles Marineris",
+          "Olympus Mons"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Valles Marineris, Mariner 9 tarafından keşfedilen ve ismini de görevden alan, Mars'taki devasa kanyon sistemidir. Olympus Mons ise bir volkandır."
+      },
+      {
+        "id": 15,
+        "text": "Mariner 9 görevi, hangi ana bilim dalına katkıda bulunmuştur?",
+        "options": [
+          "Okyanus bilimi",
+          "Zooloji",
+          "Gezegen bilimi",
+          "Antropoloji"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Mariner 9 görevi, gezegenlerin yapısını, oluşumunu ve evrimini inceleyen gezegen bilimi (planetary science) alanına büyük katkılar sağlamıştır."
+      }
+    ]
   }
 ];

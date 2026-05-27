@@ -320,4 +320,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/marsin-yorungesel-gozu-mariner-9-ve-kizil-gezegenin-sirlari</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/marsin-yorungesel-gozu-mariner-9-ve-kizil-gezegenin-sirlari/oyna</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
