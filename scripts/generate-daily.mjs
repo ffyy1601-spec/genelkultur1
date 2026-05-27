@@ -141,7 +141,8 @@ Seçtiğin bu konu hakkında detaylı, bilgilendirici, Türkçe bir SEO makalesi
 
   // Oluşturulan içeriğin slug'ının çakışmadığından emin ol
   if (previousSlugs.includes(slug)) {
-    console.warn(`[AI] UYARI: Üretilen '${slug}' konusu daha önce zaten mevcuttu. İşlem iptal ediliyor veya üzerine yazılabilir.`);
+    console.log(`[AI] '${slug}' konusu zaten mevcut. Yeni içerik üretilmedi, atlanıyor.`);
+    process.exit(0); // Hata değil, başarılı çıkış — değişiklik olmadığı için deploy da tetiklenmez
   }
 
   const newQuiz = {
