@@ -5,6 +5,7 @@ import heroImage from "../assets/hero.png";
 import { ROUTES } from "../lib/routes";
 import { SITE_URL } from "../lib/seo";
 import { contentLibraryCards } from "../data/contentLibrary";
+import { dailyQuizzes } from "../data/dailyContent";
 
 const schema = [
   {
@@ -228,6 +229,100 @@ export default function Landing() {
             ))}
           </div>
         </section>
+
+        {/* ── BUGÜN NE OLDU ── */}
+        {dailyQuizzes.length > 0 && (() => {
+          const catConfig: Record<string, { color: string; bg: string; icon: string; label: string }> = {
+            tarih: { color: "#f97316", bg: "rgba(249,115,22,0.12)", icon: "history_edu", label: "Tarih" },
+            bilim: { color: "#22d3ee", bg: "rgba(34,211,238,0.12)", icon: "science", label: "Bilim" },
+            sanat: { color: "#a78bfa", bg: "rgba(167,139,250,0.12)", icon: "palette", label: "Sanat" },
+            genel: { color: "#f2ca50", bg: "rgba(242,202,80,0.12)", icon: "public", label: "Genel Kültür" },
+          };
+          const latest = [...dailyQuizzes].reverse().slice(0, 6);
+          return (
+            <section className="mx-auto w-full max-w-7xl px-4 pb-20 md:px-10 md:pb-24">
+              <div className="flex flex-col gap-3 md:flex-row md:items-end md:justify-between mb-8">
+                <div>
+                  <p className="text-sm font-semibold uppercase tracking-[0.24em] text-primary flex items-center gap-2">
+                    <span className="material-symbols-outlined text-base">auto_awesome</span>
+                    Yapay Zeka Editörü
+                  </p>
+                  <h2 className="mt-3 text-3xl font-black tracking-tight text-on-surface md:text-4xl">
+                    Bugün Ne Oldu?
+                  </h2>
+                  <p className="mt-2 text-sm text-on-surface-variant">
+                    Her gün yapay zeka tarafından üretilen güncel bilgi testleri.
+                  </p>
+                </div>
+                <Link
+                  to={ROUTES.dailyList}
+                  className="inline-flex items-center gap-2 self-start rounded-full border border-white/10 bg-surface-container-low/70 px-5 py-3 text-sm font-bold text-on-surface transition-all hover:-translate-y-0.5 hover:border-primary/30"
+                >
+                  Tüm AI Testleri
+                  <span className="material-symbols-outlined text-base">arrow_forward</span>
+                </Link>
+              </div>
+
+              <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-3">
+                {latest.map((item) => {
+                  const cat = catConfig[item.category] ?? catConfig.genel;
+                  return (
+                    <Link
+                      key={item.slug}
+                      to={`/test/${item.slug}`}
+                      className="group relative overflow-hidden rounded-[1.6rem] border border-white/10 bg-surface-container-low/80 p-5 transition-all duration-300 hover:-translate-y-1 hover:border-white/20"
+                    >
+                      {/* Dekoratif arka plan ikonu */}
+                      <span
+                        className="material-symbols-outlined pointer-events-none absolute -right-3 -top-3 select-none text-[5rem] opacity-[0.07] transition-transform duration-500 group-hover:scale-110"
+                        style={{ color: cat.color }}
+                      >
+                        {cat.icon}
+                      </span>
+
+                      {/* Kategori rozeti */}
+                      <div className="flex items-center justify-between mb-4">
+                        <span
+                          className="inline-flex items-center gap-1.5 rounded-full px-3 py-1 text-[10px] font-black uppercase tracking-widest"
+                          style={{ background: cat.bg, color: cat.color, border: `1px solid ${cat.color}33` }}
+                        >
+                          <span className="material-symbols-outlined text-xs">{cat.icon}</span>
+                          {cat.label}
+                        </span>
+                        <span className="text-[10px] text-on-surface-variant">
+                          {item.dateId
+                            ? new Date(item.dateId).toLocaleDateString("tr-TR", { day: "numeric", month: "short" })
+                            : ""}
+                        </span>
+                      </div>
+
+                      <h3 className="text-base font-black leading-7 text-on-surface line-clamp-2">
+                        {item.heading}
+                      </h3>
+                      <p className="mt-2 text-xs leading-5 text-on-surface-variant line-clamp-2">
+                        {item.intro}
+                      </p>
+
+                      <div className="mt-4 flex items-center justify-between">
+                        <span className="text-xs text-on-surface-variant flex items-center gap-1">
+                          <span className="material-symbols-outlined text-xs">quiz</span>
+                          {item.questions.length} soru
+                        </span>
+                        <span
+                          className="inline-flex items-center gap-1 text-xs font-black transition-transform duration-300 group-hover:translate-x-1"
+                          style={{ color: cat.color }}
+                        >
+                          Teste Git
+                          <span className="material-symbols-outlined text-sm">arrow_forward</span>
+                        </span>
+                      </div>
+                    </Link>
+                  );
+                })}
+              </div>
+            </section>
+          );
+        })()}
 
         <section className="mx-auto w-full max-w-7xl px-4 pb-20 md:px-10 md:pb-24">
           <div className="flex flex-col gap-3 md:flex-row md:items-end md:justify-between">
