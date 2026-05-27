@@ -3702,5 +3702,210 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Romanda ve vampir mitolojisinde, Kont Dracula ve diğer vampirleri zayıflatmak veya yok etmek için güneş ışığı, sarımsak, kutsal su, haç gibi unsurlar kullanılır."
       }
     ]
+  },
+  {
+    "slug": "27-mayis-1960-turkiye-demokrasisinde-kirilma-noktasi",
+    "dateId": "2026-05-27",
+    "title": "27 Mayıs 1960 Darbesi: Türkiye Demokrasisinde Kara Bir Leke | Tarih",
+    "description": "27 Mayıs 1960 Darbesi'nin nedenlerini, sürecini ve sonuçlarını detaylıca inceleyin. Türkiye siyasi tarihinde bir dönüm noktası olan bu askeri müdahalenin etkilerini keşfedin.",
+    "keywords": [
+      "27 Mayıs Darbesi",
+      "1960 Darbesi",
+      "Türkiye askeri darbe",
+      "Adnan Menderes",
+      "Yassıada",
+      "Milli Birlik Komitesi",
+      "Demokrat Parti",
+      "Türk siyasi tarihi",
+      "Türkiye'de darbeler",
+      "Cemal Gürsel",
+      "Tahkikat Komisyonu"
+    ],
+    "heading": "27 Mayıs 1960: Türkiye Demokrasisinde Kırılma Noktası",
+    "intro": "Türk siyasi tarihinin en karanlık sayfalarından biri olan 27 Mayıs 1960 darbesi, Türkiye Cumhuriyeti'nin demokratik sürecinde derin izler bırakmış bir askeri müdahaledir. Bu olay, sadece bir hükümet değişikliği olmanın ötesinde, ülkenin siyasi kültürü ve demokrasi anlayışı üzerinde kalıcı etkiler yaratmıştır. Peki, bu darbenin nedenleri nelerdi, nasıl gerçekleşti ve Türkiye'yi ne şekilde etkiledi?",
+    "article": "1950'li yıllar, Türkiye'de çok partili hayata geçişle birlikte büyük bir siyasi hareketliliğe sahne olmuştu. Adnan Menderes liderliğindeki Demokrat Parti, 1950 seçimlerinde ezici bir zafer kazanarak iktidara gelmişti. Parti, on yıl boyunca ülkeye önemli ekonomik ve sosyal değişimler getirse de, 1950'lerin sonlarına doğru siyasi kutuplaşma artmış, muhalefetle ilişkiler gerilmiş ve iktidarın baskıcı tutumları eleştirilere yol açmıştı. Özellikle basına yönelik kısıtlamalar, üniversite özerkliğine müdahaleler ve 1960 yılının Nisan ayında kurulan \"Tahkikat Komisyonu\" gibi adımlar, toplumsal gerilimi tırmandırmış ve askeri kanatta bir müdahale fikrinin olgunlaşmasına zemin hazırlamıştı.\n\n27 Mayıs 1960 sabahı, Türk Silahlı Kuvvetleri içerisindeki genç subaylardan oluşan bir grup, Cemal Gürsel'in liderliğinde yönetime el koydu. Radyodan yapılan anonslarla, ordunun idareye el koyduğu, anayasanın askıya alındığı ve Meclis'in feshedildiği duyuruldu. Başbakan Adnan Menderes, Cumhurbaşkanı Celal Bayar, kabine üyeleri ve milletvekilleri tutuklanarak Yassıada'ya gönderildi. Bu olay, Türkiye Cumhuriyeti tarihinde doğrudan yapılan ilk askeri müdahale olarak kayıtlara geçti ve ülkenin demokratik gelişiminde bir dönüm noktası oldu. Darbenin ardında, ordunun kendini Atatürk ilke ve inkılaplarının koruyucusu olarak görmesi ve mevcut hükümetin laiklik ve demokrasiye zarar verdiği algısı yatıyordu.\n\nDarbenin ardından Milli Birlik Komitesi (MBK) adıyla bir askeri yönetim kuruldu. MBK, yeni bir anayasa hazırlatarak, 1961 Anayasası'nı yürürlüğe koydu. Ancak darbenin en trajik sonuçlarından biri, Yassıada'da görülen ve aylarca süren davalar oldu. Bu davalar sonucunda Başbakan Adnan Menderes ile Dışişleri Bakanı Fatin Rüştü Zorlu ve Maliye Bakanı Hasan Polatkan idam edildi. Bu idamlar, Türkiye'nin yakın tarihinde derin ve onarılması güç yaralar açtı. 27 Mayıs darbesi, sonraki yıllarda gerçekleşecek askeri müdahalelere de bir emsal teşkil etti ve Türk siyasetinde ordunun rolü hakkında uzun süreli tartışmalara yol açtı.",
+    "category": "tarih",
+    "questions": [
+      {
+        "id": 1,
+        "text": "27 Mayıs 1960 Darbesi hangi gün gerçekleşmiştir?",
+        "options": [
+          "Cuma",
+          "Cumartesi",
+          "Pazar",
+          "Perşembe"
+        ],
+        "correctAnswer": 0,
+        "explanation": "27 Mayıs 1960 tarihi bir Cuma gününe denk gelmektedir. Darbe, 27 Mayıs Cuma sabahı gerçekleştirilmiştir."
+      },
+      {
+        "id": 2,
+        "text": "Darbede iktidardan indirilen Başbakan kimdir?",
+        "options": [
+          "İsmet İnönü",
+          "Adnan Menderes",
+          "Bülent Ecevit",
+          "Celal Bayar"
+        ],
+        "correctAnswer": 1,
+        "explanation": "27 Mayıs 1960 Darbesi'nde iktidarda bulunan ve görevi başında indirilen Başbakan Adnan Menderes'tir."
+      },
+      {
+        "id": 3,
+        "text": "Darbenin ardından yönetime el koyan askeri komitenin adı nedir?",
+        "options": [
+          "Demokrasiyi Koruma Komitesi",
+          "Ulusal Güvenlik Konseyi",
+          "Milli Birlik Komitesi",
+          "İhtilal Konseyi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "27 Mayıs Darbesi'nden sonra yönetimi üstlenen askeri organa Milli Birlik Komitesi (MBK) adı verilmiştir."
+      },
+      {
+        "id": 4,
+        "text": "Darbeden sonra tutuklanan hükümet üyeleri nerede yargılanmıştır?",
+        "options": [
+          "Ankara Sıkıyönetim Mahkemesi",
+          "İstanbul Topkapı Sarayı",
+          "Yassıada",
+          "Çankaya Köşkü"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Darbeden sonra tutuklanan Başbakan, Cumhurbaşkanı ve diğer hükümet üyeleri Yassıada'da kurulan özel mahkemelerde yargılanmıştır."
+      },
+      {
+        "id": 5,
+        "text": "Aşağıdakilerden hangisi 27 Mayıs Darbesi sonrası idam edilen isimlerden biri değildir?",
+        "options": [
+          "Adnan Menderes",
+          "Fatin Rüştü Zorlu",
+          "Cemal Gürsel",
+          "Hasan Polatkan"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Cemal Gürsel, darbenin liderlerinden ve Milli Birlik Komitesi'nin başkanıydı, idam edilenler arasında yer almamıştır. Adnan Menderes, Fatin Rüştü Zorlu ve Hasan Polatkan idam edilmiştir."
+      },
+      {
+        "id": 6,
+        "text": "Darbeden önce siyasi gerilimi artıran ve basına müdahale amacıyla kurulan komisyonun adı nedir?",
+        "options": [
+          "Milli İrade Komisyonu",
+          "Basın Denetleme Kurulu",
+          "Tahkikat Komisyonu",
+          "Kamu Düzeni Komitesi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Demokrat Parti hükümeti tarafından Nisan 1960'ta kurulan Tahkikat Komisyonu, muhalefet ve basına yönelik yetkileri nedeniyle siyasi gerilimi büyük ölçüde artırmıştır."
+      },
+      {
+        "id": 7,
+        "text": "Darbenin gerekçeleri arasında genellikle aşağıdakilerden hangisi gösterilmez?",
+        "options": [
+          "Atatürk ilke ve inkılaplarının tehlikede olduğu algısı",
+          "Ekonomik sorunlar ve yüksek enflasyon",
+          "Hükümetin otoriterleştiği iddiaları",
+          "Türkiye'nin NATO'dan ayrılma isteği"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Türkiye'nin NATO'dan ayrılma isteği, darbenin gerekçeleri arasında gösterilen bir sebep değildir. Aksine, darbe sonrası Batı yanlısı politikalar sürdürülmüştür."
+      },
+      {
+        "id": 8,
+        "text": "Darbenin ardından yürürlüğe giren yeni anayasa hangi yılda kabul edilmiştir?",
+        "options": [
+          "1924",
+          "1960",
+          "1961",
+          "1982"
+        ],
+        "correctAnswer": 2,
+        "explanation": "27 Mayıs Darbesi'nin ardından Milli Birlik Komitesi tarafından hazırlatılan ve referandumla kabul edilen Anayasa, 1961 Anayasası'dır."
+      },
+      {
+        "id": 9,
+        "text": "Darbede iktidardan düşürülen Demokrat Parti'nin lideri kimdi?",
+        "options": [
+          "Adnan Menderes",
+          "İsmet İnönü",
+          "Celal Bayar",
+          "Fatin Rüştü Zorlu"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Darbede iktidardan düşürülen Demokrat Parti'nin genel başkanı ve Başbakanı Adnan Menderes'ti."
+      },
+      {
+        "id": 10,
+        "text": "27 Mayıs darbesi, Türkiye Cumhuriyeti tarihinde kaçıncı askeri müdahaledir?",
+        "options": [
+          "Birinci",
+          "İkinci",
+          "Üçüncü",
+          "Dördüncü"
+        ],
+        "correctAnswer": 0,
+        "explanation": "27 Mayıs 1960 Darbesi, Türkiye Cumhuriyeti tarihinde ordunun doğrudan yönetime el koyduğu ilk askeri müdahaledir."
+      },
+      {
+        "id": 11,
+        "text": "Darbenin ardından Cumhurbaşkanlığı görevine kim atanmıştır?",
+        "options": [
+          "Cemal Gürsel",
+          "İsmet İnönü",
+          "Celal Bayar",
+          "Fahri Korutürk"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Darbeden sonra Milli Birlik Komitesi Başkanı Cemal Gürsel, aynı zamanda Türkiye Cumhuriyeti'nin dördüncü Cumhurbaşkanı olmuştur."
+      },
+      {
+        "id": 12,
+        "text": "Yassıada davaları sonucunda toplam kaç kişi idam edilmiştir?",
+        "options": [
+          "1",
+          "3",
+          "7",
+          "15"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Yassıada davaları sonucunda Başbakan Adnan Menderes, Dışişleri Bakanı Fatin Rüştü Zorlu ve Maliye Bakanı Hasan Polatkan olmak üzere toplam 3 kişi idam edilmiştir."
+      },
+      {
+        "id": 13,
+        "text": "27 Mayıs Darbesi'nin Türkiye siyasetine bıraktığı en önemli miraslardan biri nedir?",
+        "options": [
+          "Partiler arası uzlaşma kültürü",
+          "Ekonomik istikrarsızlığın sona ermesi",
+          "Askeri müdahalelere zemin hazırlaması",
+          "Sivil siyasetin güçlenmesi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "27 Mayıs Darbesi, sonraki askeri müdahalelere (12 Mart Muhtırası, 12 Eylül Darbesi vb.) bir emsal teşkil ederek Türkiye siyasetinde ordunun siyasi süreçteki etkisini derinleştirmiştir."
+      },
+      {
+        "id": 14,
+        "text": "Darbeden önce iktidarda olan parti hangi ideolojiyi savunuyordu?",
+        "options": [
+          "Sosyal demokrasi",
+          "Muhafazakar liberalizm",
+          "Ulusalcılık",
+          "Komünizm"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Demokrat Parti, liberal ekonomiyi ve muhafazakar değerleri savunan bir siyasi partiydi. Genellikle 'muhafazakar liberal' bir parti olarak tanımlanır."
+      },
+      {
+        "id": 15,
+        "text": "Darbenin ardından sivil yönetime ne zaman geçilmiştir?",
+        "options": [
+          "1960 Eylül",
+          "1961 Ekim",
+          "1962 Mayıs",
+          "1963 Kasım"
+        ],
+        "correctAnswer": 1,
+        "explanation": "1961 Anayasası'nın kabulü ve genel seçimlerin ardından 1961 yılının Ekim ayında sivil yönetime geri dönülmüştür."
+      }
+    ]
   }
 ];
