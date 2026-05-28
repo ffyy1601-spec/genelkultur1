@@ -5339,5 +5339,209 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Bu restorasyon, modern restorasyon tekniklerinin sınırlarını zorlayan bir başarı öyküsü olarak, gelecekteki sanat eserlerinin korunması için bir mihenk taşı niteliği taşımaktadır."
       }
     ]
+  },
+  {
+    "slug": "tsushima-deniz-savasi-denizlerin-kaderini-degistiren-iki-gun",
+    "dateId": "2026-05-28",
+    "title": "Tsushima Deniz Savaşı: Doğu'nun Yükselişi, Batı'nın Şaşkınlığı | GenelKultur",
+    "description": "27-28 Mayıs 1905 tarihlerinde gerçekleşen Tsushima Deniz Savaşı, Japonya'nın Rusya'ya karşı kazandığı muazzam zaferi ve denizcilik tarihinde bir dönüm noktasını keşfedin. Bu makale, savaşın nedenlerini, seyrini ve küresel etkilerini detaylı bir şekilde inceliyor.",
+    "keywords": [
+      "Tsushima Deniz Savaşı",
+      "Rus-Japon Savaşı",
+      "Japon İmparatorluk Donanması",
+      "Rus Baltık Filosu",
+      "Amiral Togo Heihachiro",
+      "Amiral Zinovy Rozhestvensky",
+      "denizcilik tarihi",
+      "Japonya'nın yükselişi",
+      "modern deniz savaşı",
+      "Mayıs 1905"
+    ],
+    "heading": "Tsushima Deniz Savaşı: Denizlerin Kaderini Değiştiren İki Gün",
+    "intro": "Denizlerdeki bir çarpışma, bir imparatorluğun itibarını sarsıp diğerinin dünya sahnesindeki yerini sağlamlaştırabilir mi? 27-28 Mayıs 1905 tarihlerinde Kore ve Japonya arasındaki Tsushima Boğazı'nda yaşananlar, bu sorunun en çarpıcı yanıtlarından biri oldu. Rus-Japon Savaşı'nın kaderini belirleyen bu deniz muharebesi, Doğu'nun yükselişinin ve deniz savaş doktrinlerinde köklü değişimlerin habercisiydi.",
+    "article": "Rus-Japon Savaşı (1904-1905), Uzak Doğu'da güç mücadelesinin bir sonucuydu. Japonya'nın hızla modernleşen bir güç olarak yükselişi, Rusya'nın geleneksel emperyalist yayılmacılığı ile çatışıyordu. Özellikle Kore ve Mançurya üzerindeki hakimiyet iddiaları, iki gücü karşı karşıya getirdi. Savaşın başlamasıyla birlikte Japonya, Port Arthur'daki Rus Pasifik Filosu'nu abluka altına aldı ve karadaki çatışmalarda önemli başarılar elde etti. Ancak Rusya, savaşın gidişatını değiştirmek amacıyla dünyanın diğer ucundan, Baltık Denizi'nden yola çıkan devasa bir donanmayı Uzak Doğu'ya gönderme kararı aldı.\n\nRus Baltık Filosu'nun bu yolculuğu, denizcilik tarihinin en destansı ve aynı zamanda en zorlu seyirlerinden biriydi. Amiral Zinovy Rozhestvensky komutasındaki filo, yaklaşık yedi ay süren, 33.000 kilometrelik meşakkatli bir yol kat etti. Afrika kıtasını dolaşıp Hint Okyanusu'nu geçen bu filo, yolculuk boyunca hem ikmal sorunları hem de mürettebatın moral bozukluğuyla boğuştu. Yolculuğun sonunda tükenmiş, bakımsız ve eğitim eksikliği çeken Rus donanması, Amiral Togo Heihachiro komutasındaki iyi dinlenmiş, modern ve yüksek moralli Japon Birleşik Filosu ile karşılaştı. Japonlar, Rusların güzergahını ve stratejilerini titizlikle analiz etmiş, Tsushima Boğazı'nda onları beklemekteydi.\n\n27 Mayıs sabahı Tsushima Boğazı'nda başlayan çatışma, modern deniz savaşının en tek taraflı zaferlerinden biri olarak tarihe geçti. Amiral Togo'nun 'T' manevrası' gibi ustaca taktikleri sayesinde, Japon filosu Rus gemilerinin ateş gücünü etkisiz hale getirdi. Japon gemilerinin daha hızlı, daha isabetli atış yapabilen topları ve üstün eğitimleri, Rus donanmasını kısa sürede felç etti. Rus Baltık Filosu'nun büyük bir kısmı batırıldı, ele geçirildi veya tarafsız limanlara sığınmak zorunda kaldı. Amiral Rozhestvensky ağır yaralandı ve donanmasının büyük çoğunluğu imha edildi. Tsushima, Japonya'nın dünya sahnesinde büyük bir güç olarak yükselişini tescillerken, Rusya'da 1905 Devrimi'ne giden yolu hızlandırdı ve Çarlık rejiminin zayıflığını gözler önüne serdi. Bu savaş, gemi tasarımı ve denizcilik taktikleri açısından da yeni bir dönemin başlangıcı oldu.",
+    "category": "tarih",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Tsushima Deniz Savaşı hangi tarihlerde gerçekleşmiştir?",
+        "options": [
+          "1-2 Ocak 1905",
+          "27-28 Mayıs 1905",
+          "10-11 Şubat 1904",
+          "18-19 Nisan 1905"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Tsushima Deniz Savaşı, 27-28 Mayıs 1905 tarihlerinde Japonya ve Rusya arasında Kore ile Japonya arasındaki Tsushima Boğazı'nda gerçekleşmiştir."
+      },
+      {
+        "id": 2,
+        "text": "Savaşan iki ana güç hangi ülkelerdi?",
+        "options": [
+          "Almanya ve İngiltere",
+          "Fransa ve İtalya",
+          "Japonya ve Rusya",
+          "ABD ve İspanya"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Tsushima Deniz Savaşı, Rus-Japon Savaşı'nın önemli bir parçası olarak Japonya ve Rusya arasında yaşanmıştır."
+      },
+      {
+        "id": 3,
+        "text": "Japon Birleşik Filosu'nun komutanı kimdi?",
+        "options": [
+          "Amiral Yamamoto Isoroku",
+          "Amiral Togo Heihachiro",
+          "Amiral Kido Kōichi",
+          "Amiral Nagumo Chuichi"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Japon Birleşik Filosu'na komuta eden başarılı isim Amiral Togo Heihachiro'ydu. Onun taktikleri Japon zaferinde kilit rol oynamıştır."
+      },
+      {
+        "id": 4,
+        "text": "Rus Baltık Filosu'nun komutanı kimdi?",
+        "options": [
+          "Amiral Aleksandr Kolchak",
+          "Amiral Fyodor Ushakov",
+          "Amiral Zinovy Rozhestvensky",
+          "Amiral Stepan Makarov"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Rus Baltık Filosu'nun Uzak Doğu'ya yaptığı uzun ve zorlu yolculuğa Amiral Zinovy Rozhestvensky komuta etmiştir."
+      },
+      {
+        "id": 5,
+        "text": "Rus Baltık Filosu'nun Tsushima'ya varmadan önce kat ettiği yaklaşık mesafe ne kadardı?",
+        "options": [
+          "5.000 kilometre",
+          "10.000 kilometre",
+          "33.000 kilometre",
+          "50.000 kilometre"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Rus Baltık Filosu, Baltık Denizi'nden Uzak Doğu'ya ulaşmak için yaklaşık 33.000 kilometrelik bir mesafe kat etmiştir."
+      },
+      {
+        "id": 6,
+        "text": "Tsushima Deniz Savaşı hangi boğazda gerçekleşmiştir?",
+        "options": [
+          "Malakka Boğazı",
+          "Cebelitarık Boğazı",
+          "Tsushima Boğazı",
+          "Dover Boğazı"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Savaş, Kore Yarımadası ile Japonya'nın ana adaları arasındaki Tsushima Boğazı'nda meydana gelmiştir."
+      },
+      {
+        "id": 7,
+        "text": "Tsushima Deniz Savaşı, hangi daha büyük savaşın bir parçasıydı?",
+        "options": [
+          "I. Dünya Savaşı",
+          "II. Dünya Savaşı",
+          "Kırım Savaşı",
+          "Rus-Japon Savaşı"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Tsushima Deniz Savaşı, 1904-1905 yılları arasında yaşanan Rus-Japon Savaşı'nın en belirleyici muharebesiydi."
+      },
+      {
+        "id": 8,
+        "text": "Japon filosu tarafından kullanılan ve zaferde etkili olan ünlü manevra aşağıdakilerden hangisidir?",
+        "options": [
+          "U-dönüşü manevrası",
+          "Çekiç ve örs manevrası",
+          "T-manevrası",
+          "Yelkenli kalkan manevrası"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Amiral Togo, Rus filosu karşısında 'T-manevrası'nı ustaca kullanarak Rus gemilerinin ateş gücünü kısıtlamış ve kendi avantajını artırmıştır."
+      },
+      {
+        "id": 9,
+        "text": "Tsushima Savaşı'nın Rusya üzerindeki kısa vadeli etkilerinden biri aşağıdakilerden hangisidir?",
+        "options": [
+          "Çarlık rejiminin güçlenmesi",
+          "1905 Rus Devrimi'nin hızlanması",
+          "Rusya'nın Pasifik'teki hakimiyetini pekiştirmesi",
+          "Rus donanmasının modernizasyonunun ertelenmesi"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Tsushima'daki ağır yenilgi, Rusya'da zaten var olan toplumsal huzursuzluğu artırarak 1905 Rus Devrimi'nin patlak vermesini hızlandırmıştır."
+      },
+      {
+        "id": 10,
+        "text": "Savaş sonucunda Japonya'nın dünya sahnesindeki konumu nasıl değişti?",
+        "options": [
+          "Önemsiz bir güç haline geldi",
+          "Bölgesel bir güç olarak kaldı",
+          "Büyük bir dünya gücü olarak tanındı",
+          "Koloni haline geldi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Japonya, Tsushima'daki zaferle Batılı bir büyük gücü mağlup eden ilk Asya devleti olarak uluslararası alanda büyük bir güç olarak tanınmıştır."
+      },
+      {
+        "id": 11,
+        "text": "Tsushima Savaşı'nın denizcilik doktrinleri üzerindeki etkisi neydi?",
+        "options": [
+          "Zırhlı gemilerin önemini azalttı",
+          "Büyük toplu zırhlıların (dreadnought) gelişimini hızlandırdı",
+          "Denizaltı savaşının önemini kanıtladı",
+          "Uçak gemilerinin kullanımına yol açtı"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Savaş, uzun menzilli ve büyük kalibreli topların belirleyici rolünü göstererek, 'dreadnought' tipi büyük toplu zırhlı gemilerin gelişimine büyük katkı sağlamıştır."
+      },
+      {
+        "id": 12,
+        "text": "Japon filosu, Rus gemilerine göre hangi konularda üstündü?",
+        "options": [
+          "Gemi sayısı ve büyüklüğü",
+          "Yakıt ikmali ve tedarik zinciri",
+          "Gemi hızı, atış isabeti ve mürettebat eğitimi",
+          "Zırh kalınlığı ve mühimmat kapasitesi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Japon gemileri daha hızlıydı, topları daha isabetliydi ve mürettebatı daha iyi eğitimli ve dinlenmiş durumdaydı. Rus filosu ise uzun yolculuktan dolayı bitkin ve bakımsızdı."
+      },
+      {
+        "id": 13,
+        "text": "Tsushima Savaşı öncesinde Rus Baltık Filosu'nun ana üssü neresiydi?",
+        "options": [
+          "Vladivostok",
+          "Port Arthur",
+          "Sankt-Peterburg",
+          "Sebastopol"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Rus Baltık Filosu, Rusya'nın Baltık Denizi'ndeki ana limanından, yani Sankt-Peterburg (Kronshtadt) bölgesinden yola çıkmıştır."
+      },
+      {
+        "id": 14,
+        "text": "Savaşın Japonya'nın elde ettiği topraklara ilişkin sonuçları arasında hangisi yoktur?",
+        "options": [
+          "Kore üzerindeki etkisini artırdı",
+          "Güney Mançurya'da hakimiyetini güçlendirdi",
+          "Sakhalin Adası'nın güneyini ele geçirdi",
+          "Hawaii adalarını ilhak etti"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Portsmouth Antlaşması ile Japonya, Kore üzerindeki etkisini artırdı, Güney Mançurya'da haklar elde etti ve Sakhalin Adası'nın güneyini kazandı. Hawaii Adaları ise ABD'ye aittir."
+      },
+      {
+        "id": 15,
+        "text": "Tsushima Deniz Savaşı'nda Rusya'nın kaybı ne düzeydeydi?",
+        "options": [
+          "Büyük bir kayıp vermedi",
+          "Yalnızca birkaç gemisi batırıldı",
+          "Filosunun neredeyse tamamı imha edildi veya ele geçirildi",
+          "Sadece amiral gemisini kaybetti"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Tsushima, Rusya için feci bir yenilgiydi; Baltık Filosu'nun neredeyse tamamı (38 gemiden 35'i) ya batırıldı ya da ele geçirildi."
+      }
+    ]
   }
 ];

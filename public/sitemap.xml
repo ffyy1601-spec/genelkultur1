@@ -370,4 +370,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/tsushima-deniz-savasi-denizlerin-kaderini-degistiren-iki-gun</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/tsushima-deniz-savasi-denizlerin-kaderini-degistiren-iki-gun/oyna</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
