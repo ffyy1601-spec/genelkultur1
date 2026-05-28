@@ -380,4 +380,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/uzayin-cesur-kasifleri-maymunlar-able-ve-miss-bakerin-tarihi-yolculugu</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/uzayin-cesur-kasifleri-maymunlar-able-ve-miss-bakerin-tarihi-yolculugu/oyna</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>

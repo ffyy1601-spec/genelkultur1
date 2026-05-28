@@ -5543,5 +5543,209 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Tsushima, Rusya için feci bir yenilgiydi; Baltık Filosu'nun neredeyse tamamı (38 gemiden 35'i) ya batırıldı ya da ele geçirildi."
       }
     ]
+  },
+  {
+    "slug": "uzayin-cesur-kasifleri-maymunlar-able-ve-miss-bakerin-tarihi-yolculugu",
+    "dateId": "2026-05-28",
+    "title": "Able ve Miss Baker: Uzaydaki İlk Maymunların Hikayesi | Bilim ve Keşifler",
+    "description": "28 Mayıs 1959'da uzaya çıkan ilk maymunlar Able ve Miss Baker'ın tarihi yolculuğunu keşfedin. Uzay araştırmalarına katkıları ve hayatta kalma mücadeleleri.",
+    "keywords": [
+      "Able ve Miss Baker",
+      "uzay maymunları",
+      "uzaya çıkan ilk hayvanlar",
+      "uzay araştırmaları",
+      "NASA",
+      "Jüpiter roketi",
+      "1959 uzay",
+      "uzay keşfi",
+      "hayvanlar uzayda",
+      "uzay yarışı"
+    ],
+    "heading": "Uzayın Cesur Kaşifleri: Maymunlar Able ve Miss Baker'ın Tarihi Yolculuğu",
+    "intro": "İnsanlığın uzayı fethetme hayali, beraberinde birçok bilinmezi ve riski getiriyordu. Bu büyük macerada, astronotlardan önce uzayın acımasız koşullarına meydan okuyan, tıp ve bilim dünyasına paha biçilmez veriler sağlayan cesur kaşifler vardı: Able ve Miss Baker. Onların 28 Mayıs 1959'daki tarihi uçuşu, insanlı uzay yolculukları için bir dönüm noktası olacaktı.",
+    "article": "Erken uzay araştırmaları, insan vücudunun uzay ortamına nasıl tepki vereceğini anlamak için hayvan deneylerine bağımlıydı. ABD ve Sovyetler Birliği, bu amaçla çeşitli hayvanları, özellikle de maymunları kullanıyordu. Able, rhesus türü bir maymun iken, Miss Baker ise sincap maymunu türündendi. Her ikisi de uzayın sert koşullarına dayanıklılıkları ve fizyolojik yakınlıkları nedeniyle dikkatle seçilmişti. Bu minik kaşiflerin görevi, insanlığın uzaydaki geleceği için kritik veriler toplamaktı.\n\n28 Mayıs 1959'da, Florida'daki Cape Canaveral'dan fırlatılan bir Jupiter roketiyle uzaya gönderildiler. Yaklaşık 15 dakikalık bu kısa ancak kritik yolculukta, Able ve Miss Baker, yaklaşık 580 km yüksekliğe ulaştı ve 16.000 km/s hıza kadar çıktı. Roketin her iki maymun için de tasarlanmış özel kapsülleri, onların yaşamsal fonksiyonlarını korumak üzere donatılmıştı. Yolculuk boyunca kalp atışları, solunumları ve vücut sıcaklıkları sürekli izlendi. Dünya'ya geri dönüşleri de en az kalkış kadar riskliydi; yüksek G-kuvvetlerine dayanmaları gerekiyordu.\n\nUçuşu sorunsuz bir şekilde tamamlayarak sağ salim Dünya'ya dönmeleri, uzay araştırmaları tarihinde büyük bir başarı olarak kaydedildi. Bu başarı, NASA'nın insanlı uzay görevleri için gerekli olan biyolojik verileri sağlamanın yanı sıra, uzayda yaşamın mümkün olduğunu gösterdi. Able, ne yazık ki inişten kısa bir süre sonra, derisinin altına yerleştirilen elektrotların çıkarılması sırasında oluşan bir komplikasyon sonucu hayatını kaybetti. Ancak Miss Baker, daha uzun yaşadı ve 1984 yılına kadar insanlığın uzay araştırmalarındaki ilk kahramanlarından biri olarak bilim dünyasına ilham vermeye devam etti. Onların bu cesur adımı, Apollo programları ve Uluslararası Uzay İstasyonu gibi gelecekteki misyonların temelini atmıştır.",
+    "category": "bilim",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Able ve Miss Baker'ın uzaya fırlatıldığı tarih aşağıdakilerden hangisidir?",
+        "options": [
+          "22 Nisan 1958",
+          "28 Mayıs 1959",
+          "16 Temmuz 1960",
+          "12 Eylül 1961"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Able ve Miss Baker, 28 Mayıs 1959 tarihinde Florida'daki Cape Canaveral'dan uzaya fırlatılmıştır."
+      },
+      {
+        "id": 2,
+        "text": "Able ve Miss Baker'ı uzaya taşıyan roketin adı nedir?",
+        "options": [
+          "Atlas",
+          "Saturn V",
+          "Jupiter",
+          "Redstone"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Uzay maymunları Able ve Miss Baker, bir Jupiter roketi ile uzaya gönderilmiştir."
+      },
+      {
+        "id": 3,
+        "text": "Able hangi maymun türündendi?",
+        "options": [
+          "Şempanze",
+          "Babun",
+          "Rhesus",
+          "Goril"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Able, rhesus türü bir maymundu. Bu tür, uzay araştırmalarında fizyolojik benzerlikleri nedeniyle sıkça kullanılmıştır."
+      },
+      {
+        "id": 4,
+        "text": "Miss Baker hangi maymun türündendi?",
+        "options": [
+          "Marmoset",
+          "Örümcek Maymunu",
+          "Capuchin",
+          "Sincap Maymunu"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Miss Baker, sincap maymunu türündendi ve uzay görevini başarıyla tamamlayan ilk sincap maymunu olmuştur."
+      },
+      {
+        "id": 5,
+        "text": "Able ve Miss Baker'ın uzay yolculuğu yaklaşık olarak ne kadar sürmüştür?",
+        "options": [
+          "5 dakika",
+          "15 dakika",
+          "30 dakika",
+          "1 saat"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Bu kritik uzay yolculuğu yaklaşık 15 dakika sürmüştür, bu süre içerisinde önemli veriler toplanmıştır."
+      },
+      {
+        "id": 6,
+        "text": "Uçuş sırasında ulaşılan yaklaşık maksimum yükseklik ne kadardı?",
+        "options": [
+          "100 km",
+          "250 km",
+          "580 km",
+          "1000 km"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Able ve Miss Baker, uzay yolculuklarında yaklaşık 580 km yüksekliğe ulaşmışlardır."
+      },
+      {
+        "id": 7,
+        "text": "Uzay kapsülü hangi hızlara kadar çıkmıştır?",
+        "options": [
+          "5.000 km/s",
+          "10.000 km/s",
+          "16.000 km/s",
+          "20.000 km/s"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Jupiter roketi, Able ve Miss Baker'ı uzayda 16.000 km/s gibi yüksek hızlara taşımıştır."
+      },
+      {
+        "id": 8,
+        "text": "Able'ın ölüm nedeni aşağıdakilerden hangisidir?",
+        "options": [
+          "Uzaydaki radyasyona maruz kalma",
+          "İniş sırasında oluşan teknik bir arıza",
+          "Elektrot çıkarma operasyonu komplikasyonu",
+          "Uzay aracında oksijen yetersizliği"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Able, inişten kısa bir süre sonra, vücuduna yerleştirilen elektrotların çıkarılması sırasında oluşan bir anestezi komplikasyonu sonucu hayatını kaybetmiştir."
+      },
+      {
+        "id": 9,
+        "text": "Miss Baker kaç yılına kadar yaşamaya devam etmiştir?",
+        "options": [
+          "1969",
+          "1975",
+          "1984",
+          "1991"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Miss Baker, uzay uçuşundan sonra uzun yıllar yaşamış ve 1984 yılına kadar hayatta kalmıştır."
+      },
+      {
+        "id": 10,
+        "text": "Bu uzay uçuşunun temel amacı nedir?",
+        "options": [
+          "Uzayda yaşam olup olmadığını araştırmak",
+          "İnsanlı uzay yolculukları için biyolojik veri toplamak",
+          "Yeni roket teknolojilerini test etmek",
+          "Uzay turizmi için fizibilite çalışması yapmak"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Able ve Miss Baker'ın uçuşu, insan vücudunun uzayın zorlu koşullarına nasıl tepki vereceğini anlamak ve insanlı uzay görevleri için gerekli biyolojik verileri toplamak amacıyla gerçekleştirilmiştir."
+      },
+      {
+        "id": 11,
+        "text": "Bu tarihi uzay görevi hangi ülkenin uzay programı kapsamında gerçekleşmiştir?",
+        "options": [
+          "Sovyetler Birliği",
+          "Amerika Birleşik Devletleri",
+          "Çin",
+          "Fransa"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Able ve Miss Baker'ın uçuşu, ABD'nin uzay ajansı NASA'nın erken dönem uzay programlarının bir parçasıydı."
+      },
+      {
+        "id": 12,
+        "text": "Erken uzay araştırmalarında neden özellikle maymunlar tercih edilmiştir?",
+        "options": [
+          "Daha kolay eğitilebildikleri için",
+          "Uzay koşullarına diğer hayvanlardan daha dayanıklı oldukları için",
+          "Fizyolojik olarak insanlara benzerlikleri ve dayanıklılıkları nedeniyle",
+          "Beslenme ihtiyaçları daha az olduğu için"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Maymunlar, fizyolojik olarak insanlara benzerlikleri ve uzayın zorlu G-kuvvetlerine ve diğer koşullarına dayanıklılıkları nedeniyle tercih edilmiştir."
+      },
+      {
+        "id": 13,
+        "text": "Uzay kapsüllerinin Able ve Miss Baker için temel görevi neydi?",
+        "options": [
+          "Onları beslemek",
+          "Uzayda eğlence sağlamak",
+          "Yaşamsal fonksiyonlarını korumak",
+          "Fotoğraf çekmek"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Özel tasarlanmış kapsüller, maymunların kalp atışları, solunum ve vücut sıcaklıkları gibi yaşamsal fonksiyonlarını korumak ve izlemek üzere donatılmıştı."
+      },
+      {
+        "id": 14,
+        "text": "Able ve Miss Baker'ın başarısı, gelecekte hangi önemli uzay programlarının temelini atmıştır?",
+        "options": [
+          "Vostok Programı",
+          "Soyuz Programı",
+          "Apollo Programları",
+          "Mir Uzay İstasyonu"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bu iki maymunun başarılı uzay uçuşu, NASA'nın Apollo programları gibi insanlı uzay görevlerinin önünü açan kritik verileri sağlamıştır."
+      },
+      {
+        "id": 15,
+        "text": "Able ve Miss Baker'ın uzay uçuşunun insanlık için ana sonucu nedir?",
+        "options": [
+          "Uzaylı yaşamının varlığını kanıtlaması",
+          "Uzayda uzun süreli kalışın mümkün olduğunu göstermesi",
+          "Uzayda yaşamın mümkün olduğunu göstermesi ve insanlı görevlere zemin hazırlaması",
+          "Yeni bir iletişim teknolojisinin keşfine yol açması"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bu görev, uzayda yaşamın mümkün olduğunu göstererek, insanlı uzay yolculukları için önemli bir adım olmuş ve gelecekteki görevlere bilimsel temel sağlamıştır."
+      }
+    ]
   }
 ];
