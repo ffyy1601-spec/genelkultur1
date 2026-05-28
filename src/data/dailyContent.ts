@@ -5134,5 +5134,210 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "\"Bahar Ayini\", sanatsal cesareti, radikal müziği, yenilikçi koreografisi ve 20. yüzyıl sanatına yön veren dönüştürücü etkisi nedeniyle bugün hala bir başyapıt olarak kabul edilmektedir."
       }
     ]
+  },
+  {
+    "slug": "leonardo-da-vincinin-son-aksam-yemegi-eserinin-22-yillik-restorasyonu-ve-yeniden-dogusu",
+    "dateId": "2026-05-28",
+    "title": "Son Akşam Yemeği'nin Yeniden Doğuşu: 22 Yıllık Restorasyonun Ardından | GenelKultur",
+    "description": "Leonardo da Vinci'nin başyapıtı Son Akşam Yemeği freskinin 22 yıl süren restorasyon macerası ve 28 Mayıs 1999'da yeniden ziyarete açılması. Bu süreç, sanat tarihine nasıl damga vurdu?",
+    "keywords": [
+      "Son Akşam Yemeği",
+      "Leonardo da Vinci",
+      "restorasyon",
+      "sanat tarihi",
+      "Milano",
+      "Santa Maria delle Grazie",
+      "fresk",
+      "duvar resmi",
+      "sanat eseri",
+      "Rönesans",
+      "1999"
+    ],
+    "heading": "Leonardo da Vinci'nin \"Son Akşam Yemeği\" Eserinin 22 Yıllık Restorasyonu ve Yeniden Doğuşu",
+    "intro": "Dünya sanat tarihinin en ikonik eserlerinden biri olan Leonardo da Vinci'nin \"Son Akşam Yemeği\" freski, yüzyıllar boyunca maruz kaldığı yıpranma ve yanlış restorasyonlar nedeniyle ciddi hasarlar görmüştü. Ancak 1977 yılında başlayan ve tam 22 yıl süren titiz bir restorasyon çalışması, bu başyapıtı adeta küllerinden yeniden doğurdu. 28 Mayıs 1999'da, Milano'daki Santa Maria delle Grazie Manastırı'nda yeniden ziyarete açıldığında, sanat dünyası büyük bir nefes aldı. Bu süreç, sadece bir eserin kurtarılması değil, aynı zamanda modern restorasyon tekniklerinin sınırlarını zorlayan bir başarı öyküsüydü.",
+    "article": "Leonardo da Vinci, \"Son Akşam Yemeği\"ni 15. yüzyılın sonlarında, Milano Dükü Ludovico Sforza'nın himayesinde, Santa Maria delle Grazie Manastırı'nın yemekhanesi için yapmıştır. Ancak o dönemde kullanılan geleneksel \"fresk\" tekniğinin aksine, Leonardo deneysel bir yöntem tercih etti: Kuru bir duvara tempera ve yağlı boya karışımıyla uygulanan bu teknik, eserin daha canlı görünmesini sağlasa da, ne yazık ki zamanla soyulma ve bozulmaya karşı oldukça savunmasızdı. Yüzyıllar boyunca savaşlar, nem, çevresel faktörler ve bilinçsiz restorasyon girişimleri, eserin orijinal parlaklığını ve detaylarını büyük ölçüde yok etmişti.\n\n20. yüzyılın ortalarına gelindiğinde, \"Son Akşam Yemeği\" tanınmaz hale gelmiş, renkleri solmuş, yüzeyinde çatlaklar oluşmuş ve neredeyse bir gölgeye dönüşmüştü. Bu durum karşısında, 1977 yılında Pinin Brambilla Barcilon liderliğinde, modern teknolojinin ve sanat tarihinin en iyi bilgilerini bir araya getiren kapsamlı bir restorasyon projesi başlatıldı. Proje ekibi, eserin her santimetrekaresini mikroskobik düzeyde inceleyerek, Leonardo'nun orijinal fırça darbelerini ortaya çıkarmak için katman katman kir ve sonraki eklemeleri temizledi. Bu inanılmaz sabır gerektiren çalışma, eserin orijinaline en yakın halini geri kazandırmayı hedefliyordu.\n\nRestorasyon süreci, eserin tarihi ve sanatsal değerine saygılı bir yaklaşımla yürütüldü. Her adım titizlikle belgelendi, analizler yapıldı ve en uygun kimyasal ve fiziksel yöntemler kullanıldı. 22 yılın sonunda, 1999'da tamamlanan bu destansı çalışma, \"Son Akşam Yemeği\"ni yeniden sanatseverlerin beğenisine sundu. Eserin renkleri canlandı, kaybolduğu düşünülen detaylar yeniden görünür hale geldi ve Leonardo'nun dehası bir kez daha tüm ihtişamıyla gözler önüne serildi. Bu restorasyon, gelecekteki sanat eserlerinin korunması için de bir mihenk taşı niteliği taşıyarak, kültürel mirasın ne denli özenle korunması gerektiğini tüm dünyaya hatırlattı.",
+    "category": "sanat",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Leonardo da Vinci'nin \"Son Akşam Yemeği\" eseri hangi şehirde bulunmaktadır?",
+        "options": [
+          "Roma",
+          "Floransa",
+          "Milano",
+          "Venedik"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Eser, Milano'daki Santa Maria delle Grazie Manastırı'nın yemekhanesinde bulunmaktadır."
+      },
+      {
+        "id": 2,
+        "text": "\"Son Akşam Yemeği\" tablosunun restorasyon süreci kaç yıl sürmüştür?",
+        "options": [
+          "10 yıl",
+          "15 yıl",
+          "22 yıl",
+          "30 yıl"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Restorasyon çalışmaları 1977 yılında başlamış ve 1999 yılında tamamlanarak tam 22 yıl sürmüştür."
+      },
+      {
+        "id": 3,
+        "text": "Restorasyonu tamamlanan \"Son Akşam Yemeği\" eseri, yeniden hangi tarihte ziyarete açılmıştır?",
+        "options": [
+          "28 Nisan 1999",
+          "28 Mayıs 1999",
+          "28 Haziran 1999",
+          "28 Temmuz 1999"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Eser, 22 yıllık restorasyonun ardından 28 Mayıs 1999 tarihinde yeniden ziyarete açılmıştır."
+      },
+      {
+        "id": 4,
+        "text": "Leonardo da Vinci, \"Son Akşam Yemeği\" eserini yaparken neden geleneksel fresk tekniğini kullanmamıştır?",
+        "options": [
+          "Fresk tekniğini bilmiyordu.",
+          "Eserin daha hızlı bitmesini istiyordu.",
+          "Daha canlı renkler elde etmek için deneysel bir teknik denedi.",
+          "O dönemde fresk malzemeleri bulunmuyordu."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Leonardo, eserin daha parlak ve canlı görünmesi amacıyla kuru bir duvara tempera ve yağlı boya karışımıyla deneysel bir yöntem uygulamıştır."
+      },
+      {
+        "id": 5,
+        "text": "\"Son Akşam Yemeği\" eserinin ilk yapıldığı bina hangi türdendir?",
+        "options": [
+          "Katedral",
+          "Saray",
+          "Manastır yemekhanesi",
+          "Müze"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Eser, Milano'daki Santa Maria delle Grazie Manastırı'nın yemekhanesi için yapılmıştır."
+      },
+      {
+        "id": 6,
+        "text": "Eserin restorasyonuna liderlik eden başlıca isim kimdir?",
+        "options": [
+          "Giorgio Vasari",
+          "Pinin Brambilla Barcilon",
+          "Michelangelo",
+          "Raphael"
+        ],
+        "correctAnswer": 1,
+        "explanation": "1977'de başlayan restorasyon projesine Pinin Brambilla Barcilon liderlik etmiştir."
+      },
+      {
+        "id": 7,
+        "text": "\"Son Akşam Yemeği\" eseri hangi dönemin önemli bir yapıtıdır?",
+        "options": [
+          "Gotik Dönem",
+          "Barok Dönem",
+          "Rönesans Dönemi",
+          "Neoklasik Dönem"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Leonardo da Vinci, Rönesans döneminin en önemli temsilcilerinden biridir ve bu eseri de Rönesans sanatının zirve noktalarından biridir."
+      },
+      {
+        "id": 8,
+        "text": "Eserin yüzeyindeki bozulmaların başlıca nedenleri arasında hangisi yer almaz?",
+        "options": [
+          "Yüzyıllar boyunca maruz kaldığı nem",
+          "Hava kirliliği",
+          "Bilinçsiz restorasyon girişimleri",
+          "Çok güçlü ışıklandırma"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Eserin bozulmalarının temel nedenleri arasında nem, savaşlar, çevresel faktörler ve yanlış restorasyonlar bulunurken, çok güçlü ışıklandırma genellikle sonraki sergileme koşullarıyla ilgilidir ve ilk bozulmaların ana nedeni değildir."
+      },
+      {
+        "id": 9,
+        "text": "Restorasyon sırasında eserin orijinal haline en yakın hale getirilmesi için hangi yöntemler kullanılmıştır?",
+        "options": [
+          "Tamamen yeniden boyama",
+          "Dijital kopyalama",
+          "Mikroskobik inceleme ve katman temizliği",
+          "Fotoğrafik büyütme"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Proje ekibi, eserin her santimetrekaresini mikroskobik düzeyde inceleyerek, orijinal fırça darbelerini ortaya çıkarmak için katman katman kir ve sonraki eklemeleri temizlemiştir."
+      },
+      {
+        "id": 10,
+        "text": "\"Son Akşam Yemeği\" eserinin yapımında kullanılan deneysel teknik neyden oluşuyordu?",
+        "options": [
+          "Sadece sulu boya",
+          "Kuru duvara tempera ve yağlı boya karışımı",
+          "Mozaik taşlar",
+          "Fresk tekniği ile sulu boya karışımı"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Leonardo, eseri kuru bir duvara tempera ve yağlı boya karışımıyla uygulamıştır, bu da eseri daha canlı kılmış ancak dayanıklılığını azaltmıştır."
+      },
+      {
+        "id": 11,
+        "text": "Restorasyon projesi ne zaman başlamıştır?",
+        "options": [
+          "1957",
+          "1967",
+          "1977",
+          "1987"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kapsamlı restorasyon projesi 1977 yılında başlamıştır."
+      },
+      {
+        "id": 12,
+        "text": "Restorasyonun tamamlanmasıyla birlikte eserdeki hangi özellikler yeniden ortaya çıkarılmıştır?",
+        "options": [
+          "Yeni eklenen figürler",
+          "Orijinal renkler ve kaybolduğu düşünülen detaylar",
+          "Eserin boyutu",
+          "Çerçevenin altın kaplaması"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Restorasyon sayesinde eserin renkleri canlanmış, kaybolduğu düşünülen detaylar yeniden görünür hale gelmiştir."
+      },
+      {
+        "id": 13,
+        "text": "Leonardo da Vinci bu eseri hangi dükün himayesinde yapmıştır?",
+        "options": [
+          "Lorenzo de' Medici",
+          "Ludovico Sforza",
+          "Cosimo de' Medici",
+          "Francesco Sforza"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Eser, Milano Dükü Ludovico Sforza'nın himayesinde yapılmıştır."
+      },
+      {
+        "id": 14,
+        "text": "Eserin orijinal tekniğinin deneysel olması ne gibi bir dezavantaj yaratmıştır?",
+        "options": [
+          "Sanatçıya daha fazla zaman kaybettirmiştir.",
+          "Renklerin canlılığını azaltmıştır.",
+          "Eseri zamanla soyulma ve bozulmaya karşı savunmasız bırakmıştır.",
+          "Başka sanatçıların taklit etmesini zorlaştırmıştır."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Deneysel teknik, eserin daha canlı görünmesini sağlasa da, zamanla soyulma ve bozulmaya karşı oldukça savunmasız kalmasına neden olmuştur."
+      },
+      {
+        "id": 15,
+        "text": "\"Son Akşam Yemeği\" eserinin restorasyonu, gelecekteki sanat eserlerinin korunması açısından nasıl bir öneme sahiptir?",
+        "options": [
+          "Sanatçılara yeni teknikler öğretmiştir.",
+          "Restorasyon tekniklerinin sınırlarını zorlayan bir mihenk taşı olmuştur.",
+          "Sadece bu esere özel bir durum olmuştur.",
+          "Eserlerin restore edilmemesi gerektiğini göstermiştir."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Bu restorasyon, modern restorasyon tekniklerinin sınırlarını zorlayan bir başarı öyküsü olarak, gelecekteki sanat eserlerinin korunması için bir mihenk taşı niteliği taşımaktadır."
+      }
+    ]
   }
 ];
