@@ -390,4 +390,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/aya-ilk-yumusak-inis-surveyor-1-ve-apollo-yolunun-acilisi</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/aya-ilk-yumusak-inis-surveyor-1-ve-apollo-yolunun-acilisi/oyna</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>

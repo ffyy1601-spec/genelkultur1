@@ -5747,5 +5747,208 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Bu görev, uzayda yaşamın mümkün olduğunu göstererek, insanlı uzay yolculukları için önemli bir adım olmuş ve gelecekteki görevlere bilimsel temel sağlamıştır."
       }
     ]
+  },
+  {
+    "slug": "aya-ilk-yumusak-inis-surveyor-1-ve-apollo-yolunun-acilisi",
+    "dateId": "2026-05-28",
+    "title": "Ay'a İlk Yumuşak İniş: Surveyor 1'in Tarihi Görevi | GenelKultur",
+    "description": "Surveyor 1, 30 Mayıs 1966'da fırlatılarak ABD'nin Ay yüzeyine başarıyla iniş yapan ilk insansız uzay aracı oldu. Bu tarihi görev, Apollo programının önünü açtı ve insanlı Ay inişleri için kritik veriler sağladı.",
+    "keywords": [
+      "Surveyor 1",
+      "Ay inişi",
+      "uzay keşfi",
+      "NASA",
+      "Apollo programı",
+      "insansız uzay aracı",
+      "Ay yüzeyi",
+      "uzay tarihi",
+      "bilim"
+    ],
+    "heading": "Ay'a İlk Yumuşak İniş: Surveyor 1 ve Apollo Yolunun Açılışı",
+    "intro": "Soğuk Savaş'ın en ateşli dönemlerinde, uzay yarışı insanlığın ufkunu Ay'a çevirmişti. Sovyetler Birliği'nin uzaydaki ilk başarılarına karşılık veren Amerika Birleşik Devletleri, Ay'a insan gönderme hedefine ulaşmak için bir dizi kritik adımı atmaya başladı. Bu adımlardan biri de, Ay yüzeyine güvenli bir iniş yapma kabiliyetini kanıtlayacak olan Surveyor programıydı. 30 Mayıs 1966'da fırlatılan Surveyor 1, ABD'nin bu alandaki ilk ve tarihi başarısını temsil edecekti.",
+    "article": "Surveyor programı, NASA'nın Jet İtki Laboratuvarı (JPL) tarafından yürütülen ve Apollo insanlı Ay inişleri programının önünü açmak amacıyla tasarlanmış bir dizi insansız uzay aracı göreviydi. Bu görevlerin temel amacı, Ay yüzeyinin iniş için uygun olup olmadığını, taşıma kapasitesini ve termal özelliklerini incelemekti. Ayrıca, Ay toprağının (regolit) mühendislik özellikleri hakkında değerli bilgiler toplamak ve Ay'ın yakın çekim fotoğraflarını çekmek de hedefleniyordu. Sovyetler Birliği'nin Luna 9 aracıyla yaptığı ilk başarılı yumuşak inişin ardından, ABD'nin de bu alanda hızlıca ilerlemesi gerekiyordu.\n\nSurveyor 1, 30 Mayıs 1966'da Cape Canaveral'dan bir Atlas-Centaur roketiyle fırlatıldı. Yedi buçuk aylık bir geliştirme ve test sürecinin ardından göreve başlayan araç, altmış beş saatlik bir yolculuğun ardından 2 Haziran 1966'da Ay'ın Fırtınalar Okyanusu (Oceanus Procellarum) bölgesine başarılı bir şekilde iniş yaptı. Bu iniş, ABD'nin Ay yüzeyine yumuşak iniş yapan ilk aracı olarak tarihe geçti ve NASA'nın Apollo hedefi için büyük bir moral ve teknik destek sağladı. Surveyor 1'in inişi, Ay'ın yüzeyinin tahmin edildiği gibi toz bataklığı olmadığını, sağlam bir zemin sunduğunu gösterdi.\n\nGörevi boyunca Surveyor 1, Ay yüzeyinden 11.237 adet yüksek çözünürlüklü televizyon görüntüsü gönderdi. Bu görüntüler, Ay yüzeyinin yapısı, kraterler ve taş dağılımı hakkında detaylı bilgiler sağladı. Ayrıca, uzay aracı üzerindeki sensörler, Ay'ın yüzey sıcaklığı ve iniş sırasında Ay toprağının mekanik özellikleri hakkında veriler topladı. Surveyor 1, Ay'da yaklaşık bir ay boyunca çalışmaya devam etti, iki Ay gecesi geçirdi ve hatta güneş ışığı tekrar vurunca tekrar aktifleşerek mühendislik becerisini kanıtladı. Bu başarı, Apollo iniş modüllerinin tasarımı ve iniş stratejileri için hayati önem taşıyan veriler sunarak insanlığın Ay'a atacağı dev adımların temelini sağlamlaştırdı.",
+    "category": "bilim",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Surveyor programının temel amacı nedir?",
+        "options": [
+          "Ay'a ilk insanı göndermek",
+          "Ay'ın atmosferini analiz etmek",
+          "Ay yüzeyine güvenli iniş kabiliyetini test etmek",
+          "Mars'a giden rotayı incelemek"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Surveyor programı, insanlı Apollo görevlerinden önce Ay yüzeyine güvenli iniş yapabilme yeteneğini test etmek ve yüzey hakkında bilgi toplamak amacıyla tasarlanmıştır."
+      },
+      {
+        "id": 2,
+        "text": "Surveyor 1 hangi tarihte fırlatıldı?",
+        "options": [
+          "28 Mayıs 1966",
+          "30 Mayıs 1966",
+          "2 Haziran 1966",
+          "15 Temmuz 1969"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Surveyor 1, 30 Mayıs 1966 tarihinde Cape Canaveral'dan fırlatılmıştır. İnişi ise 2 Haziran 1966'da gerçekleşmiştir."
+      },
+      {
+        "id": 3,
+        "text": "Surveyor 1, Ay'ın hangi bölgesine iniş yapmıştır?",
+        "options": [
+          "Sakinlik Denizi (Mare Tranquillitatis)",
+          "Fırtınalar Okyanusu (Oceanus Procellarum)",
+          "Bolluk Denizi (Mare Fecunditatis)",
+          "Krizler Denizi (Mare Crisium)"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Surveyor 1, Ay'ın batı kenarında yer alan Fırtınalar Okyanusu (Oceanus Procellarum) bölgesine başarılı bir iniş yapmıştır."
+      },
+      {
+        "id": 4,
+        "text": "Surveyor 1'in Ay'a inişi, hangi uzay programı için kritik öneme sahipti?",
+        "options": [
+          "Voyager Programı",
+          "Mercury Programı",
+          "Gemini Programı",
+          "Apollo Programı"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Surveyor programı, NASA'nın insanlı Ay inişlerini hedefleyen Apollo programı için Ay yüzey bilgisi ve iniş teknolojisi sağlamak amacıyla tasarlanmıştır."
+      },
+      {
+        "id": 5,
+        "text": "Surveyor 1'den kaç adet yüksek çözünürlüklü görüntü alınmıştır?",
+        "options": [
+          "Yaklaşık 1.000",
+          "Yaklaşık 5.000",
+          "Yaklaşık 11.000",
+          "Yaklaşık 20.000"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Görevi boyunca Surveyor 1, Ay yüzeyinden 11.237 adet yüksek çözünürlüklü televizyon görüntüsü göndermiştir."
+      },
+      {
+        "id": 6,
+        "text": "Surveyor 1, Ay'da kaç Ay gecesi geçirmiştir?",
+        "options": [
+          "Bir",
+          "İki",
+          "Üç",
+          "Hiçbiri, sadece gündüz çalıştı"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Surveyor 1, Ay'da yaklaşık bir ay boyunca çalışmış ve iki Ay gecesi geçirmiştir. Ay geceleri çok soğuk olduğu için bu durum, uzay aracının dayanıklılığını göstermiştir."
+      },
+      {
+        "id": 7,
+        "text": "Surveyor 1 görevinin başarısı neyi kanıtlamıştır?",
+        "options": [
+          "Ay'da yaşam olduğunu",
+          "Ay yüzeyinin tahmin edildiği gibi toz bataklığı olmadığını",
+          "Ay'ın bir atmosferi olduğunu",
+          "Ay'da su kaynakları bulunduğunu"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Surveyor 1'in inişi, Ay'ın yüzeyinin iniş araçları için sağlam bir zemin sunduğunu ve kalın bir toz tabakasıyla kaplı bir bataklık olmadığını göstermiştir."
+      },
+      {
+        "id": 8,
+        "text": "Surveyor programı hangi uzay ajansı tarafından yürütülmüştür?",
+        "options": [
+          "ESA (Avrupa Uzay Ajansı)",
+          "Roscosmos (Rus Uzay Ajansı)",
+          "NASA (Ulusal Havacılık ve Uzay Dairesi)",
+          "JAXA (Japon Uzay Araştırma Ajansı)"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Surveyor programı, Amerika Birleşik Devletleri'nin uzay ajansı olan NASA tarafından yürütülmüştür."
+      },
+      {
+        "id": 9,
+        "text": "Surveyor 1 hangi roket ile fırlatılmıştır?",
+        "options": [
+          "Saturn V",
+          "Soyuz",
+          "Atlas-Centaur",
+          "Delta IV"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Surveyor 1, Cape Canaveral'dan bir Atlas-Centaur roketiyle fırlatılmıştır. Saturn V, Apollo görevlerinde kullanılan çok daha büyük bir rokettir."
+      },
+      {
+        "id": 10,
+        "text": "Surveyor 1'in Ay'a yolculuğu yaklaşık ne kadar sürmüştür?",
+        "options": [
+          "Birkaç saat",
+          "Bir gün",
+          "Üç gün",
+          "Bir hafta"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Surveyor 1, yedi buçuk aylık geliştirme sürecinin ardından fırlatılmış ve altmış beş saatlik (yaklaşık üç gün) bir yolculuğun ardından Ay'a ulaşmıştır."
+      },
+      {
+        "id": 11,
+        "text": "Surveyor 1'den önce Ay yüzeyine başarılı bir yumuşak iniş yapan ilk araç hangi ülkeye aitti?",
+        "options": [
+          "Amerika Birleşik Devletleri",
+          "Sovyetler Birliği",
+          "Çin",
+          "Avrupa Uzay Ajansı"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Sovyetler Birliği'nin Luna 9 aracı, Surveyor 1'den kısa bir süre önce, 3 Şubat 1966'da Ay yüzeyine ilk başarılı yumuşak inişi gerçekleştirmiştir."
+      },
+      {
+        "id": 12,
+        "text": "Surveyor 1, hangi laboratuvar tarafından geliştirilmiştir?",
+        "options": [
+          "Johnson Uzay Merkezi",
+          "Kennedy Uzay Merkezi",
+          "Jet İtki Laboratuvarı (JPL)",
+          "Goddard Uzay Uçuş Merkezi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Surveyor programı, NASA'nın birincil robotik uzay araştırmaları merkezi olan Jet İtki Laboratuvarı (JPL) tarafından yönetilmiştir."
+      },
+      {
+        "id": 13,
+        "text": "Ay yüzeyindeki regolit terimi ne anlama gelir?",
+        "options": [
+          "Ay'ın atmosferi",
+          "Ay'ın çekirdeği",
+          "Ay toprağı ve tozu",
+          "Ay üzerindeki su kaynakları"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Regolit, Ay yüzeyini kaplayan, meteor çarpmalarıyla ufalanmış kaya ve toz tabakasına verilen addır. Surveyor programı, bu regolitin mühendislik özelliklerini incelemiştir."
+      },
+      {
+        "id": 14,
+        "text": "Surveyor 1 görevinin sağladığı en önemli verilerden biri nedir?",
+        "options": [
+          "Ay'da mikrobiyal yaşam kanıtı",
+          "Ay'ın Manyetik Alanı hakkında bilgiler",
+          "Ay toprağının taşıma kapasitesi ve mekanik özellikleri",
+          "Ay'ın volkanik aktivite düzeyi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Surveyor 1, Ay toprağının (regolit) mühendislik özellikleri ve taşıma kapasitesi hakkında kritik veriler sağlayarak Apollo iniş modüllerinin tasarımı için temel oluşturmuştur."
+      },
+      {
+        "id": 15,
+        "text": "Surveyor 1'in inişinden sonra tekrar aktifleşebilmesi neyi göstermiştir?",
+        "options": [
+          "Ay'da enerji kaynağı olduğunu",
+          "Uzay aracının kendi kendini onarabildiğini",
+          "Uzay aracının aşırı Ay gecesi koşullarına dayanıklılığını",
+          "Ay'da yaşam belirtisi olduğunu"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Surveyor 1'in Ay gecesinin dondurucu soğuklarına rağmen tekrar aktifleşmesi, uzay aracının tasarımının ve mühendisliğinin Ay'ın zorlu koşullarına karşı oldukça dayanıklı olduğunu kanıtlamıştır."
+      }
+    ]
   }
 ];
