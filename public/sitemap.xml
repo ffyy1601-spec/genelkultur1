@@ -350,4 +350,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/ritmik-devrim-ve-alkis-tufani-arasinda-igor-stravinskynin-bahar-ayini</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/ritmik-devrim-ve-alkis-tufani-arasinda-igor-stravinskynin-bahar-ayini/oyna</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
