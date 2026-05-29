@@ -420,4 +420,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/amelia-earhart-gokyuzunde-cesaretin-ve-sinir-tanimazligin-sembolu</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/amelia-earhart-gokyuzunde-cesaretin-ve-sinir-tanimazligin-sembolu/oyna</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>

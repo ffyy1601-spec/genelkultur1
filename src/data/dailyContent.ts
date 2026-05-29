@@ -6364,5 +6364,209 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Superman, modern süper kahraman prototipini oluşturmuş ve kendisinden sonra gelen sayısız süper kahraman karakterine ve evrenine ilham kaynağı olmuştur."
       }
     ]
+  },
+  {
+    "slug": "amelia-earhart-gokyuzunde-cesaretin-ve-sinir-tanimazligin-sembolu",
+    "dateId": "2026-05-29",
+    "title": "Amelia Earhart: Atlantik'i Tek Başına Geçen İlk Kadın Pilot ve Havacılık Efsanesi | GenelKultur",
+    "description": "Amelia Earhart'ın 1932 yılında Atlantik Okyanusu'nu tek başına geçen ilk kadın pilot olarak tarihe geçen efsanevi uçuşunu, hayatını ve havacılık dünyasındaki unutulmaz mirasını keşfedin.",
+    "keywords": [
+      "Amelia Earhart",
+      "Atlantik uçuşu",
+      "kadın pilot",
+      "havacılık tarihi",
+      "rekor",
+      "Lockheed Vega",
+      "ilham veren kadınlar",
+      "uzun mesafe uçuşu",
+      "ilkler",
+      "20 Mayıs 1932"
+    ],
+    "heading": "Amelia Earhart: Gökyüzünde Cesaretin ve Sınır Tanımazlığın Sembolü",
+    "intro": "Gökyüzüne duyulan tutku, tarihin en ikonik isimlerinden birini ortaya çıkardı: Amelia Earhart. Kadınların havacılıkta henüz çok yeni olduğu bir dönemde, cesareti ve kararlılığıyla göklere meydan okuyan Earhart, 20 Mayıs 1932'de gerçekleştirdiği efsanevi uçuşla sadece bir rekor kırmakla kalmadı, aynı zamanda tüm dünyada kadınlara ilham veren bir figüre dönüştü. Onun Atlantik'i tek başına geçişi, insanlık tarihinde yeni bir sayfa açtı.",
+    "article": "Amelia Earhart, 24 Temmuz 1897'de Kansas'ta doğdu. Küçük yaşlardan itibaren macera ruhuyla dolu olan Earhart, ilk uçuş deneyimini 1920 yılında yaşadı ve bu andan itibaren hayatı tamamen değişti. Uçuş dersleri almaya başladı ve kısa sürede yetenekli bir pilot olduğunu kanıtladı. 1928'de, bir uçağın yolcusu olarak Atlantik'i geçen ilk kadın olma unvanını elde etti. Ancak bu ona yetmedi; kendi uçağıyla, tek başına bu destansı yolculuğu tamamlamayı hedefliyordu. Bu hedef, onu 1932 yılındaki tarihi uçuşuna sürükleyecekti.\n\n20 Mayıs 1932'de, Newfoundland'daki Harbour Grace'ten tek motorlu Lockheed Vega uçağıyla havalanan Amelia Earhart, Atlantik Okyanusu'nu tek başına geçmek için yola çıktı. Uçuş, sayısız zorlukla doluydu. Kötü hava koşulları, buzlanma tehlikesi ve mekanik arızalar, bu cesur pilotun azmini defalarca test etti. Uçağının egzoz manifoldundaki çatlaklar nedeniyle alevler görmesi ve buzlanma nedeniyle alçalmak zorunda kalması gibi kritik anlar yaşadı. Ancak Earhart, tüm bu engellere rağmen direndi ve yaklaşık 14 saat 56 dakika süren bir yolculuğun ardından İrlanda'nın Culmore köyü yakınlarındaki bir tarlaya başarılı bir iniş yaparak tarihe geçti.\n\nBu uçuş, havacılık tarihinde bir dönüm noktasıydı. Amelia Earhart, Atlantik Okyanusu'nu tek başına geçen ilk kadın ve bu başarıyı elde eden ikinci kişi olarak adını altın harflerle yazdırdı. Bu başarı ona sadece şöhret getirmekle kalmadı, aynı zamanda kadınların bilim, mühendislik ve havacılık gibi alanlarda da erkeklerle eşit derecede başarılı olabileceğini tüm dünyaya gösterdi. Earhart, kadın hakları savunuculuğunun da bir sembolü haline geldi. Ne yazık ki, 1937'deki dünya turu denemesi sırasında Pasifik üzerinde gizemli bir şekilde kaybolması, onun efsanesini daha da derinleştirdi. Ancak mirası, günümüzde bile sayısız kişiye ilham vermeye devam ediyor.",
+    "category": "genel",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Amelia Earhart, Atlantik Okyanusu'nu tek başına geçen ilk kadın pilot olarak tarihe hangi yıl geçmiştir?",
+        "options": [
+          "1928",
+          "1932",
+          "1937",
+          "1942"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Amelia Earhart, Atlantik Okyanusu'nu tek başına geçen ilk kadın pilot unvanını 20 Mayıs 1932'deki tarihi uçuşuyla kazanmıştır."
+      },
+      {
+        "id": 2,
+        "text": "Earhart'ın Atlantik'i tek başına geçerken kullandığı uçağın modeli aşağıdakilerden hangisidir?",
+        "options": [
+          "Boeing B-17",
+          "Lockheed Vega 5B",
+          "Spirit of St. Louis",
+          "Wright Flyer"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Amelia Earhart, 1932'deki solo Atlantik geçişinde tek motorlu Lockheed Vega 5B uçağını kullanmıştır."
+      },
+      {
+        "id": 3,
+        "text": "Amelia Earhart, solo Atlantik uçuşuna hangi ülkeden başlamıştır?",
+        "options": [
+          "Amerika Birleşik Devletleri",
+          "Kanada",
+          "İngiltere",
+          "Fransa"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Earhart, solo Atlantik uçuşuna Kanada'nın Newfoundland eyaletindeki Harbour Grace kasabasından başlamıştır."
+      },
+      {
+        "id": 4,
+        "text": "Earhart'ın tek başına Atlantik'i geçişi kaç saat civarında sürmüştür?",
+        "options": [
+          "Yaklaşık 8 saat",
+          "Yaklaşık 15 saat",
+          "Yaklaşık 24 saat",
+          "Yaklaşık 30 saat"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Uçuşu yaklaşık 14 saat 56 dakika sürmüş, bu da yaklaşık 15 saate denk gelmektedir."
+      },
+      {
+        "id": 5,
+        "text": "Amelia Earhart, Atlantik'i tek başına geçen kaçıncı kişi olmuştur?",
+        "options": [
+          "Birinci",
+          "İkinci",
+          "Üçüncü",
+          "Dördüncü"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Charles Lindbergh 1927'de Atlantik'i tek başına geçen ilk kişi olmuş, Amelia Earhart ise 1932'de bu başarıyı gösteren ikinci kişi olmuştur."
+      },
+      {
+        "id": 6,
+        "text": "1932 yılındaki uçuşunda Earhart'ın yaşadığı temel zorluklar arasında aşağıdakilerden hangisi yer almaz?",
+        "options": [
+          "Kötü hava koşulları",
+          "Uçağın yakıtının bitmesi",
+          "Buzlanma tehlikesi",
+          "Mekanik arızalar"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Makalede yakıt bitmesi gibi bir durumdan bahsedilmemiştir. Kötü hava, buzlanma ve mekanik arızalar (egzoz çatlağı) yaşadığı belirtilmiştir."
+      },
+      {
+        "id": 7,
+        "text": "Amelia Earhart'ın 1932'deki iniş noktası hangi ülkedeydi?",
+        "options": [
+          "Fransa",
+          "İspanya",
+          "İrlanda",
+          "Portekiz"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Earhart, yaklaşık 15 saatlik uçuşunun ardından İrlanda'nın Culmore köyü yakınlarındaki bir tarlaya iniş yapmıştır."
+      },
+      {
+        "id": 8,
+        "text": "Earhart, 1928'de Atlantik'i geçen ilk kadın olmuştu. Bu uçuşta rolü neydi?",
+        "options": [
+          "Tek başına pilot",
+          "Yardımcı pilot",
+          "Yolcu",
+          "Uçuş mühendisi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "1928'de bir uçağın yolcusu olarak Atlantik'i geçen ilk kadın olmuş, tek başına pilot olarak geçişi ise 1932'dedir."
+      },
+      {
+        "id": 9,
+        "text": "Amelia Earhart, havacılık alanında neyin sembolü olarak kabul edilir?",
+        "options": [
+          "Ekonomik uçuşların",
+          "Askeri stratejinin",
+          "Cesaretin ve sınır tanımazlığın",
+          "Kargo taşımacılığının"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Makale, Earhart'ı cesaretin, kararlılığın ve sınır tanımazlığın sembolü olarak tanımlar, özellikle kadınlar için ilham kaynağı olmuştur."
+      },
+      {
+        "id": 10,
+        "text": "Earhart'ın dünya turu denemesi sırasında ne olmuştur?",
+        "options": [
+          "Başarılı bir şekilde tamamladı",
+          "Uçağı teknik arıza nedeniyle geri döndü",
+          "Pasifik üzerinde gizemli bir şekilde kayboldu",
+          "Kötü hava koşulları yüzünden iptal etti"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Makale, 1937'deki dünya turu denemesi sırasında Pasifik üzerinde gizemli bir şekilde kaybolduğunu belirtmektedir."
+      },
+      {
+        "id": 11,
+        "text": "Amelia Earhart'ın havacılığa olan tutkusu ne zaman başlamıştır?",
+        "options": [
+          "Çocukluk yaşlarından itibaren",
+          "İlk uçuş deneyiminden sonra",
+          "Üniversite yıllarında",
+          "Askerlik hizmeti sırasında"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Makalede 1920 yılında ilk uçuş deneyimini yaşadığı ve bu andan itibaren hayatının değiştiği belirtilmiştir."
+      },
+      {
+        "id": 12,
+        "text": "Atlantik Okyanusu'nu tek başına geçen ilk pilot kimdir?",
+        "options": [
+          "Amelia Earhart",
+          "Howard Hughes",
+          "Charles Lindbergh",
+          "Wiley Post"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Charles Lindbergh, 1927 yılında Atlantik Okyanusu'nu tek başına ve durmaksızın geçen ilk pilottur. Amelia Earhart ise bunu başaran ikinci kişidir."
+      },
+      {
+        "id": 13,
+        "text": "Amelia Earhart, kadınların havacılık ve bilim gibi alanlardaki rolü açısından ne gibi bir etki yaratmıştır?",
+        "options": [
+          "Hiçbir etkisi olmamıştır",
+          "Kadınların bu alanlara ilgisini azaltmıştır",
+          "Kadınların bu alanlarda erkeklerle eşit derecede başarılı olabileceğini göstermiştir",
+          "Sadece spor alanında etkili olmuştur"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Earhart'ın başarıları, kadınların bilim, mühendislik ve havacılık gibi alanlarda erkeklerle eşit derecede başarılı olabileceğini tüm dünyaya göstermiş ve kadınlara ilham vermiştir."
+      },
+      {
+        "id": 14,
+        "text": "Amelia Earhart'ın adı en çok hangi başarısıyla anılmaktadır?",
+        "options": [
+          "İlk kadın uzay mekiği pilotu olması",
+          "İlk kadın jet pilotu olması",
+          "Atlantik Okyanusu'nu tek başına geçen ilk kadın pilot olması",
+          "Ses hızını aşan ilk kadın olması"
+        ],
+        "correctAnswer": 2,
+        "explanation": "En ikonik başarısı, 1932'de Atlantik Okyanusu'nu tek başına geçen ilk kadın pilot olmasıdır."
+      },
+      {
+        "id": 15,
+        "text": "Amelia Earhart'ın doğum yeri olan Kansas, hangi ülkenin bir eyaletidir?",
+        "options": [
+          "Kanada",
+          "İrlanda",
+          "Amerika Birleşik Devletleri",
+          "İngiltere"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Amelia Earhart, 24 Temmuz 1897'de Amerika Birleşik Devletleri'nin Kansas eyaletinde doğmuştur."
+      }
+    ]
   }
 ];
