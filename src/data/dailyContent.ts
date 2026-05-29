@@ -6974,5 +6974,211 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Canlı görüntüleri evlere getirme potansiyeli, o dönem için halk tarafından büyüleyici ve çığır açıcı bir gelişme olarak algılanmıştır."
       }
     ]
+  },
+  {
+    "slug": "bir-imparatorlugun-kaderini-degistiren-imza-1913-londra-antlasmasi",
+    "dateId": "2026-05-29",
+    "title": "1913 Londra Antlaşması: Balkan Savaşları ve Osmanlı'nın Büyük Toprak Kaybı | Tarih Bilgisi",
+    "description": "30 Mayıs 1913 tarihli Londra Antlaşması, Osmanlı İmparatorluğu için büyük bir dönüm noktası oldu. Balkan Savaşları'nı resmen sonlandıran bu antlaşma, Osmanlı'nın Avrupa'daki topraklarının çoğunu kaybetmesine yol açtı. Antlaşmanın detaylarını, imzalanma sürecini ve etkilerini keşfedin.",
+    "keywords": [
+      "Londra Antlaşması",
+      "Balkan Savaşları",
+      "Osmanlı İmparatorluğu",
+      "1913",
+      "Ainos-Midye Hattı",
+      "Edirne",
+      "Babıali Baskını",
+      "Balkan Birliği",
+      "I. Dünya Savaşı nedenleri",
+      "Osmanlı tarihi",
+      "tarihi antlaşmalar",
+      "uluslararası ilişkiler"
+    ],
+    "heading": "Bir İmparatorluğun Kaderini Değiştiren İmza: 1913 Londra Antlaşması",
+    "intro": "Tarih, bazen bir masa etrafında atılan imzalarla koca imparatorlukların kaderini değiştirebilir. 30 Mayıs 1913 tarihinde imzalanan Londra Antlaşması da tam olarak böyle bir dönüm noktasıydı. Birinci Balkan Savaşı'nın yıkıcı sonuçlarının ardından Osmanlı İmparatorluğu için hem siyasi hem de coğrafi olarak büyük kayıpların tescillendiği bu antlaşma, sadece bir imparatorluğun Avrupa'dan çekilişinin değil, aynı zamanda yeni bir dünya savaşının ayak seslerinin de habercisiydi.",
+    "article": "Birinci Balkan Savaşı (Ekim 1912 - Mayıs 1913), Osmanlı İmparatorluğu'nun son yüzyıllardaki en ağır yenilgilerinden biri olarak tarihe geçti. Balkan devletleri (Sırbistan, Bulgaristan, Yunanistan ve Karadağ) bir araya gelerek Osmanlı'ya karşı beklenmedik bir başarı elde ettiler. Bu savaş sonucunda Osmanlı, Midye-Enez hattının batısındaki tüm topraklarını, yani Arnavutluk, Makedonya, Batı Trakya ve Ege adalarının büyük bir kısmını kaybetti. İstanbul'un dahi tehdit altına girdiği bu kritik dönemde, Osmanlı Devleti uluslararası müdahale ve müzakereler yoluyla durumu kontrol altına almaya çalıştı.\n\nLondra'da toplanan büyük devletlerin arabuluculuğunda gerçekleşen konferanslar sonucunda, 30 Mayıs 1913 tarihinde antlaşma imzalandı. Antlaşmanın temel maddeleri arasında Osmanlı'nın Midye-Enez hattının batısındaki toprakları Balkan devletlerine bırakması, Girit'in Yunanistan'a verilmesi ve Ege adalarının geleceğinin büyük devletlere bırakılması yer alıyordu. Bu antlaşma ile Osmanlı İmparatorluğu, Avrupa'daki topraklarının neredeyse %80'ini ve nüfusunun önemli bir kısmını kaybetmiş oldu. Özellikle Edirne gibi tarihi ve stratejik öneme sahip bir şehrin kaybedilmesi, Osmanlı kamuoyunda ve ordusunda büyük bir travma yaratmıştı. Bu durum, antlaşmanın imzalanmasından kısa bir süre önce gerçekleşen Babıali Baskını gibi siyasi olayların da temelini oluşturdu.\n\nLondra Antlaşması'nın getirdiği bu büyük toprak kaybı ve siyasi çalkantılar, İttihat ve Terakki Cemiyeti'nin iktidarı tamamen ele geçirmesine zemin hazırladı. Ancak bu antlaşma aynı zamanda Balkan devletleri arasında da anlaşmazlıklara yol açtı. Özellikle Makedonya'nın paylaşımı konusundaki anlaşmazlıklar, kısa süre sonra İkinci Balkan Savaşı'nın (Haziran-Ağustos 1913) patlak vermesine neden oldu. Osmanlı İmparatorluğu, bu durumu fırsat bilerek Edirne ve Kırklareli'yi geri almayı başardı. Ancak Londra Antlaşması'nın genel çerçevesi, Osmanlı'nın Avrupa'daki gücünün sonunu tescil ederken, Birinci Dünya Savaşı'na giden süreçte de önemli bir rol oynayan bölgesel gerilimleri derinleştirmişti.",
+    "category": "tarih",
+    "questions": [
+      {
+        "id": 1,
+        "text": "1913 Londra Antlaşması hangi savaşı resmen sona erdirmiştir?",
+        "options": [
+          "Osmanlı-Rus Savaşı",
+          "Birinci Balkan Savaşı",
+          "Trablusgarp Savaşı",
+          "İkinci Balkan Savaşı"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Londra Antlaşması, Osmanlı İmparatorluğu ile Balkan Birliği devletleri arasındaki Birinci Balkan Savaşı'nı resmen sonlandırmıştır."
+      },
+      {
+        "id": 2,
+        "text": "Londra Antlaşması'nda Osmanlı İmparatorluğu'nun Avrupa'daki sınırı olarak hangi hat kabul edilmiştir?",
+        "options": [
+          "Meriç Nehri Hattı",
+          "Rodop Dağları Hattı",
+          "Midye-Enez Hattı",
+          "İstanbul Boğazı Hattı"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Antlaşmaya göre, Osmanlı İmparatorluğu'nun Avrupa'daki sınırı Midye-Enez hattı olarak belirlenmiş ve bu hattın batısındaki tüm topraklar kaybedilmiştir."
+      },
+      {
+        "id": 3,
+        "text": "Aşağıdaki devletlerden hangisi 1913 Londra Antlaşması'nı imzalayan Balkan devletlerinden biri değildir?",
+        "options": [
+          "Yunanistan",
+          "Bulgaristan",
+          "Sırbistan",
+          "Arnavutluk"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Arnavutluk, Londra Antlaşması ile bağımsızlığını ilan etmiş ancak antlaşmanın tarafı olarak Osmanlı'ya karşı savaşan Balkan Birliği üyelerinden biri olmamıştır. Balkan Birliği'ni oluşturan devletler Sırbistan, Bulgaristan, Yunanistan ve Karadağ'dır."
+      },
+      {
+        "id": 4,
+        "text": "Londra Antlaşması ile Osmanlı İmparatorluğu'ndan hangi ada Yunanistan'a bırakılmıştır?",
+        "options": [
+          "Rodos",
+          "Sakız",
+          "Girit",
+          "Midilli"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Londra Antlaşması ile Girit adası Yunanistan'a bırakılmıştır. Ege adalarının geleceği ise büyük devletlerin kararına sunulmuştur."
+      },
+      {
+        "id": 5,
+        "text": "Londra Antlaşması'nın imzalanmasından kısa süre önce İstanbul'da gerçekleşen ve İttihat ve Terakki Cemiyeti'nin iktidarı ele geçirmesine neden olan olay nedir?",
+        "options": [
+          "31 Mart Olayı",
+          "Vaka-i Hayriye",
+          "Babıali Baskını",
+          "Çırağan Vakası"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Londra Antlaşması'nın müzakereleri sırasında Osmanlı hükümetinin Edirne'yi kaybetme eğilimine karşı gelişen tepkiler sonucu, 23 Ocak 1913'te İttihat ve Terakki Cemiyeti tarafından Babıali Baskını gerçekleştirilmiş ve hükümet darbeyle ele geçirilmiştir."
+      },
+      {
+        "id": 6,
+        "text": "Birinci Balkan Savaşı'nda Osmanlı İmparatorluğu'na karşı birleşen Balkan devletleri hangi amaçla bir araya gelmişlerdi?",
+        "options": [
+          "Osmanlı'nın toprak bütünlüğünü korumak",
+          "Balkanlar'da barışı sağlamak",
+          "Osmanlı'yı Avrupa'dan tamamen atmak ve kendi topraklarını genişletmek",
+          "Osmanlı ile ittifak kurmak"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Balkan devletleri, Osmanlı İmparatorluğu'nun zayıflığından faydalanarak onu Avrupa'dan atmak ve Balkanlar'daki kendi topraklarını genişletmek amacıyla bir araya gelmişlerdi."
+      },
+      {
+        "id": 7,
+        "text": "Londra Antlaşması ile Osmanlı İmparatorluğu'nun kaybettiği önemli şehirlerden biri olup, İkinci Balkan Savaşı'nda geri alınan şehir hangisidir?",
+        "options": [
+          "Selanik",
+          "Üsküp",
+          "Manastır",
+          "Edirne"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Londra Antlaşması ile kaybedilen Edirne, İkinci Balkan Savaşı sırasında Enver Paşa komutasındaki Osmanlı birlikleri tarafından geri alınmıştır."
+      },
+      {
+        "id": 8,
+        "text": "Londra Antlaşması'nda Ege adalarının akıbeti hakkında alınan karar neydi?",
+        "options": [
+          "Tümü Osmanlı'ya bırakıldı",
+          "Tümü Yunanistan'a bırakıldı",
+          "Büyük devletlerin kararına bırakıldı",
+          "İtalya'ya geçici olarak verildi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Antlaşmada Girit Yunanistan'a bırakılırken, diğer Ege adalarının statüsü büyük devletlerin kararına bırakılmıştır. Çoğu ada daha sonra Yunanistan'a geçecektir."
+      },
+      {
+        "id": 9,
+        "text": "Londra Antlaşması'nın imzalanma tarihi nedir?",
+        "options": [
+          "10 Ağustos 1913",
+          "30 Mayıs 1913",
+          "29 Ekim 1912",
+          "23 Ocak 1913"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Londra Antlaşması 30 Mayıs 1913 tarihinde imzalanmıştır. 10 Ağustos 1913 ise İkinci Balkan Savaşı'nı bitiren Bükreş Antlaşması'nın tarihidir."
+      },
+      {
+        "id": 10,
+        "text": "Birinci Balkan Savaşı'nda Osmanlı İmparatorluğu'nun büyük toprak kaybına uğramasının temel nedenleri arasında aşağıdakilerden hangisi gösterilemez?",
+        "options": [
+          "Ordudaki siyasi çekişmeler",
+          "Avrupa'nın Osmanlı'ya karşı tutumu",
+          "Balkan devletlerinin askeri üstünlüğü",
+          "Savaş sırasında yaşanan iç isyanlar"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Balkan devletlerinin askeri olarak Osmanlı'dan üstün olduğu söylenemez. Osmanlı ordusu daha büyüktü ancak iç karışıklıklar, siyasi çekişmeler, modernizasyon eksikliği ve kötü yönetim gibi faktörler yenilgide etkili olmuştur. Balkan devletleri ise birleşerek ve Avrupa desteğiyle başarı elde etmiştir."
+      },
+      {
+        "id": 11,
+        "text": "Londra Antlaşması ile bağımsızlığı tanınan ancak Balkan Birliği üyesi olmayan devlet hangisidir?",
+        "options": [
+          "Bulgaristan",
+          "Sırbistan",
+          "Arnavutluk",
+          "Yunanistan"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Londra Antlaşması ile Arnavutluk'un bağımsızlığı resmen tanınmıştır. Arnavutluk, Birinci Balkan Savaşı'nda Osmanlı'ya karşı savaşan Balkan Birliği devletlerinden biri değildi, ancak Osmanlı İmparatorluğu'ndan ayrılarak bağımsızlığını ilan etmiştir."
+      },
+      {
+        "id": 12,
+        "text": "Londra Antlaşması'nın ardından kısa süre sonra patlak veren savaş hangisidir?",
+        "options": [
+          "Osmanlı-Yunan Savaşı",
+          "Birinci Dünya Savaşı",
+          "Trablusgarp Savaşı",
+          "İkinci Balkan Savaşı"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Londra Antlaşması'nda Makedonya'nın paylaşımı konusundaki anlaşmazlıklar nedeniyle Balkan devletleri kendi aralarında İkinci Balkan Savaşı'nı başlatmışlardır."
+      },
+      {
+        "id": 13,
+        "text": "Londra Antlaşması'nın imzalandığı dönemde Osmanlı İmparatorluğu'nda iktidarda olan siyasi güç aşağıdakilerden hangisidir?",
+        "options": [
+          "Mutlakiyet",
+          "Meşrutiyet Hükümeti (Kamil Paşa)",
+          "İttihat ve Terakki Cemiyeti",
+          "Osmanlı Ahrar Fırkası"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Londra Antlaşması'nın imzalandığı dönemde, Babıali Baskını sonrası İttihat ve Terakki Cemiyeti fiilen iktidardaydı ve Mahmut Şevket Paşa hükümetini kurmuştu. Antlaşma, bu yeni hükümet tarafından imzalanmıştır."
+      },
+      {
+        "id": 14,
+        "text": "Londra Antlaşması, Osmanlı İmparatorluğu için hangi açıdan bir 'dönüm noktası' olarak kabul edilebilir?",
+        "options": [
+          "Yeni bir genişleme döneminin başlangıcı olması",
+          "Avrupa'daki topraklarının çoğunu kaybetmesi ve gücünün büyük ölçüde azalması",
+          "Modernleşme ve reformların hız kazanması",
+          "Balkanlar'daki etkinliğinin artması"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Londra Antlaşması, Osmanlı İmparatorluğu'nun Avrupa'daki topraklarının çok büyük bir kısmını kaybetmesine neden olarak, imparatorluğun Avrupa'daki gücünün sona erdiğini tescillemiş ve bir dönüm noktası olmuştur."
+      },
+      {
+        "id": 15,
+        "text": "Londra Antlaşması ile kaybedilen topraklar arasında aşağıdakilerden hangisi yer almaz?",
+        "options": [
+          "Makedonya",
+          "Batı Trakya",
+          "Arnavutluk",
+          "Doğu Trakya (Edirne dahil)"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Doğu Trakya, Midye-Enez hattının doğusunda yer aldığı için Londra Antlaşması ile kaybedilmemiş, ancak Edirne İkinci Balkan Savaşı'nda geri alınana kadar geçici olarak kaybedilmişti. Arnavutluk ise bağımsızlığını kazanmıştır, doğrudan kaybedilen bir Osmanlı toprağı olarak değil, yeni bir devlet olarak ortaya çıkmıştır. Makedonya ve Batı Trakya ise antlaşma ile tamamen kaybedilen topraklardandır."
+      }
+    ]
   }
 ];
