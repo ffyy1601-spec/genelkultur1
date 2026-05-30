@@ -470,4 +470,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/osmanli-imparatorlugunda-bir-kirilma-noktasi-sultan-abdulazizin-tahttan-indirilmesi</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/osmanli-imparatorlugunda-bir-kirilma-noktasi-sultan-abdulazizin-tahttan-indirilmesi/oyna</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>

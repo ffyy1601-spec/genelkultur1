@@ -7385,5 +7385,209 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Yarışmanın erken dönemlerinde canlı orkestra, sahne performanslarının ayrılmaz bir parçasıydı ve şarkılara eşlik ederdi."
       }
     ]
+  },
+  {
+    "slug": "osmanli-imparatorlugunda-bir-kirilma-noktasi-sultan-abdulazizin-tahttan-indirilmesi",
+    "dateId": "2026-05-30",
+    "title": "Sultan Abdülaziz Kimdir? Tahttan İndirilmesi ve Osmanlı'daki Değişim | Tarihi Olaylar",
+    "description": "Osmanlı İmparatorluğu'nun en çalkantılı dönemlerinden birinde tahtta bulunan Sultan Abdülaziz'in 30 Mayıs 1876'da nasıl tahttan indirildiğini, bu olayın nedenlerini ve sonuçlarını detaylıca keşfedin.",
+    "keywords": [
+      "Sultan Abdülaziz",
+      "Abdülaziz'in tahttan indirilmesi",
+      "30 Mayıs 1876",
+      "Osmanlı darbesi",
+      "Mithat Paşa",
+      "Genç Osmanlılar",
+      "Osmanlı tarihi",
+      "Osmanlı ıslahatları",
+      "V. Murad",
+      "Çırağan Baskını"
+    ],
+    "heading": "Osmanlı İmparatorluğu'nda Bir Kırılma Noktası: Sultan Abdülaziz'in Tahttan İndirilmesi",
+    "intro": "Osmanlı İmparatorluğu, 19. yüzyılda hem iç hem de dış dinamiklerle çalkalanan zorlu bir dönemden geçiyordu. Bu çalkantılı süreçte tahta oturan Sultan Abdülaziz, ülkeyi modernleştirme çabalarıyla Batı'ya yakınlaşırken, aynı zamanda iç siyasette önemli muhalefetle karşılaştı. Özellikle 1876 yılının Mayıs ayı, Osmanlı tarihinde bir dönüm noktasına işaret edecekti: Sultan Abdülaziz'in tahttan indirilmesi ve ardından yaşanan karışık olaylar silsilesi, imparatorluğun geleceğini derinden etkileyecekti.",
+    "article": "Sultan Abdülaziz, 1861 yılında ağabeyi Sultan Abdülmecid'in vefatının ardından Osmanlı tahtına geçti. Saltanatı boyunca Avrupa'yı ziyaret eden ilk ve tek Osmanlı padişahı olmasıyla dikkat çeken Abdülaziz, modernleşme yanlısıydı ve ülkenin Batı standartlarına ulaşması için önemli adımlar attı. Donanmayı güçlendirdi, eğitimde reformlar yaptı, yeni okullar açtı ve modern bir sanat anlayışını destekledi. Ancak bu reformlar ve lüks harcamaları, özellikle de büyük Avrupa gezileri ve saray inşaatları, devletin maliyesini derinden sarstı. Dış borçlar katlanarak arttı ve 1875'te Osmanlı Devleti borçlarını ödeyemez duruma gelerek moratoryum ilan etti. Bu durum, iç siyasette büyük bir huzursuzluğa yol açtı ve padişaha karşı muhalefetin güçlenmesine zemin hazırladı.\n\nEkonomik buhranın yanı sıra, \"Genç Osmanlılar\" adı verilen aydın zümre ve bazı devlet adamları, padişahın mutlakiyetçi yönetim tarzına ve reformların yeterince hızlı olmamasına karşı çıkıyordu. Sadrazam Mütercim Rüştü Paşa, Serasker Hüseyin Avni Paşa ve Adalet Bakanı Mithat Paşa gibi güçlü isimler, padişahın değiştirilmesi gerektiğine inanıyorlardı. 1876 yılının Mayıs ayında, İstanbul'da medrese öğrencilerinin ayaklanmasıyla başlayan toplumsal çalkantı, muhaliflerin harekete geçmesi için uygun bir ortam yarattı. Bu ayaklanmaların ardından Abdülaziz, sadrazamı ve şeyhülislamı değiştirmek zorunda kaldı; ancak bu adımlar da durumu yatıştırmaya yetmedi.\n\n30 Mayıs 1876 gecesi, muhalif paşaların önderliğinde bir darbe gerçekleştirildi. Donanma ve kara birlikleri harekete geçirilerek, Yıldız Sarayı kuşatıldı ve Sultan Abdülaziz tahttan indirilerek yerine yeğeni V. Murad tahta çıkarıldı. Abdülaziz, Feriye Sarayı'na götürüldü. Dört gün sonra, 4 Haziran 1876'da, Abdülaziz'in bilekleri kesilmiş halde ölü bulunduğu haberi yayıldı. Resmi açıklama intihar olduğu yönündeydi; ancak olayın bir cinayet olduğu şüpheleri günümüze kadar devam etti. Bu olay, Osmanlı tarihinde padişahın tahttan indirilmesi ve şüpheli ölümüyle en dramatik sayfalarından birini oluşturdu ve sonraki yıllarda Jön Türk hareketine ve anayasal monarşi tartışmalarına zemin hazırladı.",
+    "category": "tarih",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Sultan Abdülaziz, hangi yılda Osmanlı tahtına geçmiştir?",
+        "options": [
+          "1856",
+          "1861",
+          "1871",
+          "1876"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Sultan Abdülaziz, 1861 yılında ağabeyi Sultan Abdülmecid'in vefatının ardından tahta geçmiştir."
+      },
+      {
+        "id": 2,
+        "text": "Sultan Abdülaziz'in Avrupa'yı ziyaret eden ilk ve tek Osmanlı padişahı olması, genel olarak hangi çabalarını gösterir?",
+        "options": [
+          "Askeri gücünü sergileme",
+          "Ekonomik anlaşmalar yapma",
+          "Batılılaşma ve modernleşme",
+          "Dini liderliğini pekiştirme"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Sultan Abdülaziz'in Avrupa gezisi, onun ülkeyi Batı standartlarına ulaştırma ve modernleştirme çabalarının bir göstergesidir."
+      },
+      {
+        "id": 3,
+        "text": "Abdülaziz döneminde Osmanlı Devleti'nin dış borçlarını ödeyememesi sonucu ilan ettiği durumun adı nedir?",
+        "options": [
+          "Tanzimat Fermanı",
+          "Islahat Fermanı",
+          "Moratoryum",
+          "Duyun-u Umumiye"
+        ],
+        "correctAnswer": 2,
+        "explanation": "1875 yılında Osmanlı Devleti, artan dış borçlar nedeniyle moratoryum (borç erteleme) ilan etmiştir. Duyun-u Umumiye ise bu borçları yönetmek için daha sonra kurulan bir kurumdur."
+      },
+      {
+        "id": 4,
+        "text": "Sultan Abdülaziz'e karşı muhalefet eden aydın zümreye ne ad verilirdi?",
+        "options": [
+          "Jön Türkler",
+          "İttihat ve Terakki",
+          "Genç Osmanlılar",
+          "Hürriyet ve İtilaf"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Abdülaziz döneminde padişahın mutlakiyetçi yönetimine karşı çıkan aydınlar grubuna \"Genç Osmanlılar\" denilmiştir. Jön Türkler ise daha sonraki dönemde ortaya çıkmıştır."
+      },
+      {
+        "id": 5,
+        "text": "30 Mayıs 1876 darbesinde Sultan Abdülaziz'in yerine tahta kim çıkarılmıştır?",
+        "options": [
+          "II. Abdülhamid",
+          "V. Mehmed Reşad",
+          "V. Murad",
+          "VI. Mehmed Vahdeddin"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Sultan Abdülaziz'in tahttan indirilmesinin ardından yerine yeğeni V. Murad tahta çıkarılmıştır."
+      },
+      {
+        "id": 6,
+        "text": "Sultan Abdülaziz'in tahttan indirilmesinde rol oynayan önemli paşalardan biri aşağıdakilerden hangisidir?",
+        "options": [
+          "Mehmed Emin Âli Paşa",
+          "Fuad Paşa",
+          "Mithat Paşa",
+          "Ahmed Cevdet Paşa"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Sadrazam Mütercim Rüştü Paşa, Serasker Hüseyin Avni Paşa ve Adalet Bakanı Mithat Paşa, darbenin önde gelen isimlerindendir."
+      },
+      {
+        "id": 7,
+        "text": "Abdülaziz'in saltanatında donanmanın güçlendirilmesi ve modern okulların açılması gibi reformlar hangi padişahın genel eğilimini gösterir?",
+        "options": [
+          "Muhafazakâr",
+          "İsyankâr",
+          "Batı yanlısı ve modernleşmeci",
+          "Gelenekselci"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Abdülaziz, donanmayı güçlendirme, eğitimde reformlar yapma ve modern okullar açma gibi adımlarla Batı standartlarına ulaşmayı ve ülkeyi modernleştirmeyi hedeflemiştir."
+      },
+      {
+        "id": 8,
+        "text": "Sultan Abdülaziz'in tahttan indirilmesine yol açan önemli toplumsal olaylardan biri nedir?",
+        "options": [
+          "Yeniçeri Ayaklanması",
+          "Vaka-i Hayriye",
+          "Medrese Öğrencisi Protestoları",
+          "1908 Jön Türk Devrimi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "1876 Mayıs'ında İstanbul'da medrese öğrencilerinin ayaklanması, padişaha karşı muhalefetin yükselmesinde önemli bir rol oynamıştır."
+      },
+      {
+        "id": 9,
+        "text": "Abdülaziz'in ölümünün resmi açıklaması ne yöndeydi?",
+        "options": [
+          "Suikast",
+          "Doğal Nedenler",
+          "İntihar",
+          "Hastalık"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Resmi açıklama, Sultan Abdülaziz'in Feriye Sarayı'nda intihar ettiği yönündeydi, ancak cinayet şüpheleri güçlüydü."
+      },
+      {
+        "id": 10,
+        "text": "Abdülaziz, tahttan indirildikten sonra nerede ölü bulunmuştur?",
+        "options": [
+          "Yıldız Sarayı",
+          "Dolmabahçe Sarayı",
+          "Topkapı Sarayı",
+          "Feriye Sarayı"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Tahttan indirilen Abdülaziz, Feriye Sarayı'na götürülmüş ve dört gün sonra burada ölü bulunmuştur."
+      },
+      {
+        "id": 11,
+        "text": "Abdülaziz'in saltanatını sarsan önemli dış borç sorunları hangi yıl moratoryum ilanıyla sonuçlanmıştır?",
+        "options": [
+          "1865",
+          "1870",
+          "1875",
+          "1876"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Osmanlı Devleti, 1875 yılında borçlarını ödeyemeyeceğini ilan ederek moratoryum kararı almıştır."
+      },
+      {
+        "id": 12,
+        "text": "Abdülaziz'in ölümüyle ilgili günümüze kadar devam eden tartışmanın ana konusu nedir?",
+        "options": [
+          "Tahta geçiş şekli",
+          "Reformlarının etkisi",
+          "İntihar mı cinayet mi olduğu",
+          "Sanata olan ilgisi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Resmi açıklama intihar yönünde olsa da, Abdülaziz'in cinayete kurban gittiği şüphesi uzun yıllar tartışma konusu olmuştur."
+      },
+      {
+        "id": 13,
+        "text": "\"Genç Osmanlılar\"ın Sultan Abdülaziz'e karşı çıkışlarının temel nedeni neydi?",
+        "options": [
+          "Dış borçları artırması",
+          "Eğitim reformlarını durdurması",
+          "Mutlakiyetçi yönetim tarzı ve reformların yetersizliği",
+          "Batılılaşma karşıtlığı"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Genç Osmanlılar, padişahın mutlakiyetçi yönetimini eleştiriyor ve reformların yeterince hızlı veya kapsamlı olmadığını düşünüyorlardı. Batılılaşmaya karşı değillerdi, aksine anayasal monarşi gibi Batılı siyasi modelleri savunuyorlardı."
+      },
+      {
+        "id": 14,
+        "text": "Sultan Abdülaziz'in tahttan indirilmesi ve ölümü, Osmanlı tarihinde sonraki hangi döneme zemin hazırlamıştır?",
+        "options": [
+          "Lale Devri",
+          "Tanzimat Dönemi",
+          "Jön Türk Hareketi ve anayasal monarşi tartışmaları",
+          "Yeniçeri Ocağının kaldırılması"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bu olay, padişahın yetkilerinin sorgulanmasına ve anayasal yönetim arayışlarına, dolayısıyla daha sonraki Jön Türk hareketine zemin hazırlamıştır."
+      },
+      {
+        "id": 15,
+        "text": "Makalede Abdülaziz dönemi reformlarından hangisi özellikle vurgulanmıştır?",
+        "options": [
+          "İpek Yolu'nun canlandırılması",
+          "Deniz ticaretinin tamamen serbest bırakılması",
+          "Donanmanın güçlendirilmesi ve yeni okulların açılması",
+          "Toprak reformu"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Makalede Abdülaziz'in donanmayı güçlendirdiği ve eğitimde reformlar yaparak yeni okullar açtığı belirtilmiştir."
+      }
+    ]
   }
 ];
