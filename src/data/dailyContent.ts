@@ -7180,5 +7180,210 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Doğu Trakya, Midye-Enez hattının doğusunda yer aldığı için Londra Antlaşması ile kaybedilmemiş, ancak Edirne İkinci Balkan Savaşı'nda geri alınana kadar geçici olarak kaybedilmişti. Arnavutluk ise bağımsızlığını kazanmıştır, doğrudan kaybedilen bir Osmanlı toprağı olarak değil, yeni bir devlet olarak ortaya çıkmıştır. Makedonya ve Batı Trakya ise antlaşma ile tamamen kaybedilen topraklardandır."
       }
     ]
+  },
+  {
+    "slug": "eurovision-sarki-yarismasi-avrupayi-birlestiren-muzik-mirasinin-ilk-adimi",
+    "dateId": "2026-05-30",
+    "title": "Eurovision Şarkı Yarışması'nın Doğuşu: 1956'dan Günümüze Bir Müzik Mirası | GenelKultur",
+    "description": "İlk Eurovision Şarkı Yarışması'nın 24 Mayıs 1956'da Lugano'da nasıl başladığını, amacını ve zamanla nasıl küresel bir fenomene dönüştüğünü keşfedin. Tarihi anları ve Türkiye'nin yarışmadaki yerini öğrenin.",
+    "keywords": [
+      "Eurovision",
+      "1956 Eurovision",
+      "ilk Eurovision",
+      "Eurovision tarihi",
+      "müzik yarışması",
+      "Avrupa kültürü",
+      "şarkı yarışması",
+      "Türkiye Eurovision",
+      "uluslararası müzik",
+      "Lys Assia",
+      "Refrain"
+    ],
+    "heading": "Eurovision Şarkı Yarışması: Avrupa'yı Birleştiren Müzik Mirasının İlk Adımı",
+    "intro": "24 Mayıs 1956'da İsviçre'nin Lugano kentinde başlayan küçük bir müzik deneyi, zamanla Avrupa'nın ve hatta dünyanın en büyük ve en çok izlenen televizyon etkinliklerinden birine dönüştü: Eurovision Şarkı Yarışması. Peki, bu benzersiz müzik festivali nasıl doğdu, amacı neydi ve bugünlere nasıl ulaştı?",
+    "article": "II. Dünya Savaşı sonrası Avrupa'yı kültürel olarak bir araya getirme fikriyle ortaya çıkan Eurovision Şarkı Yarışması, Avrupa Yayın Birliği (EBU) tarafından düzenlendi. Temel amaç, katılımcı ülkeler arasında dostluk, anlayış ve kültürel alışverişi müzik aracılığıyla pekiştirmekti. İlk yarışma, 24 Mayıs 1956 tarihinde İsviçre'nin Lugano kentindeki Teatro Kursaal'da gerçekleştirildi. Yedi ülkenin (Hollanda, İsviçre, Belçika, Almanya, Fransa, Lüksemburg ve İtalya) katıldığı bu tarihi etkinlikte, her ülke iki şarkıyla temsil edildi. Yarışmanın sunuculuğunu Lohengrin Filipello üstlenirken, oylama gizli bir jüri tarafından yapıldı. İsviçre'yi \"Refrain\" adlı şarkısıyla temsil eden Lys Assia, ilk Eurovision birincisi olarak tarihe geçti.\n\nYarışma, teknolojik imkanların kısıtlı olduğu o dönemde bile Avrupa'nın farklı yerlerindeki izleyicilere ulaşmayı başaran yenilikçi bir projeydi. İlk yıllarda ağırlıklı olarak orkestra eşliğinde canlı performanslar sergilendi ve katılımcı ülkelerin yerel dillerinde şarkı söylemesi teşvik edildi. Yıllar içinde katılımcı sayısı hızla arttı, şarkı stilleri çeşitlendi ve yarışma ulusal kimliklerin sergilendiği, müzikal yeteneklerin parladığı bir platform haline geldi. Oylama sistemleri, kurallar ve yayın teknikleri de teknolojik gelişmelere paralel olarak sürekli güncellendi, bu da yarışmanın dinamizmini ve izleyici ilgisini sürekli canlı tuttu.\n\nEurovision, sadece bir şarkı yarışması olmanın ötesine geçerek bir kültürel ve hatta zaman zaman politik bir fenomen haline geldi. Görkemli sahne şovları, çarpıcı kostümler, unutulmaz koreografiler ve elbette hafızalara kazınan şarkılarla popülerliğini her geçen yıl artırdı. Yarışma, farklı dilleri, müzik türlerini ve sahne performanslarını bir araya getirerek, her yıl milyonları ekran başına toplamaya devam ediyor. Türkiye'nin yarışmaya olan katılımı, özellikle 2003 yılında Sertab Erener'in \"Everyway That I Can\" şarkısıyla elde ettiği birincilikle zirveye ulaşmış ve ülkenin kültürel ve müzikal zenginliğini Avrupa sahnesinde sergilemesine olanak tanımıştır. Eurovision, kıtalararası bir köprü kurarak müziğin birleştirici gücünü her yıl yeniden kanıtlamaktadır.",
+    "category": "sanat",
+    "questions": [
+      {
+        "id": 1,
+        "text": "İlk Eurovision Şarkı Yarışması hangi tarihte düzenlenmiştir?",
+        "options": [
+          "24 Mayıs 1955",
+          "24 Mayıs 1956",
+          "1 Ocak 1956",
+          "15 Haziran 1957"
+        ],
+        "correctAnswer": 1,
+        "explanation": "İlk Eurovision Şarkı Yarışması, 24 Mayıs 1956 tarihinde gerçekleştirilmiştir. Bu tarih, Avrupa televizyon tarihinde önemli bir dönüm noktasıdır."
+      },
+      {
+        "id": 2,
+        "text": "İlk Eurovision Şarkı Yarışması'na kaç ülke katılmıştır?",
+        "options": [
+          "5",
+          "7",
+          "9",
+          "12"
+        ],
+        "correctAnswer": 1,
+        "explanation": "İlk yarışmaya Hollanda, İsviçre, Belçika, Almanya, Fransa, Lüksemburg ve İtalya olmak üzere toplam yedi ülke katılmıştır."
+      },
+      {
+        "id": 3,
+        "text": "İlk Eurovision Şarkı Yarışması nerede düzenlenmiştir?",
+        "options": [
+          "Cenevre, İsviçre",
+          "Paris, Fransa",
+          "Lugano, İsviçre",
+          "Roma, İtalya"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Tarihteki ilk Eurovision Şarkı Yarışması, İsviçre'nin Lugano kentindeki Teatro Kursaal'da düzenlenmiştir."
+      },
+      {
+        "id": 4,
+        "text": "Eurovision Şarkı Yarışması'nın düzenleyicisi kimdir?",
+        "options": [
+          "Birleşmiş Milletler",
+          "Avrupa Yayın Birliği (EBU)",
+          "UNESCO",
+          "Avrupa Parlamentosu"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Yarışma, Avrupa'da yayıncılık alanında işbirliğini teşvik etmek amacıyla kurulan Avrupa Yayın Birliği (EBU) tarafından organize edilmektedir."
+      },
+      {
+        "id": 5,
+        "text": "İlk Eurovision Şarkı Yarışması'nı hangi ülke kazanmıştır?",
+        "options": [
+          "Almanya",
+          "Fransa",
+          "İsviçre",
+          "İtalya"
+        ],
+        "correctAnswer": 2,
+        "explanation": "İlk yarışmanın galibi, ev sahibi İsviçre'yi temsil eden Lys Assia olmuştur."
+      },
+      {
+        "id": 6,
+        "text": "İlk Eurovision galibi Lys Assia'nın şarkısının adı nedir?",
+        "options": [
+          "Volare",
+          "Refrain",
+          "Poupée de cire, poupée de son",
+          "Hallelujah"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Lys Assia, \"Refrain\" adlı şarkısıyla ilk Eurovision birinciliğini elde etmiştir."
+      },
+      {
+        "id": 7,
+        "text": "Eurovision Şarkı Yarışması'nın başlangıçtaki temel amacı neydi?",
+        "options": [
+          "Avrupa'da en popüler pop şarkısını belirlemek",
+          "Savaş sonrası Avrupa ülkeleri arasında kültürel birleşmeyi sağlamak",
+          "Yetenekli genç müzisyenleri keşfetmek",
+          "Sadece ev sahibi ülkenin kültürünü tanıtmak"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Yarışmanın en önemli amaçlarından biri, II. Dünya Savaşı'nın ardından Avrupa ülkeleri arasında dostluk ve anlayışı müzik aracılığıyla pekiştirmekti."
+      },
+      {
+        "id": 8,
+        "text": "İlk Eurovision'da bir ülke en fazla kaç şarkıyla yarışabiliyordu?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "correctAnswer": 1,
+        "explanation": "İlk yarışmada katılan her ülke iki şarkıyla temsil edilmiştir, bu kural sonraki yıllarda değiştirilmiştir."
+      },
+      {
+        "id": 9,
+        "text": "Eurovision Şarkı Yarışması'nın sunuculuğunu ilk kez kim yapmıştır?",
+        "options": [
+          "Katie Boyle",
+          "Lohengrin Filipello",
+          "Renato Rascel",
+          "Corry Brokken"
+        ],
+        "correctAnswer": 1,
+        "explanation": "İlk Eurovision'un sunuculuğunu İsviçreli Lohengrin Filipello üstlenmiştir."
+      },
+      {
+        "id": 10,
+        "text": "Eurovision tarihinde Türkiye kaç kez birincilik elde etmiştir?",
+        "options": [
+          "0",
+          "1",
+          "2",
+          "3"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Türkiye, 2003 yılında Sertab Erener'in \"Everyway That I Can\" şarkısıyla bir kez birincilik kazanmıştır."
+      },
+      {
+        "id": 11,
+        "text": "Eurovision'da şarkıların hangi dilde söylenmesi gerektiği kuralı yıllar içinde nasıl değişmiştir?",
+        "options": [
+          "Hep İngilizce söylenmesi zorunlu olmuştur.",
+          "Hep kendi ulusal dilinde söylenmesi zorunlu olmuştur.",
+          "İlk başta ulusal dil teşvik edilmiş, sonra dil serbestisi getirilmiştir.",
+          "Sadece Fransızca veya Almanca söylenmesi zorunlu olmuştur."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Yarışmanın ilk yıllarında ülkelerin kendi ulusal dillerinde şarkı söylemesi teşvik edilmiş, ancak sonraki dönemlerde dil serbestisi getirilerek katılımcılar istedikleri dilde şarkı söyleyebilir hale gelmiştir."
+      },
+      {
+        "id": 12,
+        "text": "Eurovision Şarkı Yarışması'nın birincisini belirlemek için ilk yıllarda hangi oylama yöntemi kullanılıyordu?",
+        "options": [
+          "Halk oylaması (SMS)",
+          "Sadece izleyici oylaması",
+          "Gizli jüri oylaması",
+          "Televizyon eleştirmenleri oylaması"
+        ],
+        "correctAnswer": 2,
+        "explanation": "İlk yıllarda birincinin belirlenmesi, her ülkeden gönderilen gizli jürilerin oylarıyla yapılıyordu."
+      },
+      {
+        "id": 13,
+        "text": "Hangi ülkeler, ilk Eurovision Şarkı Yarışması'na katılmamıştır?",
+        "options": [
+          "Birleşik Krallık ve Avusturya",
+          "Hollanda ve Belçika",
+          "Fransa ve Almanya",
+          "İsviçre ve İtalya"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Birleşik Krallık ve Avusturya gibi bazı büyük Avrupa ülkeleri, ilk yarışmaya katılım göstermemiştir, ancak sonraki yıllarda dahil olmuşlardır."
+      },
+      {
+        "id": 14,
+        "text": "Eurovision'un kültürel bir fenomen haline gelmesinde aşağıdakilerden hangisi en az etkili olmuştur?",
+        "options": [
+          "Görkemli sahne şovları",
+          "Politik mesajlar içeren şarkılar",
+          "Kostümler ve koreografiler",
+          "Sadece yarışmaya katılan ülkelerdeki yerel popülerlik"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Eurovision'un kültürel bir fenomen haline gelmesinde, sadece katılımcı ülkelerdeki yerel popülerlik değil, uluslararası izlenebilirlik, etkileşim ve genel Avrupa kültürü üzerindeki etkisi önemli rol oynamıştır."
+      },
+      {
+        "id": 15,
+        "text": "Eurovision Şarkı Yarışması'nın erken dönemlerinde sahne performanslarına genellikle ne eşlik ederdi?",
+        "options": [
+          "Sadece playback",
+          "Dans grupları ve video projeksiyonları",
+          "Canlı orkestra",
+          "DJ performansları"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Yarışmanın erken dönemlerinde canlı orkestra, sahne performanslarının ayrılmaz bir parçasıydı ve şarkılara eşlik ederdi."
+      }
+    ]
   }
 ];
