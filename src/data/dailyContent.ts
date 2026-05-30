@@ -8409,5 +8409,211 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Adolf Eichmann'ın infazı, İsrail Devleti'nin sivil bir mahkemesi tarafından verilen ilk ve bugüne kadar tek idam cezasıdır."
       }
     ]
+  },
+  {
+    "slug": "gokyuzune-uzanan-hirs-empire-state-binasinin-tarihi-acilisi",
+    "dateId": "2026-05-30",
+    "title": "Empire State Binası: Bir Gökyüzü Destanı ve Modern Bir İkonun Doğuşu | GenelKultur",
+    "description": "New York'un simgesi Empire State Binası'nın 1931'deki görkemli açılışını, yapım sürecini, mimari özelliklerini ve kültürel etkilerini keşfedin.",
+    "keywords": [
+      "Empire State Binası",
+      "New York",
+      "mimari",
+      "gökdelen",
+      "tarihi binalar",
+      "ABD tarihi",
+      "1931 açılış",
+      "ikonik yapılar",
+      "art deco",
+      "deprem dayanıklılığı",
+      "Chrysler Binası",
+      "rekorlar"
+    ],
+    "heading": "Gökyüzüne Uzanan Hırs: Empire State Binası'nın Tarihi Açılışı",
+    "intro": "1930'lu yılların Büyük Buhran'la sarsıldığı bir dönemde, New York'un silüetinde eşi benzeri görülmemiş bir yapı yükseldi. Adeta insanlığın azim ve umudunun bir sembolü gibi, Empire State Binası, sadece bir bina değil, aynı zamanda mimarinin sınırlarını zorlayan, rekorları altüst eden ve tarihe adını altın harflerle yazdıran bir gökyüzü destanıydı. 31 Mayıs 1931'deki görkemli açılışıyla dünya sahnesine çıkan bu ikonik yapı, bugün bile New York'un kalbinde dimdik ayakta duruyor.",
+    "article": "1929 ekonomik kriziyle birlikte tüm dünya bir belirsizlik ve yıkım dönemine girerken, New York'ta cüretkar bir proje hızla hayata geçiriliyordu: Manhattan'ın ortasında, 102 katlı, dünyanın en yüksek binasını inşa etmek. Rakip Chrysler Binası'nın tahtını elinden almayı hedefleyen bu iddialı proje, mimarlar Shreve, Lamb ve Harmon tarafından Art Deco tarzında tasarlanmış, inşası ise o dönemin imkansız görünen hız rekorlarıyla tamamlanmıştı. Sadece 1 yıl 45 gün gibi kısa bir sürede, çelik iskeletin her hafta dört buçuk kat yükseldiği inanılmaz bir tempoyla, binlerce işçi gökyüzüne doğru bir anıt inşa etti. Bu süreç, Amerika'nın endüstriyel gücünün ve insan azminin çarpıcı bir göstergesiydi.\n\nEmpire State Binası'nın yapımı, sadece hız rekorlarıyla değil, aynı zamanda kullanılan malzemelerin miktarı ve çeşitliliğiyle de dikkat çekti. Yaklaşık 60.000 ton çelik, 10 milyon tuğla ve 700 mil kablo kullanıldı. Özellikle çelik iskeletin monte edilmesi, o dönemde oldukça tehlikeli bir işti ve \"sky-boys\" adı verilen işçiler, hiçbir güvenlik ağı olmaksızın yüzlerce metre yükseklikte çalışarak bu yapının temelini attılar. Büyük Buhran'ın getirdiği işsizlik ortamında, bu proje binlerce kişiye istihdam sağlayarak bir nebze olsun umut ışığı oldu. Binanın dış cephesi Indiana kireçtaşı ve alüminyum panellerle kaplanmış, zirvesindeki ikonik direk ise başlangıçta zeplin yanaşma istasyonu olarak düşünülmüş, ancak pratik olmaması nedeniyle daha sonra bir gözlem güvertesi ve yayın anteni olarak kullanılmıştır.\n\n31 Mayıs 1931'deki açılış töreninde, dönemin ABD Başkanı Herbert Hoover, Beyaz Saray'dan bir düğmeye basarak binanın ışıklarını yakarak bu mimari harikayı resmen dünyaya tanıttı. Ne yazık ki, açıldığı ilk yıllarda Büyük Buhran'ın etkisiyle ofislerinin çoğu boş kaldığı için \"Boşluk Binası\" (Empty State Building) lakabını alsa da, zamanla New York'un ve Amerika'nın en tanınmış sembollerinden biri haline geldi. King Kong gibi sayısız film ve popüler kültür eserine ilham veren Empire State Binası, sadece bir gökdelen olmanın ötesinde, insanlık tarihinin en zorlu dönemlerinden birinde inşa edilmiş, azmin, ilerlemenin ve hayallerin somutlaşmış bir anıtıdır. Günümüzde milyonlarca ziyaretçiyi ağırlayarak New York'un eşsiz manzarasını sunmaya devam etmektedir.",
+    "category": "genel",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Empire State Binası'nın resmi açılışı hangi tarihte gerçekleşmiştir?",
+        "options": [
+          "1 Mayıs 1929",
+          "31 Mart 1930",
+          "31 Mayıs 1931",
+          "15 Temmuz 1932"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Empire State Binası'nın görkemli açılış töreni, dönemin ABD Başkanı Herbert Hoover'ın Beyaz Saray'dan bir düğmeye basmasıyla 31 Mayıs 1931 tarihinde yapılmıştır."
+      },
+      {
+        "id": 2,
+        "text": "Empire State Binası'nın ana mimarları kimlerdir?",
+        "options": [
+          "Frank Lloyd Wright",
+          "Shreve, Lamb ve Harmon",
+          "Le Corbusier",
+          "Walter Gropius"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Empire State Binası, mimarlık firması Shreve, Lamb ve Harmon tarafından Art Deco tarzında tasarlanmıştır."
+      },
+      {
+        "id": 3,
+        "text": "Binanın yapım amacı başlangıçta hangi unvanı ele geçirmekti?",
+        "options": [
+          "Dünyanın en büyük oteli",
+          "Dünyanın en hızlı inşa edilen yapısı",
+          "Dünyanın en yüksek binası",
+          "New York'taki en geniş ofis alanı"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Empire State Binası, tamamlandığında New York'un en yüksek binası olan Chrysler Binası'nın unvanını ele geçirme hedefiyle inşa edilmiştir."
+      },
+      {
+        "id": 4,
+        "text": "Empire State Binası'nın inşaatı yaklaşık ne kadar sürede tamamlanmıştır?",
+        "options": [
+          "3 yıl 2 ay",
+          "2 yıl 10 ay",
+          "1 yıl 45 gün",
+          "6 ay 15 gün"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Binanın inşaatı, o dönemin şartlarına göre inanılmaz bir hızla, sadece 1 yıl 45 gün gibi kısa bir sürede bitirilmiştir."
+      },
+      {
+        "id": 5,
+        "text": "Binanın Art Deco tarzında tasarlanmış olmasının anlamı nedir?",
+        "options": [
+          "Antik Yunan mimarisinden esinlenilmiştir.",
+          "Modernizm ve sanatsal dekorasyonun birleşimidir.",
+          "Gotik mimarinin yeniden yorumlanmasıdır.",
+          "Endüstriyel mimarinin en sade halidir."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Art Deco, 1920'ler ve 1930'lar arasında popüler olan, modern geometrik şekilleri, zengin süslemeleri ve lüks malzemeleri birleştiren bir mimari ve tasarım akımıdır."
+      },
+      {
+        "id": 6,
+        "text": "Büyük Buhran döneminde Empire State Binası'na verilen lakap aşağıdakilerden hangisidir?",
+        "options": [
+          "Umut Binası",
+          "Boşluk Binası",
+          "Yükselen Yıldız",
+          "Çelik Dev"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Açılışının ilk yıllarında, Büyük Buhran nedeniyle ofislerinin çoğu boş kaldığı için \"Empty State Building\" (Boşluk Binası) lakabıyla anılmıştır."
+      },
+      {
+        "id": 7,
+        "text": "Binanın zirvesindeki ikonik direk başlangıçta ne amaçla tasarlanmıştır?",
+        "options": [
+          "Bir radyo anteni olarak",
+          "Bir uçak iniş platformu olarak",
+          "Bir zeplin yanaşma istasyonu olarak",
+          "Bir hava trafik kontrol kulesi olarak"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Binanın tepesindeki direk, başlangıçta zeplinlerin yolcularını indirip bindirebileceği bir yanaşma istasyonu olarak düşünülmüştü, ancak rüzgar koşulları ve pratik olmaması nedeniyle bu fikir hayata geçirilemedi."
+      },
+      {
+        "id": 8,
+        "text": "Empire State Binası'nın yapımında kaç ton çelik kullanıldığı tahmin edilmektedir?",
+        "options": [
+          "Yaklaşık 10.000 ton",
+          "Yaklaşık 25.000 ton",
+          "Yaklaşık 40.000 ton",
+          "Yaklaşık 60.000 ton"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Binanın yapımında yaklaşık 60.000 ton çelik kullanılarak, o dönemin en büyük çelik iskeletli yapılarından biri olmuştur."
+      },
+      {
+        "id": 9,
+        "text": "İnşaat sürecinde yüksekte çalışan işçilere halk arasında ne ad verilmiştir?",
+        "options": [
+          "Kartallar",
+          "Gökyüzü Çocukları",
+          "Çelik Adamlar",
+          "Yüksek İşçiler"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Yüzlerce metre yükseklikte, çoğu zaman güvenlik ağı olmaksızın çalışan bu cesur işçilere \"sky-boys\" (Gökyüzü Çocukları) adı verilmiştir."
+      },
+      {
+        "id": 10,
+        "text": "Empire State Binası'nın açılış ışıklarını Beyaz Saray'dan yakan ABD Başkanı kimdi?",
+        "options": [
+          "Franklin D. Roosevelt",
+          "Calvin Coolidge",
+          "Herbert Hoover",
+          "Harry S. Truman"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Binanın açılış töreninde, dönemin ABD Başkanı Herbert Hoover, Washington D.C.'deki Beyaz Saray'dan bir düğmeye basarak binanın ışıklarını yakmıştır."
+      },
+      {
+        "id": 11,
+        "text": "Empire State Binası'nın dış cephesinde hangi ana malzeme kullanılmıştır?",
+        "options": [
+          "Granit ve cam",
+          "Mermer ve bronz",
+          "Indiana kireçtaşı ve alüminyum",
+          "Beton ve tuğla"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Binanın dış cephesi, şık görünümünü sağlayan Indiana kireçtaşı ve alüminyum panellerle kaplanmıştır."
+      },
+      {
+        "id": 12,
+        "text": "Empire State Binası'nın tamamlandığı 1931 yılında kaç katlıydı?",
+        "options": [
+          "80 kat",
+          "92 kat",
+          "102 kat",
+          "110 kat"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Empire State Binası, 102 katıyla tamamlandığında dünyanın en yüksek binası unvanını taşımıştır."
+      },
+      {
+        "id": 13,
+        "text": "Empire State Binası, hangi ünlü filmde önemli bir rol oynamıştır?",
+        "options": [
+          "Titanic",
+          "The Godfather",
+          "King Kong",
+          "Casablanca"
+        ],
+        "correctAnswer": 2,
+        "explanation": "1933 yapımı klasik film King Kong, Empire State Binası'nı dünya çapında bir ikon haline getiren en ünlü filmlerden biridir."
+      },
+      {
+        "id": 14,
+        "text": "Empire State Binası'nın inşası, Büyük Buhran döneminde hangi açıdan önemli bir rol oynamıştır?",
+        "options": [
+          "Ekonomik krizi sonlandırmıştır.",
+          "Binlerce kişiye istihdam sağlamıştır.",
+          "Hükümetin harcamalarını artırmıştır.",
+          "Diğer gökdelen projelerini durdurmuştur."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Büyük Buhran'ın yüksek işsizlik döneminde, Empire State Binası projesi binlerce kişiye iş imkanı sunarak ekonomik olarak önemli bir destek sağlamıştır."
+      },
+      {
+        "id": 15,
+        "text": "Empire State Binası, \"Dünyanın En Yüksek Binası\" unvanını kaç yıl boyunca korumuştur?",
+        "options": [
+          "21 yıl",
+          "31 yıl",
+          "41 yıl",
+          "51 yıl"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Empire State Binası, 1931'den 1972'ye kadar, Dünya Ticaret Merkezi'nin açılışına kadar 41 yıl boyunca dünyanın en yüksek binası unvanını korumuştur."
+      }
+    ]
   }
 ];
