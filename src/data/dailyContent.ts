@@ -8818,5 +8818,210 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Metinde giyim, uzay giysileri, çantalar ve medikal ürünler gibi kullanım alanları belirtilmiştir. Elektronik cihazların iç bileşenleri metinde yer almamaktadır."
       }
     ]
+  },
+  {
+    "slug": "hizin-ve-adrenalinin-baslangici-ilk-indianapolis-500-yarisi",
+    "dateId": "2026-05-30",
+    "title": "İlk Indianapolis 500 Yarışı: Otomobil Sporlarında Bir Efsanenin Doğuşu | GenelKultur",
+    "description": "30 Mayıs 1911'de düzenlenen ilk Indianapolis 500 yarışı, otomobil sporları tarihinde bir dönüm noktası oldu. Bu efsanevi yarışın detaylarını, kazananını ve modern motor sporlarına etkilerini keşfedin.",
+    "keywords": [
+      "Indianapolis 500",
+      "ilk yarış",
+      "motor sporları",
+      "otomobil yarışı",
+      "1911",
+      "Ray Harroun",
+      "Marmon Wasp",
+      "efsanevi yarış",
+      "hız rekorları",
+      "otomobil tarihi",
+      "ABD motor sporları"
+    ],
+    "heading": "Hızın ve Adrenalinin Başlangıcı: İlk Indianapolis 500 Yarışı",
+    "intro": "Bugün dünyanın en prestijli motor sporları etkinliklerinden biri olarak kabul edilen Indianapolis 500, ilk kez 30 Mayıs 1911 tarihinde düzenlendi. Bir asrı aşkın süredir motor sporları tutkunlarını bir araya getiren bu efsanevi yarış, sadece bir başlangıç değil, aynı zamanda otomobil teknolojisinin, hız tutkusunun ve rekabetin sınırlarını zorlama arayışının da bir simgesi haline gelecekti. Peki, \"Büyük Yarış\" olarak da bilinen bu ilk mücadele nasıl bir heyecan fırtınasına sahne oldu ve modern motor sporlarının temellerini nasıl attı?",
+    "article": "Indianapolis Motor Speedway, 1909 yılında araç geliştirme ve test merkezi olarak inşa edilmiş, ancak kısa sürede otomobil yarışlarının kalbi haline gelmişti. İlk başlarda daha kısa mesafeli yarışlara ev sahipliği yapan pistin kurucuları, özellikle Carl G. Fisher, otomobil endüstrisini canlandırmak ve mühendislik gelişimini teşvik etmek amacıyla daha uzun, daha dayanıklılık gerektiren bir yarış fikrini ortaya attılar. Bu vizyon, 1911 yılında 500 millik destansı bir mücadele olan \"International 500-Mile Sweepstakes Race\" yani günümüzdeki adıyla Indianapolis 500'ü doğurdu. Yarışa hazırlıklar büyük bir titizlikle yapıldı; özellikle pistin o dönemdeki tuğla yüzeyi, hem araçlar hem de sürücüler için büyük bir meydan okumaydı.\n\n30 Mayıs 1911 Salı günü, yaklaşık 80.000 seyirci tribünleri doldururken, 40 cesur sürücü 2,5 mil uzunluğundaki oval pistte 200 tur atmak üzere start aldı. Yarış, sadece hız değil, aynı zamanda strateji, dayanıklılık ve mekanik bilginin de bir test alanıydı. Araçlar o dönemin teknolojisinin zirvesini temsil ediyor, ancak sürekli arıza riskleri taşıyordu. Sürücüler, yanlarında taşıdıkları tamircileriyle birlikte bu uzun ve zorlu maratonda hem kendileri hem de makineleri için sınırları zorladılar. Yarışın sonunda, Marmon Wasp adını verdiği özel olarak tasarlanmış tek kişilik aracıyla yarışan Ray Harroun, yaklaşık 6 saat 42 dakika süren bir mücadelenin ardından tarihi bir zafer elde etti. Harroun'un zaferi, sadece kişisel bir başarı değil, aynı zamanda otomobil mühendisliğinin ve motor sporlarının geleceği için de bir dönüm noktasıydı.\n\nİlk Indianapolis 500, otomobil sporlarının popülaritesini patlatırken, aynı zamanda otomobil üreticileri için de bir laboratuvar görevi gördü. Yarışta elde edilen deneyimler, araçların güvenliği, performansı ve dayanıklılığı konusunda önemli iyileştirmelerin önünü açtı. Hız ve dayanıklılık testleri, günlük otomobillerin tasarımına ve mühendisliğine doğrudan etki etti. Bugün hala her yıl Mayıs ayının son Pazar günü düzenlenen Indianapolis 500, \"Racing's Greatest Spectacle\" (Yarışın En Büyük Gösterisi) unvanını koruyor ve otomobil sporları takviminin en önemli etkinliklerinden biri olmaya devam ediyor. Ray Harroun'un 1911'deki tarihi zaferi, hız tutkusunun ve insan azminin sonsuzluğunu kanıtlayan bir miras olarak hatırlanmaktadır.",
+    "category": "genel",
+    "questions": [
+      {
+        "id": 1,
+        "text": "İlk Indianapolis 500 yarışı hangi tarihte düzenlenmiştir?",
+        "options": [
+          "1 Ocak 1900",
+          "30 Mayıs 1911",
+          "4 Temmuz 1920",
+          "25 Aralık 1935"
+        ],
+        "correctAnswer": 1,
+        "explanation": "İlk Indianapolis 500 yarışı, 30 Mayıs 1911 tarihinde gerçekleştirilmiştir."
+      },
+      {
+        "id": 2,
+        "text": "İlk Indianapolis 500 yarışının düzenlendiği pistin adı nedir?",
+        "options": [
+          "Daytona International Speedway",
+          "Monza Circuit",
+          "Indianapolis Motor Speedway",
+          "Silverstone Circuit"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Yarış, Amerika Birleşik Devletleri'nin Indiana eyaletindeki Indianapolis Motor Speedway'de düzenlenmiştir."
+      },
+      {
+        "id": 3,
+        "text": "İlk Indianapolis 500 yarışının mesafesi kaç mildir?",
+        "options": [
+          "100 mil",
+          "250 mil",
+          "500 mil",
+          "1000 mil"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Yarışın adı da belirtildiği gibi, toplam 500 mil (yaklaşık 805 km) uzunluğunda bir dayanıklılık mücadelesidir."
+      },
+      {
+        "id": 4,
+        "text": "İlk Indianapolis 500 yarışının galibi kim olmuştur?",
+        "options": [
+          "Louis Chevrolet",
+          "Henry Ford",
+          "Ray Harroun",
+          "Dale Earnhardt Jr."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Marmon Wasp adlı aracıyla yarışan Ray Harroun, bu tarihi yarışın ilk galibi olmuştur."
+      },
+      {
+        "id": 5,
+        "text": "Yarışı kazanan Ray Harroun'un kullandığı aracın adı nedir?",
+        "options": [
+          "Ford Model T",
+          "Chevrolet Classic",
+          "Marmon Wasp",
+          "Mercedes-Benz Silver Arrow"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Ray Harroun, Marmon Wasp adını verdiği özel olarak tasarlanmış tek kişilik aracıyla yarışmıştır."
+      },
+      {
+        "id": 6,
+        "text": "Indianapolis Motor Speedway başlangıçta hangi amaçla inşa edilmiştir?",
+        "options": [
+          "Havaalanı",
+          "Tarım fuarı alanı",
+          "Araç geliştirme ve test merkezi",
+          "At yarışı pisti"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Pist, 1909 yılında otomobil üreticileri için araç geliştirme ve test merkezi olarak kurulmuştur."
+      },
+      {
+        "id": 7,
+        "text": "İlk yarışta yaklaşık kaç seyirci tribünleri doldurmuştur?",
+        "options": [
+          "10.000",
+          "30.000",
+          "80.000",
+          "200.000"
+        ],
+        "correctAnswer": 2,
+        "explanation": "30 Mayıs 1911 Salı günü yapılan ilk yarışı yaklaşık 80.000 seyirci takip etmiştir."
+      },
+      {
+        "id": 8,
+        "text": "İlk Indianapolis 500 yarışına kaç sürücü katılmıştır?",
+        "options": [
+          "20",
+          "30",
+          "40",
+          "50"
+        ],
+        "correctAnswer": 2,
+        "explanation": "İlk yarışta 40 cesur sürücü start almıştır."
+      },
+      {
+        "id": 9,
+        "text": "Yarışın yapıldığı pistin yüzeyi o dönemde neyden yapılmıştı?",
+        "options": [
+          "Asfalt",
+          "Beton",
+          "Tuğla",
+          "Toprak"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Pistin orijinal yüzeyi tuğla ile kaplıydı, bu da ona \"The Brickyard\" (Tuğla Fabrikası) lakabını kazandırmıştır."
+      },
+      {
+        "id": 10,
+        "text": "İlk Indianapolis 500 yarışının yaklaşık süresi ne kadardır?",
+        "options": [
+          "2 saat",
+          "4 saat",
+          "6 saat 42 dakika",
+          "8 saat"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Ray Harroun, yarışı yaklaşık 6 saat 42 dakikada tamamlamıştır."
+      },
+      {
+        "id": 11,
+        "text": "Indianapolis 500 yarışının modern motor sporları üzerindeki etkisi nedir?",
+        "options": [
+          "Sadece yerel bir spor etkinliği olarak kalmıştır",
+          "Otomobil teknolojisi ve mühendislik gelişimini teşvik etmiştir",
+          "Yarış kurallarını tamamen değiştirmiştir",
+          "Sadece Formula 1 üzerinde etkili olmuştur"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Yarış, otomobil teknolojisinin gelişimi, güvenlik iyileştirmeleri ve genel olarak motor sporlarının popülaritesinin artmasında önemli rol oynamıştır."
+      },
+      {
+        "id": 12,
+        "text": "Yarışın temel amacı, sadece hızdan ziyade neyi de test etmekti?",
+        "options": [
+          "Sürücülerin sürüş becerilerini",
+          "Araçların estetik tasarımını",
+          "Araçların dayanıklılığını ve stratejiyi",
+          "Yakıt verimliliğini"
+        ],
+        "correctAnswer": 2,
+        "explanation": "500 millik uzun mesafe, sadece hızın değil, aynı zamanda araçların ve sürücülerin dayanıklılığının ve yarış stratejisinin bir testiydi."
+      },
+      {
+        "id": 13,
+        "text": "Ray Harroun'un Marmon Wasp aracında dikkat çeken ve o dönem için yenilikçi olan bir özellik nedir?",
+        "options": [
+          "Yedek motor taşıması",
+          "Radyo iletişimi",
+          "Dahili buzdolabı",
+          "Dikiz aynası kullanımı"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Ray Harroun, aracına dikiz aynası takarak, o dönemdeki diğer yarışmacılar gibi yanında bir \"mekaniker/gözlemci\" bulundurma ihtiyacını ortadan kaldıran ilk sürücülerden biri olmuştur."
+      },
+      {
+        "id": 14,
+        "text": "Indianapolis Motor Speedway'in kurucularından ve 500 mil yarış fikrinin öncüsü kimdir?",
+        "options": [
+          "Henry Ford",
+          "Louis Chevrolet",
+          "Carl G. Fisher",
+          "Enzo Ferrari"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Indianapolis Motor Speedway'in kurucularından Carl G. Fisher, otomobil endüstrisini ve mühendislik gelişimini teşvik etmek amacıyla 500 millik yarış fikrini ortaya atmıştır."
+      },
+      {
+        "id": 15,
+        "text": "Bugün Indianapolis 500 yarışı genellikle hangi ayın son Pazar günü düzenlenmektedir?",
+        "options": [
+          "Nisan",
+          "Mayıs",
+          "Haziran",
+          "Temmuz"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Her yıl Mayıs ayının son Pazar günü düzenlenen Indianapolis 500, \"Racing's Greatest Spectacle\" unvanını taşımaktadır."
+      }
+    ]
   }
 ];
