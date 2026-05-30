@@ -7589,5 +7589,212 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Makalede Abdülaziz'in donanmayı güçlendirdiği ve eğitimde reformlar yaparak yeni okullar açtığı belirtilmiştir."
       }
     ]
+  },
+  {
+    "slug": "bir-beyin-toniginden-kuresel-fenomene-coca-colanin-dogusu",
+    "dateId": "2026-05-30",
+    "title": "Coca-Cola'nın Doğuşu: John Pemberton'dan Küresel İçecek Devi'ne | GenelKultur",
+    "description": "30 Mayıs'a yakın tarihte, eczacı John Pemberton'ın 1886'da Coca-Cola'yı icat edişinin hikayesini keşfedin. Nasıl bir 'beyin toniğinden' dünya çapında bir fenomene dönüştüğünü öğrenin.",
+    "keywords": [
+      "Coca-Cola",
+      "John Pemberton",
+      "Coca-Cola tarihi",
+      "dünyanın en popüler içeceği",
+      "Frank M. Robinson",
+      "Asa Candler",
+      "Atlanta",
+      "kola fındığı",
+      "koka yaprağı",
+      "soda fıskiyesi",
+      "küresel marka",
+      "alkolsüz içecek tarihi",
+      "1886"
+    ],
+    "heading": "Bir Beyin Toniğinden Küresel Fenomene: Coca-Cola'nın Doğuşu",
+    "intro": "Bugün dünyanın en tanınmış ve en çok tüketilen içeceklerinden biri olan Coca-Cola, aslında bir eczacının meraklı denemeleri sonucu ortaya çıktı. 19. yüzyılın sonlarında, bir 'beyin toniği' olarak pazarlanan bu gizemli formül, kısa sürede bir kültür ikonuna dönüşerek tüm dünyayı fethetmeye başladı. Peki, bu eşsiz içeceğin hikayesi nasıl başladı?",
+    "article": "Mayıs 1886'da, Atlanta, Georgia'da yaşayan eczacı John Pemberton, bir 'patentli ilaç' geliştirmek üzere laboratuvarında denemeler yapıyordu. Ağrı kesici ve yorgunluk giderici özelliklere sahip olduğuna inanılan bir formül arayışındaydı. Koka yaprakları ve kola fındığı özlerini bir araya getirerek, başlangıçta 'Pemberton's French Wine Coca' olarak bilinen bir içecek üretti. Ancak o dönemde alkol yasakları gündeme gelince, Pemberton formülü alkolsüz hale getirerek bugün bildiğimiz Coca-Cola'nın temellerini attı. İçeriğindeki kafein ve koka yapraklarından elde edilen (ancak daha sonra kokainden arındırılan) özler sayesinde 'beyin toniği' ve 'sinir güçlendirici' olarak pazarlandı.\n\nPemberton'ın muhasebecisi ve ortağı Frank M. Robinson, içeceğin ismini 'Coca-Cola' olarak önerdi ve bugün hala kullanılan akılda kalıcı, elyazısı stilindeki logosunu tasarladı. İlk olarak Jacob's Pharmacy'de bardak başına beş sente satılan Coca-Cola, başlangıçta günlük ortalama dokuz porsiyonla oldukça mütevazı bir satış grafiği çizdi. Ancak Pemberton'ın sağlık sorunları ve finansal sıkıntıları nedeniyle markanın geleceği belirsizdi. İşte tam bu noktada, işadamı Asa Candler devreye girdi. Candler, 1888 ve 1892 yılları arasında Coca-Cola'nın formül ve haklarını kademeli olarak satın aldı.\n\nCandler'ın vizyonu ve pazarlama dehası, Coca-Cola'yı yerel bir eczane içeceğinden ulusal bir fenomene dönüştürdü. Şişeleme haklarını satarak ve markayı agresif bir şekilde tanıtarak, içeceğin Amerika Birleşik Devletleri genelinde ve ardından tüm dünyada yayılmasını sağladı. Coca-Cola, sadece bir içecek olmanın ötesine geçerek, küresel kültürün, Amerikan yaşam tarzının ve evrensel mutluluğun bir sembolü haline geldi. Formülü ve ambalajı yıllar içinde küçük değişiklikler geçirse de, Coca-Cola'nın ikonik tadı ve markası, 138 yılı aşkın süredir dünya çapında milyonlarca insanı serinletmeye ve bir araya getirmeye devam ediyor.",
+    "category": "genel",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Coca-Cola'yı icat eden eczacı kimdir?",
+        "options": [
+          "Asa Candler",
+          "Frank M. Robinson",
+          "John Pemberton",
+          "Robert Woodruff"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Coca-Cola'nın orijinal formülünü geliştiren kişi, Atlanta'lı eczacı John Pemberton'dır."
+      },
+      {
+        "id": 2,
+        "text": "Coca-Cola ilk olarak hangi yıl tanıtıldı?",
+        "options": [
+          "1892",
+          "1886",
+          "1900",
+          "1876"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Coca-Cola, ilk olarak Mayıs 1886'da John Pemberton tarafından tanıtıldı."
+      },
+      {
+        "id": 3,
+        "text": "Coca-Cola'nın ilk satıldığı yer neresidir?",
+        "options": [
+          "Kendi eczanesi",
+          "Bir soda fıskiyesi standı",
+          "Jacob's Pharmacy",
+          "Bir bakkal"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Coca-Cola ilk olarak Atlanta'daki Jacob's Pharmacy'de bardak başına beş sente satılmıştır."
+      },
+      {
+        "id": 4,
+        "text": "Coca-Cola başlangıçta ne olarak pazarlanmıştır?",
+        "options": [
+          "Bir enerji içeceği",
+          "Bir mide ilacı",
+          "Bir beyin toniği ve sinir güçlendirici",
+          "Bir çocuk içeceği"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Pemberton, Coca-Cola'yı bir 'beyin toniği' ve 'sinir güçlendirici' olarak pazarlamıştır."
+      },
+      {
+        "id": 5,
+        "text": "Coca-Cola'ya ismini veren ve logosunu tasarlayan kişi kimdir?",
+        "options": [
+          "John Pemberton",
+          "Asa Candler",
+          "Frank M. Robinson",
+          "Charles Howard Candler"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Pemberton'ın muhasebecisi ve ortağı Frank M. Robinson, 'Coca-Cola' adını önermiş ve bugünkü logosunu tasarlamıştır."
+      },
+      {
+        "id": 6,
+        "text": "Coca-Cola'nın orijinal adının ana bileşenleri nelerden geliyordu?",
+        "options": [
+          "Kahve çekirdekleri ve vanilya",
+          "Zencefil ve limon",
+          "Koka yaprakları ve kola fındığı",
+          "Şeker kamışı ve nane"
+        ],
+        "correctAnswer": 2,
+        "explanation": "İçeceğin adı, formülündeki koka yaprakları ve kola fındığı özlerinden türetilmiştir."
+      },
+      {
+        "id": 7,
+        "text": "John Pemberton, formülü neden alkolsüz hale getirdi?",
+        "options": [
+          "Tadı daha iyi olduğu için",
+          "Daha ucuz olduğu için",
+          "O dönemdeki alkol yasakları nedeniyle",
+          "Çocuklar için daha uygun olması için"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Alkol yasakları gündeme gelince, Pemberton orijinal alkollü formülü alkolsüz hale getirmiştir."
+      },
+      {
+        "id": 8,
+        "text": "Coca-Cola'nın haklarını satın alarak onu küresel bir markaya dönüştüren işadamı kimdir?",
+        "options": [
+          "John Pemberton",
+          "Frank M. Robinson",
+          "Asa Candler",
+          "Robert W. Woodruff"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Asa Candler, Coca-Cola'nın haklarını satın alarak agresif pazarlama stratejileriyle onu dünya çapında bir markaya dönüştürmüştür."
+      },
+      {
+        "id": 9,
+        "text": "Coca-Cola ilk satıldığında bir bardak ne kadardı?",
+        "options": [
+          "10 cent",
+          "5 cent",
+          "1 dolar",
+          "25 cent"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Jacob's Pharmacy'de ilk satıldığında, bir bardak Coca-Cola'nın fiyatı beş sentti."
+      },
+      {
+        "id": 10,
+        "text": "Asa Candler, Coca-Cola'yı yaygınlaştırmak için hangi stratejiyi kullandı?",
+        "options": [
+          "Sadece kendi eczanelerinde satma",
+          "Ücretsiz dağıtım yapma",
+          "Şişeleme haklarını satma",
+          "Sadece lüks restoranlarda satma"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Candler, şişeleme haklarını satarak Coca-Cola'nın geniş kitlelere ulaşmasını sağlamıştır."
+      },
+      {
+        "id": 11,
+        "text": "Modern Coca-Cola formülünde koka yapraklarından elde edilen özler nasıl işlenir?",
+        "options": [
+          "Hiç kullanılmaz",
+          "Kokainden arındırılır",
+          "Tamamen doğal haliyle kullanılır",
+          "Sentetik olarak üretilir"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Koka yapraklarından elde edilen özler, günümüzdeki Coca-Cola formülünde kokainden arındırılmış olarak kullanılmaktadır."
+      },
+      {
+        "id": 12,
+        "text": "Coca-Cola, bir içecek olmanın ötesinde neyin sembolü haline gelmiştir?",
+        "options": [
+          "Sağlıklı yaşamın",
+          "Sadece Amerikan kültürünün",
+          "Küresel kültür, Amerikan yaşam tarzı ve evrensel mutluluğun",
+          "Zenginliğin ve lüksün"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Coca-Cola, zamanla küresel kültürün, Amerikan yaşam tarzının ve evrensel mutluluğun bir sembolü haline gelmiştir."
+      },
+      {
+        "id": 13,
+        "text": "Coca-Cola'nın icat edildiği şehir neresidir?",
+        "options": [
+          "New York",
+          "Los Angeles",
+          "Atlanta",
+          "Chicago"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Coca-Cola, ABD'nin Georgia eyaletindeki Atlanta şehrinde icat edilmiştir."
+      },
+      {
+        "id": 14,
+        "text": "Coca-Cola'nın ilk porsiyonları günde ortalama kaç bardaktı?",
+        "options": [
+          "9",
+          "90",
+          "900",
+          "9000"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Başlangıçta Jacob's Pharmacy'de günlük ortalama dokuz porsiyon Coca-Cola satılmıştır."
+      },
+      {
+        "id": 15,
+        "text": "Bugün Coca-Cola yaklaşık kaç yıldır varlığını sürdürmektedir?",
+        "options": [
+          "50 yıldan az",
+          "100 yıldan az",
+          "130 yıldan fazla",
+          "200 yıldan fazla"
+        ],
+        "correctAnswer": 2,
+        "explanation": "1886'da icat edilen Coca-Cola, 138 yılı aşkın süredir dünya çapında varlığını sürdürmektedir."
+      }
+    ]
   }
 ];
