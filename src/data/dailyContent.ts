@@ -8203,5 +8203,211 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "CNN'in 24 saat kesintisiz habercilik modeli, insanların haberleri anlık ve sürekli olarak takip etme alışkanlığını oluşturmuş, böylece modern medya tüketim alışkanlıklarını kökten değiştirmiştir."
       }
     ]
+  },
+  {
+    "slug": "adolf-eichmannin-infazi-soykirimin-mimarlarindan-birinin-sonu",
+    "dateId": "2026-05-30",
+    "title": "Adolf Eichmann'ın İnfazı: Tarihi Bir Adaletin Son Perdesi | GenelKultur",
+    "description": "Holokost'un mimarlarından Adolf Eichmann'ın 31 Mayıs 1962'deki infazı, Nazizm'in korkunç mirası ve uluslararası adaletin zaferidir. Bu tarihi olayın detaylarını keşfedin.",
+    "keywords": [
+      "Adolf Eichmann",
+      "Eichmann infazı",
+      "Holokost",
+      "Nazi savaş suçlusu",
+      "İsrail adaleti",
+      "soykırım",
+      "Eichmann davası",
+      "tarihte bugün",
+      "31 Mayıs 1962",
+      "Yahudi soykırımı",
+      "Mossad",
+      "Arjantin"
+    ],
+    "heading": "Adolf Eichmann'ın İnfazı: Soykırımın Mimarlarından Birinin Sonu",
+    "intro": "İnsanlık tarihinin en karanlık dönemlerinden birinin, Holokost'un mimarlarından biri olan Adolf Eichmann'ın akıbeti, yıllar süren bir kovalamacanın ve tarihi bir yargılamanın ardından 31 Mayıs 1962'de nihayete erdi. Bu olay, sadece bir savaş suçlusunun cezalandırılması değil, aynı zamanda uluslararası hukukun ve adaletin simgesel bir zaferi olarak tarihe geçti.",
+    "article": "Adolf Eichmann, İkinci Dünya Savaşı sırasında Nazi Almanyası'nın \"Nihai Çözüm\" olarak bilinen Yahudi Soykırımı'nın lojistik planlayıcılarından ve uygulayıcılarından biriydi. SS-Obersturmbannführer rütbesiyle, milyonlarca Yahudi'nin toplama ve imha kamplarına nakledilmesinden doğrudan sorumluydu. Savaşın sonunda, birçok üst düzey Nazi yetkilisi gibi, Eichmann da müttefik kuvvetlerden kaçmayı başardı. Sahte kimliklerle bir süre Almanya'da saklandıktan sonra, 1950'de Arjantin'e kaçarak 'Ricardo Klement' adıyla yeni bir hayata başladı. Ancak insanlık vicdanında derin yaralar açan suçlarının izi peşini bırakmadı.\n\nİsrail'in dış istihbarat teşkilatı Mossad, uzun yıllar süren kapsamlı bir operasyonun ardından, 1960 yılının Mayıs ayında Eichmann'ın Buenos Aires'teki izini buldu. Gizli bir operasyonla Arjantin'den kaçırılan Eichmann, uluslararası hukukta nadir görülen bir şekilde, yargılanmak üzere İsrail'e getirildi. Bu kaçırma olayı, Arjantin ile İsrail arasında diplomatik bir krize yol açsa da, İsrail yönetimi Eichmann'ın işlediği suçların ciddiyeti nedeniyle bu adımı atmak zorunda kaldıklarını savundu. Tüm dünyanın gözü bu tarihi yargılamaya çevrildi.\n\nKudüs'te 1961 yılında başlayan dava, Holokost'u hayatta kalan tanıkların ifadeleriyle yeniden gün yüzüne çıkardı. Eichmann, savunmasında sadece emirleri yerine getirdiğini, herhangi bir nefret veya kötü niyetle hareket etmediğini iddia etse de, savcılar ve tanıklar onun Yahudi soykırımındaki merkezi rolünü ve vicdansızlığını ortaya koydu. Filozof Hannah Arendt'in \"Kötülüğün Sıradanlığı\" (The Banality of Evil) kavramını ortaya attığı bu dava, tarihin en önemli savaş suçları yargılamalarından biri olarak kabul edilir. Mahkeme, Eichmann'ı insanlığa karşı işlenen suçlar, savaş suçları ve Yahudi halkına karşı işlenen suçlardan suçlu bularak idama mahkum etti. Karar, İsrail Yüksek Mahkemesi tarafından da onandı ve 31 Mayıs 1962'de, İsrail'de sivil bir mahkeme tarafından verilen tek idam cezası infaz edilmiş oldu. Eichmann'ın infazı, Holokost'un kurbanları için sembolik bir adalet anı olmanın yanı sıra, gelecekteki soykırım suçlularına karşı bir uyarı niteliği taşıdı.",
+    "category": "tarih",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Adolf Eichmann, İkinci Dünya Savaşı sırasında Nazi rejiminde hangi rolle tanınmıştır?",
+        "options": [
+          "Savaş cephesinde komutan",
+          "Yahudi Soykırımı'nın lojistik planlayıcısı ve uygulayıcısı",
+          "Nazi propaganda bakanı",
+          "Gestapo şefi"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Adolf Eichmann, Nazi Almanyası'nda Yahudilerin toplama ve imha kamplarına nakledilmesini organize eden ve 'Nihai Çözüm'ün lojistik planlamasında kilit rol oynayan bir SS subayıydı."
+      },
+      {
+        "id": 2,
+        "text": "Eichmann, İkinci Dünya Savaşı'nın bitiminden sonra hangi ülkeye kaçarak saklanmıştır?",
+        "options": [
+          "İspanya",
+          "Mısır",
+          "Arjantin",
+          "Brezilya"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Savaş sonrası sahte kimliklerle saklanan Eichmann, 1950 yılında Arjantin'e kaçarak 'Ricardo Klement' adını kullanmaya başlamıştır."
+      },
+      {
+        "id": 3,
+        "text": "Adolf Eichmann'ı Arjantin'den kaçırarak İsrail'e getiren istihbarat teşkilatı hangisidir?",
+        "options": [
+          "CIA",
+          "KGB",
+          "MI6",
+          "Mossad"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Eichmann, İsrail'in dış istihbarat servisi Mossad tarafından 1960 yılının Mayıs ayında Arjantin'de gizli bir operasyonla yakalanıp İsrail'e getirilmiştir."
+      },
+      {
+        "id": 4,
+        "text": "Adolf Eichmann'ın yargılandığı dava hangi şehirde gerçekleşmiştir?",
+        "options": [
+          "Tel Aviv",
+          "Kudüs",
+          "Haifa",
+          "Berlin"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Eichmann'ın tarihi davası 1961 yılında İsrail'in başkenti Kudüs'te başlamıştır."
+      },
+      {
+        "id": 5,
+        "text": "Dava sırasında Eichmann'ın ana savunma argümanı ne olmuştur?",
+        "options": [
+          "Akıl hastalığı",
+          "Siyasi komplo",
+          "Sadece emirleri yerine getirdiğini",
+          "Delillerin sahte olduğunu"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Eichmann, mahkemede sadece aldığı emirleri yerine getirdiğini ve Yahudilere karşı kişisel bir nefreti olmadığını iddia etmiştir. Bu savunması kabul görmemiştir."
+      },
+      {
+        "id": 6,
+        "text": "Adolf Eichmann hangi yıl infaz edilmiştir?",
+        "options": [
+          "1959",
+          "1960",
+          "1961",
+          "1962"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Mahkeme tarafından idama mahkum edilen Adolf Eichmann, 31 Mayıs 1962 tarihinde infaz edilmiştir."
+      },
+      {
+        "id": 7,
+        "text": "Filozof Hannah Arendt, Eichmann davası üzerine hangi ünlü kavramı ortaya atmıştır?",
+        "options": [
+          "Güçler Ayrılığı",
+          "Kötülüğün Sıradanlığı",
+          "Bireysel Özgürlük",
+          "Sosyal Sözleşme"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Hannah Arendt, Eichmann'ın davasındaki davranışlarını ve savunmasını inceleyerek 'Kötülüğün Sıradanlığı' (The Banality of Evil) kavramını geliştirmiştir."
+      },
+      {
+        "id": 8,
+        "text": "Eichmann'ın İsrail'de yargılanması neden uluslararası bir tartışma konusu olmuştur?",
+        "options": [
+          "İsrail'in yargılama yetkisinin olmaması",
+          "Suçların uluslararası değil, sadece İsrail'e karşı işlenmesi",
+          "Uluslararası bir mahkeme yerine İsrail'de yargılanması ve kaçırma olayı",
+          "Eichmann'ın bir diplomat olması"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Eichmann'ın Arjantin'den gizlice kaçırılması ve uluslararası bir mahkeme yerine İsrail'de yargılanması, uluslararası hukuk ve egemenlik prensipleri açısından tartışmalara yol açmıştır."
+      },
+      {
+        "id": 9,
+        "text": "Eichmann davasında, Holokost'un hangi yönü dünya kamuoyuna detaylı olarak sunulmuştur?",
+        "options": [
+          "Savaşın ekonomik etkileri",
+          "Hayatta kalan tanıkların ifadeleriyle Yahudi Soykırımı'nın dehşeti",
+          "Müttefiklerin savaş stratejileri",
+          "Nazi partisinin iç siyaseti"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Dava sırasında dinlenen Holokost'tan kurtulan yüzlerce tanığın ifadesi, soykırımın insanlık dışı boyutunu ve yaşananları dünya kamuoyunun dikkatine bir kez daha sunmuştur."
+      },
+      {
+        "id": 10,
+        "text": "Eichmann hangi suçlardan hüküm giymiştir?",
+        "options": [
+          "Casusluk ve vatana ihanet",
+          "Siyasi isyan ve sabotaj",
+          "İnsanlığa karşı işlenen suçlar, savaş suçları ve Yahudi halkına karşı işlenen suçlar",
+          "Dolandırıcılık ve kaçakçılık"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kudüs mahkemesi, Eichmann'ı insanlığa karşı işlenen suçlar, savaş suçları ve özellikle Yahudi halkına karşı işlenen suçlardan (soykırım) suçlu bulmuştur."
+      },
+      {
+        "id": 11,
+        "text": "Eichmann davasının Yahudi halkı ve İsrail için sembolik önemi nedir?",
+        "options": [
+          "İsrail devletinin ekonomik gücünü göstermesi",
+          "Yahudi halkının intikam arayışını temsil etmesi",
+          "Holokost'un kurbanları için adaletin sağlanması ve soykırımın hatırlatılması",
+          "İsrail'in askeri gücünün bir göstergesi olması"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Dava, Holokost'tan sağ kurtulanlar ve Yahudi halkı için sembolik bir adalet anı olmuş, İsrail'in geçmişle yüzleşme ve soykırımı asla unutmama kararlılığını göstermiştir."
+      },
+      {
+        "id": 12,
+        "text": "Eichmann'ın yakalanmasından önce kullandığı sahte adı nedir?",
+        "options": [
+          "Hans Schmidt",
+          "Klaus Barbie",
+          "Ricardo Klement",
+          "Josef Mengele"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Arjantin'e kaçtıktan sonra Adolf Eichmann, 'Ricardo Klement' adını kullanarak saklanmıştır."
+      },
+      {
+        "id": 13,
+        "text": "Dava sonunda Eichmann'a verilen ceza neydi?",
+        "options": [
+          "Müebbet hapis",
+          "20 yıl hapis",
+          "İdam cezası",
+          "Sınır dışı edilme"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kudüs Bölge Mahkemesi, Eichmann'ı tüm suçlamalardan suçlu bularak idama mahkum etmiştir. Bu ceza, İsrail Yüksek Mahkemesi tarafından da onaylanmıştır."
+      },
+      {
+        "id": 14,
+        "text": "Holokost'un Nazi rejimindeki resmi adı neydi?",
+        "options": [
+          "Doğu Operasyonu",
+          "Nihai Çözüm",
+          "Yeni Düzen",
+          "Almanlaştırma Programı"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Nazi Almanyası'nın Yahudileri sistematik olarak yok etme planına verilen isim 'Nihai Çözüm' (Die Endlösung der Judenfrage) idi."
+      },
+      {
+        "id": 15,
+        "text": "Eichmann davası, İsrail'de verilen kaçıncı ve son idam cezasıdır?",
+        "options": [
+          "İlk ve tek",
+          "Üçüncü",
+          "Beşinci",
+          "Onuncu"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Adolf Eichmann'ın infazı, İsrail Devleti'nin sivil bir mahkemesi tarafından verilen ilk ve bugüne kadar tek idam cezasıdır."
+      }
+    ]
   }
 ];
