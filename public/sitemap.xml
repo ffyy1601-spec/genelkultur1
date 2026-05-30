@@ -530,4 +530,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/modern-yasamin-gizli-kahramani-fermuarin-dogusu-ve-evrimi</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/modern-yasamin-gizli-kahramani-fermuarin-dogusu-ve-evrimi/oyna</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
