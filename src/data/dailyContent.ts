@@ -9230,5 +9230,209 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Makalede \"46.328 brüt ton ağırlığıyla\" o dönemin en ileri mühendislik tekniklerini barındırdığı belirtilmiştir."
       }
     ]
+  },
+  {
+    "slug": "peruyu-sallayan-felaket-1970-ancash-depremi-ve-yungay-faciasi",
+    "dateId": "2026-05-31",
+    "title": "1970 Ancash Depremi: Peru'yu Yasa Boğan Doğal Afet ve Yungay Trajedisi | GenelKultur",
+    "description": "31 Mayıs 1970'te Peru'yu vuran Ancash Depremi, tarihin en yıkıcı doğal afetlerinden biridir. Bu makalede, depremin nedenlerini, Yungay faciasını ve etkilerini keşfedin.",
+    "keywords": [
+      "Ancash depremi",
+      "1970 Peru depremi",
+      "Yungay faciası",
+      "doğal afet",
+      "deprem",
+      "çığ",
+      "Huascarán",
+      "Peru tarihi",
+      "sismoloji",
+      "And Dağları"
+    ],
+    "heading": "Peru'yu Sallayan Felaket: 1970 Ancash Depremi ve Yungay Faciası",
+    "intro": "Güney Amerika'nın batı kıyısı, Pasifik Ateş Çemberi'nin bir parçası olarak sismik aktivitenin yoğun olduğu bölgelerden biridir. Ancak 31 Mayıs 1970 Pazar günü, bu aktivite Peru tarihine kara bir leke olarak kazınacak, yıkıcı bir felakete dönüştü. Ancash bölgesini vuran 7.9 büyüklüğündeki deprem, sadece yerleşim yerlerini yerle bir etmekle kalmadı, aynı zamanda Huascarán Dağı'ndan kopan devasa bir buz ve kaya çığını tetikleyerek Yungay şehrini haritadan sildi. Bu olay, doğal afetlerin yıkıcı gücünü ve insanlık için oluşturduğu tehdidi acı bir şekilde hatırlattı.",
+    "article": "31 Mayıs 1970 günü saat 15:23'te meydana gelen Ancash Depremi, Peru'nun Ancash bölgesini ve Huaylas Vadisi'ni derinden etkiledi. Nazca ve Güney Amerika plakalarının çarpışma zonunda meydana gelen bu sığ odaklı deprem, Richter ölçeğine göre 7.9 büyüklüğündeydi ve yaklaşık 45 saniye sürdü. Depremin yol açtığı sarsıntı, başkent Lima'dan bile hissedilmiş, binaların büyük çapta hasar görmesine ve altyapının çökmesine neden olmuştu. Ancak felaketin gerçek boyutları, depremin tetiklediği ikincil afetlerle ortaya çıktı.\n\nDepremin en trajik sonuçlarından biri, Huascarán Dağı'nın kuzey zirvesinden kopan devasa bir buz ve kaya çığıydı. Depremle birlikte, yaklaşık 400 metre genişliğinde ve 1.5 kilometre uzunluğundaki buz ve kaya kütlesi, saatte 280-335 kilometre hızla aşağı doğru yuvarlandı. Bu kütle, yamaç aşağı inerken bünyesine daha fazla toprak, taş ve su katarak adeta bir çamur ve moloz nehrine dönüştü. Yaklaşık 15 milyon metreküp hacme ulaşan bu çığ, hızla ilerleyerek Ranrahirca ve özellikle Yungay kasabasına ulaştı.\n\nYungay, dağ yamacında yer alan pitoresk bir kasabaydı ve 1962 yılında meydana gelen benzer ancak daha küçük bir çığ felaketini atlatmıştı. Ancak 1970'teki çığ, kasabanın tamamını sadece birkaç dakika içinde yuttu. Yaklaşık 20.000 nüfuslu Yungay'da sadece 400 civarında kişi hayatta kalabildi; çoğunlukla kasabanın yüksek kesimlerinde bulunan mezarlığa sığınanlar ve kasaba dışındaki ziyaretçilerdi. Bu felaket, Peru tarihinin en ölümcül doğal afeti olarak kayıtlara geçti ve toplamda yaklaşık 70.000 kişinin hayatını kaybetmesine, 200.000 kişinin yaralanmasına ve bir milyondan fazla kişinin evsiz kalmasına yol açtı. Ancash Depremi ve Yungay Faciası, doğal afetlere karşı hazırlık ve risk yönetimi konularında uluslararası düzeyde önemli dersler çıkarılmasına vesile oldu ve bölgedeki yerleşim planlamaları ile acil durum müdahale stratejilerinin yeniden gözden geçirilmesine yol açtı.",
+    "category": "bilim",
+    "questions": [
+      {
+        "id": 1,
+        "text": "1970 Ancash Depremi hangi ülkede meydana gelmiştir?",
+        "options": [
+          "Şili",
+          "Ekvador",
+          "Peru",
+          "Kolombiya"
+        ],
+        "correctAnswer": 2,
+        "explanation": "1970 Ancash Depremi, Güney Amerika ülkesi Peru'da, Ancash bölgesinde gerçekleşmiştir."
+      },
+      {
+        "id": 2,
+        "text": "Deprem hangi tarihte gerçekleşmiştir?",
+        "options": [
+          "24 Mayıs 1970",
+          "31 Mayıs 1970",
+          "15 Haziran 1970",
+          "10 Mayıs 1969"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Ancash Depremi, 31 Mayıs 1970 Pazar günü öğleden sonra meydana gelmiştir."
+      },
+      {
+        "id": 3,
+        "text": "Depremin büyüklüğü Richter ölçeğine göre yaklaşık olarak ne kadardı?",
+        "options": [
+          "6.5",
+          "7.0",
+          "7.9",
+          "8.2"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Depremin büyüklüğü, Richter ölçeğine göre 7.9 olarak kaydedilmiştir."
+      },
+      {
+        "id": 4,
+        "text": "Ancash Depremi'nin en trajik sonuçlarından biri olan çığ, hangi dağdan kopmuştur?",
+        "options": [
+          "Cotopaxi",
+          "Chimborazo",
+          "Huascarán",
+          "Aconcagua"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Depremin etkisiyle Huascarán Dağı'nın kuzey zirvesinden devasa bir buz ve kaya çığı koparak felakete neden olmuştur."
+      },
+      {
+        "id": 5,
+        "text": "Çığ felaketinden en çok etkilenen ve haritadan silinen şehir hangisidir?",
+        "options": [
+          "Caraz",
+          "Huaraz",
+          "Yungay",
+          "Chimbote"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Huascarán'dan kopan çığ, Yungay şehrini tamamen yutarak on binlerce insanın ölümüne neden olmuştur."
+      },
+      {
+        "id": 6,
+        "text": "Depremin neden olduğu çığ, yaklaşık olarak saatte kaç kilometre hızla ilerlemiştir?",
+        "options": [
+          "100-150 km",
+          "180-200 km",
+          "280-335 km",
+          "350-400 km"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Çığ kütlesi, saatte 280-335 kilometre gibi inanılmaz bir hızla yamaç aşağı ilerlemiştir."
+      },
+      {
+        "id": 7,
+        "text": "Yungay şehrinde yaklaşık kaç kişi hayatta kalabilmiştir?",
+        "options": [
+          "50'den az",
+          "Yaklaşık 400",
+          "1.000'den fazla",
+          "Nüfusun yarısı"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Yaklaşık 20.000 nüfuslu Yungay'da sadece 400 civarında kişi hayatta kalabilmiştir, çoğunlukla kasabanın yükseklerindeki mezarlığa sığınanlar."
+      },
+      {
+        "id": 8,
+        "text": "Ancash Depremi'nde toplamda yaklaşık kaç kişi hayatını kaybetmiştir?",
+        "options": [
+          "10.000",
+          "30.000",
+          "70.000",
+          "100.000"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Deprem ve yol açtığı afetlerde toplamda yaklaşık 70.000 kişi hayatını kaybetmiştir."
+      },
+      {
+        "id": 9,
+        "text": "Deprem sonrası bölgede ne kadar kişi evsiz kalmıştır?",
+        "options": [
+          "50.000'den az",
+          "250.000 civarında",
+          "500.000'den fazla",
+          "Bir milyondan fazla"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Deprem felaketinin ardından bir milyondan fazla kişi evsiz kalmıştır."
+      },
+      {
+        "id": 10,
+        "text": "Ancash Depremi hangi jeolojik plakaların çarpışma zonunda meydana gelmiştir?",
+        "options": [
+          "Afrika ve Avrasya",
+          "Pasifik ve Kuzey Amerika",
+          "Nazca ve Güney Amerika",
+          "Hint-Avustralya ve Avrasya"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Deprem, Nazca ve Güney Amerika plakalarının çarpışma zonunda meydana gelen sığ odaklı bir depremdi."
+      },
+      {
+        "id": 11,
+        "text": "Ancash Depremi, başkent Lima'dan hissedilmiş midir?",
+        "options": [
+          "Hayır, çok uzaktı",
+          "Sadece çok hafif hissedilmiştir",
+          "Evet, hissedilmiş ve binalara hasar vermiştir",
+          "Sadece belirli bölgelerinde hissedilmiştir"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Depremin şiddetli sarsıntıları başkent Lima'dan bile hissedilmiş ve bazı binalarda hasara yol açmıştır."
+      },
+      {
+        "id": 12,
+        "text": "Yungay şehri, 1970'teki büyük çığdan önce benzer bir felaket yaşamış mıydı?",
+        "options": [
+          "Hayır, ilk defa böyle bir şey yaşadı",
+          "Evet, 1962'de daha küçük bir çığ atlatmıştı",
+          "Sadece hafif kaya düşmeleri yaşamıştı",
+          "1950'lerde daha büyük bir sel felaketi yaşamıştı"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Yungay, 1962 yılında meydana gelen benzer ancak daha küçük bir çığ felaketini atlatmıştı, bu da 1970'teki felaketi daha da trajik hale getirmiştir."
+      },
+      {
+        "id": 13,
+        "text": "1970 Ancash Depremi'nin en önemli derslerinden biri ne olmuştur?",
+        "options": [
+          "Bölgede madencilik faaliyetlerini durdurmak",
+          "Yeni binaların yapımını tamamen yasaklamak",
+          "Doğal afetlere karşı hazırlık ve risk yönetimi",
+          "Tüm şehirleri dağlık bölgelerden taşımak"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bu felaket, doğal afetlere karşı hazırlık, risk yönetimi ve acil durum müdahale stratejilerinin önemini uluslararası düzeyde vurgulayan önemli bir ders olmuştur."
+      },
+      {
+        "id": 14,
+        "text": "Depremin meydana geldiği Pazar günü, saat kaç civarındaydı?",
+        "options": [
+          "Sabah erken saatler",
+          "Öğle vaktinden önce",
+          "Öğleden sonra",
+          "Gece yarısı"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Deprem, 31 Mayıs 1970 Pazar günü saat 15:23 civarında, yani öğleden sonra meydana gelmiştir."
+      },
+      {
+        "id": 15,
+        "text": "Çığ kütlesinin yaklaşık hacmi ne kadardı?",
+        "options": [
+          "1 milyon metreküp",
+          "5 milyon metreküp",
+          "10 milyon metreküp",
+          "15 milyon metreküp"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Çığ, yamaç aşağı inerken bünyesine daha fazla malzeme katarak yaklaşık 15 milyon metreküp hacme ulaşmıştır."
+      }
+    ]
   }
 ];
