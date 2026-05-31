@@ -9844,5 +9844,211 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Boer Savaşları'nın ardından Britanya, bölgedeki farklı Avrupalı toplulukları tek bir çatı altında toplayarak bölgesel istikrarı federal bir yapı ile sağlamaya çalışmıştır."
       }
     ]
+  },
+  {
+    "slug": "kalka-nehri-savasi-mogol-firtinasinin-ilk-avrupa-duragi",
+    "dateId": "2026-05-31",
+    "title": "Kalka Nehri Savaşı: Moğol İstilası ve Rus Prenslerinin Trajik Yenilgisi | Tarihte Bugün",
+    "description": "31 Mayıs 1223'te gerçekleşen Kalka Nehri Savaşı, Moğol ordularının Avrupa'daki ilk büyük zaferlerinden biri ve Rus prenslikleri için dönüm noktası oldu. Detaylar için okuyun!",
+    "keywords": [
+      "Kalka Nehri Savaşı",
+      "Moğol istilası",
+      "Rus prenslikleri",
+      "Cengiz Han",
+      "Sübedey",
+      "Cebe",
+      "Kiev Rus",
+      "1223",
+      "tarihi savaşlar",
+      "Orta Çağ",
+      "doğu Avrupa tarihi",
+      "Moğol taktikleri"
+    ],
+    "heading": "Kalka Nehri Savaşı: Moğol Fırtınasının İlk Avrupa Durağı",
+    "intro": "13. yüzyılın başları, Asya bozkırlarından kopan bir fırtınanın, Moğol İmparatorluğu'nun yükselişine tanıklık ediyordu. Cengiz Han'ın efsanevi generalleri Sübedey ve Cebe komutasındaki keşif orduları, Batı'ya doğru durdurulamaz bir ilerleyişle ilerlerken, 31 Mayıs 1223'te Kalka Nehri kıyılarında Doğu Avrupa'nın kaderini belirleyecek kritik bir çatışma yaşandı. Bu savaş, Moğol ordusunun taktik dehasını ve Rus prensliklerinin dağınık yapısının trajik sonuçlarını gözler önüne serecekti.",
+    "article": "1220'lerin başlarında Moğol İmparatorluğu, Harezmşahlar Devleti'ni dize getirerek batıya doğru ilerlemeye başlamıştı. Cengiz Han, generalleri Sübedey ve Cebe'yi Kafkaslar ve Doğu Avrupa'da keşif ve istila amaçlı bir orduyla göndermişti. Bu Moğol kuvvetleri, Kafkasya'da Alanları ve daha sonra Karadeniz bozkırlarında Kıpçakları (Kumanları) mağlup etti. Kıpçak Hanı Köten, Moğolların durdurulamaz ilerleyişi karşısında çaresiz kalarak akrabalık bağları olduğu Rus prensliklerinden yardım istedi. Bu çağrı, Rus prenslerinin Moğol tehdidine karşı ilk kez geniş çaplı bir ittifak kurmasına yol açtı.\n\nKievli Büyük Prens III. Mstislav, Galiçyalı Mstislav ve Çernigovlu Mstislav gibi önde gelen Rus prensleri de dahil olmak üzere birçok prenslik, Moğollara karşı birleşme kararı aldı. Ancak bu ittifak, ne yazık ki güçlü bir merkezi otorite ve koordineli bir komuta yapısına sahip değildi. Her prens kendi birliklerini yönetiyor ve genellikle diğerleriyle rekabet halindeydi. Birleşen Rus-Kıpçak ordusu, Moğol keşif kuvvetlerinden sayıca oldukça üstündü. İlk çatışmalarda bazı küçük Rus başarıları, ittifakın içinde gereksiz bir özgüvenin doğmasına neden oldu ve Moğolların geri çekilme taktiği olan 'sahte ricat'ı tam olarak anlayamadılar. Moğollar, yavaş yavaş geri çekilerek Rus ve Kıpçak güçlerini ana ordularının bulunduğu Kalka Nehri'ne doğru çekti.\n\n31 Mayıs 1223 tarihinde Kalka Nehri kıyılarında ana muharebe başladı. Moğol generalleri Sübedey ve Cebe, kusursuz taktik dehalarını bir kez daha sergilediler. Atlı okçuların yıpratıcı saldırıları ve sonrasında süvarilerin çevik manevralarıyla Rus saflarını böldüler. Rus prensleri arasındaki komuta birliği eksikliği ve bireysel kahramanlık çabaları, Moğolların disiplinli ve koordineli saldırıları karşısında etkisiz kaldı. Kıpçak süvarileri ilk darbeyi alarak dağıldı ve kaçan Kıpçakların paniği, Rus ordusunun geri kalanını da olumsuz etkiledi. Savaş, Rus prenslikleri için tam bir felaketle sonuçlandı. Çok sayıda prens ve binlerce asker öldürüldü. Kiev Prensi III. Mstislav ve beraberindeki altı prens, Moğollar tarafından bir tuzağa düşürüldü ve tahta bir platformun altına yerleştirilerek boğularak infaz edildi. Kalka Nehri Savaşı, Moğol fırtınasının Batı'ya doğru ne kadar yıkıcı olabileceğinin bir habercisiydi ve Rus prenslikleri için uzun sürecek Moğol hakimiyetinin başlangıcı anlamına geliyordu. Bu trajik yenilgi, Doğu Avrupa'nın siyasi haritasını derinden etkileyecek ve bölgenin kaderini değiştirecek olayların önünü açacaktı.",
+    "category": "tarih",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Kalka Nehri Savaşı hangi tarihte gerçekleşmiştir?",
+        "options": [
+          "31 Mayıs 1205",
+          "31 Mayıs 1223",
+          "12 Nisan 1223",
+          "15 Temmuz 1242"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Kalka Nehri Savaşı, Moğol ve Rus-Kıpçak kuvvetleri arasında 31 Mayıs 1223 tarihinde yapılmıştır."
+      },
+      {
+        "id": 2,
+        "text": "Moğol ordusunun Kalka Nehri Savaşı'ndaki baş komutanları kimlerdi?",
+        "options": [
+          "Cengiz Han ve Batu Han",
+          "Ögeday Han ve Güyük Han",
+          "Sübedey ve Cebe",
+          "Kubilay Han ve Hülagü Han"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Moğol ordusuna Kalka Nehri Savaşı'nda Cengiz Han'ın yetenekli generalleri Sübedey ve Cebe komuta etmiştir."
+      },
+      {
+        "id": 3,
+        "text": "Rus prensliklerinin Moğollara karşı ittifak kurmasında hangi grubun yardım çağrısı etkili olmuştur?",
+        "options": [
+          "Bulgarlar",
+          "Kıpçaklar (Kumanlar)",
+          "Peçenekler",
+          "Alanlar"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Moğolların ilerleyişi karşısında çaresiz kalan Kıpçak Hanı Köten, akrabalık bağları olduğu Rus prensliklerinden yardım istemiştir."
+      },
+      {
+        "id": 4,
+        "text": "Kalka Nehri Savaşı'nda Rus prensliklerinin en zayıf noktası neydi?",
+        "options": [
+          "Asker sayılarının azlığı",
+          "Silah teknolojilerinin geri kalmışlığı",
+          "Komuta birliği eksikliği ve koordinasyonsuzluk",
+          "Moğol taktiklerini çok iyi bilmeleri"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Rus prensliklerinin ittifakı, güçlü bir merkezi otorite ve koordineli bir komuta yapısına sahip değildi, bu da yenilgilerine yol açan temel faktörlerdendir."
+      },
+      {
+        "id": 5,
+        "text": "Moğolların Kalka Nehri Savaşı'nda başarılı bir şekilde kullandığı temel taktiklerden biri neydi?",
+        "options": [
+          "Tahkim edilmiş mevziler kurma",
+          "Denizden çıkarma harekatı",
+          "Sayıca az olmalarına rağmen doğrudan cephe saldırısı",
+          "Sahte ricat (geri çekilme) ve düşmanı pusuya çekme"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Moğollar, düşmanı yanıltmak ve ana ordularının bulunduğu yere çekmek için 'sahte ricat' taktiğini başarıyla kullanmışlardır."
+      },
+      {
+        "id": 6,
+        "text": "Kalka Nehri Savaşı'nın Rus prenslikleri için kısa vadeli sonucu ne olmuştur?",
+        "options": [
+          "Moğol ordusunu tamamen bozguna uğratmaları",
+          "Topraklarını genişletmeleri",
+          "Ağır bir yenilgi almaları ve birçok prensin ölmesi",
+          "Moğollarla barış antlaşması imzalamaları"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Savaş, Rus prenslikleri için tam bir felaketle sonuçlanmış, çok sayıda prens ve asker hayatını kaybetmiştir."
+      },
+      {
+        "id": 7,
+        "text": "Kiev Prensi III. Mstislav ve beraberindeki prensler savaş sonrası Moğollar tarafından nasıl infaz edilmiştir?",
+        "options": [
+          "Kılıçla başları kesilerek",
+          "Ok yağmuru altında",
+          "Tahta bir platformun altına yerleştirilerek boğularak",
+          "Ateşe verilerek"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kiev Prensi III. Mstislav ve diğer prensler, Moğollar tarafından tahta bir platformun altına yerleştirilerek boğulmuştur."
+      },
+      {
+        "id": 8,
+        "text": "Kalka Nehri Savaşı hangi nehrin kıyısında gerçekleşmiştir?",
+        "options": [
+          "Dinyeper Nehri",
+          "Volga Nehri",
+          "Kalka Nehri",
+          "Tuna Nehri"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Savaş, adını aldığı Kalka Nehri kıyılarında cereyan etmiştir."
+      },
+      {
+        "id": 9,
+        "text": "Moğol İmparatorluğu, Kalka Nehri Seferi'nden önce hangi büyük devleti mağlup etmiştir?",
+        "options": [
+          "Bizans İmparatorluğu",
+          "Harezmşahlar Devleti",
+          "Avrupa Hun İmparatorluğu",
+          "Selçuklu Devleti"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Moğollar, Harezmşahlar Devleti'ni dize getirerek batı yönlü ilerleyişlerine başlamışlardır."
+      },
+      {
+        "id": 10,
+        "text": "Kalka Nehri Savaşı'nın uzun vadeli sonuçlarından biri nedir?",
+        "options": [
+          "Rus prensliklerinin güçlenmesi",
+          "Batı Avrupa'nın Moğol istilasından tamamen kurtulması",
+          "Rus prensliklerinin zayıflaması ve Moğol hakimiyetinin önünün açılması",
+          "Ortodoks Kilisesi'nin gücünü yitirmesi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Savaş, Rus prenslikleri için Moğol hakimiyetinin başlangıcı ve uzun sürecek bir dönemin habercisi olmuştur."
+      },
+      {
+        "id": 11,
+        "text": "Savaş öncesinde Rus prensleri arasında hangi durum hakimdi?",
+        "options": [
+          "Tam bir birlik ve uyum",
+          "Güçlü merkezi bir krallık",
+          "Daimi bir barış dönemi",
+          "İç rekabetler ve dağınık bir yapı"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Rus prensleri arasındaki iç rekabetler ve dağınık yapı, Moğol tehdidine karşı etkili bir savunma oluşturmalarını engellemiştir."
+      },
+      {
+        "id": 12,
+        "text": "Moğol ordusunun Kalka Nehri Savaşı'ndaki en önemli askeri gücü neydi?",
+        "options": [
+          "Ağır zırhlı piyadeleri",
+          "Deniz kuvvetleri",
+          "Disiplinli ve çevik süvari birlikleri",
+          "Savaş filleri"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Moğol ordusunun temelini, yüksek disiplinli, çevik ve atlı okçulukta usta süvari birlikleri oluşturmaktaydı."
+      },
+      {
+        "id": 13,
+        "text": "Hangi önemli Rus prensliği Kalka Nehri Savaşı'na katılmıştır?",
+        "options": [
+          "Moskova Prensliği",
+          "Novgorod Prensliği",
+          "Kiev Prensliği",
+          "Pskov Prensliği"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kievli Büyük Prens III. Mstislav, Kalka Nehri Savaşı'na katılan önemli Rus prenslerindendi ve savaşta hayatını kaybedenler arasındaydı."
+      },
+      {
+        "id": 14,
+        "text": "Moğol keşif ordusu, Kalka Nehri'ne gelmeden önce Kafkasya'da hangi halkı mağlup etmiştir?",
+        "options": [
+          "Türkmenler",
+          "Hazarlar",
+          "Alanlar",
+          "Gürcüler"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Moğollar, Kafkasya'da ilerlerken Alanları ve Kıpçakları mağlup etmişlerdir."
+      },
+      {
+        "id": 15,
+        "text": "Kalka Nehri Savaşı'nın sonucunda Moğollar, Rus topraklarında ne kadar süre kalmıştır?",
+        "options": [
+          "Yıllarca süren bir işgal başlattılar",
+          "Derhal geri çekildiler",
+          "Kalıcı garnizonlar kurdular",
+          "Bölgede yeni bir devlet kurdular"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Savaş sonrası kısa bir süre daha bölgede kalsalar da, bu sefer bir keşif seferi olduğu için Moğollar asıl büyük istilaya kadar derhal geri çekilmişlerdir. Ancak bu olay, gelecekteki büyük Moğol istilasının bir öncü habercisi olmuştur."
+      }
+    ]
   }
 ];
