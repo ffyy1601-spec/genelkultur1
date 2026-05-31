@@ -600,4 +600,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/uzayin-derinliklerine-atilan-ilk-amerikan-adimi-edward-whitein-tarihi-uzay-yuruyusu</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/uzayin-derinliklerine-atilan-ilk-amerikan-adimi-edward-whitein-tarihi-uzay-yuruyusu/oyna</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>

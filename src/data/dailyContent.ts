@@ -10050,5 +10050,211 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Savaş sonrası kısa bir süre daha bölgede kalsalar da, bu sefer bir keşif seferi olduğu için Moğollar asıl büyük istilaya kadar derhal geri çekilmişlerdir. Ancak bu olay, gelecekteki büyük Moğol istilasının bir öncü habercisi olmuştur."
       }
     ]
+  },
+  {
+    "slug": "uzayin-derinliklerine-atilan-ilk-amerikan-adimi-edward-whitein-tarihi-uzay-yuruyusu",
+    "dateId": "2026-05-31",
+    "title": "Edward White'ın Tarihi Uzay Yürüyüşü: Amerika'nın İlk Adımları | Uzay Araştırmaları",
+    "description": "3 Haziran 1965'te Gemini 4 görevi sırasında Edward White'ın gerçekleştirdiği ilk Amerikan uzay yürüyüşünün detaylarını, önemini ve uzay yarışına etkisini keşfedin.",
+    "keywords": [
+      "Edward White",
+      "uzay yürüyüşü",
+      "EVA",
+      "Gemini 4",
+      "uzay yarışı",
+      "NASA",
+      "astronot",
+      "ilk Amerikan uzay yürüyüşü",
+      "uzay keşfi",
+      "Jim McDivitt",
+      "Titan II",
+      "uzay giysisi"
+    ],
+    "heading": "Uzayın Derinliklerine Atılan İlk Amerikan Adımı: Edward White'ın Tarihi Uzay Yürüyüşü",
+    "intro": "İnsanlık tarihi boyunca gökyüzüne olan merak, bizi yıldızlara doğru iten en büyük güç olmuştur. 1960'lı yıllarda zirveye ulaşan Uzay Yarışı, bu merakı somut adımlara dönüştürdü. Sovyetler Birliği'nin Alexei Leonov ile gerçekleştirdiği ilk uzay yürüyüşünün ardından, Amerika Birleşik Devletleri de kendi tarihinde bir ilke imza atmak için hazırlıklara başladı. Bu tarihi an, 3 Haziran 1965'te Gemini 4 görevi sırasında Astronot Edward White tarafından gerçekleştirildi ve insanlığın uzaydaki varoluş mücadelesinde yeni bir sayfa açtı.",
+    "article": "3 Haziran 1965 günü, Cape Kennedy'den fırlatılan Gemini 4 uzay aracı, Komutan Jim McDivitt ve Pilot Edward White ile yörüngeye oturdu. Görevin en kritik anlarından biri, White'ın uzay aracının dışına çıkarak gerçekleştireceği \"Ekstravehiküler Aktivite\" (EVA) yani uzay yürüyüşüydü. Bu, Amerika için bir ilk olacaktı ve uzayda serbestçe hareket edebilme yeteneğinin test edilmesi açısından büyük önem taşıyordu. White, yaklaşık 21 dakika boyunca Gemini uzay aracına bağlı bir güvenlik kordonuyla uzayda süzüldü. Bu süreçte, özel olarak tasarlanmış bir el iticisi kullanarak yörüngede hareket etme kabiliyetini gösterdi. Milyonlarca insan, televizyonlarından bu inanılmaz anları nefeslerini tutarak izledi ve insanlığın uzaya olan hakimiyetine tanıklık etti.\n\nWhite'ın uzay yürüyüşü, sadece teknik bir başarıdan ibaret değildi; aynı zamanda psikolojik ve sembolik bir zaferdi. Sovyetler Birliği'nin Mart 1965'teki ilk uzay yürüyüşünün ardından gelen bu başarı, Uzay Yarışı'nda Amerika'nın rekabet gücünü yeniden ortaya koydu. Bu deneyim, gelecekteki Apollo görevleri için kritik bilgiler sağladı. Astronotların uzay aracının dışında çalışabilme yeteneği, Ay'a iniş ve uzay istasyonu inşası gibi karmaşık görevler için vazgeçilmez bir ön koşuldu. White'ın giydiği özel uzay giysisi, çevresel kontrol sistemi ve hareket kabiliyeti sağlayan ekipmanlar, sonraki nesil uzay giysilerinin geliştirilmesi için önemli bir temel oluşturdu.\n\nAncak bu tarihi anın zorlukları da vardı. White'ın uzay aracına geri dönmesi beklenenden daha zordu; kapağın sıkışması kısa süreli bir endişe yarattı. Bu durum, uzay görevlerinin ne kadar riskli ve beklenmedik sorunlara açık olduğunu bir kez daha gösterdi. Gemini 4 misyonu, toplamda dört günlük bir uçuşun ardından başarılı bir şekilde sona erdi. Edward White'ın uzay yürüyüşü, sadece bir astronotun dış uzayda attığı bir adım değil, aynı zamanda Amerika'nın uzay keşiflerinde ve Ay'a ulaşma hedefinde attığı dev bir adımdı. Bu olay, insanlığın bilinmeyene duyduğu cesareti ve sınırları zorlama arzusunu bir kez daha kanıtladı.",
+    "category": "bilim",
+    "questions": [
+      {
+        "id": 1,
+        "text": "İlk Amerikan uzay yürüyüşünü gerçekleştiren astronot kimdir?",
+        "options": [
+          "Neil Armstrong",
+          "Yuri Gagarin",
+          "Edward White",
+          "Jim McDivitt"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Edward White, 3 Haziran 1965'te Gemini 4 görevi sırasında uzay yürüyüşü yapan ilk Amerikalı astronot olmuştur. Neil Armstrong Ay'a ilk ayak basan kişidir, Yuri Gagarin uzaya çıkan ilk insandır, Jim McDivitt ise Gemini 4'ün komutanıdır."
+      },
+      {
+        "id": 2,
+        "text": "Edward White, uzay yürüyüşünü hangi uzay görevi sırasında gerçekleştirmiştir?",
+        "options": [
+          "Apollo 11",
+          "Mercury-Redstone 3",
+          "Gemini 4",
+          "Skylab 2"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Edward White'ın tarihi uzay yürüyüşü, Gemini Programı'nın bir parçası olan Gemini 4 görevi sırasında yapılmıştır."
+      },
+      {
+        "id": 3,
+        "text": "Edward White'ın uzay yürüyüşü hangi tarihte gerçekleşmiştir?",
+        "options": [
+          "20 Temmuz 1969",
+          "12 Nisan 1961",
+          "3 Haziran 1965",
+          "18 Mart 1965"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Edward White'ın uzay yürüyüşü 3 Haziran 1965 tarihinde gerçekleşmiştir. 20 Temmuz 1969 Ay'a ilk insan inişi, 12 Nisan 1961 Yuri Gagarin'in uzaya çıkışı, 18 Mart 1965 Alexei Leonov'un ilk uzay yürüyüşü tarihidir."
+      },
+      {
+        "id": 4,
+        "text": "Uzay yürüyüşü için kullanılan bilimsel terim aşağıdakilerden hangisidir?",
+        "options": [
+          "Orbital Maneuver",
+          "Extravehicular Activity",
+          "Re-entry Procedure",
+          "Docking Maneuver"
+        ],
+        "correctAnswer": 1,
+        "explanation": "\"Extravehicular Activity\" (EVA), bir uzay aracının dışına çıkarak yapılan aktivite, yani uzay yürüyüşü için kullanılan resmi terimdir."
+      },
+      {
+        "id": 5,
+        "text": "Edward White uzay yürüyüşü sırasında ne kadar süre uzay aracının dışında kalmıştır?",
+        "options": [
+          "Yaklaşık 5 saat",
+          "Yaklaşık 1 saat",
+          "Yaklaşık 21 dakika",
+          "Yaklaşık 45 dakika"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Edward White, Gemini 4 görevi sırasında yaklaşık 21 dakika süren bir uzay yürüyüşü gerçekleştirmiştir."
+      },
+      {
+        "id": 6,
+        "text": "Edward White'ın uzay yürüyüşü sırasında kullandığı hareket etme aracı aşağıdakilerden hangisidir?",
+        "options": [
+          "Jetpack",
+          "İp merdiven",
+          "El iticisi (propulsion gun)",
+          "Uzay aracı motoru"
+        ],
+        "correctAnswer": 2,
+        "explanation": "White, uzayda yörüngede hareket etmek için gaz püskürten, manuel olarak kontrol edilen bir el iticisi (hand-held propulsion gun) kullanmıştır."
+      },
+      {
+        "id": 7,
+        "text": "Gemini 4 görevinde Edward White'ın komutanı kimdi?",
+        "options": [
+          "Frank Borman",
+          "Jim McDivitt",
+          "Gus Grissom",
+          "Alan Shepard"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Gemini 4 görevinin komutanı Jim McDivitt'ti. Edward White ise pilot olarak görev yapmıştır."
+      },
+      {
+        "id": 8,
+        "text": "İlk uzay yürüyüşünü gerçekleştiren (Amerikalı olmayan) astronot kimdir?",
+        "options": [
+          "Valeri Polyakov",
+          "Vladimir Komarov",
+          "Alexei Leonov",
+          "Gherman Titov"
+        ],
+        "correctAnswer": 2,
+        "explanation": "İlk uzay yürüyüşü, 18 Mart 1965'te Sovyet kozmonot Alexei Leonov tarafından Voskhod 2 görevi sırasında gerçekleştirilmiştir."
+      },
+      {
+        "id": 9,
+        "text": "Edward White'ın uzay yürüyüşü, hangi uluslararası rekabetin bir parçasıydı?",
+        "options": [
+          "Nükleer Silahlanma Yarışı",
+          "Uzay Yarışı",
+          "Soğuk Savaş",
+          "Dünya Kupası"
+        ],
+        "correctAnswer": 1,
+        "explanation": "1950'li yılların sonlarından 1970'li yıllara kadar süren, ABD ve Sovyetler Birliği arasındaki teknolojik ve bilimsel üstünlük mücadelesi olan Uzay Yarışı'nın önemli bir aşamasıydı."
+      },
+      {
+        "id": 10,
+        "text": "White'ın uzay yürüyüşü hangi program kapsamında gerçekleşti?",
+        "options": [
+          "Mercury Programı",
+          "Apollo Programı",
+          "Gemini Programı",
+          "Skylab Programı"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Gemini Programı, tek kişilik Mercury uzay araçlarından Ay'a iniş için tasarlanan üç kişilik Apollo uzay araçlarına geçişte önemli bir köprü görevi görmüştür ve uzay yürüyüşü, kenetlenme gibi kritik yeteneklerin test edildiği programdır."
+      },
+      {
+        "id": 11,
+        "text": "White'ın uzay yürüyüşü sırasında karşılaştığı başlıca zorluklardan biri neydi?",
+        "options": [
+          "Oksijen tükenmesi",
+          "Uzay aracına geri dönememek",
+          "Uzay giysisinde arıza",
+          "İletişim kopukluğu"
+        ],
+        "correctAnswer": 1,
+        "explanation": "White'ın uzay aracına geri dönüşü sırasında kapak mekanizmasında bir sorun yaşanmış ve bu durum kısa süreli bir endişe kaynağı olmuştur."
+      },
+      {
+        "id": 12,
+        "text": "Edward White'ın uzay yürüyüşü, gelecekteki hangi uzay görevi için kritik öneme sahipti?",
+        "options": [
+          "Uluslararası Uzay İstasyonu (ISS) inşası",
+          "Mars'a insan gönderme",
+          "Ay'a iniş görevleri (Apollo)",
+          "Hubble Uzay Teleskobu'nun fırlatılması"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Uzay yürüyüşü becerileri, Apollo görevlerinde Ay modülünden iniş ve yüzeyde çalışma gibi faaliyetler için hayati öneme sahipti."
+      },
+      {
+        "id": 13,
+        "text": "Gemini 4 uzay aracı hangi roketle fırlatılmıştır?",
+        "options": [
+          "Saturn V",
+          "Atlas",
+          "Titan II",
+          "Falcon 9"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Gemini görevleri için Titan II GLV (Gemini Launch Vehicle) roketleri kullanılmıştır. Saturn V Apollo görevlerinde, Atlas Mercury görevlerinde kullanılmıştır."
+      },
+      {
+        "id": 14,
+        "text": "Edward White'ın uzay yürüyüşü sırasında giydiği giysi ne olarak adlandırılıyordu?",
+        "options": [
+          "EMISS (Environmental Mobility Integrated Space Suit)",
+          "G4C (Gemini 4 Crew) Uzay Giysisi",
+          "EMU (Extravehicular Mobility Unit)",
+          "A7L (Apollo 7 Lunar) Giysisi"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Edward White, Gemini görevleri için tasarlanmış olan G4C uzay giysisini giymiştir. EMU ve A7L daha sonraki görevlerde kullanılan giysilerdir."
+      },
+      {
+        "id": 15,
+        "text": "Edward White'ın uzay yürüyüşü, Amerika için neyi sembolize ediyordu?",
+        "options": [
+          "Uzayda barışçıl iş birliğini",
+          "Uzay Yarışı'nda rekabet gücünü ve ilerlemeyi",
+          "Bilimsel araştırmaların önceliğini",
+          "Uzay turizminin başlangıcını"
+        ],
+        "correctAnswer": 1,
+        "explanation": "White'ın uzay yürüyüşü, Sovyetler Birliği'nin ilk yürüyüşünün ardından gelerek Amerika'nın uzay keşiflerindeki teknolojik yeterliliğini ve rekabet gücünü dünyaya göstermiştir."
+      }
+    ]
   }
 ];
