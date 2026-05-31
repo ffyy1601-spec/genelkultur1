@@ -10256,5 +10256,211 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "White'ın uzay yürüyüşü, Sovyetler Birliği'nin ilk yürüyüşünün ardından gelerek Amerika'nın uzay keşiflerindeki teknolojik yeterliliğini ve rekabet gücünü dünyaya göstermiştir."
       }
     ]
+  },
+  {
+    "slug": "gokyuzunun-kralinin-vedasi-concordeun-son-ticari-seferi",
+    "dateId": "2026-05-31",
+    "title": "Concorde'un Son Uçuşu: Süpersonik Seyahatin Bir Devrin Kapanışı | GenelKultur",
+    "description": "31 Mayıs 2003'te Concorde'un New York'a yaptığı son ticari seferiyle bir süpersonik devir kapandı. Bu efsanevi uçağın mirasını, neden hizmetten çekildiğini ve havacılığa etkilerini keşfedin.",
+    "keywords": [
+      "Concorde",
+      "süpersonik uçak",
+      "son uçuş",
+      "31 Mayıs 2003",
+      "havacılık tarihi",
+      "jet çağı",
+      "Mach 2",
+      "British Airways",
+      "Air France",
+      "teknoloji tarihi",
+      "havacılık efsanesi",
+      "ses hızı"
+    ],
+    "heading": "Gökyüzünün Kralının Vedası: Concorde'un Son Ticari Seferi",
+    "intro": "1970'lerden 2000'lerin başına kadar gökyüzünün en hızlı ve en ikonik uçağı olan Concorde, 31 Mayıs 2003 tarihinde British Airways adına New York'a yaptığı son ticari seferle bir dönemi resmen kapattı. Ses hızının iki katı hızla Atlantik'i geçebilen bu mühendislik harikası, havacılık tarihinde eşi benzeri görülmemiş bir lüks ve hız sembolüydü. Ancak ne yazık ki, ticari ve operasyonel zorluklar, bu efsanevi kuşu gökyüzünden indirmeye mecbur bıraktı. Bu veda, sadece bir uçağın değil, aynı zamanda süpersonik ticari seyahat rüyasının da sonuydu.",
+    "article": "Concorde, 1960'larda İngiltere ve Fransa'nın ortak mühendislik vizyonuyla doğmuş, havacılık tarihinde bir devrim niteliğindeydi. 'Süpersonik Yolcu Uçağı' (Supersonic Transport - SST) projesinin en başarılı temsilcisi olan Concorde, Mach 2 (ses hızının iki katı) hıza ulaşarak Londra veya Paris'ten New York'a sadece yaklaşık 3.5 saatte uçabiliyordu. Bu, geleneksel yolcu uçaklarının iki katı hız demekti ve iş dünyasının liderleri, ünlüler ve varlıklı gezginler için zamanı inanılmaz derecede kısaltan lüks bir deneyim sunuyordu. 'Uçan Kuğu' lakabıyla anılan zarif tasarımı, delta kanatları ve eğilebilen burnu, onu gökyüzündeki diğer tüm uçaklardan ayırıyordu. Concorde ile seyahat etmek, sadece bir ulaşım şekli değil, aynı zamanda bir statü sembolü ve unutulmaz bir deneyimdi.\n\nAncak Concorde'un operasyonel ömrü boyunca karşılaştığı zorluklar, parlak imajının arkasında gölgeler yaratıyordu. Yüksek yakıt tüketimi, onu küresel petrol krizleri karşısında savunmasız bırakırken, karmaşık bakım gereksinimleri de işletme maliyetlerini astronomik seviyelere taşıyordu. Ayrıca, süpersonik hızda uçarken ortaya çıkan 'ses patlaması' (sonic boom) nedeniyle yerleşim yerleri üzerinden süpersonik uçuşlar yasaklanmış, bu da Concorde'un sadece okyanuslar üzerinde tam potansiyeline ulaşabilmesi anlamına geliyordu. 2000 yılında Paris'te meydana gelen ve 113 kişinin hayatını kaybettiği trajik kaza, uçağın itibarına ve yolcu güvenine olan inanca büyük bir darbe vurdu. Her ne kadar uçak detaylı bir modifikasyon ve güvenlik güncellemesinden geçse de, azalan yolcu talebi ve artan maliyetler, hem British Airways hem de Air France için Concorde'u sürdürülemez hale getirdi.\n\n31 Mayıs 2003 tarihinde British Airways'in bir Concorde uçağı, New York'tan Londra'ya gerçekleştirdiği ticari seferle son kez Atlantik'i süpersonik hızla aştı. Bu uçuş, BA'nın New York hattındaki son ticari seferiydi ve süpersonik yolcu taşımacılığının bir devrinin kapanışını sembolize ediyordu. Air France ise ticari seferlerini birkaç hafta önce, 27 Haziran 2003'te sonlandırmıştı. Her iki havayolu da daha sonra nostaljik ve müze uçuşları düzenleyerek bu efsanevi uçağa veda etti. Concorde'un pistlerden çekilmesi, bir mühendislik harikasının sonu olmasının yanı sıra, insanlığın sınırları zorlama arayışındaki cesur bir denemenin de acı sonuydu.\n\nBugün bile Concorde, havacılık tarihinde bir ikon olarak anılmaya devam ediyor. Onun mirası, yeni nesil süpersonik ve hipersonik seyahat projelerine ilham veriyor. Gelecekte bir gün, gökyüzünde tekrar ses hızını aşan yolcu uçakları görebiliriz, ancak Concorde'un zarafeti, hızı ve yarattığı kültürel etki, her zaman özel bir yere sahip olacak. O, bir zamanlar insanlığın gökyüzündeki en hızlı rüyasıydı ve bu rüya, tarihin sayfalarına altın harflerle yazıldı.",
+    "category": "bilim",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Concorde, hangi iki ülkenin ortak projesi olarak geliştirilmiştir?",
+        "options": [
+          "ABD ve Rusya",
+          "İngiltere ve Fransa",
+          "Almanya ve Japonya",
+          "İtalya ve İspanya"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Concorde, havacılık tarihinde önemli bir işbirliği örneği olarak İngiltere ve Fransa tarafından ortaklaşa geliştirilmiştir."
+      },
+      {
+        "id": 2,
+        "text": "Concorde'un ulaşabildiği maksimum hız yaklaşık olarak nedir?",
+        "options": [
+          "Mach 0.85",
+          "Mach 1.2",
+          "Mach 2",
+          "Mach 3.5"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Concorde, ses hızının iki katı olan Mach 2 hızına ulaşabilmekteydi, bu da onu dönemin en hızlı yolcu uçağı yapıyordu."
+      },
+      {
+        "id": 3,
+        "text": "31 Mayıs 2003 tarihinde Concorde ile hangi havayolu şirketi New York'a son ticari seferini yapmıştır?",
+        "options": [
+          "Air France",
+          "British Airways",
+          "Lufthansa",
+          "Pan Am"
+        ],
+        "correctAnswer": 1,
+        "explanation": "British Airways, 31 Mayıs 2003 tarihinde New York'a son ticari seferini gerçekleştirerek süpersonik yolcu taşımacılığı devrinin kapanışına öncülük etmiştir."
+      },
+      {
+        "id": 4,
+        "text": "Concorde'un en önemli özelliklerinden biri olan ve ses hızını aştığında ortaya çıkan fenomene ne ad verilir?",
+        "options": [
+          "Yerçekimi dalgası",
+          "Manyetik alan bozulması",
+          "Ses patlaması (Sonic Boom)",
+          "Atmosferik titreşim"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Concorde'un süpersonik hızda uçarken ortaya çıkardığı gürültülü şok dalgasına 'ses patlaması' veya 'sonic boom' denir."
+      },
+      {
+        "id": 5,
+        "text": "Concorde'un ticari uçuşlarının sonlandırılmasında etkili olan temel faktörler nelerdir?",
+        "options": [
+          "Yakıt tüketimi ve bakım maliyetleri",
+          "Yetersiz yolcu kapasitesi",
+          "Çok yavaş olması",
+          "Pilot yetersizliği"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Concorde'un yüksek yakıt tüketimi, astronomik bakım maliyetleri ve 2000 yılındaki kaza sonrası azalan yolcu talebi, hizmetten çekilmesinde etkili olmuştur."
+      },
+      {
+        "id": 6,
+        "text": "Concorde'un Atlantik'i geçiş süresi ortalama kaç saattir?",
+        "options": [
+          "Yaklaşık 7 saat",
+          "Yaklaşık 3.5 saat",
+          "Yaklaşık 10 saat",
+          "Yaklaşık 5 saat"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Concorde, ses hızının iki katı hızıyla Londra/Paris'ten New York'a yaklaşık 3.5 saat gibi rekor bir sürede ulaşabiliyordu."
+      },
+      {
+        "id": 7,
+        "text": "Concorde'un Paris'teki trajik kazası hangi yıl meydana gelmiştir?",
+        "options": [
+          "1995",
+          "2000",
+          "2003",
+          "1989"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Air France'a ait bir Concorde uçağı, 25 Temmuz 2000 tarihinde Paris Charles de Gaulle Havalimanı'ndan kalkarken kaza yapmıştır."
+      },
+      {
+        "id": 8,
+        "text": "Havacılık tarihinde 'Uçan Kuğu' lakabıyla anılan uçak hangisidir?",
+        "options": [
+          "Boeing 747",
+          "Airbus A380",
+          "Concorde",
+          "Lockheed SR-71 Blackbird"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Zarif ve aerodinamik tasarımı nedeniyle Concorde'a 'Uçan Kuğu' lakabı verilmiştir."
+      },
+      {
+        "id": 9,
+        "text": "Concorde'un ana ticari rotaları hangi şehirler arasındaydı?",
+        "options": [
+          "Moskova - Pekin",
+          "Tokyo - Seul",
+          "Londra/Paris - New York",
+          "Rio de Janeiro - Buenos Aires"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Concorde ağırlıklı olarak Londra ve Paris'ten New York'a yapılan transatlantik uçuşlarda kullanılmıştır."
+      },
+      {
+        "id": 10,
+        "text": "Ses patlaması (sonic boom) nedeniyle Concorde için hangi kısıtlama getirilmişti?",
+        "options": [
+          "Sadece gece uçuşu yapması",
+          "Sadece askeri amaçlı kullanılması",
+          "Yerleşim yerleri üzerinden süpersonik uçuş yasağı",
+          "Belli yüksekliklerin altında uçamaması"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Ses patlaması nedeniyle birçok ülke ve bölge, yerleşim yerleri üzerinden süpersonik uçuşları yasaklamış, bu da Concorde'un operasyonlarını kısıtlamıştır."
+      },
+      {
+        "id": 11,
+        "text": "Concorde'un tasarımındaki en belirgin görsel özelliklerinden biri nedir?",
+        "options": [
+          "Çift güverteli yapısı",
+          "Dört kanatlı tasarımı",
+          "Eğilebilen burun kısmı",
+          "Geniş kargo kapasitesi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Concorde'un iniş ve kalkış sırasında görüş açısını iyileştirmek için aşağıya doğru eğilebilen 'eğik burnu' (droop nose) benzersiz bir tasarımsal özelliğiydi."
+      },
+      {
+        "id": 12,
+        "text": "Concorde, hangi tür havacılık projesinin en başarılı temsilcisiydi?",
+        "options": [
+          "Düşük maliyetli havayolu",
+          "Kargo uçağı",
+          "Süpersonik Yolcu Uçağı (SST)",
+          "Helikopter"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Concorde, 'Süpersonik Yolcu Uçağı' (Supersonic Transport - SST) projelerinin en bilinen ve en başarılı örneğiydi."
+      },
+      {
+        "id": 13,
+        "text": "Concorde'un yolcu kapasitesi hakkında bilinenler nedir?",
+        "options": [
+          "Ortalama 500'den fazla yolcu",
+          "Sadece 20-30 yolcu",
+          "Yaklaşık 100 yolcu",
+          "1000'den fazla yolcu"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Concorde, hızlı ancak lüks seyahat sunduğu için yolcu kapasitesi geleneksel uçaklara göre daha azdı, genellikle 92 ila 128 yolcu taşıyabiliyordu, ortalama 100 civarındaydı."
+      },
+      {
+        "id": 14,
+        "text": "Concorde'un hizmetten çekilmesi, havacılıkta hangi devrin sona erdiğini göstermiştir?",
+        "options": [
+          "Pistonlu uçaklar devri",
+          "Kargo uçuşları devri",
+          "Ticari süpersonik seyahat devri",
+          "Tek motorlu uçaklar devri"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Concorde'un hizmetten çekilmesiyle birlikte, yaklaşık 27 yıl süren ticari süpersonik yolcu seyahati dönemi sona ermiştir."
+      },
+      {
+        "id": 15,
+        "text": "Concorde'un gelecekteki havacılık projeleri üzerindeki etkisi nedir?",
+        "options": [
+          "Hiçbir etkisi olmamıştır",
+          "Yüksek hızlı tren projelerine ilham vermiştir",
+          "Yeni nesil süpersonik ve hipersonik seyahat projelerine ilham vermiştir",
+          "Sadece askeri havacılık projelerini etkilemiştir"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Concorde'un başarısı ve zorlukları, günümüzde geliştirilen yeni nesil süpersonik ve hipersonik ticari uçuş projeleri için önemli bir referans ve ilham kaynağı olmaya devam etmektedir."
+      }
+    ]
   }
 ];
