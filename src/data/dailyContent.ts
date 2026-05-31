@@ -9023,5 +9023,212 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Her yıl Mayıs ayının son Pazar günü düzenlenen Indianapolis 500, \"Racing's Greatest Spectacle\" unvanını taşımaktadır."
       }
     ]
+  },
+  {
+    "slug": "denizlerin-en-buyuk-ruyasi-rms-titanicin-lanse-edilisi",
+    "dateId": "2026-05-31",
+    "title": "RMS Titanic'in Doğuşu: 31 Mayıs 1911'deki Lanse Edilişi | GenelKultur",
+    "description": "Dünyanın en ünlü gemisi RMS Titanic'in, 31 Mayıs 1911'de Belfast'ta suya indirilmesi ve o dönemin mühendislik harikası olarak nasıl heyecan yarattığına dair detaylı bilgiler.",
+    "keywords": [
+      "RMS Titanic",
+      "Titanic",
+      "Titanic fırlatılış tarihi",
+      "Titanic'in doğuşu",
+      "31 Mayıs 1911",
+      "Harland and Wolff",
+      "Olimpik Sınıf",
+      "lüks gemi",
+      "White Star Line",
+      "gemi inşaatı",
+      "20. yüzyıl mühendisliği",
+      "batmaz gemi",
+      "Belfast tersanesi"
+    ],
+    "heading": "Denizlerin En Büyük Rüyası: RMS Titanic'in Lanse Edilişi",
+    "intro": "Bir gemi düşünün ki, daha suya değdiği an efsanelerle anılmaya başlasın. 31 Mayıs 1911'de, Kuzey İrlanda'nın Belfast kentindeki Harland and Wolff Tersanesi'nde gerçekleşen bir olay, tüm dünyanın nefesini kesti. White Star Line şirketinin gururu, dönemin en büyük ve en lüks yolcu gemisi RMS Titanic, görkemli bir törenle denize indirildi. Bu olay, sadece bir geminin fırlatılmasından çok daha fazlasıydı; insanlığın mühendislik ve lüks anlayışındaki zirvenin bir göstergesiydi ve daha sonra yaşanacak büyük bir trajedinin ilk adımıydı.",
+    "article": "31 Mayıs 1911 tarihi, denizcilik ve mühendislik tarihinde dönüm noktalarından biri olarak kayıtlara geçti. Kuzey İrlanda'nın Belfast şehrindeki Harland and Wolff Tersanesi'nde, White Star Line şirketinin \"Olimpik Sınıf\" gemilerinden ikincisi olan RMS Titanic, görkemli bir törenle suya indirildi. Bu gemi, o güne dek inşa edilmiş en büyük ve en lüks yolcu gemisiydi. 'Batmaz' olarak anılan bu devasa yüzen saray, insanlığın denizlere hükmetme arzusunun ve teknolojik ilerlemesinin bir simgesiydi. Fırlatma törenine binlerce kişi katıldı; mühendisler, işçiler, şirket yetkilileri ve meraklı kalabalıklar, bu devasa yapının denize kavuşmasına tanıklık etmek için bir araya gelmişti.\n\nTitanic'in inşası, dört yıl süren ve binlerce kişinin emeğini gerektiren muazzam bir projeydi. Gemi, 269 metre uzunluğunda ve 28 metre genişliğindeydi, yüksekliği ise su hattından güverteye kadar yaklaşık 53 metreydi. Üç dev pervanesi, 29 kazan dairesi ve 46.328 brüt ton ağırlığıyla, o dönemin en ileri mühendislik ve gemi inşa tekniklerini barındırıyordu. Geminin iç mekanları ise eşi benzeri görülmemiş bir lüksle döşenmişti; birinci sınıf yolcular için yüzme havuzu, spor salonu, Türk hamamları, okuma ve yazma odaları, dört farklı restoran ve özel tasarlanmış suitler bulunuyordu. Bu detaylar, Titanic'i sadece bir ulaşım aracı olmaktan çıkarıp, yüzen bir kasabaya dönüştürüyordu.\n\nLanse ediliş süreci başlı başına bir mühendislik harikasıydı. Geminin omurgasından itibaren dik bir açıyla inşa edilmesi, suya indirilirken herhangi bir yan yatmaya engel olmak için özel raylar ve yağlama sistemleri kullanılması gerekiyordu. 22 ton donyağı, balina yağı ve sabun karışımı raylara sürülerek geminin pürüzsüzce kayması sağlandı. Saatler süren hazırlıkların ardından, öğle saatlerinde, devasa gövde yavaşça kaymaya başladı ve 62 saniye içinde Lagan Nehri'nin sularına bıraktı. Bu an, dönemin gazetelerinde büyük manşetlerle yer buldu ve tüm dünyada insanlığın teknolojiye olan inancını pekiştirdi. Ancak kimse, bu muhteşem geminin ilk seferinde tarihin en büyük deniz felaketlerinden birine sahne olacağını tahmin edemezdi.",
+    "category": "tarih",
+    "questions": [
+      {
+        "id": 1,
+        "text": "RMS Titanic ne zaman suya indirildi (lanse edildi)?",
+        "options": [
+          "10 Nisan 1912",
+          "14 Nisan 1912",
+          "31 Mayıs 1911",
+          "1 Eylül 1909"
+        ],
+        "correctAnswer": 2,
+        "explanation": "RMS Titanic'in inşası tamamlandıktan sonra suya indirildiği tarih 31 Mayıs 1911'dir. Diğer tarihler geminin ilk seferi veya batışıyla ilişkilidir."
+      },
+      {
+        "id": 2,
+        "text": "Titanic'in inşa edildiği tersane hangi şehirde bulunuyordu?",
+        "options": [
+          "Southampton",
+          "Liverpool",
+          "Belfast",
+          "New York"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Titanic, Kuzey İrlanda'nın Belfast şehrindeki Harland and Wolff Tersanesi'nde inşa edilmiştir."
+      },
+      {
+        "id": 3,
+        "text": "Titanic hangi nakliye şirketine aitti?",
+        "options": [
+          "Cunard Line",
+          "P&O",
+          "White Star Line",
+          "Hamburg America Line"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Titanic, White Star Line şirketinin \"Olimpik Sınıf\" gemilerinden biriydi."
+      },
+      {
+        "id": 4,
+        "text": "Titanic, hangi gemi sınıfına aitti?",
+        "options": [
+          "Lusitania Sınıfı",
+          "Mauretania Sınıfı",
+          "Olimpik Sınıf",
+          "Queen Elizabeth Sınıfı"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Titanic, White Star Line'ın Olimpik Sınıfının ikinci gemisiydi, bu sınıfta ayrıca RMS Olympic ve HMHS Britannic de bulunuyordu."
+      },
+      {
+        "id": 5,
+        "text": "Titanic'in en ünlü lakabı neydi?",
+        "options": [
+          "Yüzen Kale",
+          "Denizlerin İncisi",
+          "Batmaz Gemi",
+          "Atlantik Kraliçesi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Döneminde \"batmaz\" olduğu iddia edilen Titanic, bu lakapla anılıyordu, ancak trajik bir şekilde bu iddianın yanlış olduğu ortaya çıktı."
+      },
+      {
+        "id": 6,
+        "text": "Titanic'in uzunluğu yaklaşık olarak kaç metreydi?",
+        "options": [
+          "150 metre",
+          "269 metre",
+          "350 metre",
+          "400 metre"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Makalede belirtildiği gibi, Titanic 269 metre uzunluğundaydı ve dönemin en büyük gemisiydi."
+      },
+      {
+        "id": 7,
+        "text": "Titanic'in inşası ne kadar sürmüştür?",
+        "options": [
+          "1 yıl",
+          "2 yıl",
+          "3 yıl",
+          "4 yıl"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Makalede \"dört yıl süren ve binlerce kişinin emeğini gerektiren muazzam bir projeydi\" şeklinde belirtilmiştir."
+      },
+      {
+        "id": 8,
+        "text": "Titanic'in lüks özelliklerinden biri olarak makalede hangi tesisler belirtilmiştir?",
+        "options": [
+          "Tenis kortu ve golf sahası",
+          "Yüzme havuzu ve Türk hamamları",
+          "Kütüphane ve konser salonu",
+          "Sinema ve bowling salonu"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Makalede birinci sınıf yolcular için yüzme havuzu, spor salonu ve Türk hamamları gibi lüks olanaklar sıralanmıştır."
+      },
+      {
+        "id": 9,
+        "text": "Titanic'in fırlatılma töreninde raylara kaç ton kayganlaştırıcı (donyağı, balina yağı, sabun karışımı) sürülmüştür?",
+        "options": [
+          "10 ton",
+          "15 ton",
+          "22 ton",
+          "30 ton"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Makalede belirtildiği üzere, geminin pürüzsüzce kayması için raylara 22 tonluk özel bir karışım sürülmüştü."
+      },
+      {
+        "id": 10,
+        "text": "Titanic'in fırlatma sırasında suya inmesi yaklaşık kaç saniye sürmüştür?",
+        "options": [
+          "30 saniye",
+          "45 saniye",
+          "62 saniye",
+          "90 saniye"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Devasa geminin gövdesi, saatler süren hazırlıkların ardından yavaşça kaymaya başlamış ve 62 saniye içinde Lagan Nehri'ne inmiştir."
+      },
+      {
+        "id": 11,
+        "text": "Titanic'in inşasında hangi nehir kenarındaki tersane kullanılmıştır?",
+        "options": [
+          "Thames Nehri",
+          "Mersey Nehri",
+          "Lagan Nehri",
+          "Clyde Nehri"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Titanic, Belfast'taki Harland and Wolff Tersanesi'nde inşa edilmiş ve fırlatıldığında Lagan Nehri'nin sularına inmiştir."
+      },
+      {
+        "id": 12,
+        "text": "Titanic'in güverteden su hattına kadar olan yüksekliği yaklaşık kaç metreydi?",
+        "options": [
+          "30 metre",
+          "42 metre",
+          "53 metre",
+          "65 metre"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Makalede geminin yüksekliğinin su hattından güverteye kadar yaklaşık 53 metre olduğu belirtilmektedir."
+      },
+      {
+        "id": 13,
+        "text": "Olimpik Sınıf gemilerinden ilki hangisiydi?",
+        "options": [
+          "RMS Britannic",
+          "RMS Mauretania",
+          "RMS Olympic",
+          "RMS Lusitania"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Titanic, Olimpik Sınıfının ikinci gemisiydi. Bu sınıfın ilk gemisi RMS Olympic idi."
+      },
+      {
+        "id": 14,
+        "text": "Titanic'in kaç adet pervanesi vardı?",
+        "options": [
+          "Bir",
+          "İki",
+          "Üç",
+          "Dört"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Makalede geminin \"Üç dev pervanesi\" olduğundan bahsedilmektedir."
+      },
+      {
+        "id": 15,
+        "text": "Makalede Titanic'in kaç brüt ton ağırlığında olduğu belirtilmiştir?",
+        "options": [
+          "25.000",
+          "38.500",
+          "46.328",
+          "55.000"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Makalede \"46.328 brüt ton ağırlığıyla\" o dönemin en ileri mühendislik tekniklerini barındırdığı belirtilmiştir."
+      }
+    ]
   }
 ];
