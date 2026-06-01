@@ -660,4 +660,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/tiananmen-meydani-cinde-demokrasi-talepleri-ve-trajik-sonuclari</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/tiananmen-meydani-cinde-demokrasi-talepleri-ve-trajik-sonuclari/oyna</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>

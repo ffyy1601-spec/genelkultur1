@@ -11282,5 +11282,208 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Makalenin ilk paragrafında 'manyetik kutuplar... pusulaların yön belirlemesinde kritik rol oynar' ifadesiyle bu işlev vurgulanmıştır. Pusula iğneleri, Dünya'nın manyetik alan çizgileriyle hizalanarak yönü gösterir."
       }
     ]
+  },
+  {
+    "slug": "tiananmen-meydani-cinde-demokrasi-talepleri-ve-trajik-sonuclari",
+    "dateId": "2026-06-01",
+    "title": "Tiananmen Meydanı Olayları: Çin'de Demokrasi Talepleri ve Trajik Sonuçları | GenelKultur",
+    "description": "Haziran 1989'da Çin'in başkenti Pekin'de gerçekleşen Tiananmen Meydanı olayları, demokrasi talepleri ve devletin tepkisiyle dünya tarihine damga vuran önemli bir dönüm noktasıdır. Bu makale, olayların nedenlerini, gelişimini ve küresel etkilerini detaylıca inceler.",
+    "keywords": [
+      "Tiananmen Meydanı",
+      "1989 Tiananmen",
+      "Çin protestoları",
+      "demokrasi hareketleri",
+      "Pekin",
+      "Çin tarihi",
+      "öğrenci hareketleri",
+      "Haziran 4 olayı",
+      "modern Çin tarihi"
+    ],
+    "heading": "Tiananmen Meydanı: Çin'de Demokrasi Talepleri ve Trajik Sonuçları",
+    "intro": "1989 baharı, Çin'in başkenti Pekin'de genç öğrencilerin ve vatandaşların daha fazla özgürlük ve demokrasi talepleriyle çalkalandığı bir döneme sahne oldu. Şehrin kalbindeki Tiananmen Meydanı, bu umutların ve hayallerin merkezi haline geldi. On binlerce gösterici, reform çağrılarında bulunmak üzere burada toplandı, uluslararası medyanın da dikkatini çekerek tüm dünyanın gözünü Çin'e çevirdi. Ancak 4 Haziran 1989'a gelindiğinde, bu barışçıl gösteriler trajik bir şekilde son bulacak, hem Çin'in hem de dünyanın hafızasına kazınacak derin izler bırakacaktı.",
+    "article": "1980'lerin sonlarında Çin'de yaşanan ekonomik reformlar, halkın yaşam standartlarını iyileştirmiş olsa da, siyasi reformların yetersiz kalması ve artan yolsuzluk iddiaları, özellikle aydınlar ve öğrenciler arasında büyük bir memnuniyetsizliğe yol açtı. Çin Komünist Partisi Genel Sekreteri Hu Yaobang'ın 15 Nisan 1989'daki ölümü, bu memnuniyetsizliğin bir kıvılcımı oldu. Reform yanlısı bir lider olarak bilinen Hu'nun anısını onurlandırmak ve daha fazla siyasi özgürlük talep etmek amacıyla öğrenciler, Pekin'deki Tiananmen Meydanı'nda toplanmaya başladı. Protestolar kısa sürede büyüdü ve ülke genelindeki diğer şehirlere yayıldı, Çin hükümeti üzerinde büyük bir baskı oluşturdu.\n\nProtestoların zirveye ulaştığı dönemde, meydanda yüz binlerce kişi bir araya gelmişti. Öğrenciler, açlık grevleri yaparak taleplerinin ciddiyetini vurguladılar ve özgür basın, yolsuzluğun sona erdirilmesi ve daha demokratik bir yönetişim gibi konuları gündeme getirdiler. Uluslararası medya, bu olayları yakından takip ediyor, dünyanın dört bir yanındaki insanlar Çin'deki bu olağanüstü demokrasi hareketine tanıklık ediyordu. Özellikle Sovyetler Birliği lideri Mihail Gorbaçov'un Çin ziyareti sırasında yaşananlar, protestoların uluslararası alandaki görünürlüğünü daha da artırdı ve Çin hükümetini zor durumda bıraktı.\n\nAncak Çin Komünist Partisi liderliği içinde yaşanan tartışmalar ve göstericilere yönelik sert bir müdahale kararı, olayların seyrini değiştirdi. Hükümet, protestoları 'karşı-devrimci bir isyan' olarak nitelendirdi ve 20 Mayıs'ta sıkıyönetim ilan etti. Ordu birlikleri, 3 Haziran gecesi ve 4 Haziran sabahı Tiananmen Meydanı'na ilerleyerek göstericileri dağıttı. Bu müdahale sırasında yüzlerce, hatta bazı kaynaklara göre binlerce sivil hayatını kaybetti. Olaylar, uluslararası alanda geniş çaplı kınamalara yol açtı ve Çin'in Batı ülkeleriyle ilişkilerinde uzun süreli bir gerilime neden oldu. Tiananmen Meydanı olayları, Çin'in siyasi gelişiminde bir dönüm noktası oldu ve hükümetin muhalefeti bastırma konusundaki kararlılığını gösterdi.",
+    "category": "tarih",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Tiananmen Meydanı olayları hangi yılda gerçekleşmiştir?",
+        "options": [
+          "1979",
+          "1989",
+          "1999",
+          "2009"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Tiananmen Meydanı olayları, Çin'in başkenti Pekin'de 1989 yılında, özellikle 4 Haziran'da gerçekleşen trajik olaylarla tarihe geçmiştir."
+      },
+      {
+        "id": 2,
+        "text": "Protestoların ana merkezi neresiydi?",
+        "options": [
+          "Şangay Finans Merkezi",
+          "Yasuo Tapınağı",
+          "Tiananmen Meydanı",
+          "Çin Seddi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Protestoların ana merkezi, adını da veren Pekin'deki Tiananmen Meydanı olmuştur."
+      },
+      {
+        "id": 3,
+        "text": "Protestolara katılan başlıca gruplar kimlerdi?",
+        "options": [
+          "Çiftçiler ve işçiler",
+          "Devlet memurları ve esnaflar",
+          "Öğrenciler ve aydınlar",
+          "Askerler ve polisler"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Tiananmen Meydanı protestolarına öncülük eden ve katılan başlıca gruplar öğrenciler ve aydınlardı."
+      },
+      {
+        "id": 4,
+        "text": "Protestoların fitilini ateşleyen olaylardan biri aşağıdakilerden hangisidir?",
+        "options": [
+          "Ekonomik durgunluk",
+          "Doğal afet",
+          "Hu Yaobang'ın ölümü",
+          "Olimpiyat Oyunları"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Reform yanlısı Çin Komünist Partisi Genel Sekreteri Hu Yaobang'ın 15 Nisan 1989'daki ölümü, protestoların başlamasında önemli bir kıvılcım olmuştur."
+      },
+      {
+        "id": 5,
+        "text": "Göstericilerin temel talepleri arasında aşağıdakilerden hangisi yer almamıştır?",
+        "options": [
+          "Daha fazla siyasi özgürlük",
+          "Yolsuzluğun sona erdirilmesi",
+          "Ekonomik reformların durdurulması",
+          "Özgür basın"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Göstericiler ekonomik reformların durdurulmasını değil, siyasi reformların hızlandırılmasını ve yolsuzluğun sona erdirilmesini talep ediyorlardı."
+      },
+      {
+        "id": 6,
+        "text": "Protestolar sırasında öğrencilerin başvurduğu dikkat çekici eylemlerden biri nedir?",
+        "options": [
+          "Genel grev",
+          "Silahlı çatışma",
+          "Açlık grevi",
+          "Parlamento işgali"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Öğrenciler, taleplerinin ciddiyetini vurgulamak ve uluslararası dikkat çekmek için açlık grevleri düzenlemişlerdir."
+      },
+      {
+        "id": 7,
+        "text": "Tiananmen Meydanı olayları sırasında hangi uluslararası lider Çin'i ziyaret ediyordu?",
+        "options": [
+          "Ronald Reagan",
+          "Mihail Gorbaçov",
+          "Margaret Thatcher",
+          "François Mitterrand"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Sovyetler Birliği lideri Mihail Gorbaçov'un Çin ziyareti, protestoların uluslararası alandaki görünürlüğünü artırmıştır."
+      },
+      {
+        "id": 8,
+        "text": "Çin hükümeti protestoları nasıl nitelendirdi?",
+        "options": [
+          "Ulusal bayram",
+          "Barışçıl gösteri",
+          "Karşı-devrimci bir isyan",
+          "Sendikal faaliyet"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Çin hükümeti, protestoları 'karşı-devrimci bir isyan' olarak nitelendirerek müdahalesine gerekçe göstermiştir."
+      },
+      {
+        "id": 9,
+        "text": "Hükümet, protestoları bastırmak için ne zaman sıkıyönetim ilan etti?",
+        "options": [
+          "15 Nisan",
+          "4 Haziran",
+          "20 Mayıs",
+          "1 Mayıs"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Çin hükümeti, gösterilere müdahale etmeden önce 20 Mayıs'ta sıkıyönetim ilan etmiştir."
+      },
+      {
+        "id": 10,
+        "text": "Olayların trajik sonu hangi tarihte gerçekleşmiştir?",
+        "options": [
+          "1 Nisan 1989",
+          "15 Mayıs 1989",
+          "4 Haziran 1989",
+          "10 Temmuz 1989"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Ordu birliklerinin Tiananmen Meydanı'na ilerlemesi ve göstericileri dağıtması, 3 Haziran gecesi ve 4 Haziran sabahı 1989'da gerçekleşmiştir."
+      },
+      {
+        "id": 11,
+        "text": "Askeri müdahale sonucunda neler yaşanmıştır?",
+        "options": [
+          "Hükümetin istifası",
+          "Demokratik reformların kabulü",
+          "Çok sayıda sivil kaybı",
+          "Uluslararası anlaşmaların imzalanması"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Askeri müdahale sırasında yüzlerce, bazı kaynaklara göre binlerce sivilin hayatını kaybettiği trajik olaylar yaşanmıştır."
+      },
+      {
+        "id": 12,
+        "text": "Tiananmen olayları sonrasında Çin'in uluslararası ilişkilerinde ne gibi bir etki olmuştur?",
+        "options": [
+          "Batı ülkeleriyle ilişkilerde iyileşme",
+          "Uluslararası yaptırımlar ve kınamalar",
+          "Ekonomik büyümede ivme",
+          "Askeri ittifakların güçlenmesi"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Olaylar, uluslararası alanda geniş çaplı kınamalara yol açmış ve Çin'in Batı ülkeleriyle ilişkilerinde uzun süreli bir gerilime neden olmuştur."
+      },
+      {
+        "id": 13,
+        "text": "Protestolar sırasında öğrenci liderleri hangi sembolü kullanmıştır?",
+        "options": [
+          "Kızıl bayrak",
+          "Özgürlük Heykeli replikası",
+          "Mao'nun portresi",
+          "Ejderha sembolü"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Öğrenciler, Pekin'deki Tiananmen Meydanı'nda 'Demokrasi Tanrıçası' adını verdikleri bir Özgürlük Heykeli replikasını dikerek taleplerini sembolize etmişlerdir."
+      },
+      {
+        "id": 14,
+        "text": "Tiananmen olayları, Çin Komünist Partisi'nin hangi konudaki kararlılığını göstermiştir?",
+        "options": [
+          "Ekonomik liberalleşme",
+          "Uluslararası iş birliği",
+          "Muhalefeti bastırma",
+          "Çevre koruma"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bu olaylar, Çin Komünist Partisi'nin siyasi muhalefeti bastırma konusundaki kararlılığını açıkça ortaya koymuştur."
+      },
+      {
+        "id": 15,
+        "text": "Tiananmen Meydanı olayları günümüzde Çin'de nasıl anılmaktadır?",
+        "options": [
+          "Ulusal kahramanlık günü olarak",
+          "Resmi törenlerle anılmaktadır",
+          "Hükümet tarafından nadiren bahsedilen hassas bir konu olarak",
+          "Çin'in demokrasiye geçişinin başlangıcı olarak"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Tiananmen Meydanı olayları, Çin'de hükümet tarafından hala hassas bir konu olarak görülmekte ve genellikle kamuoyunda çok az veya hiç bahsedilmemektedir."
+      }
+    ]
   }
 ];
