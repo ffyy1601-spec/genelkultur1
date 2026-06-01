@@ -11485,5 +11485,211 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Tiananmen Meydanı olayları, Çin'de hükümet tarafından hala hassas bir konu olarak görülmekte ve genellikle kamuoyunda çok az veya hiç bahsedilmemektedir."
       }
     ]
+  },
+  {
+    "slug": "savasin-feryadi-tuvalde-pablo-picassonun-guernicasi",
+    "dateId": "2026-06-01",
+    "title": "Guernica: Savaşın Çığlığı, Sanatın İkonu | Picasso ve Başyapıtı",
+    "description": "Pablo Picasso'nun İspanya İç Savaşı'nın dehşetini ölümsüzleştiren ikonik eseri Guernica'nın tamamlanışının tarihi, anlamı ve dünya sanatına etkisi.",
+    "keywords": [
+      "Guernica",
+      "Picasso",
+      "Pablo Picasso",
+      "İspanya İç Savaşı",
+      "Kübizm",
+      "savaş karşıtı sanat",
+      "sanat tarihi",
+      "modern sanat",
+      "Reina Sofia Müzesi",
+      "bombardıman",
+      "1937",
+      "başyapıt"
+    ],
+    "heading": "Savaşın Feryadı Tuvalde: Pablo Picasso'nun Guernica'sı",
+    "intro": "Sanat tarihi, insanlığın acılarını ve umutlarını yansıtan sayısız eserle doludur. Ancak bazıları, kendi dönemlerinin ötesine geçerek evrensel bir çığlık haline gelir. Pablo Picasso'nun 1 Haziran 1937'de tamamladığı \"Guernica\", işte tam da böyle bir başyapıttır. İspanya İç Savaşı'nın kanlı yüzünü, özellikle de Bask kasabası Guernica'ya yapılan acımasız hava saldırısını anlatan bu devasa tablo, savaşın yıkımına karşı yükselen bir anıt, bir protesto ve insanlık dramının sarsıcı bir belgesidir.",
+    "article": "Guernica\"nın ortaya çıkışı, Picasso'nun yaşadığı dönemin politik çalkantılarıyla doğrudan ilişkilidir. İspanya İç Savaşı (1936-1939) tüm şiddetiyle devam ederken, 26 Nisan 1937'de Nazi Almanyası ve Faşist İtalya hava kuvvetleri, General Franco'nun emriyle Guernica kasabasına korkunç bir bombardıman düzenledi. Bu saldırı, sivil halka yönelik tarihin ilk büyük ölçekli hava saldırılarından biriydi ve binlerce masum insanın ölümüne yol açtı. Picasso, o dönemde Paris'te yaşarken bu haberi derin bir üzüntüyle karşıladı ve İspanyol Cumhuriyetçi Hükümeti'nin Paris Dünya Fuarı'ndaki İspanyol Pavyonu için sipariş ettiği tabloya Guernica'daki dehşeti aktarmaya karar verdi.\n\nTablo, yaklaşık 3,5 metre yüksekliğinde ve 7,8 metre genişliğinde, devasa boyutlarıyla izleyiciyi kuşatan monokrom (siyah, beyaz ve gri tonları) bir eserdir. Picasso, renk kullanmayarak bir gazete haberi estetiği yaratmış, olayın gerçekliğini ve trajedisini vurgulamıştır. Kübist ve sürrealist elementlerin harmanlandığı kompozisyonda, acı çeken insanlar, hayvanlar ve parçalanmış figürler bir kaos içinde tasvir edilir. Ağzını açmış acı içinde haykıran at, yerde yatan savaşçı, elinde lamba tutan kadın ve kucağında ölü çocuğuyla ağlayan anne figürleri, savaşın masumiyet üzerindeki yıkıcı etkisini çarpıcı bir şekilde gözler önüne serer. Her figür, savaşın bir başka dehşetini sembolize ederken, ışık kaynağı olarak kullanılan ampul ve eldeki lamba, karanlığı aydınlatma ve gerçeği ortaya çıkarma arzusunu yansıtır.\n\nGuernica, tamamlandığı andan itibaren sadece bir sanat eseri olmaktan öteye geçerek, savaş karşıtı hareketlerin, barışın ve insan haklarının küresel bir sembolü haline geldi. Eser, yıllarca dünya turnesine çıktı ve savaşın insanlık dışı yüzünü milyonlara gösterdi. Picasso, Franco rejimi devam ettiği sürece tablonun İspanya'ya dönmesini reddetti. Ancak 1981 yılında, İspanya'da demokrasi yeniden tesis edildiğinde, Guernica nihayet vatanına döndü ve günümüzde Madrid'deki Reina Sofía Ulusal Sanat Merkezi Müzesi'nde sergilenmektedir. \"Guernica\", modern sanatın en güçlü politik ifadelerinden biri olmaya ve gelecek nesillere savaşın korkunç mirasını hatırlatmaya devam etmektedir.",
+    "category": "sanat",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Pablo Picasso'nun \"Guernica\" tablosu hangi savaşın dehşetini yansıtır?",
+        "options": [
+          "I. Dünya Savaşı",
+          "II. Dünya Savaşı",
+          "İspanya İç Savaşı",
+          "Vietnam Savaşı"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Guernica, İspanya İç Savaşı sırasında Nazi ve Faşist kuvvetlerinin Guernica kasabasına düzenlediği bombardımanı konu alır."
+      },
+      {
+        "id": 2,
+        "text": "\"Guernica\" tablosu ne zaman tamamlanmıştır?",
+        "options": [
+          "1 Haziran 1945",
+          "26 Nisan 1937",
+          "1 Haziran 1937",
+          "26 Nisan 1945"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Tablo, Guernica bombardımanından kısa bir süre sonra, 1 Haziran 1937'de tamamlanmıştır. 26 Nisan 1937, bombardımanın gerçekleştiği tarihtir."
+      },
+      {
+        "id": 3,
+        "text": "Tabloda kullanılan renkler hakkında aşağıdakilerden hangisi doğrudur?",
+        "options": [
+          "Canlı ve parlak renkler hakimdir.",
+          "Sadece kırmızı ve siyah kullanılmıştır.",
+          "Siyah, beyaz ve gri tonları kullanılmıştır.",
+          "Mavi ve yeşil tonları ağırlıktadır."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Picasso, savaşın trajedisini ve bir gazete haberinin estetiğini yansıtmak amacıyla siyah, beyaz ve gri tonlarını tercih etmiştir."
+      },
+      {
+        "id": 4,
+        "text": "\"Guernica\" tablosu ilk olarak hangi etkinlik için sipariş edilmiştir?",
+        "options": [
+          "Madrid Sanat Bienali",
+          "New York Modern Sanat Sergisi",
+          "Paris Dünya Fuarı İspanyol Pavyonu",
+          "Londra Uluslararası Sanat Festivali"
+        ],
+        "correctAnswer": 2,
+        "explanation": "İspanyol Cumhuriyetçi Hükümeti, tablonun 1937 Paris Dünya Fuarı'ndaki İspanyol Pavyonu için hazırlanmasını istemiştir."
+      },
+      {
+        "id": 5,
+        "text": "Tablonun ana temasını oluşturan bombardıman olayı hangi kasabada gerçekleşmiştir?",
+        "options": [
+          "Madrid",
+          "Barcelona",
+          "Sevilla",
+          "Guernica"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Bombardıman, İspanya'nın Bask bölgesindeki Guernica kasabasında gerçekleşmiş ve binlerce sivilin ölümüne neden olmuştur."
+      },
+      {
+        "id": 6,
+        "text": "\"Guernica\" tablosunda hangi sanat akımlarının etkileri görülür?",
+        "options": [
+          "İzlenimcilik ve Romantizm",
+          "Klasisizm ve Barok",
+          "Kübizm ve Sürrealizm",
+          "Fütürizm ve Art Deco"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Picasso, Kübist parçalanmış figürleri ve Sürrealist düşsel imgeleri bir araya getirerek savaşın kaosunu ve dehşetini ifade etmiştir."
+      },
+      {
+        "id": 7,
+        "text": "Tablodaki en dikkat çekici figürlerden biri olan, ağzı açık, acı içinde haykıran hayvan hangisidir?",
+        "options": [
+          "Boğa",
+          "Aslan",
+          "At",
+          "Kurt"
+        ],
+        "correctAnswer": 2,
+        "explanation": "At figürü, savaşın masumiyet üzerindeki yıkıcı etkisinin en çarpıcı sembollerinden biridir ve acı içinde haykırır."
+      },
+      {
+        "id": 8,
+        "text": "Picasso, tablonun İspanya'ya dönüşü için hangi şartı koymuştur?",
+        "options": [
+          "Tablonun restore edilmesi",
+          "Büyük bir müzede sergilenmesi",
+          "Franco rejiminin sona ermesi",
+          "Uluslararası bir anlaşma imzalanması"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Picasso, İspanya'da Franco rejimi devam ettiği sürece tablonun ülkeye dönmesini reddetmiştir. Demokrasiye geçiş sonrası İspanya'ya iade edilmiştir."
+      },
+      {
+        "id": 9,
+        "text": "\"Guernica\" tablosu günümüzde hangi müzede sergilenmektedir?",
+        "options": [
+          "Louvre Müzesi, Paris",
+          "Prado Müzesi, Madrid",
+          "Reina Sofía Müzesi, Madrid",
+          "MoMA, New York"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Tablo, İspanya'ya döndükten sonra Madrid'deki Reina Sofía Ulusal Sanat Merkezi Müzesi'nde sergilenmeye başlanmıştır."
+      },
+      {
+        "id": 10,
+        "text": "\"Guernica\" tablosundaki 'ampul' figürü genellikle neyi sembolize eder?",
+        "options": [
+          "Umut ve yeniden doğuşu",
+          "Teknolojinin gücünü",
+          "İnsanlığın aydınlanmasını veya patlamayı",
+          "Elektriğin yaygınlaşmasını"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Tabloda tavandan sarkan ampul, hem bir patlamanın ışığını hem de gerçeğin acımasızca aydınlanmasını sembolize edebilir."
+      },
+      {
+        "id": 11,
+        "text": "\"Guernica\"nın boyutları yaklaşık olarak nasıldır?",
+        "options": [
+          "1 metreye 2 metre",
+          "2 metreye 4 metre",
+          "3.5 metreye 7.8 metre",
+          "5 metreye 10 metre"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Tablo, yaklaşık 3,5 metre yüksekliğinde ve 7,8 metre genişliğinde devasa bir eserdir."
+      },
+      {
+        "id": 12,
+        "text": "\"Guernica\" tablosuyla ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+        "options": [
+          "Savaş karşıtı bir mesaj taşır.",
+          "Picasso'nun en ünlü eserlerinden biridir.",
+          "Duygusal bir dinginlik ve huzur yansıtır.",
+          "Kübist ve sürrealist öğeler içerir."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Guernica, savaşın dehşetini ve acısını yansıttığı için dinginlik ve huzurdan ziyade kaos ve ıstırap doludur."
+      },
+      {
+        "id": 13,
+        "text": "\"Guernica\"da kucağında ölü çocuğuyla ağlayan anne figürü neyi temsil eder?",
+        "options": [
+          "Direnişi ve zaferi",
+          "Savaşın getirdiği kayıp ve acıyı",
+          "Kadınların gücünü",
+          "Yeniden doğuşu"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Bu figür, savaşın masum siviller üzerindeki yıkıcı etkisini, özellikle de çocuk kayıplarını ve annelerin yaşadığı derin acıyı sembolize eder."
+      },
+      {
+        "id": 14,
+        "text": "\"Guernica\" tablosu, tamamlandıktan sonra ne kadar süre dünya turnesinde kalmıştır?",
+        "options": [
+          "Birkaç ay",
+          "Bir yıl",
+          "Birkaç yıl",
+          "Onlarca yıl"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Tablo, Franco rejiminin bitişine kadar, yani yaklaşık 40 yıl boyunca İspanya dışında dünya turnesine çıkarak savaş karşıtı bir mesaj yaymıştır."
+      },
+      {
+        "id": 15,
+        "text": "\"Guernica\"nın etkilediği sanatçılar ve hareketler arasında aşağıdakilerden hangisi sayılamaz?",
+        "options": [
+          "Politik sanatçılar",
+          "Sürrealist hareket",
+          "Savaş karşıtı aktivistler",
+          "Minimalist sanat akımı"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Guernica, politik sanata, sürrealist harekete (kısmen kendi içinde barındırdığı için) ve savaş karşıtı aktivistlere ilham vermiştir. Minimalist sanat akımıyla doğrudan bir ilişkisi yoktur, çünkü minimalist sanat sadeliği ve nesnelliği vurgularken Guernica karmaşık ve duygusal bir ifadedir."
+      }
+    ]
   }
 ];
