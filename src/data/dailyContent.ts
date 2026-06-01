@@ -10874,5 +10874,211 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Orijinal hat kesintiye uğrasa da, günümüzde Venice Simplon-Orient-Express gibi farklı şirketler tarafından Orient Express mirasını yaşatan lüks tren seyahatleri sunulmaktadır."
       }
     ]
+  },
+  {
+    "slug": "aids-salgininin-baslangici-tarihi-ilk-rapor-ve-kuresel-etkileri",
+    "dateId": "2026-06-01",
+    "title": "AIDS Salgınının Başlangıcı: 5 Haziran 1981 ve Bir Tıp Devrimi | GenelKultur",
+    "description": "5 Haziran 1981'de CDC'nin ilk AIDS vakalarını rapor etmesiyle başlayan gizemli hastalığın keşif ve mücadele süreci. HIV/AIDS hakkında detaylı bilgi ve küresel etkileri.",
+    "keywords": [
+      "AIDS",
+      "HIV",
+      "5 Haziran 1981",
+      "CDC",
+      "salgın",
+      "tıp tarihi",
+      "immün yetmezlik sendromu",
+      "AIDS'in keşfi",
+      "pandemi",
+      "bilim tarihi",
+      "Luc Montagnier",
+      "Robert Gallo"
+    ],
+    "heading": "AIDS Salgınının Başlangıcı: Tarihi İlk Rapor ve Küresel Etkileri",
+    "intro": "1981 yılının Haziran ayında, Amerika Birleşik Devletleri'nde bir grup genç erkekte nadir görülen zatürre ve kanser vakaları rapor edildiğinde, tıp dünyası henüz neyle karşı karşıya olduğunu bilmiyordu. Bu gizemli hastalık, kısa sürede tüm dünyayı saracak ve insanlık tarihinin en yıkıcı salgınlarından birine dönüşecek olan AIDS'in ilk sinyalleriydi. 5 Haziran 1981 tarihi, bu küresel mücadelenin resmi başlangıcı olarak kabul edilir ve modern tıp tarihinde bir dönüm noktasını işaret eder.",
+    "article": "5 Haziran 1981'de, ABD Hastalık Kontrol ve Önleme Merkezleri (CDC) tarafından yayımlanan \"Haftalık Hastalık ve Ölüm Oranı Raporu\"nda (MMWR), Los Angeles'ta beş genç eşcinsel erkekte nadir görülen bir tür zatürre olan P. carinii pnömonisi vakaları bildirildi. Bu kişilerin bağışıklık sistemlerinin ciddi şekilde baskılandığı ve sebebinin bilinmediği vurgulandı. Bu rapor, o zamanlar kimsenin adını koyamadığı, ancak sonradan edinilmiş immün yetmezlik sendromu (AIDS) olarak bilinecek olan hastalığın ilk resmi kaydıydı. İlk başta sadece eşcinsel erkekleri etkilediği düşünülen bu durum, \"gay-related immune deficiency\" (GRID) gibi isimlerle anılsa da, kısa süre içinde risk gruplarının çok daha geniş olduğu anlaşıldı.\n\nTakip eden aylarda, özellikle New York ve Kaliforniya gibi büyük şehirlerde benzer vakaların sayısı hızla arttı. Hastalar, sağlıklı insanlarda görülmeyen fırsatçı enfeksiyonlar ve nadir kanser türleriyle mücadele ediyordu. Bilim insanları ve halk sağlığı yetkilileri, hastalığın yayılma yollarını ve etkenini belirlemek için yoğun bir çalışma başlattı. Bu dönemde hastalığın kan, cinsel temas ve anneden bebeğe geçiş yollarıyla yayıldığı anlaşıldı. Bu keşifler, hastalığın önlenmesi ve kontrol altına alınması için hayati önem taşıyordu ve bilim camiasında eşi benzeri görülmemiş bir işbirliği ve araştırma seferberliğini tetikledi.\n\n1983 yılında, Fransız virolog Luc Montagnier ve ekibi Pasteur Enstitüsü'nde, ardından 1984 yılında Amerikalı araştırmacı Robert Gallo, hastalığa neden olan virüsü bağımsız olarak tanımladılar. Virüse daha sonra İnsan İmmün Yetmezlik Virüsü (HIV) adı verildi. HIV'in keşfi, hastalığın tanı, tedavi ve önleme çalışmalarında bir dönüm noktası oldu. Yıllar süren araştırmalar sonucunda antiretroviral ilaçlar geliştirildi ve bu ilaçlar sayesinde HIV pozitif bireylerin yaşam kalitesi ve süresi önemli ölçüde arttı. Ancak AIDS, günümüzde hala dünya çapında milyonlarca insanı etkileyen ciddi bir küresel sağlık sorunu olmaya devam etmektedir ve farkındalık ile önleme çalışmaları büyük önem taşımaktadır.",
+    "category": "bilim",
+    "questions": [
+      {
+        "id": 1,
+        "text": "AIDS'e yol açan hastalığın ilk vakalarını resmen bildiren kuruluş hangisidir?",
+        "options": [
+          "Dünya Sağlık Örgütü (WHO)",
+          "Hastalık Kontrol ve Önleme Merkezleri (CDC)",
+          "Ulusal Sağlık Enstitüleri (NIH)",
+          "Sınır Tanımayan Doktorlar (MSF)"
+        ],
+        "correctAnswer": 1,
+        "explanation": "AIDS'in ilk vakaları olarak bilinecek olanlar, ABD Hastalık Kontrol ve Önleme Merkezleri (CDC) tarafından 'Haftalık Hastalık ve Ölüm Oranı Raporu'nda (MMWR) resmi olarak bildirilmiştir."
+      },
+      {
+        "id": 2,
+        "text": "Gizemli hastalığın (sonradan AIDS) ilk resmi raporları hangi yılda yapılmıştır?",
+        "options": [
+          "1979",
+          "1981",
+          "1983",
+          "1985"
+        ],
+        "correctAnswer": 1,
+        "explanation": "İlk resmi rapor, genç erkeklerde nadir bir zatürre vakasını detaylandıran ve AIDS salgınının başlangıcını işaret eden rapor, 5 Haziran 1981'de yayımlanmıştır."
+      },
+      {
+        "id": 3,
+        "text": "İlk AIDS vakalarında bildirilen özel, nadir zatürre türü neydi?",
+        "options": [
+          "Bakteriyel Zatürre",
+          "Viral Zatürre",
+          "Pneumocystis carinii Zatürresi (PCP)",
+          "Mycoplasma Zatürresi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "CDC'nin ilk raporu, bağışıklık sistemi ciddi şekilde zayıflamış kişilerde görülen fırsatçı bir enfeksiyon olan Pneumocystis carinii Zatürresi (PCP) vakalarını açıkça belirtmiştir."
+      },
+      {
+        "id": 4,
+        "text": "AIDS'in resmi adı kabul edilmeden önce, etkilediği popülasyon hakkındaki ilk yanlış anlamaları yansıtan erken, gayri resmi isimlerden biri neydi?",
+        "options": [
+          "Zayıflatıcı Hastalık",
+          "İmmün Yetmezlik Sendromu X",
+          "Eşcinsel İlişkili İmmün Yetmezlik (GRID)",
+          "Gizemli Hastalık"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Hastalığın başlangıçta ağırlıklı olarak eşcinsel erkekleri etkilediği gözlemlendiği için, bulaşma yollarının daha geniş bir şekilde anlaşılmasından önce gayri resmi olarak 'Eşcinsel İlişkili İmmün Yetmezlik' (GRID) olarak anılıyordu."
+      },
+      {
+        "id": 5,
+        "text": "İnsan İmmün Yetmezlik Virüsü'nü (HIV) ilk kez tanımlayan bilim insanı/ekibi kimdir?",
+        "options": [
+          "Jonas Salk",
+          "Louis Pasteur",
+          "Luc Montagnier ve Robert Gallo",
+          "Alexander Fleming"
+        ],
+        "correctAnswer": 2,
+        "explanation": "HIV, 1983 yılında Pasteur Enstitüsü'nden Luc Montagnier ve ekibi ile 1984 yılında ABD'den Robert Gallo'nun ekibi tarafından bağımsız olarak tanımlanmıştır."
+      },
+      {
+        "id": 6,
+        "text": "AIDS'e neden olan virüs (HIV) resmi olarak hangi yıllarda tanımlanmıştır?",
+        "options": [
+          "1980",
+          "1981",
+          "1983-1984",
+          "1986"
+        ],
+        "correctAnswer": 2,
+        "explanation": "İlk vakalar 1981'de bildirilirken, sorumlu virüs HIV, Luc Montagnier tarafından 1983'te ve Robert Gallo tarafından 1984'te teyit edilmiştir."
+      },
+      {
+        "id": 7,
+        "text": "Aşağıdakilerden hangisi HIV bulaşmasının birincil yolu DEĞİLDİR?",
+        "options": [
+          "Cinsel temas",
+          "Kirlenmiş iğneleri paylaşmak",
+          "Sıradan temas (örn. sarılma, yemek paylaşımı)",
+          "Hamilelik, doğum veya emzirme sırasında anneden çocuğa"
+        ],
+        "correctAnswer": 2,
+        "explanation": "HIV, HIV pozitif bir kişiden belirli vücut sıvıları (kan, meni, boşalma öncesi sıvı, rektal sıvılar, vajinal sıvılar ve anne sütü) yoluyla bulaşır. Sarılma, el sıkışma, yemek paylaşma veya aynı tuvaleti kullanma gibi sıradan temaslarla bulaşmaz."
+      },
+      {
+        "id": 8,
+        "text": "HIV kısaltması ne anlama gelmektedir?",
+        "options": [
+          "Human Immune Virus",
+          "Highly Infectious Virus",
+          "Human Immunodeficiency Virus",
+          "Health Impact Virus"
+        ],
+        "correctAnswer": 2,
+        "explanation": "HIV, 'Human Immunodeficiency Virus' (İnsan İmmün Yetmezlik Virüsü) anlamına gelir ve vücudun bağışıklık sistemini zayıflatmadaki rolünü yansıtır."
+      },
+      {
+        "id": 9,
+        "text": "AIDS kısaltması ne anlama gelmektedir?",
+        "options": [
+          "Acquired Immunodeficiency Syndrome",
+          "Acute Infectious Disease Syndrome",
+          "Autoimmune Deficiency Syndrome",
+          "Advanced Immunodeficiency State"
+        ],
+        "correctAnswer": 0,
+        "explanation": "AIDS, 'Acquired Immunodeficiency Syndrome' (Edinilmiş İmmün Yetmezlik Sendromu) anlamına gelir ve HIV enfeksiyonunun son, en şiddetli aşamasıdır."
+      },
+      {
+        "id": 10,
+        "text": "HIV/AIDS tedavisinde devrim yaratan ve HIV'li kişilerin yaşam kalitesini ve süresini önemli ölçüde artıran ilaç türü nedir?",
+        "options": [
+          "Antibiyotikler",
+          "Antihistaminikler",
+          "Antiretroviraller",
+          "Anti-inflamatuar ilaçlar"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Antiretroviral (ARV) ilaçlar, HIV enfeksiyonunu tedavi etmek için özel olarak kullanılan bir ilaç sınıfıdır. Virüsün çoğalmasını durdurarak veya yavaşlatarak etki ederler."
+      },
+      {
+        "id": 11,
+        "text": "1981'deki ilk CDC raporu hangi süreli yayında yayımlanmıştır?",
+        "options": [
+          "New England Journal of Medicine",
+          "The Lancet",
+          "Morbidity and Mortality Weekly Report (MMWR)",
+          "Journal of the American Medical Association (JAMA)"
+        ],
+        "correctAnswer": 2,
+        "explanation": "CDC, ilk AIDS vakaları da dahil olmak üzere resmi sağlık duyurularını ve raporlarını Morbidity and Mortality Weekly Report (MMWR) adlı yayında yayımlar."
+      },
+      {
+        "id": 12,
+        "text": "İlk bildirilen AIDS vakalarında, zayıflamış bir bağışıklık sistemini gösteren erken, ciddi fırsatçı enfeksiyonlardan biri neydi?",
+        "options": [
+          "Nezle",
+          "Mevsimsel Grip",
+          "Kaposi Sarkomu",
+          "Boğaz Enfeksiyonu"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Nadir bir kanser türü olan Kaposi Sarkomu, PCP ile birlikte erken AIDS hastalarında görülen çarpıcı fırsatçı enfeksiyonlardan biriydi ve ciddi immün süpresyonu gösteriyordu."
+      },
+      {
+        "id": 13,
+        "text": "HIV/AIDS salgınından yaygınlık açısından en çok etkilenen kıta hangisidir?",
+        "options": [
+          "Asya",
+          "Kuzey Amerika",
+          "Avrupa",
+          "Afrika"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Sahra Altı Afrika, dünyadaki HIV ile yaşayan insanların önemli bir çoğunluğunu oluşturarak HIV/AIDS'ten en çok etkilenen bölge olmaya devam etmektedir."
+      },
+      {
+        "id": 14,
+        "text": "İnsan İmmün Yetmezlik Virüsü'nün (HIV) insan vücudunda birincil hedefi nedir?",
+        "options": [
+          "Kırmızı kan hücreleri",
+          "Sinir hücreleri",
+          "Bağışıklık sistemi hücreleri (CD4+ T hücreleri)",
+          "Karaciğer hücreleri"
+        ],
+        "correctAnswer": 2,
+        "explanation": "HIV öncelikle bağışıklık sisteminin kritik beyaz kan hücreleri olan CD4+ T hücrelerini hedefler ve yok eder. Bu yıkım immün yetmezliğe yol açar."
+      },
+      {
+        "id": 15,
+        "text": "HIV/AIDS ile ilgili küresel sağlık çabalarının uzun vadeli hedefi nedir?",
+        "options": [
+          "Tüm bulaşıcı hastalıkların ortadan kaldırılması",
+          "Evrensel bir tedavi ve aşı geliştirilmesi",
+          "Yayılımın belirli bölgelerle sınırlandırılması",
+          "Sadece semptomların yönetilmesi"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Küresel sağlık çabalarının ana uzun vadeli hedeflerinden biri, HIV/AIDS için etkili bir tedavi ve önleyici aşı geliştirmek, ayrıca sürekli önleme ve tedavi çabalarıdır."
+      }
+    ]
   }
 ];

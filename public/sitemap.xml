@@ -640,4 +640,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/aids-salgininin-baslangici-tarihi-ilk-rapor-ve-kuresel-etkileri</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/aids-salgininin-baslangici-tarihi-ilk-rapor-ve-kuresel-etkileri/oyna</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
