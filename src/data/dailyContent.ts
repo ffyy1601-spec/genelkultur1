@@ -12305,5 +12305,209 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Bu başarı, havacılık tarihinde bir dönüm noktası olmuş ve gelecekteki transatlantik uçuşlar için cesaret verici bir başlangıç sağlamıştır."
       }
     ]
+  },
+  {
+    "slug": "avrupanin-kurtarici-eli-marshall-plani-ve-soguk-savasin-ilk-adimlari",
+    "dateId": "2026-06-02",
+    "title": "Marshall Planı Nedir? Avrupa'nın Yeniden Doğuşu ve Etkileri | GenelKultur",
+    "description": "II. Dünya Savaşı sonrası Avrupa'yı ekonomik yıkımdan kurtaran ve Soğuk Savaş'ın şekillenmesinde kritik rol oynayan Marshall Planı'nın tarihini, amaçlarını ve etkilerini keşfedin.",
+    "keywords": [
+      "Marshall Planı",
+      "II. Dünya Savaşı",
+      "Avrupa",
+      "Amerika",
+      "ekonomik yardım",
+      "Truman Doktrini",
+      "Soğuk Savaş",
+      "Avrupa Ekonomik İşbirliği Teşkilatı",
+      "George C. Marshall",
+      "Türkiye Marshall Planı"
+    ],
+    "heading": "Avrupa'nın Kurtarıcı Eli: Marshall Planı ve Soğuk Savaş'ın İlk Adımları",
+    "intro": "II. Dünya Savaşı, Avrupa kıtasını sadece fiziksel olarak değil, ekonomik ve sosyal açıdan da bir enkaz haline getirmişti. Milyonlarca insan hayatını kaybetmiş, şehirler harabeye dönmüş, sanayi durma noktasına gelmişti. Bu derin kriz ortamında, ABD'den gelen bir yardım eli, kıtanın kaderini değiştirecek ve modern dünya düzeninin temellerini atacak nitelikteydi: Marshall Planı.",
+    "article": "II. Dünya Savaşı'nın sona ermesiyle birlikte, galip devletler dahi ağır bir tabloyla karşı karşıyaydı. Avrupa'nın büyük bir kısmı yıkılmış, sanayi üretimi çökmüş, altyapı tahrip olmuştu. Gıda kıtlığı ve işsizlik yaygındı. Bu durum, Avrupa'da komünist partilerin yükselişine zemin hazırlarken, ABD için de büyük bir endişe kaynağıydı. Washington, ekonomik istikrarsızlığın ve sosyal hoşnutsuzluğun, Sovyetler Birliği'nin etkisini artırarak Avrupa'nın komünist bloğa kaymasına yol açacağından korkuyordu.\n\nİşte bu atmosferde, 5 Haziran 1947 tarihinde ABD Dışişleri Bakanı George C. Marshall, Harvard Üniversitesi'nde yaptığı tarihi konuşmayla, Avrupa İyileşme Programı olarak da bilinen Marshall Planı'nı duyurdu. Planın temel amacı, savaş sonrası Avrupa ekonomilerini yeniden inşa etmek, ticareti canlandırmak ve böylece siyasi istikrarı sağlamaktı. Bu sayede, komünist ideolojinin yoksulluk ve umutsuzluk üzerinden yayılması engellenecek, Batı Avrupa'da sağlam bir ekonomik ve demokratik düzen kurulacaktı.\n\nMarshall Planı, 1948 yılında ABD Kongresi'nden geçerek resmen yürürlüğe girdi. Yaklaşık dört yıl süren program kapsamında, ABD, 16 Batı Avrupa ülkesine yaklaşık 13 milyar dolar değerinde ekonomik ve teknik yardım sağladı. Bu yardımlar arasında gıda, yakıt, makineler, ham maddeler ve kredi imkanları bulunuyordu. Yardımların koordinasyonunu sağlamak amacıyla, daha sonra Ekonomik İşbirliği ve Kalkınma Örgütü (OECD)'ye dönüşecek olan Avrupa Ekonomik İşbirliği Teşkilatı (OEEC) kuruldu. Sovyetler Birliği ve Doğu Bloku ülkeleri ise, planın 'emperyalist bir tuzak' olduğunu iddia ederek bu yardımı reddettiler, bu da Soğuk Savaş'ın belirginleşen hatlarını daha da keskinleştirdi.\n\nPlanın sonuçları olağanüstüydü. Marshall Planı sayesinde Batı Avrupa ekonomileri hızla toparlandı. Sanayi üretimi savaş öncesi seviyeleri aştı, tarımsal üretim arttı ve altyapı projeleri hayata geçirildi. Yaşam standartları yükseldi, işsizlik azaldı ve siyasi istikrar geri geldi. Plan, sadece ekonomik bir yardım programı olmanın ötesinde, Atlantik ötesi ilişkileri güçlendirdi ve Batı Avrupa'da bir birlik ve işbirliği ruhunun doğmasına katkıda bulundu. Bugün Avrupa Birliği'nin temellerinde Marshall Planı'nın dolaylı etkileri olduğu da sıklıkla dile getirilir.\n\nTürkiye de Marshall Planı'ndan faydalanan ülkelerden biriydi. Özellikle 1950'li yıllarda Türkiye ekonomisi üzerinde önemli etkileri oldu. Plan kapsamında sağlanan yardımlar, Türkiye'de tarımda makineleşmeyi hızlandırdı, modern tarım tekniklerinin benimsenmesine yol açtı ve karayolu gibi altyapı projelerinin gelişimine katkıda bulundu. Ancak bu yardımlar, Türkiye'nin dış politikada Batı bloğuna daha sıkı bağlanmasına ve ABD ile olan ilişkilerini derinleştirmesine de neden oldu. Marshall Planı, Soğuk Savaş döneminde ABD'nin komünizmle mücadele stratejisinin ayrılmaz bir parçasıydı ve Truman Doktrini ile birlikte Batı bloğunun oluşumunda kilit rol oynadı. Bu plan, yalnızca savaş sonrası Avrupa'nın yeniden inşası değil, aynı zamanda küresel siyasetin şekillenmesinde de belirleyici bir faktör olmuştur.",
+    "category": "tarih",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Marshall Planı'nın resmi adı nedir?",
+        "options": [
+          "Avrupa Kurtarma Girişimi",
+          "Avrupa İyileşme Programı",
+          "Batı Avrupa Yardım Paketi",
+          "Atlantik Yeniden İnşa Planı"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Marshall Planı'nın resmi adı 'Avrupa İyileşme Programı'dır. Bu isim, planın Avrupa ekonomilerini iyileştirme amacını yansıtmaktadır."
+      },
+      {
+        "id": 2,
+        "text": "Marshall Planı ilk olarak kim tarafından duyurulmuştur?",
+        "options": [
+          "Harry S. Truman",
+          "Winston Churchill",
+          "George C. Marshall",
+          "Dean Acheson"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Marshall Planı, o dönemki ABD Dışişleri Bakanı George C. Marshall tarafından 5 Haziran 1947'de Harvard Üniversitesi'nde yaptığı konuşmayla duyurulmuştur."
+      },
+      {
+        "id": 3,
+        "text": "Marshall Planı'nın temel amaçlarından biri aşağıdakilerden hangisidir?",
+        "options": [
+          "ABD'nin dünya üzerindeki kültürel hegemonyasını yaymak",
+          "Savaş sonrası Avrupa ekonomilerini yeniden inşa etmek",
+          "Sovyetler Birliği'ne karşı doğrudan askeri ittifaklar kurmak",
+          "Avrupa ülkelerini sömürgeleştirmek"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Marshall Planı'nın başlıca amacı, II. Dünya Savaşı sonrası yıkıma uğrayan Avrupa ekonomilerini canlandırmak ve siyasi istikrarı sağlamaktı."
+      },
+      {
+        "id": 4,
+        "text": "Marshall Planı hangi yıl resmen yürürlüğe girmiştir?",
+        "options": [
+          "1945",
+          "1946",
+          "1948",
+          "1950"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Marshall Planı, ABD Kongresi'nden geçerek 1948 yılında resmen yürürlüğe girmiştir."
+      },
+      {
+        "id": 5,
+        "text": "Marshall Planı kapsamında yaklaşık kaç Batı Avrupa ülkesi yardım almıştır?",
+        "options": [
+          "5",
+          "10",
+          "16",
+          "25"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Marshall Planı kapsamında yaklaşık 16 Batı Avrupa ülkesi ekonomik ve teknik yardım almıştır."
+      },
+      {
+        "id": 6,
+        "text": "Aşağıdaki ülke veya bloklardan hangisi Marshall Planı yardımını reddetmiştir?",
+        "options": [
+          "Fransa",
+          "Birleşik Krallık",
+          "Sovyetler Birliği ve Doğu Bloku",
+          "İtalya"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Sovyetler Birliği ve kontrolündeki Doğu Bloku ülkeleri, Marshall Planı'nı 'emperyalist bir tuzak' olarak nitelendirerek yardımı reddetmişlerdir."
+      },
+      {
+        "id": 7,
+        "text": "Marshall Planı'nın uygulanmasını koordine etmek için kurulan teşkilat aşağıdakilerden hangisidir?",
+        "options": [
+          "Birleşmiş Milletler (BM)",
+          "Kuzey Atlantik Antlaşması Örgütü (NATO)",
+          "Avrupa Ekonomik İşbirliği Teşkilatı (OEEC)",
+          "Uluslararası Para Fonu (IMF)"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Marshall Planı yardımlarının dağıtımını ve koordinasyonunu sağlamak amacıyla Avrupa Ekonomik İşbirliği Teşkilatı (OEEC) kurulmuştur. Bu örgüt daha sonra OECD'ye dönüşmüştür."
+      },
+      {
+        "id": 8,
+        "text": "Marshall Planı kapsamında sağlanan toplam yardım miktarı yaklaşık ne kadardır?",
+        "options": [
+          "5 milyar dolar",
+          "13 milyar dolar",
+          "20 milyar dolar",
+          "30 milyar dolar"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Marshall Planı kapsamında Batı Avrupa ülkelerine yaklaşık 13 milyar dolar değerinde ekonomik yardım sağlanmıştır."
+      },
+      {
+        "id": 9,
+        "text": "Marshall Planı'nın Batı Avrupa'ya en belirgin ekonomik etkisi nedir?",
+        "options": [
+          "Nüfus artış hızını düşürmesi",
+          "Sanayi üretimini ve altyapı inşasını hızlandırması",
+          "Tarım ürünleri ithalatını tamamen durdurması",
+          "Askeri harcamaları azaltması"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Plan, Batı Avrupa'da sanayi üretiminin hızla artmasına, tahrip olan altyapının yeniden inşasına ve genel ekonomik toparlanmaya büyük katkı sağlamıştır."
+      },
+      {
+        "id": 10,
+        "text": "Marshall Planı, ABD'nin Soğuk Savaş dönemindeki hangi dış politika stratejisiyle yakından ilişkilidir?",
+        "options": [
+          "Monroe Doktrini",
+          "Truman Doktrini",
+          "Eisenhower Doktrini",
+          "Nixon Doktrini"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Marshall Planı, komünist yayılmacılığa karşı 'çevreleme' politikası olarak bilinen Truman Doktrini'nin ekonomik ayağını oluşturmuştur."
+      },
+      {
+        "id": 11,
+        "text": "Türkiye, Marshall Planı'ndan yardım almış mıdır?",
+        "options": [
+          "Hayır, sadece Batı Avrupa ülkeleri aldı.",
+          "Evet, ancak çok sembolik bir miktarda.",
+          "Evet, plandan faydalanan önemli ülkelerden biriydi.",
+          "Yardım aldı ama ABD ile arasına mesafe koydu."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Türkiye, Marshall Planı'ndan faydalanan ülkelerden biriydi ve özellikle tarım ile altyapı alanlarında önemli yardımlar almıştır."
+      },
+      {
+        "id": 12,
+        "text": "Marshall Planı'nın Türkiye ekonomisine en önemli etkilerinden biri hangi alanda görülmüştür?",
+        "options": [
+          "Tekstil sektörünün tamamen modernleşmesi",
+          "Tarımda makineleşmenin ve modern tekniklerin yaygınlaşması",
+          "Ağır sanayinin sıfırdan kurulması",
+          "Turizm sektörünün küresel ölçekte canlanması"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Marshall Planı yardımları, Türkiye'de tarımda makineleşmeyi hızlandırmış ve modern tarım tekniklerinin benimsenmesine yol açmıştır."
+      },
+      {
+        "id": 13,
+        "text": "Marshall Planı'nın uzun vadede Avrupa'ya sağladığı en önemli faydalardan biri nedir?",
+        "options": [
+          "Sömürgecilik faaliyetlerinin yeniden canlanması",
+          "Avrupa ülkeleri arasında rekabetin artması",
+          "Avrupa entegrasyonu ve işbirliğine zemin hazırlaması",
+          "Ekonomik bağımsızlığın tamamen kaybolması"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Plan, Avrupa ülkeleri arasında işbirliği ve ortak hedefler oluşturarak, modern Avrupa entegrasyonu ve Avrupa Birliği'nin temellerine katkıda bulunmuştur."
+      },
+      {
+        "id": 14,
+        "text": "Marshall Planı, hangi yıl sona ermiştir?",
+        "options": [
+          "1949",
+          "1951",
+          "1953",
+          "1955"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Marshall Planı, genellikle 1948'den 1951'e kadar sürmüş, 1951 yılında sona ermiştir."
+      },
+      {
+        "id": 15,
+        "text": "Marshall Planı'nın ilan edildiği George C. Marshall'ın ünlü konuşması hangi üniversitede yapılmıştır?",
+        "options": [
+          "Oxford Üniversitesi",
+          "Columbia Üniversitesi",
+          "Harvard Üniversitesi",
+          "Yale Üniversitesi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "George C. Marshall, Marshall Planı'nı dünyaya ilk kez 5 Haziran 1947'de Harvard Üniversitesi'nde yaptığı konuşmayla duyurmuştur."
+      }
+    ]
   }
 ];
