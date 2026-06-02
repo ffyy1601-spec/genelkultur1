@@ -12101,5 +12101,209 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Franz Kafka, 3 Haziran 1924 tarihinde verem hastalığı nedeniyle hayata gözlerini yummuştur."
       }
     ]
+  },
+  {
+    "slug": "atlantikin-cesur-fethi-alcock-ve-brownin-kesintisiz-ucus-destani",
+    "dateId": "2026-06-02",
+    "title": "Alcock ve Brown'ın Tarihi Uçuşu: Atlantik'i Kesintisiz Geçen İlk İnsanlar | GenelKultur",
+    "description": "John Alcock ve Arthur Brown'ın 1919'da gerçekleştirdiği, tarihin ilk kesintisiz Atlantik uçuşunun detayları, zorlukları ve havacılık tarihindeki önemi.",
+    "keywords": [
+      "Alcock Brown",
+      "Atlantik uçuşu",
+      "ilk kesintisiz uçuş",
+      "havacılık tarihi",
+      "Vickers Vimy",
+      "transatlantik uçuş",
+      "1919",
+      "havacılık",
+      "bilim",
+      "keşif"
+    ],
+    "heading": "Atlantik'in Cesur Fethi: Alcock ve Brown'ın Kesintisiz Uçuş Destanı",
+    "intro": "20. yüzyılın başları, insanoğlunun gökyüzüne olan tutkusunun doruğa çıktığı bir dönemdi. Wright Kardeşler'in ilk uçuşundan sadece birkaç yıl sonra, Atlantik Okyanusu'nu aşmak, havacılar için en büyük meydan okumalardan biri haline gelmişti. Ancak bu devasa engeli aşan ilk kişiler, beklenmedik zorluklarla dolu bir maceraya atılan iki İngiliz havacı oldu: John Alcock ve Arthur Whitten Brown.",
+    "article": "Birinci Dünya Savaşı'nın sona ermesiyle birlikte havacılık teknolojisi büyük bir hızla gelişmişti. Daily Mail gazetesi, 1913'te Atlantik Okyanusu'nu 72 saat içinde kesintisiz geçecek ilk kişiye 10.000 sterlinlik devasa bir ödül vadetmişti. Bu ödül, savaş nedeniyle ertelenmiş olsa da, 1919'da yeniden gündeme geldi ve birçok cesur havacıyı bu imkansız görünen göreve teşvik etti. İşte bu ortamda, Eski Kraliyet Hava Kuvvetleri pilotu Kaptan John Alcock ve tecrübeli navigatör Teğmen Arthur Whitten Brown, Vickers Vimy adında modifiye edilmiş bir bombardıman uçağıyla bu meydan okumayı kabul etti.\n\n14 Haziran 1919'da, Newfoundland, St. John's yakınlarındaki Lester's Field'dan havalanan Alcock ve Brown, İngiltere'ye doğru yola çıktılar. Uçuş, baştan sona dramatik olaylarla doluydu. Yoğun sis, kar fırtınaları ve buzlanma gibi ağır hava koşullarıyla mücadele ettiler. Uçağın ısıtma sisteminin arızalanması, kabin içi sıcaklığın dondurucu seviyelere düşmesine neden oldu. Brown, zaman zaman uçağın kanatlarına çıkarak buzları temizlemek zorunda kaldı. Navigasyon cihazları arızalandığında, Brown yıldızları kullanarak yön bulmaya çalıştı, ancak çoğu zaman görüş mesafesi sıfırdı.\n\nYaklaşık 16 saat süren zorlu bir yolculuğun ardından, 15 Haziran 1919 sabahı İrlanda'nın Clifden yakınlarındaki bir bataklığa iniş yaparak tarihi başarılarını taçlandırdılar. İnişleri yumuşak olmasa da, mürettebat yara almadan kurtuldu. İlk başta karaya indiklerini düşünen ikili, kısa süre sonra bir bataklığın ortasında olduklarını fark etti. Bu, uçuşun son dramatik anıydı. Bu başarılarıyla sadece Daily Mail ödülünü kazanmakla kalmadılar, aynı zamanda havacılık tarihinde bir dönüm noktasına imza attılar ve gelecekteki transatlantik uçuşların yolunu açtılar. Alcock ve Brown, havacılıkta cesaretin ve insan azminin sembolleri haline geldiler.",
+    "category": "bilim",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Alcock ve Brown'ın gerçekleştirdiği tarihi uçuşun temel amacı neydi?",
+        "options": [
+          "En hızlı dünya turunu yapmak",
+          "Atlantik Okyanusu'nu kesintisiz geçmek",
+          "Yeni bir uçak modelini test etmek",
+          "Askeri keşif görevi yapmak"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Alcock ve Brown, Daily Mail gazetesinin vadettiği 10.000 sterlinlik ödül için Atlantik Okyanusu'nu kesintisiz geçmeyi hedeflemişlerdir."
+      },
+      {
+        "id": 2,
+        "text": "Bu başarı için ödül veren gazete hangisiydi?",
+        "options": [
+          "The Times",
+          "The Guardian",
+          "Daily Mail",
+          "The New York Times"
+        ],
+        "correctAnswer": 2,
+        "explanation": "1913'te Daily Mail gazetesi, Atlantik'i 72 saat içinde kesintisiz geçecek ilk kişiye 10.000 sterlin ödül vadetmiştir."
+      },
+      {
+        "id": 3,
+        "text": "Ödül miktarı kaç sterlindi?",
+        "options": [
+          "1.000 sterlin",
+          "5.000 sterlin",
+          "10.000 sterlin",
+          "20.000 sterlin"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Daily Mail tarafından vadedilen ödül miktarı 10.000 sterlindi."
+      },
+      {
+        "id": 4,
+        "text": "Alcock ve Brown'ın kullandığı uçağın modeli neydi?",
+        "options": [
+          "Sopwith Camel",
+          "Fokker Dr.I",
+          "Vickers Vimy",
+          "Spirit of St. Louis"
+        ],
+        "correctAnswer": 2,
+        "explanation": "İkili, modifiye edilmiş bir Vickers Vimy bombardıman uçağı kullanarak bu tarihi uçuşu gerçekleştirmiştir."
+      },
+      {
+        "id": 5,
+        "text": "Uçuşa hangi şehirden başlanmıştır?",
+        "options": [
+          "Londra, İngiltere",
+          "New York, ABD",
+          "St. John's, Newfoundland",
+          "Paris, Fransa"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Alcock ve Brown, Kanada'nın Newfoundland eyaletindeki St. John's şehri yakınlarındaki Lester's Field'dan havalanmışlardır."
+      },
+      {
+        "id": 6,
+        "text": "Uçuş kaç tarihinde başlamıştır?",
+        "options": [
+          "1 Haziran 1919",
+          "14 Haziran 1919",
+          "15 Haziran 1919",
+          "20 Haziran 1919"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Alcock ve Brown, 14 Haziran 1919 tarihinde Atlantik üzerinde İngiltere'ye doğru yola çıkmıştır."
+      },
+      {
+        "id": 7,
+        "text": "John Alcock'un uçuş ekibindeki görevi neydi?",
+        "options": [
+          "Mühendis",
+          "Navigatör",
+          "Radyo operatörü",
+          "Pilot"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Kaptan John Alcock, Vickers Vimy uçağının pilotuydu."
+      },
+      {
+        "id": 8,
+        "text": "Arthur Whitten Brown'ın uçuş ekibindeki görevi neydi?",
+        "options": [
+          "Pilot yardımcısı",
+          "Mekanik",
+          "Navigatör",
+          "Radyo operatörü"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Teğmen Arthur Whitten Brown, uçağın navigatörü olarak görev yapmıştır."
+      },
+      {
+        "id": 9,
+        "text": "Uçak hangi ülkeye iniş yapmıştır?",
+        "options": [
+          "İngiltere",
+          "Fransa",
+          "İskoçya",
+          "İrlanda"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Yaklaşık 16 saatlik uçuşun ardından İrlanda'nın Clifden kasabası yakınlarındaki bir bataklığa iniş yapmışlardır."
+      },
+      {
+        "id": 10,
+        "text": "İniş yapılan yerin özelliği neydi?",
+        "options": [
+          "Uzun bir pist",
+          "Geniş bir çayır",
+          "Bir havaalanı",
+          "Bir bataklık"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Uçak, İrlanda'da bir bataklığa iniş yapmış ve iniş pek de 'yumuşak' olmamıştır."
+      },
+      {
+        "id": 11,
+        "text": "Uçuş yaklaşık olarak ne kadar sürmüştür?",
+        "options": [
+          "8 saat",
+          "12 saat",
+          "16 saat",
+          "24 saat"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Alcock ve Brown'ın kesintisiz Atlantik uçuşu yaklaşık 16 saat sürmüştür."
+      },
+      {
+        "id": 12,
+        "text": "Uçuş sırasında karşılaşılan en büyük zorluklardan biri neydi?",
+        "options": [
+          "Yakıt eksikliği",
+          "Motor arızası",
+          "Yoğun sis ve buzlanma",
+          "Düşman uçakları"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Uçuş boyunca yoğun sis, kar fırtınaları ve uçağın buzlanması gibi ağır hava koşullarıyla mücadele etmişlerdir."
+      },
+      {
+        "id": 13,
+        "text": "Kanatların buzlanması durumunda Arthur Brown ne yapmıştır?",
+        "options": [
+          "Piste geri dönmeyi önermiştir",
+          "Uçağın kanatlarına çıkarak buzları temizlemiştir",
+          "Yüksek irtifaya çıkarak buzları eritmiştir",
+          "Yardım çağırmak için telsiz kullanmıştır"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Brown, uçağın kanatlarında biriken buzları temizlemek için tehlikeli bir şekilde kanatlara tırmanmak zorunda kalmıştır."
+      },
+      {
+        "id": 14,
+        "text": "Navigasyon cihazları arızalandığında Arthur Brown yön bulmak için ne kullanmaya çalışmıştır?",
+        "options": [
+          "Haritalar ve pusula",
+          "Güneş ve ayın konumları",
+          "Yıldızlar",
+          "Deniz fenerleri"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Navigasyon cihazları arızalandığında Brown, yıldızları kullanarak yön bulmaya çalışmış, ancak çoğu zaman görüş mesafesi sıfır olduğu için bu da zor olmuştur."
+      },
+      {
+        "id": 15,
+        "text": "Alcock ve Brown'ın bu başarısı, havacılık tarihinde ne gibi bir etki yaratmıştır?",
+        "options": [
+          "Askeri havacılığın sonunu getirmiştir",
+          "Yolcu uçuşlarının hemen başlamasını sağlamıştır",
+          "Uçak tasarımında büyük bir geri adıma neden olmuştur",
+          "Gelecekteki transatlantik uçuşların önünü açmıştır"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Bu başarı, havacılık tarihinde bir dönüm noktası olmuş ve gelecekteki transatlantik uçuşlar için cesaret verici bir başlangıç sağlamıştır."
+      }
+    ]
   }
 ];
