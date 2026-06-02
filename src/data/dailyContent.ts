@@ -11895,5 +11895,211 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Monarşi yanlıları, kraliyet ailesinin tarihsel köklerine ve ülkeyi birleştirici rolüne vurgu yapmışlardır."
       }
     ]
+  },
+  {
+    "slug": "absurdun-pesinde-bir-yasam-franz-kafkanin-edebiyata-mirasi",
+    "dateId": "2026-06-02",
+    "title": "Franz Kafka'nın Ölümü: Edebiyatın Karanlık Dehası ve Mirası | GenelKultur",
+    "description": "3 Haziran 1924'te hayatını kaybeden Franz Kafka, absürdizm ve varoluşçuluğun öncülerinden biriydi. Hayatı, eserleri ve \"Kafkaesk\" teriminin doğuşu hakkında bilgi edinin.",
+    "keywords": [
+      "Franz Kafka",
+      "Kafkaesk",
+      "Dönüşüm",
+      "Dava",
+      "Şato",
+      "edebiyat",
+      "absürdizm",
+      "varoluşçuluk",
+      "modern edebiyat",
+      "Kafka'nın ölümü",
+      "yazar",
+      "Çek yazar"
+    ],
+    "heading": "Absürdün Peşinde Bir Yaşam: Franz Kafka'nın Edebiyata Mirası",
+    "intro": "20. yüzyıl edebiyatının en özgün ve etkileyici figürlerinden biri olan Franz Kafka, kısa yaşamına rağmen ardında insanlık durumuna dair derinlemesine sorgulamalar içeren bir külliyat bıraktı. Eserlerinde bürokrasi, yabancılaşma, suçluluk ve aidiyetsizlik gibi temaları işleyen Kafka, \"Kafkaesk\" teriminin doğuşuna ilham veren kendine has üslubuyla dünya edebiyatına eşsiz bir miras sundu. 3 Haziran 1924'teki vefatıyla fiziksel olarak aramızdan ayrılsa da, eserleri günümüzde de geçerliliğini korumakta ve yeni okuyucularla buluşmaktadır.",
+    "article": "Franz Kafka, 3 Temmuz 1883'te Avusturya-Macaristan İmparatorluğu'nun bir parçası olan Prag'da, orta sınıf bir Yahudi ailenin çocuğu olarak dünyaya geldi. Hukuk eğitimi almasına ve hayatının büyük bir bölümünü işçi sigorta kurumunda çalışarak geçirmesine rağmen, asıl tutkusu yazmaktı. Geceleri ve boş zamanlarında kaleme aldığı eserlerinde, sıklıkla otoriter figürlerle ezilen, yabancılaşmış ve çaresiz bireylerin iç dünyasını resmetti. Babasıyla olan karmaşık ilişkisi, eserlerindeki otorite ve baskı temalarının kökenlerinden biri olarak kabul edilir.\n\nKafka'nın en bilinen eserlerinden \"Dönüşüm\" (Die Verwandlung), Gregor Samsa adında bir pazarlamacının bir sabah kendini dev bir böceğe dönüşmüş olarak bulmasını anlatır. Bu fantastik olay üzerinden modern insanın aile, toplum ve kendi benliği karşısındaki çaresizliğini, anlamsızlığını ve yabancılaşmasını ustalıkla gözler önüne serer. \"Dava\" (Der Prozess) ve \"Şato\" (Das Schloss) gibi romanları ise bürokrasinin absürtlüğünü, bireyin adalet arayışındaki umutsuzluğunu ve erişilemez hedeflere ulaşma çabasını işler. Bu eserlerdeki karamsar atmosfer ve bireyin sistem karşısındaki çaresizliği, \"Kafkaesk\" olarak adlandırılan bir edebiyat akımının doğmasına yol açmıştır.\n\nYaşadığı dönemde eserleri tam olarak anlaşılamayan ve yayımlanması konusunda tereddütleri olan Kafka, ölüm döşeğindeyken dostu Max Brod'dan tüm yazılarını yakmasını istemişti. Neyse ki Brod, bu isteği yerine getirmeyerek Kafka'nın dehasını dünya edebiyatına kazandırdı. Verem hastalığı nedeniyle sadece 40 yaşında hayata gözlerini yuman Kafka'nın mirası, varoluşçuluk, absürdizm ve modernizm gibi akımları derinden etkiledi. Eserleri bugün hala birçok dile çevrilmekte, sahnelenmekte ve üzerine akademik çalışmalar yapılmaktadır. Kafka'nın karanlık, ironik ve derinlikli dünyası, insan doğasına ve toplum yapısına dair evrensel sorular sormaya devam ediyor.",
+    "category": "sanat",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Franz Kafka hangi şehirde doğmuştur?",
+        "options": [
+          "Prag",
+          "Viyana",
+          "Berlin",
+          "Budapeşte"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Franz Kafka, 3 Temmuz 1883'te o dönem Avusturya-Macaristan İmparatorluğu'nun bir parçası olan Prag'da dünyaya gelmiştir."
+      },
+      {
+        "id": 2,
+        "text": "Kafka'nın edebi eserlerinde sıklıkla işlediği temel temalar arasında hangisi yer almaz?",
+        "options": [
+          "Yabancılaşma",
+          "Bürokrasi",
+          "Suçluluk",
+          "Doğa sevgisi"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Kafka'nın eserlerinde yabancılaşma, bürokrasi, suçluluk ve aidiyetsizlik gibi temalar ön plandadır. Doğa sevgisi teması, onun eserlerinde belirgin bir şekilde yer almaz."
+      },
+      {
+        "id": 3,
+        "text": "\"Dönüşüm\" adlı eserinde ana karakter Gregor Samsa bir sabah neye dönüşmüş olarak uyanır?",
+        "options": [
+          "Bir kuş",
+          "Dev bir böcek",
+          "Bir kedi",
+          "Bir bitki"
+        ],
+        "correctAnswer": 1,
+        "explanation": "\"Dönüşüm\"de Gregor Samsa, bir sabah kendini dev bir böceğe dönüşmüş olarak bulur. Bu dönüşüm, eserin ana fantastik unsurudur."
+      },
+      {
+        "id": 4,
+        "text": "\"Kafkaesk\" terimi neyi ifade etmek için kullanılır?",
+        "options": [
+          "Neşeli ve iyimser durumları",
+          "Karmaşık ve anlamsız bürokratik durumları",
+          "Aşk ve romantizmle dolu hikayeleri",
+          "Doğanın güzelliğini anlatan betimlemeleri"
+        ],
+        "correctAnswer": 1,
+        "explanation": "\"Kafkaesk\" terimi, bireyin kendini çaresiz hissettiği, mantıksız ve baskıcı bürokratik sistemleri veya absürt, labirent gibi durumları tanımlamak için kullanılır."
+      },
+      {
+        "id": 5,
+        "text": "Kafka, ölüm döşeğindeyken yakın arkadaşı Max Brod'dan ne yapmasını istemiştir?",
+        "options": [
+          "Tüm eserlerini yayımlamasını",
+          "Hayat hikayesini yazmasını",
+          "Tüm yazılarını yakmasını",
+          "Eserlerini ailesine teslim etmesini"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kafka, ölüm döşeğindeyken dostu Max Brod'dan yayımlanmamış tüm yazılarını yakmasını istemiştir; ancak Brod bu isteği yerine getirmemiştir."
+      },
+      {
+        "id": 6,
+        "text": "Franz Kafka'nın hukuk eğitimi almasına rağmen hayatının büyük bir bölümünde hangi mesleği icra etmiştir?",
+        "options": [
+          "Öğretmenlik",
+          "Doktorluk",
+          "İşçi sigorta kurumunda memurluk",
+          "Gazetecilik"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kafka, hukuk eğitimi almasına rağmen hayatının büyük bir bölümünü bir işçi sigorta kurumunda çalışarak geçirdi."
+      },
+      {
+        "id": 7,
+        "text": "Kafka'nın \"Dava\" (Der Prozess) romanında ana karakter Joseph K. hangi durumla karşı karşıya kalır?",
+        "options": [
+          "Büyük bir mirasın sahibi olur",
+          "Bilinmeyen bir suçla itham edilir",
+          "Evlenmek üzereyken nişanlısından ayrılır",
+          "Yeni bir şehirde maceralara atılır"
+        ],
+        "correctAnswer": 1,
+        "explanation": "\"Dava\" romanında Joseph K., nedenini bilmediği bir suçlamayla karşılaşır ve absürt bir hukuk süreciyle mücadele eder."
+      },
+      {
+        "id": 8,
+        "text": "Franz Kafka hangi hastalığa yakalanarak genç yaşta vefat etmiştir?",
+        "options": [
+          "Kanser",
+          "Verem (Tüberküloz)",
+          "Kalp yetmezliği",
+          "Şeker hastalığı"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Franz Kafka, o dönemde yaygın ve tedavisi zor bir hastalık olan verem (tüberküloz) nedeniyle sadece 40 yaşında hayatını kaybetmiştir."
+      },
+      {
+        "id": 9,
+        "text": "Kafka'nın babasıyla olan ilişkisi, eserlerindeki hangi temaların kökenlerinden biri olarak kabul edilir?",
+        "options": [
+          "Sevgi ve şefkat",
+          "Otorite ve baskı",
+          "Mizah ve eğlence",
+          "Sanatsal özgürlük"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Kafka'nın babasıyla olan gergin ve karmaşık ilişkisi, eserlerindeki otorite, baskı ve yabancılaşma temalarının önemli bir kaynağı olarak görülür."
+      },
+      {
+        "id": 10,
+        "text": "\"Şato\" (Das Schloss) romanında ana karakter K. neyi başarmaya çalışır?",
+        "options": [
+          "Zengin bir iş adamı olmak",
+          "Bir şatoda hizmetçi olarak çalışmak",
+          "Gizemli bir şatoya ulaşmak ve işini yapmak",
+          "Bir köyde huzurlu bir hayat kurmak"
+        ],
+        "correctAnswer": 2,
+        "explanation": "\"Şato\" romanında K., köydeki gizemli şatoya ulaşmaya ve oradaki yetkililerle iletişim kurarak işini halletmeye çalışır, ancak bürokratik engellerle karşılaşır."
+      },
+      {
+        "id": 11,
+        "text": "Franz Kafka'nın eserleri, aşağıdaki edebi akımlardan hangilerini derinden etkilemiştir?",
+        "options": [
+          "Romantizm ve Klasisizm",
+          "Gotik ve Pastoral",
+          "Varoluşçuluk ve Absürdizm",
+          "Gerçeküstücülük ve Sembolizm"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kafka'nın eserleri, özellikle 20. yüzyılın önemli edebi ve felsefi akımlarından varoluşçuluk ve absürdizm üzerinde büyük bir etki bırakmıştır."
+      },
+      {
+        "id": 12,
+        "text": "Kafka, eserlerini ağırlıklı olarak hangi dilde yazmıştır?",
+        "options": [
+          "Çekçe",
+          "İngilizce",
+          "Almanca",
+          "Fransızca"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kafka, anadili Çekçe olmasına rağmen, eserlerini Almanca olarak kaleme almıştır. Prag'daki Alman azınlık kültürünün bir parçasıydı."
+      },
+      {
+        "id": 13,
+        "text": "Kafka'nın eserlerindeki atmosfer genellikle nasıl tanımlanır?",
+        "options": [
+          "Neşeli ve umut dolu",
+          "Aydınlık ve iyimser",
+          "Karanlık ve karamsar",
+          "Mizahi ve eleştirel"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kafka'nın eserleri, genellikle yabancılaşma, umutsuzluk, absürtlük ve baskı hissiyle dolu karanlık ve karamsar bir atmosfer sunar."
+      },
+      {
+        "id": 14,
+        "text": "Max Brod, Kafka'nın eserlerini yakma isteğini neden yerine getirmemiştir?",
+        "options": [
+          "Kafka'nın isteğini unutmuştur",
+          "Eserlerin edebi değerini görmüştür",
+          "Eserlerin zaten yayımlanmış olduğunu sanmıştır",
+          "Kafka'ya kızgın olduğu için"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Max Brod, Kafka'nın dehasının farkındaydı ve bu eşsiz eserlerin dünya edebiyatına kazandırılması gerektiğine inanıyordu, bu yüzden yakma isteğini reddetti."
+      },
+      {
+        "id": 15,
+        "text": "Kafka'nın ölüm tarihi hangi gündür?",
+        "options": [
+          "1 Haziran 1924",
+          "2 Haziran 1924",
+          "3 Haziran 1924",
+          "4 Haziran 1924"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Franz Kafka, 3 Haziran 1924 tarihinde verem hastalığı nedeniyle hayata gözlerini yummuştur."
+      }
+    ]
   }
 ];
