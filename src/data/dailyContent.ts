@@ -12509,5 +12509,211 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "George C. Marshall, Marshall Planı'nı dünyaya ilk kez 5 Haziran 1947'de Harvard Üniversitesi'nde yaptığı konuşmayla duyurmuştur."
       }
     ]
+  },
+  {
+    "slug": "insanligin-gokyuzune-ilk-adimi-montgolfier-kardeslerin-sicak-hava-balonu",
+    "dateId": "2026-06-03",
+    "title": "Montgolfier Kardeşler: İnsanlığın Gökyüzüyle Buluştuğu An | GenelKultur",
+    "description": "5 Haziran 1783'te Joseph ve Jacques Montgolfier'nin ilk sıcak hava balonu denemesiyle insanlık, yerçekiminin sınırlarını zorlayarak havacılık tarihine damga vurdu. Bu tarihi anın detaylarını keşfedin.",
+    "keywords": [
+      "Montgolfier Kardeşler",
+      "sıcak hava balonu",
+      "havacılık tarihi",
+      "ilk uçuş",
+      "Joseph Montgolfier",
+      "Jacques Montgolfier",
+      "Annonay",
+      "1783",
+      "Fransız mucitler",
+      "bilim tarihi",
+      "uçuş",
+      "aerostat"
+    ],
+    "heading": "İnsanlığın Gökyüzüne İlk Adımı: Montgolfier Kardeşlerin Sıcak Hava Balonu",
+    "intro": "İnsanlık tarihi boyunca gökyüzüne ulaşma hayali, efsanelere ve mitlere konu olmuş, kuşların özgürlüğüne imrenen bir arzu olmuştur. Ancak 18. yüzyılın sonlarına doğru, Fransa'nın Annonay kasabasında yaşayan iki kardeş, bu kadim hayali gerçeğe dönüştürmek üzere tarihi bir adıma imza attılar. 5 Haziran 1783'te Joseph ve Jacques Montgolfier, tarihteki ilk halka açık sıcak hava balonu uçuşunu gerçekleştirerek insanlığın gökyüzüyle olan ilişkisini sonsuza dek değiştirecek bir kapı araladılar.",
+    "article": "Joseph ve Jacques Montgolfier, bir kağıt üreticisi ailesinin çocuklarıydı. Ateşin dumanının yükseldiğini gözlemleyerek ve havadan daha hafif bir gazın taşıma gücüne sahip olabileceği fikrinden yola çıkarak deneylere başladılar. İlk basit denemeleri, kumaştan yapılmış küçük bir torbanın altına ateş yakarak yükseldiğini göstermişti. Bu ilk başarı, onları daha büyük ve iddialı bir proje için cesaretlendirdi. Kumaş ve kağıttan devasa bir balon inşa ettiler ve altındaki ateşin oluşturduğu sıcak hava ile doldurarak yükselmeyi amaçladılar. \n\n5 Haziran 1783 tarihinde, Annonay pazarında toplanan kalabalık önünde, 'Ad Ad Astra' (Yıldızlara Doğru) adını verdikleri balonlarını hazırladılar. Balon, yaklaşık 11 metrelik bir çapa ve 790 metreküp hacme sahipti. Altında yanan saman ve yün karışımından çıkan dumanın oluşturduğu sıcak hava ile balon yavaşça şişmeye başladı. Kalabalığın nefeslerini tutarak izlediği bu anlarda, balon yerden yükseldi ve yaklaşık 2 kilometre uzağa, yaklaşık 10 dakika boyunca havada kalarak başarıyla indi. Bu ilk uçuşta insan yerine hayvanlar kullanıldı, ancak bu olay tüm Avrupa'da büyük bir yankı uyandırdı ve havacılık çağının başlangıcı olarak kabul edildi.\n\nMontgolfier Kardeşlerin bu başarısı, sadece bir teknolojik ilerleme olmanın ötesinde, insanlığın hayal gücünü ve bilimsel merakını tetikleyen bir dönüm noktasıydı. Kısa süre sonra, ilk insanlı uçuşlar da gerçekleşecek, Jean-François Pilâtre de Rozier ve Marquis d'Arlandes gibi cesur maceracılar sıcak hava balonlarıyla gökyüzüne yükseleceklerdi. Bu buluş, daha sonraki uçuş teknolojilerinin, zeplinlerin ve nihayetinde uçakların geliştirilmesine ilham kaynağı oldu. Montgolfier Kardeşler, sadece bir balon uçurmakla kalmadılar, aynı zamanda insanoğlunun gökyüzündeki sonsuz potansiyelini de ortaya koymuş oldular.",
+    "category": "bilim",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Montgolfier Kardeşler'in ilk halka açık sıcak hava balonu uçuşunu gerçekleştirdiği tarih nedir?",
+        "options": [
+          "5 Haziran 1783",
+          "4 Temmuz 1776",
+          "14 Temmuz 1789",
+          "1 Ocak 1800"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Montgolfier Kardeşler, ilk halka açık sıcak hava balonu uçuşunu 5 Haziran 1783 tarihinde gerçekleştirdi."
+      },
+      {
+        "id": 2,
+        "text": "Montgolfier Kardeşler, sıcak hava balonu deneylerine başlarken hangi temel gözlemden ilham almışlardır?",
+        "options": [
+          "Suyun buharlaşması",
+          "Ateşin dumanının yükselmesi",
+          "Rüzgarın yönü",
+          "Kuşların kanat çırpması"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Kardeşler, ateşin dumanının yükseldiğini gözlemleyerek ve dumanın taşıma gücüne sahip olabileceği fikrinden yola çıkarak deneylerine başlamışlardır."
+      },
+      {
+        "id": 3,
+        "text": "Montgolfier Kardeşler'in ilk uçuş denemesini gerçekleştirdiği kasabanın adı nedir?",
+        "options": [
+          "Paris",
+          "Lyon",
+          "Annonay",
+          "Versay"
+        ],
+        "correctAnswer": 2,
+        "explanation": "İlk halka açık sıcak hava balonu uçuşu, Fransa'nın Annonay kasabasında gerçekleştirildi."
+      },
+      {
+        "id": 4,
+        "text": "Montgolfier Kardeşler'in mesleği aşağıdakilerden hangisidir?",
+        "options": [
+          "Saatçi",
+          "Doktor",
+          "Kağıt üreticisi",
+          "Tüccar"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Joseph ve Jacques Montgolfier, bir kağıt üreticisi ailesinden gelmekteydi."
+      },
+      {
+        "id": 5,
+        "text": "İlk sıcak hava balonu uçuşunda, deneme amaçlı olarak kimler yolcu olarak kullanılmıştır?",
+        "options": [
+          "İnsanlar",
+          "Sadece Joseph Montgolfier",
+          "Hayvanlar",
+          "Boş balon"
+        ],
+        "correctAnswer": 2,
+        "explanation": "İlk halka açık uçuş denemesinde, insan yerine hayvanlar (bir koyun, bir ördek ve bir horoz) kullanılmıştır."
+      },
+      {
+        "id": 6,
+        "text": "Balonun yaklaşık olarak ne kadar süre havada kaldığı tahmin edilmektedir?",
+        "options": [
+          "2 dakika",
+          "10 dakika",
+          "30 dakika",
+          "1 saat"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Balon, yaklaşık 10 dakika boyunca havada kalarak 2 kilometre uzağa inmiştir."
+      },
+      {
+        "id": 7,
+        "text": "Montgolfier Kardeşler'in ilk balonuna verdikleri isim nedir?",
+        "options": [
+          "Spirit of Annonay",
+          "Ad Astra",
+          "Le Géant",
+          "Phoenix"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Kardeşler, ilk halka açık uçuşlarını gerçekleştirdikleri balonlarına 'Ad Ad Astra' (Yıldızlara Doğru) adını vermişlerdir."
+      },
+      {
+        "id": 8,
+        "text": "Montgolfier Kardeşler'in başarısının havacılık tarihinde önemi nedir?",
+        "options": [
+          "İlk kez jet motoru kullanılması",
+          "İlk kez insanlı uzay uçuşu yapılması",
+          "Havacılık çağının başlangıcı olması",
+          "Uçakların keşfedilmesi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bu başarı, havacılık çağının başlangıcı olarak kabul edilir ve insanlığın gökyüzüne ulaşma hayalini gerçeğe dönüştüren ilk adımdır."
+      },
+      {
+        "id": 9,
+        "text": "Montgolfier Kardeşler'in balonunda kaldırma kuvvetini sağlamak için hangi yakıt kullanılmıştır?",
+        "options": [
+          "Petrol",
+          "Gazyağı",
+          "Saman ve yün karışımı",
+          "Hidrojen gazı"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Balonun altındaki ateş, saman ve yün karışımından çıkan dumanın oluşturduğu sıcak hava ile balonun yükselmesini sağlamıştır."
+      },
+      {
+        "id": 10,
+        "text": "İlk insanlı sıcak hava balonu uçuşunu gerçekleştirenlerden biri aşağıdakilerden hangisidir?",
+        "options": [
+          "Wright Kardeşler",
+          "Louis Blériot",
+          "Jean-François Pilâtre de Rozier",
+          "Leonardo da Vinci"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Montgolfier Kardeşler'in başarısından kısa süre sonra, Jean-François Pilâtre de Rozier ve Marquis d'Arlandes ilk insanlı uçuşu gerçekleştirdiler."
+      },
+      {
+        "id": 11,
+        "text": "Sıcak hava balonunun çalışma prensibi temelde hangi fizik kuralına dayanır?",
+        "options": [
+          "Yerçekimi",
+          "Kaldırma kuvveti (Arşimet Prensibi)",
+          "Atalet",
+          "Sürtünme"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Sıcak hava balonu, sıcak havanın dışarıdaki soğuk havadan daha hafif olması nedeniyle oluşan kaldırma kuvveti prensibiyle çalışır."
+      },
+      {
+        "id": 12,
+        "text": "Montgolfier Kardeşler, hangi ülkeden mucitlerdir?",
+        "options": [
+          "İngiltere",
+          "Almanya",
+          "Fransa",
+          "İtalya"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Joseph ve Jacques Montgolfier, Fransız mucitlerdir."
+      },
+      {
+        "id": 13,
+        "text": "Balonun yaklaşık çapı ne kadardı?",
+        "options": [
+          "5 metre",
+          "11 metre",
+          "20 metre",
+          "30 metre"
+        ],
+        "correctAnswer": 1,
+        "explanation": "İlk halka açık uçuşta kullanılan balonun çapı yaklaşık 11 metreydi."
+      },
+      {
+        "id": 14,
+        "text": "Montgolfier Kardeşler'in bu buluşu, gelecekteki hangi havacılık teknolojilerine ilham kaynağı olmuştur?",
+        "options": [
+          "Denizaltılar",
+          "Buharlı gemiler",
+          "Zeplinler ve uçaklar",
+          "Uzay mekikleri"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bu buluş, daha sonraki uçuş teknolojilerinin, zeplinlerin ve nihayetinde uçakların geliştirilmesine ilham kaynağı olmuştur."
+      },
+      {
+        "id": 15,
+        "text": "İlk sıcak hava balonu gösterisi ne tür bir etkinlikti?",
+        "options": [
+          "Gizli bir askeri test",
+          "Bilimsel bir kongre",
+          "Halka açık bir gösteri",
+          "Sadece kraliyet ailesine özel bir etkinlik"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Montgolfier Kardeşler, Annonay pazarında toplanan kalabalık önünde halka açık bir gösteri düzenlemişlerdir."
+      }
+    ]
   }
 ];
