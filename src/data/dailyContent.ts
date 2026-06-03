@@ -13123,5 +13123,211 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Çıkarma, ilk olarak 5 Haziran için planlanmıştı ancak şiddetli fırtınalar ve kötü deniz koşulları nedeniyle bir gün ertelenerek 6 Haziran'a alındı. Uygun gelgit ve hava koşulları, operasyonun başarısı için hayati öneme sahipti."
       }
     ]
+  },
+  {
+    "slug": "suveys-kanalinin-yeniden-acilisi-uluslararasi-ticaretin-kalbi-tekrar-atiyor",
+    "dateId": "2026-06-03",
+    "title": "Süveyş Kanalı Yeniden Açılıyor: Dünya Ticaretinde Dönüm Noktası | GenelKultur",
+    "description": "1967'deki Altı Gün Savaşı sonrası kapatılan Süveyş Kanalı'nın 1975'te yeniden açılmasının dünya ticareti, jeopolitik dengeler ve Mısır ekonomisi üzerindeki etkilerini keşfedin. Bu tarihi olayın detaylarını öğrenin.",
+    "keywords": [
+      "Süveyş Kanalı",
+      "1975",
+      "Kanalın yeniden açılması",
+      "dünya ticareti",
+      "Mısır",
+      "Altı Gün Savaşı",
+      "deniz yolu",
+      "nakliye",
+      "jeopolitik",
+      "tarihi olay",
+      "Akdeniz",
+      "Kızıldeniz"
+    ],
+    "heading": "Süveyş Kanalı'nın Yeniden Açılışı: Uluslararası Ticaretin Kalbi Tekrar Atıyor",
+    "intro": "Süveyş Kanalı, Doğu ile Batı arasındaki en kısa deniz yolunu sunarak dünya ticaretinin can damarlarından biri olmuştur. Ancak 1967'deki Altı Gün Savaşı, bu hayati geçidin sekiz yıl boyunca kapalı kalmasına neden oldu. 5 Haziran 1975'te kanalın yeniden açılması, sadece Mısır için değil, küresel ekonomi ve jeopolitik dengeler için de tarihi bir dönüm noktasıydı. Bu olay, uzun ve zorlu bir bekleyişin ardından uluslararası denizciliğe nefes aldırdı ve bölgedeki siyasi gerilimi azaltmada önemli bir rol oynadı.",
+    "article": "Süveyş Kanalı, Akdeniz'i Kızıldeniz'e bağlayan ve Avrupa ile Asya arasındaki deniz ticaretini devrim niteliğinde kısaltan, insan yapımı stratejik bir su yoludur. 1869'da açılışından itibaren küresel ekonominin ve jeopolitiğin vazgeçilmez bir parçası haline gelmiştir. Ancak bu hayati geçit, Ortadoğu'daki siyasi çalkantılardan derinden etkilenmiştir. 1967 yılında İsrail ile Arap ülkeleri arasında patlak veren Altı Gün Savaşı sırasında, Mısır yönetimi kanalı stratejik bir tedbir olarak kapatma kararı aldı. Kanalın her iki ucuna batırılan gemiler ve döşenen mayınlar, geçişi tamamen imkansız hale getirdi ve bu durum, dünya ticaretinde büyük bir şoka neden oldu.\n\nKanalın kapanması, sekiz yıl süren zorlu bir döneme yol açtı. Gemi taşımacılığı, Afrika kıtasının çevresinden dolaşmak zorunda kalarak çok daha uzun ve maliyetli rotaları kullanmak zorunda kaldı. Bu durum, özellikle petrol taşımacılığında maliyetleri artırdı ve 1970'li yıllardaki küresel petrol krizini derinleştiren faktörlerden biri oldu. Mısır ekonomisi için de kanal gelirlerinin kaybı büyük bir darbe demekti. Kanalın yeniden açılması, hem Mısır'ın ekonomik iyileşmesi hem de uluslararası ticaretin normalleşmesi için kritik bir öneme sahipti. Bu süreçte, dönemin Mısır Devlet Başkanı Enver Sedat, hem diplomatik çabalara hem de kanalın temizlenmesi ve güvenliğinin sağlanmasına yönelik yoğun bir çalışma başlattı.\n\n5 Haziran 1975'te, Altı Gün Savaşı'nın başlangıcının tam sekizinci yıl dönümünde, Süveyş Kanalı görkemli bir törenle yeniden hizmete açıldı. Törene dünya liderleri ve uluslararası denizcilik camiasından temsilciler katıldı. Sedat'ın liderliğindeki bir konvoyun kanaldan geçmesiyle sembolik bir başlangıç yapıldı. Kanalın yeniden açılması, sadece bir su yolunun hizmete girmesi değil, aynı zamanda Ortadoğu'da barış ve işbirliği için atılan önemli bir adımdı. Uluslararası ticaretin hızlanması, yakıt maliyetlerinin düşmesi ve Mısır'a yeniden akmaya başlayan geçiş ücretleri, küresel ekonomiye ve Mısır'ın kalkınmasına önemli katkılar sağladı. Süveyş Kanalı, günümüzde de dünya ticaretinin en işlek ve stratejik noktalarından biri olarak önemini korumaktadır.",
+    "category": "tarih",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Süveyş Kanalı'nın orijinal açılış tarihi hangi yıldır?",
+        "options": [
+          "1859",
+          "1869",
+          "1879",
+          "1889"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Süveyş Kanalı, 1869 yılında hizmete açılmış ve küresel denizcilikte devrim yaratmıştır."
+      },
+      {
+        "id": 2,
+        "text": "Süveyş Kanalı hangi iki deniz arasında bağlantı kurar?",
+        "options": [
+          "Akdeniz ve Karadeniz",
+          "Akdeniz ve Kızıldeniz",
+          "Kızıldeniz ve Basra Körfezi",
+          "Atlas Okyanusu ve Hint Okyanusu"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Süveyş Kanalı, Akdeniz'i Kızıldeniz'e bağlayarak Avrupa ile Asya arasındaki deniz yolunu önemli ölçüde kısaltır."
+      },
+      {
+        "id": 3,
+        "text": "Süveyş Kanalı neden 1967 yılında kapatılmıştır?",
+        "options": [
+          "Büyük bir doğal afet nedeniyle",
+          "Uluslararası bir ekonomik ambargo yüzünden",
+          "Altı Gün Savaşı nedeniyle stratejik bir tedbir olarak",
+          "Kanalda yapılan genişletme çalışmaları sebebiyle"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kanal, 1967 yılında İsrail ile Arap ülkeleri arasındaki Altı Gün Savaşı'nın patlak vermesiyle Mısır tarafından stratejik bir tedbir olarak kapatılmıştır."
+      },
+      {
+        "id": 4,
+        "text": "Süveyş Kanalı, 1967'deki kapanışından sonra kaç yıl kapalı kalmıştır?",
+        "options": [
+          "5 yıl",
+          "7 yıl",
+          "8 yıl",
+          "10 yıl"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Süveyş Kanalı, 1967'den 1975'e kadar, yani toplamda 8 yıl boyunca kapalı kalmıştır."
+      },
+      {
+        "id": 5,
+        "text": "Kanalın kapanmasının küresel ticaret üzerindeki en büyük ekonomik etkisi ne olmuştur?",
+        "options": [
+          "Hava taşımacılığının artması",
+          "Deniz yoluyla nakliye rotalarının uzaması ve maliyetlerin artması",
+          "Demiryolu taşımacılığının dünya genelinde yaygınlaşması",
+          "Bölgesel deniz ticaretinin tamamen durması"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Kanalın kapanması, gemilerin Afrika'yı dolaşmak zorunda kalmasına, dolayısıyla nakliye sürelerinin ve maliyetlerinin önemli ölçüde artmasına neden olmuştur."
+      },
+      {
+        "id": 6,
+        "text": "Süveyş Kanalı'nın yeniden açılışında hangi Mısır Devlet Başkanı öncü rol oynamıştır?",
+        "options": [
+          "Cemal Abdünnasır",
+          "Enver Sedat",
+          "Hüsnü Mübarek",
+          "Muhammed Mursi"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Kanalın yeniden açılış süreci ve törenine, dönemin Mısır Devlet Başkanı Enver Sedat liderlik etmiştir."
+      },
+      {
+        "id": 7,
+        "text": "Süveyş Kanalı hangi yıl yeniden hizmete açılmıştır?",
+        "options": [
+          "1973",
+          "1974",
+          "1975",
+          "1976"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Süveyş Kanalı, Altı Gün Savaşı'ndan sekiz yıl sonra, 1975 yılında yeniden hizmete açılmıştır."
+      },
+      {
+        "id": 8,
+        "text": "Süveyş Kanalı'nın yeniden açılış tarihi tam olarak hangi gündür?",
+        "options": [
+          "1 Mayıs 1975",
+          "5 Haziran 1975",
+          "23 Temmuz 1975",
+          "6 Ekim 1975"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Kanalın yeniden açılış töreni, 5 Haziran 1975 tarihinde gerçekleşmiştir."
+      },
+      {
+        "id": 9,
+        "text": "5 Haziran tarihinin Süveyş Kanalı'nın yeniden açılışı için seçilmesinin özel bir anlamı var mıdır?",
+        "options": [
+          "Mısır'ın ulusal bayramı olması",
+          "Altı Gün Savaşı'nın başlangıcının yıl dönümü olması",
+          "Kanalın ilk açılışının yıl dönümü olması",
+          "O günün uluslararası denizcilik günü olması"
+        ],
+        "correctAnswer": 1,
+        "explanation": "5 Haziran 1975, Altı Gün Savaşı'nın başlangıcının tam sekizinci yıl dönümüne denk gelerek sembolik bir anlam taşımaktaydı."
+      },
+      {
+        "id": 10,
+        "text": "Kanalın kapanışı sırasında gemicilik şirketleri için en büyük zorluklardan biri neydi?",
+        "options": [
+          "Personel eksikliği",
+          "Afrika kıtasının etrafından dolaşmak zorunda kalmak",
+          "Yeni tip gemilere yatırım yapmak",
+          "Süveyş Kanalı'nda bekleme sürelerinin artması"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Gemicilik şirketleri, kanalın kapalı olması nedeniyle gemilerini Afrika kıtasının etrafından dolaşmak zorunda kaldı, bu da süre ve maliyetleri artırdı."
+      },
+      {
+        "id": 11,
+        "text": "Kanalın kapanması 1970'lerdeki küresel petrol krizini nasıl etkiledi?",
+        "options": [
+          "Petrol fiyatlarını düşürdü",
+          "Petrol taşımacılığı maliyetlerini artırarak krizi derinleştirdi",
+          "Petrol arzını artırdı",
+          "Kriz üzerinde hiçbir etkisi olmadı"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Kanalın kapalı olması, petrol tankerlerinin daha uzun rotalar kullanmasına ve dolayısıyla petrol taşımacılığı maliyetlerinin artmasına neden olarak 1970'li yıllardaki petrol krizini derinleştiren faktörlerden biri olmuştur."
+      },
+      {
+        "id": 12,
+        "text": "Kanalın yeniden açılmasının Mısır ekonomisine anında sağladığı faydalardan biri nedir?",
+        "options": [
+          "Turizm gelirlerinde düşüş",
+          "Tarım ürünleri ihracatında azalma",
+          "Kanal geçiş ücretlerinden elde edilen gelirlerin artması",
+          "Sanayi üretiminde durgunluk"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kanalın yeniden açılmasıyla birlikte, Mısır yeniden kanal geçiş ücretlerinden gelir elde etmeye başladı, bu da ülke ekonomisi için önemli bir katkıydı."
+      },
+      {
+        "id": 13,
+        "text": "Süveyş Kanalı'nın yeniden açılmasının jeopolitik etkisi neydi?",
+        "options": [
+          "Ortadoğu'daki gerilimi artırdı",
+          "Bölgede barış ve işbirliği için önemli bir adım oldu",
+          "Küresel ticaret savaşlarına yol açtı",
+          "Mısır'ın uluslararası ilişkilerini zayıflattı"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Kanalın yeniden açılması, sadece ekonomik değil, aynı zamanda Ortadoğu'da barış ve işbirliği için atılan önemli bir diplomatik adım olarak görüldü."
+      },
+      {
+        "id": 14,
+        "text": "Kanalın yeniden açılmadan önce güvenliğini sağlamak için alınan başlıca önlemler nelerdi?",
+        "options": [
+          "Bölgeye askeri yığınak yapılması",
+          "Sadece belirli ülkelerin gemilerine izin verilmesi",
+          "Kanalın temizlenmesi ve döşenen mayınların kaldırılması",
+          "Gemi boyutlarına kısıtlama getirilmesi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kanalın güvenli bir şekilde yeniden kullanıma açılması için, batırılan gemilerin çıkarılması ve döşenen mayınların temizlenmesi gibi yoğun çalışmalar yapılmıştır."
+      },
+      {
+        "id": 15,
+        "text": "Günümüzde Süveyş Kanalı'nın dünya ticareti açısından önemi nasıl değerlendirilmektedir?",
+        "options": [
+          "Önemini yitirmiştir",
+          "Sadece bölgesel ticarete hizmet etmektedir",
+          "Hala en işlek ve stratejik deniz yollarından biridir",
+          "Alternatif rotaların artmasıyla etkisi azalmıştır"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Süveyş Kanalı, günümüzde de dünya ticaretinin en işlek ve stratejik su yollarından biri olarak küresel ekonomi için hayati önemini korumaktadır."
+      }
+    ]
   }
 ];
