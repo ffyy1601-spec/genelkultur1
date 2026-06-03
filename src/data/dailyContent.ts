@@ -13329,5 +13329,210 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Süveyş Kanalı, günümüzde de dünya ticaretinin en işlek ve stratejik su yollarından biri olarak küresel ekonomi için hayati önemini korumaktadır."
       }
     ]
+  },
+  {
+    "slug": "annapurna-iin-zirvesine-ilk-insan-ayak-basisi-tarihi-bir-tirmanis",
+    "dateId": "2026-06-03",
+    "title": "Annapurna I: İnsanlığın 8000 Metrelik İlk Zaferi | GenelKultur",
+    "description": "3 Haziran 1950'de Fransız dağcılar Maurice Herzog ve Louis Lachenal, 8000 metrelik bir zirveye çıkan ilk insanlar olarak Annapurna I'e ulaştı. Bu tarihi tırmanışın detaylarını ve dağcılık dünyasına etkilerini keşfedin.",
+    "keywords": [
+      "Annapurna I",
+      "Maurice Herzog",
+      "Louis Lachenal",
+      "8000 metre",
+      "ilk tırmanış",
+      "Himalayalar",
+      "dağcılık tarihi",
+      "Fransız Himalaya Seferi",
+      "1950",
+      "zirve",
+      "GenelKultur"
+    ],
+    "heading": "Annapurna I'in Zirvesine İlk İnsan Ayak Basışı: Tarihi Bir Tırmanış",
+    "intro": "Himalayalar'ın görkemli ve acımasız zirveleri, yüzyıllar boyunca insanlığın en büyük meydan okumalarından biri olmuştur. 8000 metrenin üzerindeki bu devasa dağlar, yalnızca fiziksel dayanıklılığı değil, aynı zamanda ruhsal gücü ve keşif arzusunu da sınar. 3 Haziran 1950'de, Fransız bir ekibin cesur üyeleri, dünya dağcılık tarihinde bir dönüm noktasına imza atarak, Annapurna I'in zirvesine ulaşan ilk insanlar oldular. Bu, insanlığın \"ölüm bölgesi\" olarak bilinen bu yüksek rakımlara ilk başarılı adımıydı.",
+    "article": "1950 Fransız Himalaya Seferi, dünyanın o zamana kadar hiç çıkılmamış 8000 metrelik zirvelerinden birine, yani Annapurna I'e odaklanmıştı. Maurice Herzog liderliğindeki ekip, o güne kadar hakkında çok az şey bilinen bu tehlikeli dağa yaklaşmak için uzun ve zorlu bir keşif süreci geçirdi. Coğrafi bilgilerin sınırlı olması ve haritaların yetersizliği nedeniyle, ekip aylarca süren bir arayışın ardından nihayet doğru rotayı bulabildi. Bu süreçte, dağcılar sadece doğanın zorluklarıyla değil, aynı zamanda bilinmeyenin getirdiği psikolojik baskıyla da mücadele etmek zorunda kaldılar.\n\nHerzog ve Louis Lachenal, 3 Haziran'da, yanlarında ekstra oksijen taşımadan, ölümcül bir risk alarak zirve tırmanışına başladılar. Aşırı soğuk, şiddetli rüzgarlar ve kar körlüğü riski altında, inanılmaz bir kararlılıkla ilerlediler. Zirveye ulaştıklarında, Lachenal'in donma belirtileri gösterdiğini ve geri dönmek istediğini, ancak Herzog'un kararlılığıyla devam ettiklerini biliyoruz. Zirvede geçirdikleri kısa süre, tüm zorluklara değmişti; insanlık tarihinde ilk kez 8000 metrelik bir zirve fethedilmişti. Ancak iniş, tırmanıştan daha da dramatik ve tehlikeli oldu.\n\nİniş sırasında yaşanan fırtına, yanlış rotalar ve donma vakaları, ekibi büyük bir felaketin eşiğine getirdi. Herzog ve Lachenal, ellerinde ve ayaklarında ciddi donmalarla hayatta kalma mücadelesi verirken, diğer ekip üyeleri de onlara yardım etmek için büyük çaba sarf etti. Sonunda, uzun ve acı dolu bir kurtarma operasyonunun ardından kamp yerine geri dönebildiler. Hem Herzog hem de Lachenal, yaşadıkları donmalar nedeniyle parmaklarını ve ayak parmaklarını kaybettiler. Bu tırmanış, dağcılık dünyasında hem bir zafer hem de yüksek irtifa tırmanışlarının acımasızlığını gösteren bir ders olarak tarihe geçti. Annapurna I'in zirvesi, Everest'in zirvesine ilk çıkıştan üç yıl önce fethedilerek, dağcılık tarihine altın harflerle yazıldı ve sonraki birçok büyük Himalaya seferine ilham kaynağı oldu.",
+    "category": "genel",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Annapurna I'in zirvesine ilk başarılı tırmanış hangi tarihte gerçekleşmiştir?",
+        "options": [
+          "29 Mayıs 1953",
+          "3 Haziran 1950",
+          "10 Eylül 1954",
+          "23 Nisan 1960"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Annapurna I, 3 Haziran 1950 tarihinde Fransız dağcılar Maurice Herzog ve Louis Lachenal tarafından fethedilerek, 8000 metrelik bir zirveye ilk başarılı tırmanış olmuştur. Everest'in ilk tırmanışı ise 1953'tedir."
+      },
+      {
+        "id": 2,
+        "text": "Annapurna I'in zirvesine çıkan ilk dağcılar hangi ülkenin vatandaşlarıydı?",
+        "options": [
+          "İngiltere",
+          "İtalya",
+          "Fransa",
+          "Nepal"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Annapurna I'in zirvesine ilk çıkan Maurice Herzog ve Louis Lachenal, 1950 Fransız Himalaya Seferi'nin üyeleriydi."
+      },
+      {
+        "id": 3,
+        "text": "1950 Annapurna I Seferi'nin lideri kimdi?",
+        "options": [
+          "Edmund Hillary",
+          "Tenzing Norgay",
+          "Maurice Herzog",
+          "Reinhold Messner"
+        ],
+        "correctAnswer": 2,
+        "explanation": "1950 Fransız Himalaya Seferi'ne Maurice Herzog liderlik etmiştir."
+      },
+      {
+        "id": 4,
+        "text": "Annapurna I'e ilk tırmanış, dağcılık tarihinde ne gibi bir öneme sahiptir?",
+        "options": [
+          "En hızlı tırmanış rekorunu kırmıştır.",
+          "8000 metrelik bir zirveye yapılan ilk başarılı tırmanıştır.",
+          "İlk kış tırmanışı olmuştur.",
+          "Oksijen desteksiz yapılan ilk tırmanıştır."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Annapurna I'e ilk tırmanış, insanlığın 8000 metrelik bir dağın zirvesine ilk başarılı tırmanışı olması açısından tarihi bir öneme sahiptir. Oksijensiz tırmanış kısmı doğrudur ancak temel önemi ilk 8000 metrelik zirve olmasıdır."
+      },
+      {
+        "id": 5,
+        "text": "Annapurna I hangi dağ silsilesinde yer almaktadır?",
+        "options": [
+          "And Dağları",
+          "Alpler",
+          "Himalayalar",
+          "Kayalık Dağlar"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Annapurna I, dünyanın en yüksek dağ silsilesi olan Himalayalar'da yer almaktadır."
+      },
+      {
+        "id": 6,
+        "text": "Maurice Herzog ve Louis Lachenal, zirveye tırmanırken hangi zorlu koşullarla mücadele etmişlerdir?",
+        "options": [
+          "Çığ tehlikesi ve volkanik patlamalar",
+          "Aşırı sıcak ve kuraklık",
+          "Aşırı soğuk, şiddetli rüzgarlar ve kar körlüğü",
+          "Yoğun ormanlık alan ve vahşi hayvan saldırıları"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Zirve tırmanışı sırasında dağcılar, aşırı soğuk, şiddetli rüzgarlar ve kar körlüğü gibi yüksek irtifa dağcılığının tipik zorluklarıyla karşılaşmışlardır."
+      },
+      {
+        "id": 7,
+        "text": "İniş sırasında Herzog ve Lachenal'in yaşadığı en ciddi sorun neydi?",
+        "options": [
+          "Su kıtlığı",
+          "Yüksek irtifa hastalığı",
+          "Donma ve kaybolma",
+          "Çadırlarının yıkılması"
+        ],
+        "correctAnswer": 2,
+        "explanation": "İniş sırasında fırtına, yanlış rotalar ve donma vakaları Herzog ve Lachenal'i büyük tehlikeye atmış, ikisi de donma nedeniyle parmak ve ayak parmaklarını kaybetmiştir."
+      },
+      {
+        "id": 8,
+        "text": "Annapurna I tırmanışı, Everest'e ilk tırmanıştan kaç yıl önce gerçekleşmiştir?",
+        "options": [
+          "1 yıl",
+          "3 yıl",
+          "5 yıl",
+          "7 yıl"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Annapurna I'e ilk tırmanış 1950'de, Everest'e ilk tırmanış ise 1953'te gerçekleştiği için, Annapurna I tırmanışı Everest'ten 3 yıl öncedir."
+      },
+      {
+        "id": 9,
+        "text": "1950 Fransız Himalaya Seferi'nde ekip, Annapurna I'in doğru rotasını bulmakta neden zorlanmıştır?",
+        "options": [
+          "Yetersiz ekipman nedeniyle",
+          "Yerel rehberlerin bilgisizliği yüzünden",
+          "Coğrafi bilgiler ve haritaların sınırlı olması nedeniyle",
+          "Yoğun sis nedeniyle görüş mesafesi düşüktü"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Makalede belirtildiği gibi, o dönemde coğrafi bilgilerin ve haritaların sınırlı olması nedeniyle ekip, aylarca süren bir arayışın ardından doğru rotayı bulabilmiştir."
+      },
+      {
+        "id": 10,
+        "text": "Maurice Herzog, bu tırmanışla ilgili anılarını hangi ünlü kitapta kaleme almıştır?",
+        "options": [
+          "Into Thin Air",
+          "Annapurna",
+          "Seven Years in Tibet",
+          "The Snow Leopard"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Maurice Herzog, Annapurna I tırmanışının detaylarını ve yaşadıklarını \"Annapurna\" adlı kitabında anlatmıştır. Bu kitap dağcılık edebiyatının klasiklerinden biridir."
+      },
+      {
+        "id": 11,
+        "text": "Zirve tırmanışı sırasında Herzog ve Lachenal ekstra oksijen kullanmış mıdır?",
+        "options": [
+          "Evet, tırmanış boyunca kullandılar.",
+          "Hayır, oksijen desteği almadılar.",
+          "Sadece iniş sırasında kullandılar.",
+          "Sadece zirvede kullandılar."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Makalede belirtildiği üzere, Herzog ve Lachenal zirve tırmanışına yanlarında ekstra oksijen taşımadan başlamışlardır, bu da o dönem için büyük bir riskti."
+      },
+      {
+        "id": 12,
+        "text": "Annapurna I'in yaklaşık yüksekliği nedir?",
+        "options": [
+          "7000 metrenin altı",
+          "8000 metrenin üzeri",
+          "6000 metrenin altı",
+          "5000 metrenin üzeri"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Annapurna I, dünyanın 8000 metrenin üzerindeki 14 zirvesinden biridir ve makalede de sürekli \"8000 metrelik zirve\" olarak bahsedilmiştir."
+      },
+      {
+        "id": 13,
+        "text": "Bu tırmanışın ardından Herzog ve Lachenal'in sağlık durumlarında ne gibi kalıcı değişiklikler olmuştur?",
+        "options": [
+          "Yüksek irtifa hastalığı nedeniyle kronik rahatsızlıklar yaşadılar.",
+          "Görme yetilerini kaybettiler.",
+          "Donma nedeniyle parmaklarını ve ayak parmaklarını kaybettiler.",
+          "Yürüyemez hale geldiler."
+        ],
+        "correctAnswer": 2,
+        "explanation": "İniş sırasında yaşadıkları şiddetli donmalar nedeniyle hem Herzog hem de Lachenal, parmaklarını ve ayak parmaklarını kaybetmek zorunda kalmışlardır."
+      },
+      {
+        "id": 14,
+        "text": "Annapurna I tırmanışı, dağcılık dünyasında ne tür bir etki yaratmıştır?",
+        "options": [
+          "Dağcılık sporuna olan ilgiyi azaltmıştır.",
+          "Yüksek irtifa tırmanışlarının imkansız olduğunu kanıtlamıştır.",
+          "Sonraki birçok büyük Himalaya seferine ilham kaynağı olmuştur.",
+          "Dağcılık ekipmanlarının gelişmesini durdurmuştur."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bu tarihi başarı, 8000 metrelik zirvelere tırmanışın mümkün olduğunu göstermiş ve Everest de dahil olmak üzere sonraki birçok büyük Himalaya seferine ilham kaynağı olmuştur."
+      },
+      {
+        "id": 15,
+        "text": "\"Ölüm bölgesi\" tabiri, dağcılıkta hangi rakımı ifade etmek için kullanılır?",
+        "options": [
+          "3000 metrenin üzeri",
+          "5000 metrenin üzeri",
+          "8000 metrenin üzeri",
+          "6000 metrenin üzeri"
+        ],
+        "correctAnswer": 2,
+        "explanation": "\"Ölüm bölgesi\" (death zone), dağcılıkta genellikle 8000 metrenin üzerindeki rakımlar için kullanılan bir tabirdir. Bu yükseklikte insan vücudu kendini yenileyemez ve sürekli bozulmaya başlar."
+      }
+    ]
   }
 ];
