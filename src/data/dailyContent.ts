@@ -12715,5 +12715,208 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Montgolfier Kardeşler, Annonay pazarında toplanan kalabalık önünde halka açık bir gösteri düzenlemişlerdir."
       }
     ]
+  },
+  {
+    "slug": "karadagin-yeniden-dogusu-sirbistan-karadag-birliginin-sonu",
+    "dateId": "2026-06-03",
+    "title": "Karadağ'ın Bağımsızlık Yolculuğu: Sırbistan-Karadağ Birliği'nin Sonu | GenelKultur",
+    "description": "3 Haziran 2006'da Karadağ, Sırbistan-Karadağ Devlet Birliği'nden ayrılarak bağımsızlığını ilan etti. Bu tarihi olayın öncesini, sonrasını ve etkilerini keşfedin.",
+    "keywords": [
+      "Karadağ bağımsızlığı",
+      "Sırbistan-Karadağ",
+      "2006",
+      "Balkanlar",
+      "referandum",
+      "Avrupa tarihi",
+      "devlet birliği",
+      "bağımsızlık ilan",
+      "Güneydoğu Avrupa"
+    ],
+    "heading": "Karadağ'ın Yeniden Doğuşu: Sırbistan-Karadağ Birliği'nin Sonu",
+    "intro": "Balkanlar, tarih boyunca stratejik konumu ve kültürel çeşitliliğiyle pek çok değişime sahne olmuştur. Yugoslavya'nın dağılmasıyla başlayan bu süreçte, eski cumhuriyetler bir bir bağımsızlıklarını kazanırken, Sırbistan ve Karadağ arasındaki ilişki farklı bir rota izlemişti. Ancak 3 Haziran 2006 tarihi, bu iki devletin birliğini resmen sona erdiren ve Karadağ'ın Avrupa sahnesindeki yerini yeniden tanımlayan önemli bir dönüm noktası oldu.",
+    "article": "Yugoslavya Sosyalist Federal Cumhuriyeti'nin 1990'lı yılların başında kanlı bir şekilde parçalanmasının ardından, federal yapının iki küçük cumhuriyeti Sırbistan ve Karadağ, 1992 yılında \"Yugoslavya Federal Cumhuriyeti\" adı altında birliği sürdürme kararı aldı. Bu birlik, uluslararası arenada yeni Sırbistan ve Karadağ olarak anılsa da, iç dinamikleri ve uluslararası tanınma sorunlarıyla boğuştu. Özellikle Kosova Savaşı ve NATO müdahalesi gibi olaylar, birliğin dışarıdan ve içeriden aldığı baskıları artırdı.\n\n2003 yılında, uluslararası arabuluculuk ve özellikle Avrupa Birliği'nin teşvikiyle, Yugoslavya Federal Cumhuriyeti'nin adı \"Sırbistan-Karadağ Devlet Birliği\" olarak değiştirildi. Bu yeni yapı, iki üye devletin daha fazla özerkliğe sahip olduğu ve üç yıl sonra her iki devletin de bağımsızlık referandumu yapma hakkını içeren gevşek bir konfederasyondu. Karadağ, ekonomik ve siyasi olarak Sırbistan'dan farklı bir yol izleme arayışındaydı ve bu referandum hakkı, bağımsızlık yanlısı hareket için önemli bir kazanım olarak görüldü.\n\n21 Mayıs 2006 tarihinde Karadağ'da yapılan bağımsızlık referandumu, tüm dünyanın dikkatini çekti. Avrupa Birliği, referandumun geçerli sayılması için %55'lik bir katılım barajı ve bağımsızlık için %55'lik bir \"evet\" oyu sınırı koymuştu. Bu zorlu eşiğe rağmen, Karadağ halkı bağımsızlığa \"evet\" dedi. %86.3'lük rekor katılım oranıyla yapılan referandumda, oyların %55.5'i bağımsızlık yönünde kullanıldı. Bu tarihi sonucun ardından, 3 Haziran 2006'da Karadağ Parlamentosu bağımsızlık ilanını onayladı ve Sırbistan-Karadağ Devlet Birliği resmen sona erdi. Karadağ, böylece Avrupa'nın en yeni bağımsız devleti olarak uluslararası camiada yerini aldı ve Birleşmiş Milletler'e üye oldu. Bu olay, Balkanlar'da barışçıl yollarla gerçekleşen son önemli devlet ayrılığı olarak tarihe geçti ve bölgedeki siyasi haritanın nihai şekillenmesinde kilit bir rol oynadı.",
+    "category": "tarih",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Yugoslavya'nın dağılmasının ardından Sırbistan ve Karadağ'ın 1992 yılında kurduğu devletin adı neydi?",
+        "options": [
+          "Yugoslavya Sosyalist Federal Cumhuriyeti",
+          "Sırbistan-Karadağ Devlet Birliği",
+          "Yugoslavya Federal Cumhuriyeti",
+          "Balkan Federal Devleti"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Yugoslavya'nın kanlı dağılma sürecinden sonra, Sırbistan ve Karadağ, 1992 yılında 'Yugoslavya Federal Cumhuriyeti' adı altında birliği devam ettirme kararı aldı."
+      },
+      {
+        "id": 2,
+        "text": "'Yugoslavya Federal Cumhuriyeti'nin resmen 'Sırbistan-Karadağ Devlet Birliği' olarak yeniden adlandırılması ne zaman gerçekleşti?",
+        "options": [
+          "1992",
+          "2003",
+          "1999",
+          "2006"
+        ],
+        "correctAnswer": 1,
+        "explanation": "2003 yılında, uluslararası arabuluculuk ve Avrupa Birliği'nin teşvikiyle, devletin adı 'Sırbistan-Karadağ Devlet Birliği' olarak değiştirildi."
+      },
+      {
+        "id": 3,
+        "text": "'Sırbistan-Karadağ Devlet Birliği' anlaşmasının gelecekteki bağımsızlık referandumları ile ilgili temel hükmü neydi?",
+        "options": [
+          "Karadağ'ın derhal bağımsız olması",
+          "Sırbistan'ın Avrupa Birliği'ne katılması durumunda Karadağ'ın ayrılması",
+          "Üç yıl sonra her iki devletin de bağımsızlık referandumu yapma hakkı",
+          "Birleşmiş Milletler'in onayıyla bağımsızlık ilanı"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Yeni yapı, her iki üye devletin de üç yıl sonra bağımsızlık referandumu yapma hakkını içeriyordu."
+      },
+      {
+        "id": 4,
+        "text": "Avrupa Birliği tarafından Karadağ'ın bağımsızlık referandumunun geçerli sayılması için gerekli olan 'evet' oyu yüzdesi kaçtır?",
+        "options": [
+          "%50",
+          "%50.5",
+          "%55",
+          "%60"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Avrupa Birliği, referandumun geçerli sayılması için %55'lik zorlu bir 'evet' oyu barajı belirlemişti."
+      },
+      {
+        "id": 5,
+        "text": "Karadağ, referandumun ardından resmen bağımsızlığını ne zaman ilan etti?",
+        "options": [
+          "21 Mayıs 2006",
+          "3 Haziran 2006",
+          "21 Mayıs 2003",
+          "3 Haziran 2003"
+        ],
+        "correctAnswer": 1,
+        "explanation": "21 Mayıs 2006'daki referandumun ardından, 3 Haziran 2006'da Karadağ Parlamentosu bağımsızlık ilanını onayladı."
+      },
+      {
+        "id": 6,
+        "text": "Bağımsızlığını kazandıktan kısa bir süre sonra Karadağ, hangi uluslararası kuruluşa üye oldu?",
+        "options": [
+          "NATO",
+          "Avrupa Birliği",
+          "Birleşmiş Milletler",
+          "Bağımsız Devletler Topluluğu"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Karadağ, bağımsızlığını ilan ettikten sonra Birleşmiş Milletler'e üye olarak uluslararası camiadaki yerini aldı."
+      },
+      {
+        "id": 7,
+        "text": "Karadağ bağımsızlık referandumunda kaydedilen seçmen katılım oranı neydi?",
+        "options": [
+          "%75.2",
+          "%80.1",
+          "%86.3",
+          "%90.5"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Referandum, %86.3 gibi rekor bir katılım oranıyla gerçekleşti."
+      },
+      {
+        "id": 8,
+        "text": "Karadağ referandumunda bağımsızlığa 'evet' diyen oyların yüzdesi ne kadardı?",
+        "options": [
+          "%50.5",
+          "%52.3",
+          "%55.5",
+          "%58.0"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Oyların %55.5'i bağımsızlık yönünde kullanılarak Avrupa Birliği'nin belirlediği baraj aşıldı."
+      },
+      {
+        "id": 9,
+        "text": "2003 yılında Yugoslavya Federal Cumhuriyeti'nin Sırbistan-Karadağ Devlet Birliği'ne dönüşmesinde arabuluculuk rolü oynayan önemli uluslararası kuruluş hangisiydi?",
+        "options": [
+          "Birleşmiş Milletler",
+          "NATO",
+          "Avrupa Birliği",
+          "Uluslararası Para Fonu"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Avrupa Birliği, birliğin gevşek bir konfederasyona dönüşmesinde önemli bir teşvik ve arabuluculuk rolü oynadı."
+      },
+      {
+        "id": 10,
+        "text": "Makalede, Karadağ'ın bağımsızlığının 'Balkanlar'da barışçıl yollarla gerçekleşen son önemli devlet ayrılığı' olduğu belirtiliyor. Bundan önce şiddetli dağılmayla sonuçlanan olay hangisidir?",
+        "options": [
+          "Çekoslovakya'nın dağılması",
+          "Doğu Almanya ve Batı Almanya'nın birleşmesi",
+          "Yugoslavya'nın dağılması",
+          "Sovyetler Birliği'nin çözülmesi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "1990'lı yılların başındaki Yugoslavya'nın dağılması, kanlı savaşlarla karakterize edilmişti, Karadağ'ın ayrılığı ise barışçıl bir süreçti."
+      },
+      {
+        "id": 11,
+        "text": "Karadağ'ın Sırbistan'dan farklı bir yol izlemesinin ana nedenlerinden biri neydi?",
+        "options": [
+          "Daha az özerklik istemesi",
+          "Askeri bir güç olmak istemesi",
+          "Ekonomik ve siyasi olarak farklı bir yol izleme arayışı",
+          "Avrupa Birliği'ne katılmak istememesi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Karadağ, Sırbistan'dan farklı bir ekonomik ve siyasi vizyona sahipti ve daha fazla özerklik arayışındaydı."
+      },
+      {
+        "id": 12,
+        "text": "1990'lı yılların sonlarında Sırbistan ve Karadağ birliği üzerindeki dış baskıyı artıran büyük çatışma hangisiydi?",
+        "options": [
+          "Bosna Savaşı",
+          "Körfez Savaşı",
+          "Kosova Savaşı ve NATO müdahalesi",
+          "Hırvatistan Bağımsızlık Savaşı"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kosova Savaşı ve ardından gelen NATO müdahalesi, birliğin üzerindeki uluslararası baskıyı önemli ölçüde artırdı."
+      },
+      {
+        "id": 13,
+        "text": "'Sırbistan-Karadağ Devlet Birliği' nasıl bir yönetim yapısına sahipti?",
+        "options": [
+          "Sıkı bir federasyon",
+          "Merkeziyetçi bir cumhuriyet",
+          "Gevşek bir konfederasyon",
+          "Tamamen bağımsız iki devlet"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bu birlik, üye devletlere daha fazla özerklik tanıyan gevşek bir konfederasyon olarak tanımlandı."
+      },
+      {
+        "id": 14,
+        "text": "Bağımsızlığından önce, Sırbistan ile birlik halindeyken Karadağ uluslararası alanda genellikle nasıl algılanıyordu?",
+        "options": [
+          "Tamamen bağımsız bir devlet olarak",
+          "Sırbistan'ın bir eyaleti olarak",
+          "Uluslararası tanınma sorunları yaşayan bir yapı içinde",
+          "Avrupa Birliği'nin tam üyesi olarak"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Yugoslavya Federal Cumhuriyeti, iç dinamikleri ve uluslararası tanınma sorunlarıyla boğuşuyordu."
+      },
+      {
+        "id": 15,
+        "text": "Karadağ'ın bağımsızlığı, hangi bölgenin siyasi haritasının nihai şekillenmesinde kilit bir rol oynamıştır?",
+        "options": [
+          "Doğu Avrupa",
+          "Orta Doğu",
+          "Balkanlar",
+          "İskandinavya"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bu olay, Balkanlar'daki siyasi haritanın son halini almasında kritik bir aşamaydı."
+      }
+    ]
   }
 ];
