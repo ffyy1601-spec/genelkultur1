@@ -14352,5 +14352,209 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Kongrenin dikkat çekici özelliklerinden biri, mağlup Fransa'ya karşı nispeten ılımlı bir yaklaşım sergilenmesi ve onun da Avrupa'nın yeni düzeninde bir aktör olarak kabul edilmesiydi."
       }
     ]
+  },
+  {
+    "slug": "kibris-sozlesmesi-osmanlidan-ingiliz-yonetimine-gecis-ve-tarihi-yansimalari",
+    "dateId": "2026-06-04",
+    "title": "Kıbrıs Sözleşmesi: Bir Adanın Kaderini Değiştiren Diplomatik Hamle | Tarihte Bugün",
+    "description": "4 Haziran 1878'de imzalanan Kıbrıs Sözleşmesi, Osmanlı İmparatorluğu'nun Kıbrıs'ı İngiltere'ye devretmesini ve adanın jeopolitik geleceğini şekillendiren kritik bir olayı anlatıyor. Bu gizli anlaşmanın detaylarını ve sonuçlarını keşfedin.",
+    "keywords": [
+      "Kıbrıs Sözleşmesi",
+      "Kıbrıs",
+      "Osmanlı İmparatorluğu",
+      "İngiltere",
+      "1878",
+      "Berlin Kongresi",
+      "93 Harbi",
+      "Sultan Abdülhamid II",
+      "Lord Salisbury",
+      "Akdeniz stratejisi"
+    ],
+    "heading": "Kıbrıs Sözleşmesi: Osmanlı'dan İngiliz Yönetimine Geçiş ve Tarihi Yansımaları",
+    "intro": "19. yüzyılın sonlarına doğru, Avrupa'daki büyük güçler arasında yaşanan rekabet ve Osmanlı İmparatorluğu'nun zayıflayan konumu, Doğu Akdeniz'i stratejik bir çekişme alanına dönüştürmüştü. Özellikle 1877-1878 Osmanlı-Rus Savaşı'nın (93 Harbi) ağır sonuçları, Osmanlı'yı uluslararası arenada zor durumda bırakmış ve büyük tavizler vermeye zorlamıştı. İşte bu kritik dönemde, 4 Haziran 1878 tarihinde imzalanan Kıbrıs Sözleşmesi, küçük bir ada olan Kıbrıs'ın yönetimini Osmanlı'dan İngiltere'ye devrederek, sadece adanın değil, tüm bölgenin siyasi haritasında derin izler bırakacak bir dönüm noktası olmuştur.",
+    "article": "Kıbrıs Sözleşmesi, Osmanlı İmparatorluğu ile Büyük Britanya arasında, Rusya'nın Osmanlı toprakları üzerindeki emellerine karşı bir ittifak arayışının sonucuydu. 93 Harbi'nde ağır bir yenilgi alan Osmanlı, Rusya ile Ayastefanos Antlaşması'nı imzalamak zorunda kalmış, bu da Avrupa'da dengeleri altüst etmişti. İngiltere, Rusya'nın sıcak denizlere inme politikası ve Süveyş Kanalı rotası üzerindeki Hindistan yolu güvenliği açısından Akdeniz'de güçlü bir konuma sahip olmak istiyordu. Bu koşullar altında, İngiltere, Osmanlı'ya Rusya'ya karşı askeri yardım ve toprak bütünlüğünü koruma sözü karşılığında Kıbrıs'ın yönetimini talep etti. Anlaşma, Berlin Kongresi'nden hemen önce, 4 Haziran 1878'de, o dönemin Osmanlı Sadrazamı Safvet Paşa ile İngiliz Dışişleri Bakanı Lord Salisbury arasında gizlice imzalandı.\n\nSözleşme, Kıbrıs'ın mülkiyetinin Osmanlı İmparatorluğu'nda kalmakla birlikte, yönetiminin İngiltere'ye \"kiralanması\" şeklinde formüle edilmişti. Ancak bu kiralama, İngiltere'ye adayı fiilen yönetme ve kullanma hakkı veriyordu. Anlaşmanın en dikkat çekici maddelerinden biri, Rusya'nın Kars, Ardahan ve Batum'u Osmanlı'ya iade etmesi durumunda İngiltere'nin Kıbrıs'ı boşaltması hükmüydü. Ancak Rusya'nın bu toprakları geri vermemesi ve İngiltere'nin adadaki stratejik çıkarları, Kıbrıs'ın İngiliz yönetiminde kalıcılaşmasına yol açtı. İngiltere, anlaşma karşılığında Osmanlı'nın Asya'daki topraklarını Rusya'dan koruma taahhüdünde bulundu.\n\nKıbrıs Sözleşmesi, adanın modern tarihinde yeni bir dönemin başlangıcı oldu. İngiliz yönetimi, adaya yeni bir idari yapı, hukuk sistemi ve ekonomik düzen getirdi. Ancak bu durum, Kıbrıs'taki Türk ve Rum toplulukları arasında uzun vadede farklı siyasi emellerin gelişmesine zemin hazırladı. İngiltere, Birinci Dünya Savaşı'nın patlak vermesiyle Osmanlı İmparatorluğu'nun İttifak Devletleri safında savaşa girmesi üzerine, 1914 yılında Kıbrıs'ı resmen ilhak ettiğini duyurdu. Lozan Barış Antlaşması (1923) ile Türkiye Cumhuriyeti de bu ilhakı tanıdı. Kıbrıs Sözleşmesi, adanın günümüzdeki karmaşık siyasi yapısının ve toplumsal bölünmüşlüğünün temellerini atan önemli bir tarihi olay olarak hafızalardaki yerini korumaktadır.",
+    "category": "tarih",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Kıbrıs Sözleşmesi hangi iki devlet arasında imzalanmıştır?",
+        "options": [
+          "Osmanlı İmparatorluğu ve Rusya",
+          "Osmanlı İmparatorluğu ve İngiltere",
+          "İngiltere ve Rusya",
+          "Fransa ve Osmanlı İmparatorluğu"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Kıbrıs Sözleşmesi, 4 Haziran 1878 tarihinde Osmanlı İmparatorluğu ile Büyük Britanya arasında imzalanmıştır."
+      },
+      {
+        "id": 2,
+        "text": "Kıbrıs Sözleşmesi hangi tarihte imzalanmıştır?",
+        "options": [
+          "24 Mayıs 1878",
+          "4 Haziran 1878",
+          "13 Temmuz 1878",
+          "20 Ağustos 1878"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Anlaşma metninde belirtildiği üzere, Kıbrıs Sözleşmesi 4 Haziran 1878 tarihinde imzalanmıştır."
+      },
+      {
+        "id": 3,
+        "text": "Kıbrıs Sözleşmesi'nin imzalanmasının temel nedenlerinden biri aşağıdakilerden hangisidir?",
+        "options": [
+          "Osmanlı'nın Kıbrıs'ı Yunanistan'a vermek istemesi",
+          "İngiltere'nin Rusya'nın sıcak denizlere inmesini engelleme isteği",
+          "Fransa'nın Akdeniz'deki hakimiyetini artırmak istemesi",
+          "Kıbrıs'taki isyanları bastırmak"
+        ],
+        "correctAnswer": 1,
+        "explanation": "İngiltere, Rusya'nın Akdeniz'e yayılma ve Hindistan yolu güvenliği üzerindeki potansiyel tehditlerini engellemek amacıyla Kıbrıs'ı stratejik bir üs olarak görmek istemiştir."
+      },
+      {
+        "id": 4,
+        "text": "Kıbrıs Sözleşmesi, hangi büyük uluslararası kongreden hemen önce imzalanmıştır?",
+        "options": [
+          "Paris Kongresi",
+          "Viyana Kongresi",
+          "Berlin Kongresi",
+          "Londra Konferansı"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Sözleşme, 13 Haziran - 13 Temmuz 1878 tarihleri arasında gerçekleşen Berlin Kongresi'nden kısa bir süre önce, 4 Haziran 1878'de gizlice imzalanmıştır."
+      },
+      {
+        "id": 5,
+        "text": "Kıbrıs Sözleşmesi'ne göre Kıbrıs'ın mülkiyeti kime ait kalmıştır?",
+        "options": [
+          "İngiltere'ye",
+          "Osmanlı İmparatorluğu'na",
+          "Yunanistan'a",
+          "Uluslararası bir komisyona"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Sözleşme, Kıbrıs'ın mülkiyetinin Osmanlı İmparatorluğu'nda kalacağını ancak yönetiminin İngiltere'ye devredileceğini belirtmiştir. Bu durum 'kiralama' olarak ifade edilmiştir."
+      },
+      {
+        "id": 6,
+        "text": "Kıbrıs Sözleşmesi'nde, İngiltere'nin Kıbrıs'ı boşaltması hangi koşula bağlanmıştır?",
+        "options": [
+          "Osmanlı'nın borçlarını ödemesi",
+          "Rusya'nın Kars, Ardahan ve Batum'u Osmanlı'ya iade etmesi",
+          "Kıbrıs'ta referandum yapılması",
+          "İngiltere'nin Hindistan'dan çekilmesi"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Anlaşmanın kritik maddelerinden biri, Rusya'nın Kars, Ardahan ve Batum'u Osmanlı'ya iade etmesi durumunda İngiltere'nin adayı boşaltması hükmüydü."
+      },
+      {
+        "id": 7,
+        "text": "Kıbrıs Sözleşmesi döneminde Osmanlı İmparatorluğu'nda tahtta hangi padişah bulunuyordu?",
+        "options": [
+          "Sultan Abdülmecid",
+          "Sultan Abdülaziz",
+          "Sultan II. Abdülhamid",
+          "Sultan V. Mehmet Reşad"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kıbrıs Sözleşmesi, Sultan II. Abdülhamid'in saltanatı döneminde imzalanmıştır."
+      },
+      {
+        "id": 8,
+        "text": "Kıbrıs Sözleşmesi'nde İngiltere'yi temsil eden Dışişleri Bakanı kimdi?",
+        "options": [
+          "William Gladstone",
+          "Benjamin Disraeli",
+          "Lord Salisbury",
+          "Lord Palmerston"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Anlaşma, İngiliz Dışişleri Bakanı Lord Salisbury ile Osmanlı Sadrazamı Safvet Paşa arasında imzalanmıştır."
+      },
+      {
+        "id": 9,
+        "text": "Kıbrıs Sözleşmesi hangi savaştan sonra imzalanan Ayastefanos Antlaşması'nın getirdiği durumdan etkilenmiştir?",
+        "options": [
+          "Kırım Savaşı",
+          "Balkan Savaşları",
+          "93 Harbi (Osmanlı-Rus Savaşı)",
+          "Trablusgarp Savaşı"
+        ],
+        "correctAnswer": 2,
+        "explanation": "1877-1878 Osmanlı-Rus Savaşı (93 Harbi) sonrasında imzalanan Ayastefanos Antlaşması, Osmanlı için ağır şartlar içeriyordu ve bu durum İngiltere'yi harekete geçmeye itti."
+      },
+      {
+        "id": 10,
+        "text": "İngiltere, Birinci Dünya Savaşı sırasında Osmanlı İmparatorluğu'nun hangi safta yer alması üzerine Kıbrıs'ı resmen ilhak etmiştir?",
+        "options": [
+          "İtilaf Devletleri",
+          "Bağlantısızlar",
+          "İttifak Devletleri",
+          "Tarafsızlar"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Osmanlı İmparatorluğu'nun İttifak Devletleri safında Birinci Dünya Savaşı'na girmesi üzerine İngiltere, 1914 yılında Kıbrıs'ı ilhak ettiğini duyurmuştur."
+      },
+      {
+        "id": 11,
+        "text": "Kıbrıs Sözleşmesi'nin imzalandığı sırada Osmanlı Sadrazamı kimdi?",
+        "options": [
+          "Midhat Paşa",
+          "Safvet Paşa",
+          "Mehmed Rüşdi Paşa",
+          "Said Halim Paşa"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Sözleşme metninde Osmanlı tarafını Sadrazam Safvet Paşa temsil etmiştir."
+      },
+      {
+        "id": 12,
+        "text": "Kıbrıs Sözleşmesi ile Kıbrıs'ın idaresinin İngiltere'ye devredilmesi hangi ifadeyle tanımlanmıştır?",
+        "options": [
+          "Tam devir",
+          "Bağımsızlık",
+          "Kiralama/geçici işgal",
+          "Ortak yönetim"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Sözleşmede 'kiralanması' veya 'geçici işgal' şeklinde bir yönetim devri tanımlanmış, mülkiyetin Osmanlı'da kaldığı vurgulanmıştır."
+      },
+      {
+        "id": 13,
+        "text": "İngiltere için Kıbrıs'ın stratejik önemi aşağıdakilerden hangisiyle doğrudan ilişkilidir?",
+        "options": [
+          "Zengin maden yatakları",
+          "Pamuk üretimi",
+          "Süveyş Kanalı ve Hindistan yolu güvenliği",
+          "Avrupa'ya yakınlığı"
+        ],
+        "correctAnswer": 2,
+        "explanation": "İngiltere, Akdeniz'deki ana deniz yolu olan Süveyş Kanalı'nın güvenliğini sağlamak ve Hindistan ile olan bağlantısını korumak için Kıbrıs'ın stratejik konumunu önemsemiştir."
+      },
+      {
+        "id": 14,
+        "text": "Kıbrıs Sözleşmesi'nin ardından, Türkiye Cumhuriyeti ne zaman İngiltere'nin Kıbrıs üzerindeki ilhakını tanımıştır?",
+        "options": [
+          "Mondros Mütarekesi",
+          "Sevr Antlaşması",
+          "Lozan Barış Antlaşması",
+          "Ankara Antlaşması"
+        ],
+        "correctAnswer": 2,
+        "explanation": "1923 tarihli Lozan Barış Antlaşması ile Türkiye Cumhuriyeti, İngiltere'nin Kıbrıs'ı ilhak ettiğini resmen tanımıştır."
+      },
+      {
+        "id": 15,
+        "text": "Kıbrıs Sözleşmesi'nin imzalanmasının, Osmanlı İmparatorluğu'nun jeopolitik konumu üzerindeki en önemli etkisi nedir?",
+        "options": [
+          "Akdeniz'deki hakimiyetini güçlendirmesi",
+          "Rusya'ya karşı İngiliz desteğini alması karşılığında toprak kaybetmesi",
+          "Avrupa ile ilişkilerini tamamen kesmesi",
+          "Ortadoğu'daki gücünü artırması"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Anlaşma, Osmanlı'ya Rusya'ya karşı sözde bir İngiliz koruması sağlamış gibi görünse de, fiilen stratejik bir ada olan Kıbrıs'ın yönetimini İngiltere'ye devrederek önemli bir toprak kaybına yol açmıştır."
+      }
+    ]
   }
 ];
