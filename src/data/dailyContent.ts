@@ -13947,5 +13947,208 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Tele ekranlar (telescreens), Parti'nin vatandaşları 24 saat boyunca izlediği ve onlara propaganda yayınladığı iki yönlü iletişim cihazlarıdır."
       }
     ]
+  },
+  {
+    "slug": "trianon-antlasmasi-bir-imparatorlugun-sonu-ve-uluslarin-yeniden-cizilen-sinirlari",
+    "dateId": "2026-06-04",
+    "title": "Trianon Antlaşması: Macaristan'ın Kaderini Değiştiren İmza | GenelKultur",
+    "description": "4 Haziran 1920'de imzalanan Trianon Antlaşması'nın Macaristan ve Orta Avrupa üzerindeki yıkıcı etkilerini, tarihsel süreçlerini ve günümüzdeki yansımalarını keşfedin.",
+    "keywords": [
+      "Trianon Antlaşması",
+      "Macaristan tarihi",
+      "I. Dünya Savaşı",
+      "Orta Avrupa",
+      "toprak kayıpları",
+      "revizyonizm",
+      "imparatorlukların sonu",
+      "antlaşmalar",
+      "4 Haziran 1920"
+    ],
+    "heading": "Trianon Antlaşması: Bir İmparatorluğun Sonu ve Ulusların Yeniden Çizilen Sınırları",
+    "intro": "4 Haziran 1920 tarihi, Orta Avrupa'nın kaderini kökten değiştiren bir imzaya sahne oldu: Trianon Antlaşması. I. Dünya Savaşı'nın galipleri ile Macaristan Krallığı arasında imzalanan bu antlaşma, Macaristan için sadece toprak kayıplarını değil, aynı zamanda derin bir ulusal travmayı da beraberinde getirdi. Günümüzde bile tartışılan etkileriyle Trianon, tarihin sayfalarında acı bir miras olarak duruyor.",
+    "article": "I. Dünya Savaşı'nın sona ermesiyle birlikte, mağlup devletlerle barış antlaşmaları imzalandı. Avusturya-Macaristan İmparatorluğu'nun parçalanmasının ardından bağımsız bir devlet olarak ortaya çıkan Macaristan Krallığı, İtilaf Devletleri'nin (başta Fransa, İngiltere, İtalya ve ABD) hazırladığı ağır şartlar içeren bir antlaşmayı kabul etmek zorunda kaldı. Paris Barış Konferansı sürecinde müzakereler yürütülmüş olsa da, Macar delegasyonunun itirazları büyük ölçüde göz ardı edildi. Antlaşma, Fransa'nın Versailles Sarayı yakınlarındaki Trianon Şatosu'nda imzalandığı için \"Trianon Antlaşması\" adını aldı.\n\nAntlaşma şartları, Macaristan için yıkıcıydı. Macaristan Krallığı, eski topraklarının yaklaşık üçte ikisini ve nüfusunun üçte birinden fazlasını kaybetti. Slovakya, Transilvanya, Hırvatistan, Voyvodina gibi önemli bölgeler Çekoslovakya, Romanya, Yugoslavya ve Avusturya gibi komşu devletlere bırakıldı. Bu toprak kayıpları, milyonlarca etnik Macar'ın yeni kurulan veya genişleyen komşu ülkelerin sınırları içinde azınlık durumuna düşmesine neden oldu. Ayrıca, Macar ordusunun büyüklüğü de kısıtlandı ve savaş tazminatları ödemek zorunda bırakıldı.\n\nTrianon Antlaşması'nın etkileri günümüze kadar uzanmaktadır. Antlaşma, Macaristan'da \"Trianon Travması\" olarak bilinen kalıcı bir ulusal üzüntü ve revizyonist (sınırların yeniden düzenlenmesi) hareketlerin doğmasına yol açtı. İki dünya savaşı arası dönemde Macaristan'ın dış politikasında önemli bir rol oynayan bu revizyonist eğilimler, II. Dünya Savaşı'na giden süreçte de etkili oldu. Günümüzde bile Macaristan'da Trianon anılmakta, antlaşmanın yol açtığı kayıplar ve azınlık durumundaki Macarların durumu tartışılmaktadır. Trianon, sadece bir barış antlaşması olmanın ötesinde, Orta Avrupa'nın etnik ve siyasi haritasını derinden etkileyen karmaşık bir miras bırakmıştır.",
+    "category": "tarih",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Trianon Antlaşması hangi tarihte imzalanmıştır?",
+        "options": [
+          "11 Kasım 1918",
+          "28 Haziran 1919",
+          "4 Haziran 1920",
+          "10 Ağustos 1920"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Trianon Antlaşması, 4 Haziran 1920 tarihinde Fransa'nın Trianon Şatosu'nda imzalanmıştır."
+      },
+      {
+        "id": 2,
+        "text": "Antlaşma, I. Dünya Savaşı'nın hangi devletleri ile Macaristan arasında imzalanmıştır?",
+        "options": [
+          "Müttefik Devletler",
+          "İttifak Devletleri",
+          "İtilaf Devletleri",
+          "Tarafsız Devletler"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Antlaşma, I. Dünya Savaşı'nın galip tarafları olan İtilaf Devletleri (Fransa, İngiltere, İtalya, ABD gibi) ile Macaristan Krallığı arasında yapılmıştır."
+      },
+      {
+        "id": 3,
+        "text": "Trianon Antlaşması'nın imzalandığı yer neresidir?",
+        "options": [
+          "Versailles Sarayı",
+          "Trianon Şatosu",
+          "Nevvar Nehri Kıyısı",
+          "St. Germain Sarayı"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Antlaşma, Fransa'nın Versailles Sarayı yakınlarındaki Trianon Şatosu'nda imzalandığı için bu adı almıştır."
+      },
+      {
+        "id": 4,
+        "text": "Trianon Antlaşması sonucunda Macaristan Krallığı topraklarının yaklaşık ne kadarını kaybetmiştir?",
+        "options": [
+          "Dörtte birini",
+          "Yarısını",
+          "Üçte ikisini",
+          "Dörtte üçünü"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Macaristan, antlaşma ile eski topraklarının yaklaşık üçte ikisini kaybetmiştir, bu da ülkenin coğrafi yapısında büyük bir değişime yol açmıştır."
+      },
+      {
+        "id": 5,
+        "text": "Aşağıdaki bölgelerden hangisi Trianon Antlaşması ile Macaristan'ın kaybettiği önemli bölgelerden biri DEĞİLDİR?",
+        "options": [
+          "Transilvanya",
+          "Slovakya",
+          "Hırvatistan",
+          "Bohemya"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Bohemya, bugünkü Çek Cumhuriyeti'nin bir parçası olup Macaristan'ın kaybettiği bölgeler arasında yer almamaktadır. Transilvanya, Slovakya ve Hırvatistan ise Macaristan'dan ayrılan topraklardandır."
+      },
+      {
+        "id": 6,
+        "text": "Antlaşma sonucunda Macaristan'dan toprak alan devletler arasında aşağıdakilerden hangisi bulunmaz?",
+        "options": [
+          "Romanya",
+          "Çekoslovakya",
+          "Yugoslavya",
+          "Almanya"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Almanya, Trianon Antlaşması ile Macaristan'dan toprak alan bir devlet değildir. Romanya, Çekoslovakya ve Yugoslavya (Sırp, Hırvat ve Sloven Krallığı) toprak kazanan ülkeler arasındaydı."
+      },
+      {
+        "id": 7,
+        "text": "Macaristan'da Trianon Antlaşması'nın yol açtığı ulusal üzüntü ve travma hangi isimle anılır?",
+        "options": [
+          "Bükreş Sendromu",
+          "Trianon Travması",
+          "Budapeşte Hüznü",
+          "Orta Avrupa Kırımı"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Antlaşmanın Macaristan üzerindeki derin ve olumsuz etkileri, ülkede 'Trianon Travması' olarak bilinen kalıcı bir ulusal üzüntüye neden olmuştur."
+      },
+      {
+        "id": 8,
+        "text": "Trianon Antlaşması, Macaristan nüfusunun ne kadarından fazlasının komşu ülkelere geçmesine neden olmuştur?",
+        "options": [
+          "Dörtte biri",
+          "Beşte biri",
+          "Üçte biri",
+          "Yarısı"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Antlaşma sonrası, Macaristan nüfusunun üçte birinden fazlası, yeni çizilen sınırlar nedeniyle komşu ülkelerde azınlık durumuna düşmüştür."
+      },
+      {
+        "id": 9,
+        "text": "I. Dünya Savaşı sonrası imzalanan diğer barış antlaşmaları arasında Trianon'un Macaristan için önemi nedir?",
+        "options": [
+          "En hafif şartlara sahip antlaşmadır",
+          "Macaristan'ın egemenliğini güçlendirmiştir",
+          "Büyük toprak ve nüfus kayıplarına yol açan en ağır antlaşmadır",
+          "Askeri olarak Macaristan'ı güçlendirmiştir"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Trianon Antlaşması, Macaristan için ağır toprak ve nüfus kayıplarına yol açması nedeniyle I. Dünya Savaşı sonrası imzalanan en yıkıcı antlaşmalardan biri olarak kabul edilir."
+      },
+      {
+        "id": 10,
+        "text": "Trianon Antlaşması'nın Macaristan'ın iki dünya savaşı arası dönemdeki dış politikasına etkisi ne olmuştur?",
+        "options": [
+          "Tarafsızlık politikası izlemesine neden olmuştur",
+          "Sınırların yeniden düzenlenmesi (revizyonizm) eğilimlerini doğurmuştur",
+          "Komşu ülkelerle ilişkilerini güçlendirmiştir",
+          "Koloni elde etme çabalarına yöneltmiştir"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Antlaşmanın yol açtığı kayıplar, Macaristan'ın iki dünya savaşı arası dönemdeki dış politikasında sınırların yeniden düzenlenmesi (revizyonizm) çabalarının temelini oluşturmuştur."
+      },
+      {
+        "id": 11,
+        "text": "Trianon Antlaşması hangi imparatorluğun parçalanması sonucunda imzalanmıştır?",
+        "options": [
+          "Osmanlı İmparatorluğu",
+          "Alman İmparatorluğu",
+          "Avusturya-Macaristan İmparatorluğu",
+          "Rus İmparatorluğu"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Antlaşma, I. Dünya Savaşı'nın mağlup devletlerinden Avusturya-Macaristan İmparatorluğu'nun parçalanması ve Macaristan Krallığı'nın bağımsızlığını ilan etmesinin ardından imzalanmıştır."
+      },
+      {
+        "id": 12,
+        "text": "Trianon Antlaşması'nın Macaristan üzerindeki askeri etkisi ne olmuştur?",
+        "options": [
+          "Ordu büyüklüğü sınırsız hale getirilmiştir",
+          "Savaş filosu kurmasına izin verilmiştir",
+          "Ordu büyüklüğü kısıtlanmıştır",
+          "Bölgesel süper güç haline gelmesi sağlanmıştır"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Antlaşma şartları arasında Macar ordusunun büyüklüğünün kısıtlanması da yer almaktaydı, bu da ülkenin savunma kapasitesini ciddi şekilde etkilemiştir."
+      },
+      {
+        "id": 13,
+        "text": "Günümüzde Macaristan'da Trianon Antlaşması'nın mirası nasıl değerlendirilmektedir?",
+        "options": [
+          "Tamamen unutulmuş bir olay olarak",
+          "Ulusal gurur kaynağı olarak",
+          "Tartışmalı ve acı bir ulusal miras olarak",
+          "Sadece akademik çevrelerde ele alınan bir konu olarak"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Trianon Antlaşması, günümüzde bile Macaristan'da tartışılan, anılan ve ulusal kimlik üzerinde derin etkileri olan acı bir miras olarak kabul edilmektedir."
+      },
+      {
+        "id": 14,
+        "text": "Macar delegasyonunun Trianon Antlaşması sürecindeki itirazları nasıl karşılanmıştır?",
+        "options": [
+          "Tamamen kabul edilmiştir",
+          "Kısmen kabul edilmiştir",
+          "Büyük ölçüde göz ardı edilmiştir",
+          "Müzakereler yeniden başlatılmıştır"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Paris Barış Konferansı sürecinde Macar delegasyonunun antlaşma şartlarına yönelik itirazları, İtilaf Devletleri tarafından büyük ölçüde göz ardı edilmiştir."
+      },
+      {
+        "id": 15,
+        "text": "Trianon Antlaşması'nın Orta Avrupa'nın etnik ve siyasi haritasına etkisi en iyi nasıl tanımlanır?",
+        "options": [
+          "Sınırları stabilizesi sağlamıştır",
+          "Etnik homojenliği artırmıştır",
+          "Sınırları ve etnik dağılımı kökten değiştirerek karmaşık bir miras bırakmıştır",
+          "Bölgesel işbirliğini artırmıştır"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Antlaşma, Orta Avrupa'nın etnik ve siyasi haritasını kökten değiştirmiş, yeni sınırlar ve azınlık sorunları yaratarak günümüze dek uzanan karmaşık bir miras bırakmıştır."
+      }
+    ]
   }
 ];

@@ -790,4 +790,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/trianon-antlasmasi-bir-imparatorlugun-sonu-ve-uluslarin-yeniden-cizilen-sinirlari</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/trianon-antlasmasi-bir-imparatorlugun-sonu-ve-uluslarin-yeniden-cizilen-sinirlari/oyna</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
