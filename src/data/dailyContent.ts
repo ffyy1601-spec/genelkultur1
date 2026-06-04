@@ -13534,5 +13534,212 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "\"Ölüm bölgesi\" (death zone), dağcılıkta genellikle 8000 metrenin üzerindeki rakımlar için kullanılan bir tabirdir. Bu yükseklikte insan vücudu kendini yenileyemez ve sürekli bozulmaya başlar."
       }
     ]
+  },
+  {
+    "slug": "pasifikin-donum-noktasi-midway-muharebesi",
+    "dateId": "2026-06-04",
+    "title": "Midway Muharebesi: Pasifik'in Kaderini Değiştiren Deniz Savaşı | GenelKultur",
+    "description": "II. Dünya Savaşı'nın Pasifik Cephesi'nde Japonya'nın yenilmezlik efsanesini yıkan, Amerikan Donanması için dönüm noktası olan Midway Muharebesi'nin detaylarını keşfedin.",
+    "keywords": [
+      "Midway Muharebesi",
+      "II. Dünya Savaşı",
+      "Pasifik Cephesi",
+      "Japon Donanması",
+      "Amerikan Donanması",
+      "uçak gemisi savaşı",
+      "dönüm noktası",
+      "Pearl Harbor",
+      "Amiral Yamamoto",
+      "Amiral Nimitz",
+      "deniz savaşı",
+      "savaş tarihi",
+      "tarihi olaylar"
+    ],
+    "heading": "Pasifik'in Dönüm Noktası: Midway Muharebesi",
+    "intro": "II. Dünya Savaşı'nın Pasifik Cephesi, Pearl Harbor saldırısıyla başlamış ve Japon İmparatorluk Donanması'nın durdurulamaz ilerleyişine sahne olmuştu. Ancak bu ilerleyiş, 1942 yılının Haziran ayında, Pasifik Okyanusu'nun ortasında küçük bir mercan adası olan Midway yakınlarında beklenmedik bir duvara çarptı. Savaş tarihinin en kritik deniz muharebelerinden biri olan Midway, sadece bölgenin değil, tüm dünyanın kaderini değiştirecek bir hesaplaşmanın adı olacaktı.",
+    "article": "Pearl Harbor saldırısının ardından Pasifik'te mutlak bir üstünlük sağlayan Japon İmparatorluk Donanması, Doğu ve Güneydoğu Asya'da hızla genişleyerek bir dizi başarılı operasyon gerçekleştirmişti. Amiral Isoroku Yamamoto liderliğindeki Japon stratejisi, Amerikan Pasifik Filosu'nun kalan uçak gemilerini tuzağa düşürerek yok etmeyi ve böylece Pasifik'te kalıcı bir üstünlük sağlamayı hedefliyordu. Midway Adası, bu stratejinin merkezindeydi çünkü ABD için Hawaii'nin savunmasında kritik bir ileri hava üssü rolü oynuyordu. Japonların planı, adayı işgal ederek Amerikan filosunu müdahaleye zorlamak ve açık denizde kesin bir darbe indirmek üzerine kuruluydu. Ancak Japon komutanlar, Amerikan istihbaratının (MAGIC kod çözme operasyonu) kendi iletişimlerini çözdüğünden ve planlarının büyük ölçüde deşifre edildiğinden habersizdi.\n\nAmerikan Pasifik Filosu Komutanı Amiral Chester Nimitz, ele geçirilen istihbarat sayesinde Japon saldırısının tarihini ve hedefini öğrenmişti. Bu bilgi ışığında, elindeki kısıtlı sayıda uçak gemisini (USS Enterprise, USS Hornet ve Coral Denizi Muharebesi'nde hasar görmesine rağmen alelacele tamir edilen USS Yorktown) stratejik olarak konumlandırdı. 4 Haziran sabahı Japon uçakları Midway Adası'na ilk saldırılarını düzenlerken, Amerikan uçak gemilerinden kalkan uçaklar da Japon filosuna doğru ilerliyordu. Muharebenin ilk saatleri Amerikan saldırganları için oldukça zorlu geçti; torpido uçakları ağır kayıplar verirken, Japon filosunu bulmakta zorlandılar. Ancak, zamanlama ve koordinasyonun şansı Amerikan dalış bombardıman uçaklarının yüzüne güldü.\n\nKritik an, Japon uçak gemilerinin tam da Midway'den dönen uçaklarını indirip yeniden yakıt ikmali yaparken ve silahlandırırken meydana geldi. Amerikan dalış bombardıman uçakları, Akagi, Kaga ve Soryu adlı üç Japon uçak gemisine neredeyse eş zamanlı saldırılar düzenleyerek, bu devasa gemileri kısa sürede alevler içinde bıraktı. Mühimmat yüklü güvertelerdeki patlamalar ve yakıt depolarının infilak etmesi, bu gemilerin kaderini mühürledi. Dördüncü Japon uçak gemisi Hiryu, bir karşı saldırı başlatarak USS Yorktown'a hasar vermeyi başarsa da, o da kısa süre sonra Amerikan bombardıman uçaklarının hedefi oldu ve battı. Japon İmparatorluk Donanması, birkaç saat içinde dört ana uçak gemisini ve yüzlerce deneyimli pilotunu kaybetmenin şokunu yaşadı.\n\nMidway Muharebesi, II. Dünya Savaşı'nın Pasifik Cephesi'nde kesin bir dönüm noktası olarak kabul edilir. Bu zaferle birlikte Amerikan Donanması, Japonya'nın Pasifik'teki ilerleyişini durdurdu ve stratejik inisiyatifi ele geçirdi. Japonya, kaybedilen uçak gemileri ve pilotların yerine yenilerini koymakta zorlanırken, ABD'nin endüstriyel gücü yeni gemiler ve uçaklar üretme konusunda üstündü. Midway, sadece bir deniz savaşı değil, aynı zamanda istihbaratın, cesaretin ve biraz da şansın birleşimiyle kazanılan, savaşın gidişatını tamamen değiştiren destansı bir zaferdi. Japonya'nın yenilmezlik efsanesi bu küçük adanın sularında sona erdi ve Müttefiklerin Pasifik'teki nihai zaferine giden yol açılmış oldu.",
+    "category": "tarih",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Midway Muharebesi hangi yıl gerçekleşmiştir?",
+        "options": [
+          "1940",
+          "1941",
+          "1942",
+          "1943"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Midway Muharebesi, II. Dünya Savaşı sırasında, 4-7 Haziran 1942 tarihleri arasında Pasifik Okyanusu'nda gerçekleşmiştir."
+      },
+      {
+        "id": 2,
+        "text": "Japon İmparatorluk Donanması'nın Midway'e saldırmaktaki temel amacı neydi?",
+        "options": [
+          "Adanın doğal kaynaklarını ele geçirmek",
+          "Amerikan Pasifik Filosu'nun kalan uçak gemilerini yok etmek",
+          "Avustralya'ya giden ikmal yollarını kesmek",
+          "Sovyetler Birliği'ne karşı bir cephe açmak"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Japonya'nın temel amacı, Midway'i ele geçirerek Amerikan filosunu bir muharebeye çekmek ve Pearl Harbor'dan sonra kalan Amerikan uçak gemilerini kesin olarak ortadan kaldırmaktı."
+      },
+      {
+        "id": 3,
+        "text": "Amerika Birleşik Devletleri Donanması, muharebeden önce hangi kritik avantaja sahipti?",
+        "options": [
+          "Daha fazla uçak gemisi",
+          "Gizli denizaltı filosu",
+          "Japon kodlarını çözme yeteneği (MAGIC)",
+          "Yeni nesil jet uçakları"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Amerikan istihbaratının 'MAGIC' adı verilen kod çözme operasyonu sayesinde, Japon planları deşifre edilmiş ve ABD, saldırının zamanı ve hedefi hakkında önceden bilgi sahibi olmuştur."
+      },
+      {
+        "id": 4,
+        "text": "Japon Birleşik Filosu'nun Midway Muharebesi'ndeki komutanı kimdi?",
+        "options": [
+          "Amiral Chester Nimitz",
+          "Amiral William Halsey",
+          "Amiral Isoroku Yamamoto",
+          "Amiral Raymond Spruance"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Amiral Isoroku Yamamoto, Pearl Harbor saldırısını da planlayan ve Midway Muharebesi sırasında Japon Birleşik Filosu'na komuta eden başkomutandı."
+      },
+      {
+        "id": 5,
+        "text": "Amerikan Pasifik Filosu'nun Midway Muharebesi'ndeki komutanı kimdi?",
+        "options": [
+          "Amiral Isoroku Yamamoto",
+          "Amiral Ernest King",
+          "Amiral Chester Nimitz",
+          "General Douglas MacArthur"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Amiral Chester Nimitz, Amerikan Pasifik Filosu'nun komutanı olarak, ele geçirilen istihbaratı kullanarak Japon saldırısını savuşturma stratejisini geliştirmiştir."
+      },
+      {
+        "id": 6,
+        "text": "Midway Muharebesi'nde Japonya başlangıçta kaç uçak gemisiyle ana saldırı gücünü oluşturdu?",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Japonlar, Akagi, Kaga, Soryu ve Hiryu adlı dört büyük uçak gemisini ana saldırı gücü olarak Midway'e göndermişti."
+      },
+      {
+        "id": 7,
+        "text": "Amerikan dalış bombardıman uçaklarının ilk kritik saldırılarında hangi üç Japon uçak gemisi batırıldı?",
+        "options": [
+          "Yamato, Musashi, Shinano",
+          "Akagi, Kaga, Soryu",
+          "Hiryu, Shokaku, Zuikaku",
+          "Nagato, Mutsu, Kido Butai"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Akagi, Kaga ve Soryu, muharebenin en kritik anında, Amerikan dalış bombardıman uçaklarının eş zamanlı saldırılarıyla kısa sürede kullanılamaz hale gelmiş ve batırılmıştır."
+      },
+      {
+        "id": 8,
+        "text": "Coral Denizi Muharebesi'nde hasar görmesine rağmen Midway'de önemli rol oynayan Amerikan uçak gemisi hangisiydi?",
+        "options": [
+          "USS Enterprise",
+          "USS Hornet",
+          "USS Saratoga",
+          "USS Yorktown"
+        ],
+        "correctAnswer": 3,
+        "explanation": "USS Yorktown, Coral Denizi Muharebesi'nde ağır hasar almasına rağmen, olağanüstü bir çabayla tamir edilerek Midway'e yetişmiş ve Japon karşı saldırısına rağmen önemli bir rol oynamıştır."
+      },
+      {
+        "id": 9,
+        "text": "Japon uçak gemilerine karşı kesin darbeyi vuran Amerikan hava aracı tipi hangisiydi?",
+        "options": [
+          "Torpido bombardıman uçakları",
+          "Avcı uçakları",
+          "Dalış bombardıman uçakları",
+          "Deniz devriye uçakları"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Amerikan dalış bombardıman uçakları (özellikle Douglas SBD Dauntless), Japon uçak gemilerinin güvertelerindeki mühimmat ve yakıt depolarına isabetli vuruşlar yaparak gemilerin hızla yanmasına neden olmuştur."
+      },
+      {
+        "id": 10,
+        "text": "Midway Muharebesi'nin Pasifik Savaşı için önemi nedir?",
+        "options": [
+          "Japonya'nın Batı Kıyısı'nı işgal etmesinin önünü açtı",
+          "Savaşın seyrini değiştiren bir dönüm noktası oldu",
+          "ABD'nin denizaltı savaşında üstünlük kazanmasını sağladı",
+          "Sadece küçük bir çatışma olarak kaldı"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Midway Muharebesi, Japonya'nın Pasifik'teki durdurulamaz ilerleyişini durduran, stratejik inisiyatifi Müttefiklere geçiren ve savaşın seyrini tamamen değiştiren bir dönüm noktası olarak kabul edilir."
+      },
+      {
+        "id": 11,
+        "text": "Japonların Midway'de batırdığı Amerikan uçak gemisi hangisiydi?",
+        "options": [
+          "USS Enterprise",
+          "USS Hornet",
+          "USS Lexington",
+          "USS Yorktown"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Japonya'nın Hiryu uçak gemisinden kalkan uçaklar, başarılı bir karşı saldırıyla USS Yorktown'ı ağır şekilde hasar vermiş ve gemi daha sonra bir Japon denizaltısı tarafından batırılmıştır."
+      },
+      {
+        "id": 12,
+        "text": "Midway Muharebesi'nde Japonya kaç ana uçak gemisi kaybetmiştir?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Japonya, Akagi, Kaga, Soryu ve Hiryu olmak üzere dört ana uçak gemisini Midway Muharebesi'nde kaybetmiştir. Bu kayıp, Japon Donanması için telafi edilemezdi."
+      },
+      {
+        "id": 13,
+        "text": "Midway Muharebesi'nden sonra Pasifik'teki stratejik inisiyatif kime geçmiştir?",
+        "options": [
+          "Japonya'ya",
+          "Amerika Birleşik Devletleri'ne",
+          "Büyük Britanya'ya",
+          "Sovyetler Birliği'ne"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Midway'deki kesin zaferin ardından, Pasifik'teki stratejik inisiyatif Amerika Birleşik Devletleri'ne geçmiş ve Müttefikler saldırı pozisyonuna geçmiştir."
+      },
+      {
+        "id": 14,
+        "text": "Midway Atolü'nün stratejik önemi neydi?",
+        "options": [
+          "Petrol kaynaklarına sahip olması",
+          "Hawaii için bir savunma üssü ve ileri hava alanı olması",
+          "Bölgedeki tek içilebilir su kaynağı olması",
+          "Japonya'ya doğrudan saldırı için bir sıçrama tahtası olması"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Midway Atolü, Hawaii için önemli bir savunma noktası ve Amerikan uçakları için Pasifik'te ileri bir hava üssü olarak stratejik bir konuma sahipti."
+      },
+      {
+        "id": 15,
+        "text": "Midway Muharebesi sırasında Japon uçak gemilerindeki hangi durum, Amerikan dalış bombardıman uçakları için kritik bir fırsat yaratmıştır?",
+        "options": [
+          "Yoğun sis nedeniyle görüş mesafesinin düşüklüğü",
+          "Uçakların yakıt ikmali ve yeniden silahlandırılması",
+          "Gemilerin hızının aşırı derecede düşük olması",
+          "Filo komutanının moralinin düşük olması"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Japon uçak gemileri, Midway'den dönen uçakları indirip, yakıt ikmali yaparken ve güvertelerinde mühimmat varken yakalanmış, bu durum Amerikan saldırısı için son derece savunmasız bir an yaratmıştır."
+      }
+    ]
   }
 ];
