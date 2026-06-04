@@ -14150,5 +14150,207 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Antlaşma, Orta Avrupa'nın etnik ve siyasi haritasını kökten değiştirmiş, yeni sınırlar ve azınlık sorunları yaratarak günümüze dek uzanan karmaşık bir miras bırakmıştır."
       }
     ]
+  },
+  {
+    "slug": "avrupanin-yeniden-dogusu-viyana-kongresi-ve-yeni-dunya-duzeni",
+    "dateId": "2026-06-04",
+    "title": "Viyana Kongresi: Avrupa'nın Haritasının Yeniden Çizildiği Diplomatik Zirve | GenelKultur",
+    "description": "Napolyon Savaşları sonrası Avrupa'nın siyasi düzenini yeniden belirleyen Viyana Kongresi'nin katılımcıları, alınan kararları ve uzun vadeli etkileri hakkında bilgi edinin.",
+    "keywords": [
+      "Viyana Kongresi",
+      "Napolyon Savaşları",
+      "Metternich",
+      "Avrupa tarihi",
+      "diplomasi",
+      "1815",
+      "Kutsal İttifak",
+      "Güçler Dengesi"
+    ],
+    "heading": "Avrupa'nın Yeniden Doğuşu: Viyana Kongresi ve Yeni Dünya Düzeni",
+    "intro": "Napolyon Bonapart'ın Avrupa'yı kasıp kavuran fetihlerinin ardından, kıta büyük bir yıkım ve siyasi belirsizlik içindeydi. Eski düzen çökmüş, monarşiler sallanmış ve ulusların sınırları defalarca değişmişti. Bu karmaşık tabloyu düzeltmek, yeni bir istikrar ve barış ortamı yaratmak amacıyla, Avrupa'nın önde gelen güçleri 1814-1815 yılları arasında Viyana'da bir araya geldi. Bu tarihi zirve, Viyana Kongresi olarak anılacak ve yüzyıla yakın bir süre Avrupa'nın kaderini belirleyecek kararlara imza atacaktı.",
+    "article": "Viyana Kongresi, 1814 Eylül'ünde başlayıp 1815 Haziran'ına kadar süren, dönemin en büyük diplomatik toplantılarından biriydi. Kongreye Avusturya, Prusya, Rusya, Büyük Britanya ve Fransa gibi büyük güçlerin temsilcileri katıldı. En etkili figürlerden biri, Avusturya Şansölyesi Prens Klemens von Metternich'ti. Kongrenin temel amacı, Napolyon sonrası Avrupa'da siyasi dengeyi yeniden kurmak, monarşileri restore etmek ve devrimci fikirlerin yayılmasını engellemekti. Katılımcı ülkeler, kendi çıkarlarını korumakla birlikte, kolektif bir güvenlik sistemini de tesis etmeye çalıştılar.\n\nKongre sırasında alınan önemli kararlar arasında, Fransa'nın sınırlarının 1792 öncesine çekilmesi, Hollanda Krallığı'nın güçlendirilerek Fransa'nın kuzey sınırında bir tampon bölge oluşturulması ve Prusya'nın batıdaki toprak kazanımları yer alıyordu. Ayrıca, Almanya Konfederasyonu kuruldu ve İsviçre'nin tarafsızlığı garanti altına alındı. Bu toprak düzenlemeleri, Avrupa'da yeni bir güç dengesi oluşturmayı hedefliyordu. Özellikle Rusya'nın Polonya üzerindeki emelleri ve Prusya'nın Saksonya'yı ilhak etme çabaları, kongrede büyük gerilimlere neden olsa da, nihayetinde uzlaşmaya varıldı. Kongrenin en dikkat çekici özelliklerinden biri, mağlup Fransa'ya karşı nispeten ılımlı bir yaklaşım sergilenmesi ve onun da Avrupa'nın yeni düzeninde bir aktör olarak kabul edilmesiydi.\n\nViyana Kongresi, \"Metternich Sistemi\" olarak bilinen bir dönemin başlangıcı oldu. Bu sistem, Kutsal İttifak ve Dörtlü İttifak gibi mekanizmalar aracılığıyla monarşilerin meşruiyetini ve statükoyu korumayı amaçladı. Kongre kararları, Avrupa'da yaklaşık kırk yıl sürecek bir göreceli barış dönemi olan \"Avrupa Konseri\"nin temellerini attı. Ancak bu barış, milliyetçilik ve liberalizm gibi yükselen akımları bastırma pahasına elde edildi ve bu durum, 1848 devrimleri gibi gelecekteki çatışmaların tohumlarını ekti. Viyana Kongresi, modern diplomasinin ve uluslararası ilişkilerin ilk büyük örneklerinden biri olarak tarihteki yerini almıştır.",
+    "category": "tarih",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Viyana Kongresi'nin temel amacı aşağıdakilerden hangisiydi?",
+        "options": [
+          "Napolyon'u yeniden tahta çıkarmak",
+          "Avrupa'da sosyalist bir düzen kurmak",
+          "Napolyon Savaşları sonrası Avrupa'da siyasi dengeyi yeniden kurmak",
+          "Osmanlı İmparatorluğu'nu parçalamak"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Viyana Kongresi, Napolyon Savaşları'nın ardından bozulan Avrupa siyasi haritasını ve güç dengesini yeniden düzenlemek amacıyla toplandı."
+      },
+      {
+        "id": 2,
+        "text": "Viyana Kongresi hangi yıllar arasında gerçekleşmiştir?",
+        "options": [
+          "1789-1799",
+          "1804-1810",
+          "1814-1815",
+          "1830-1832"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kongre, 1814 Eylül'ünde başlayıp 1815 Haziran'ına kadar devam etmiştir."
+      },
+      {
+        "id": 3,
+        "text": "Viyana Kongresi'nin en etkili diplomatlarından biri kimdi?",
+        "options": [
+          "Otto von Bismarck",
+          "Prens Klemens von Metternich",
+          "Napolyon Bonapart",
+          "Lord Castlereagh"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Avusturya Şansölyesi Prens Klemens von Metternich, kongrenin en önde gelen ve etkili figürlerinden biriydi."
+      },
+      {
+        "id": 4,
+        "text": "Kongreye katılan büyük güçler arasında aşağıdakilerden hangisi yer almaz?",
+        "options": [
+          "Avusturya",
+          "İspanya",
+          "Prusya",
+          "Rusya"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Kongreye katılan ana büyük güçler Avusturya, Prusya, Rusya, Büyük Britanya ve Fransa idi. İspanya'nın etkisi daha sınırlıydı."
+      },
+      {
+        "id": 5,
+        "text": "Viyana Kongresi kararlarıyla kurulan \"Avrupa Konseri\" dönemi ne kadar sürmüştür?",
+        "options": [
+          "Yaklaşık 10 yıl",
+          "Yaklaşık 40 yıl",
+          "Yaklaşık 100 yıl",
+          "Yaklaşık 5 yıl"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Kongre kararları, Avrupa'da yaklaşık kırk yıl sürecek bir göreceli barış dönemi olan \"Avrupa Konseri\"nin temellerini atmıştır."
+      },
+      {
+        "id": 6,
+        "text": "Viyana Kongresi'nde Fransa'nın sınırları hangi yıl öncesine çekilmiştir?",
+        "options": [
+          "1789",
+          "1792",
+          "1800",
+          "1812"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Kongre kararları arasında Fransa'nın sınırlarının 1792 öncesine çekilmesi yer almıştır."
+      },
+      {
+        "id": 7,
+        "text": "Kongrede oluşturulan tampon bölgelerden biri, Fransa'nın kuzey sınırında hangi ülkenin güçlendirilmesiyle sağlandı?",
+        "options": [
+          "İsviçre",
+          "Belçika",
+          "Hollanda Krallığı",
+          "Prusya"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Hollanda Krallığı'nın güçlendirilerek Fransa'nın kuzey sınırında bir tampon bölge oluşturulması kararlaştırıldı."
+      },
+      {
+        "id": 8,
+        "text": "Viyana Kongresi ile kurulan ve Almanya'daki bağımsız devletleri bir araya getiren yapı aşağıdakilerden hangisidir?",
+        "options": [
+          "Kutsal Roma İmparatorluğu",
+          "Alman İmparatorluğu",
+          "Almanya Konfederasyonu",
+          "Ren Konfederasyonu"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Almanya Konfederasyonu, kongre kararlarıyla kurulmuş ve Alman devletlerini bir çatı altında toplamıştır."
+      },
+      {
+        "id": 9,
+        "text": "Viyana Kongresi'nde garantörlüğü kabul edilen ülkenin tarafsızlığı hangisidir?",
+        "options": [
+          "Belçika",
+          "İsviçre",
+          "Portekiz",
+          "Danimarka"
+        ],
+        "correctAnswer": 1,
+        "explanation": "İsviçre'nin tarafsızlığı, kongrede alınan önemli kararlardan biriydi ve uluslararası alanda tanınmıştır."
+      },
+      {
+        "id": 10,
+        "text": "Metternich Sistemi'nin temel amacı neydi?",
+        "options": [
+          "Liberal devrimleri desteklemek",
+          "Monarşilerin meşruiyetini ve statükoyu korumak",
+          "Sömürgeciliği teşvik etmek",
+          "Uluslararası ticareti serbestleştirmek"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Metternich Sistemi, özellikle Kutsal İttifak aracılığıyla monarşileri korumayı ve Avrupa'daki mevcut siyasi düzeni sürdürmeyi amaçlıyordu."
+      },
+      {
+        "id": 11,
+        "text": "Kongrede büyük gerilimlere yol açan ve Rusya'nın emelleriyle ilgili olan konu hangi bölgeydi?",
+        "options": [
+          "Finlandiya",
+          "Balkanlar",
+          "Polonya",
+          "Ukrayna"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Rusya'nın Polonya üzerindeki emelleri, kongredeki tartışmalarda önemli bir gerilim noktasıydı."
+      },
+      {
+        "id": 12,
+        "text": "Viyana Kongresi'nin hangi özelliği, modern diplomasinin ilk büyük örneklerinden biri olarak kabul edilmesine neden olmuştur?",
+        "options": [
+          "Sadece askeri liderlerin katılımı",
+          "Gizli anlaşmalara dayanması",
+          "Çok taraflı müzakereler ve kolektif güvenlik çabaları",
+          "Sadece tek bir ulusun çıkarlarını gözetmesi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kongre, çok taraflı müzakerelerin ve Avrupa genelinde kolektif bir güvenlik ve denge sistemi oluşturma çabalarının ilk büyük örneklerinden biriydi."
+      },
+      {
+        "id": 13,
+        "text": "Viyana Kongresi, hangi ideolojilerin yayılmasını engellemeyi hedeflemiştir?",
+        "options": [
+          "Merkantilizm",
+          "Devrimci fikirler ve milliyetçilik",
+          "Muhafazakarlık",
+          "Anarşizm"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Kongrenin ana hedeflerinden biri, Fransız İhtilali'nden kaynaklanan devrimci ve liberal fikirlerin Avrupa'da daha fazla yayılmasını önlemekti. Milliyetçilik de bu dönemde yükselen bir akımdı."
+      },
+      {
+        "id": 14,
+        "text": "Kongre kararları uzun vadede hangi gelişmelerin tohumlarını ekmiştir?",
+        "options": [
+          "Sanayi Devrimi'nin hızlanması",
+          "Avrupa'da tamamen yeni bir siyasi düzenin kurulması",
+          "1848 devrimleri gibi gelecekteki çatışmalar",
+          "Sömürgeciliğin sona ermesi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kongre'nin milliyetçilik ve liberalizmi bastırıcı politikaları, uzun vadede 1848 devrimleri gibi Avrupa'yı sarsacak olayların temellerini atmıştır."
+      },
+      {
+        "id": 15,
+        "text": "Viyana Kongresi'nde mağlup Fransa'ya karşı genel yaklaşım nasıldı?",
+        "options": [
+          "Çok sert ve cezalandırıcı",
+          "Tamamen dışlayıcı",
+          "Nispeten ılımlı ve entegrasyonist",
+          "Savaş tazminatı ödemeden sorumlu tutuldu"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kongrenin dikkat çekici özelliklerinden biri, mağlup Fransa'ya karşı nispeten ılımlı bir yaklaşım sergilenmesi ve onun da Avrupa'nın yeni düzeninde bir aktör olarak kabul edilmesiydi."
+      }
+    ]
   }
 ];
