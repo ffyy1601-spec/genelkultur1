@@ -15993,5 +15993,209 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Ford'un bu ilk motoru ve Quadricycle'ı, sadece kişisel bir başarıdan ibaret değildi; aynı zamanda endüstriyel bir devrimin başlangıcıydı."
       }
     ]
+  },
+  {
+    "slug": "buyuk-buhrandan-cikis-abdnin-altin-standardindan-ayrilisi",
+    "dateId": "2026-06-05",
+    "title": "ABD'nin Altın Standardından Ayrılması: Büyük Buhran ve Modern Ekonomi | GenelKultur",
+    "description": "1933 yılında ABD'nin altın standardından çekilmesi, Büyük Buhran'ın ekonomik etkilerini nasıl hafifletti? Bu tarihi kararın küresel ekonomiye etkilerini keşfedin.",
+    "keywords": [
+      "ABD altın standardı",
+      "1933",
+      "Büyük Buhran",
+      "ekonomik kriz",
+      "Franklin D. Roosevelt",
+      "altın",
+      "modern ekonomi",
+      "para politikası",
+      "Bretton Woods",
+      "ABD tarihi"
+    ],
+    "heading": "Büyük Buhran'dan Çıkış: ABD'nin Altın Standardından Ayrılışı",
+    "intro": "1929'da başlayan Büyük Buhran, dünya ekonomisini benzeri görülmemiş bir krize sürüklemişti. Milyonlarca insan işsiz kalmış, bankalar batmış ve küresel ticaret durma noktasına gelmişti. Bu derin krizin ortasında, 1933 yılında Amerika Birleşik Devletleri, ekonomik rotasını kökten değiştirecek cesur bir adım attı: altın standardından ayrılma kararı. Bu karar, sadece ABD ekonomisi için değil, modern dünya ekonomisinin temelleri için de bir dönüm noktası olacaktı.",
+    "article": "Altın standardı, bir ülkenin para biriminin değerini belirli bir miktar altınla sabitleyen bir para sistemiydi. Bu sistemde, hükümetler ancak ellerinde tuttukları altın miktarı kadar para basabiliyorlardı. Büyük Buhran sırasında, ABD'de bankaların iflas etmesi ve halkın altına hücum etmesi, bu sistemi sürdürülemez hale getirdi. İnsanlar bankalardaki paralarını altına çevirmek istiyor, bu da bankaların altın rezervlerini hızla tüketiyordu. Bankalar altınlarını kaybettikçe kredi verme kapasiteleri azaldı, bu da ekonomik aktiviteyi daha da yavaşlattı.\n\nBaşkan Franklin D. Roosevelt, 1933'te göreve geldikten kısa bir süre sonra, bu duruma müdahale etmeye karar verdi. 5 Haziran 1933'te Kongre, Ortak Çözüm Kararı'nı (Joint Resolution) onayladı ve ABD'nin altın standardına bağlılığını sonlandırdı. Bu kararla birlikte, doların altınla olan doğrudan dönüştürülebilirliği kaldırıldı ve vatandaşların altın bulundurması yasa dışı hale getirildi (1934 Altın Rezerv Yasası ile bu durum konsolide edildi ve altın Hazine'ye devredildi). Bu radikal adımın amacı, hükümetin para basma ve ekonomiyi canlandırma kabiliyetini serbest bırakmaktı.\n\nAltın standardından ayrılmak, ABD hükümetine krizle mücadelede çok daha fazla esneklik sağladı. Hükümet, para arzını artırarak enflasyonu teşvik edebildi, bu da borç yükünü hafifletmeye ve yatırımları teşvik etmeye yardımcı oldu. Doların devalüe edilmesiyle Amerikan ihracatı daha rekabetçi hale geldi. Bu kararın etkileri hemen hissedildi; deflasyon durdu, ekonomik büyüme yeniden başladı ve Büyük Buhran'ın en kötü etkileri hafifletildi. II. Dünya Savaşı sonrasında Bretton Woods Sistemi kurulana kadar dünya genelinde birçok ülke altın standardından tamamen veya kısmen ayrılmıştı. Bu olay, modern merkez bankacılığı ve para politikalarının gelişiminde önemli bir adımdı.",
+    "category": "tarih",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Altın standardı nedir?",
+        "options": [
+          "Bir ülkenin para biriminin gümüşe sabitlenmesi.",
+          "Bir ülkenin para biriminin değerini belirli bir miktar altınla sabitleyen para sistemi.",
+          "Hükümetlerin altın madenciliğini teşvik ettiği bir ekonomik politika.",
+          "Para basımını tamamen yasaklayan sistem."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Altın standardı, bir ülkenin para biriminin değerini belirli bir miktar altınla sabitleyen, hükümetin altın rezervi kadar para basabildiği bir sistemdir."
+      },
+      {
+        "id": 2,
+        "text": "Büyük Buhran hangi yıl başladı?",
+        "options": [
+          "1914",
+          "1929",
+          "1939",
+          "1945"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Büyük Buhran, 1929 yılında Amerika Birleşik Devletleri'nde başlayan ve dünya ekonomisini derinden etkileyen küresel bir ekonomik krizdir."
+      },
+      {
+        "id": 3,
+        "text": "ABD'nin altın standardından ayrılma kararı hangi başkan döneminde alındı?",
+        "options": [
+          "Herbert Hoover",
+          "Woodrow Wilson",
+          "Franklin D. Roosevelt",
+          "Harry S. Truman"
+        ],
+        "correctAnswer": 2,
+        "explanation": "ABD'nin altın standardından ayrılma kararı, Büyük Buhran'ın ortasında, 1933 yılında Başkan Franklin D. Roosevelt döneminde alınmıştır."
+      },
+      {
+        "id": 4,
+        "text": "ABD, altın standardından resmi olarak hangi yıl ayrıldı?",
+        "options": [
+          "1929",
+          "1931",
+          "1933",
+          "1944"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Amerika Birleşik Devletleri, 5 Haziran 1933 tarihinde Kongre'nin Ortak Çözüm Kararı'nı onaylamasıyla altın standardından resmi olarak ayrıldı."
+      },
+      {
+        "id": 5,
+        "text": "Altın standardından ayrılmanın temel amacı neydi?",
+        "options": [
+          "Ülkenin altın rezervlerini artırmak.",
+          "Hükümetin para basma ve ekonomiyi canlandırma kabiliyetini serbest bırakmak.",
+          "Uluslararası ticareti kısıtlamak.",
+          "Vatandaşların altın biriktirmesini teşvik etmek."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Altın standardından ayrılmanın temel amacı, hükümetin altın rezervlerinin kısıtlaması olmadan para arzını artırarak ekonomiyi canlandırma esnekliğini kazanmasıydı."
+      },
+      {
+        "id": 6,
+        "text": "ABD'de Büyük Buhran sırasında bankaların iflas etmesinin ve halkın altına hücum etmesinin altın standardı üzerindeki etkisi neydi?",
+        "options": [
+          "Altın standardının daha da güçlenmesine neden oldu.",
+          "Bankaların altın rezervlerini hızla tüketerek sistemi sürdürülemez hale getirdi.",
+          "Hükümetin daha fazla altın ithal etmesine yol açtı.",
+          "Altın fiyatlarının küresel çapta düşmesine neden oldu."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Halkın bankalardaki paralarını altına çevirme isteği ve banka iflasları, bankaların altın rezervlerini tüketerek altın standardı sistemini uygulanamaz hale getirmiştir."
+      },
+      {
+        "id": 7,
+        "text": "1933'teki karar sonrası ABD vatandaşlarının altın bulundurma durumu ne oldu?",
+        "options": [
+          "Altın bulundurmak zorunlu hale geldi.",
+          "Altın bulundurmak tamamen serbest bırakıldı.",
+          "Altın bulundurmak yasa dışı hale getirildi.",
+          "Altın sadece bankalarda saklanabiliyordu."
+        ],
+        "correctAnswer": 2,
+        "explanation": "1933 kararıyla birlikte, ABD vatandaşlarının altın bulundurması yasa dışı hale getirildi ve çoğu altın devlete devredildi. Bu durum, hükümete para politikasında daha fazla kontrol sağladı."
+      },
+      {
+        "id": 8,
+        "text": "Altın standardından ayrılmanın ABD ekonomisine ilk olumlu etkilerinden biri neydi?",
+        "options": [
+          "Doların değer kazanması.",
+          "Deflasyonun durması ve ekonomik büyümenin yeniden başlaması.",
+          "İhracatın azalması.",
+          "Hükümetin bütçe fazlası vermesi."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Altın standardından ayrılma, hükümetin para arzını artırmasına olanak tanıdı ve bu da deflasyonun durmasına ve ekonomik büyümenin yeniden başlamasına yardımcı oldu."
+      },
+      {
+        "id": 9,
+        "text": "Altın standardından ayrılma, hükümete hangi konuda daha fazla esneklik sağladı?",
+        "options": [
+          "Tarım ürünlerinin fiyatlarını belirlemede.",
+          "Para arzını artırarak enflasyonu teşvik etmede.",
+          "Vergi oranlarını sabitlemede.",
+          "Uluslararası ilişkileri yürütmede."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Altın standardından ayrılmak, hükümetin para basma üzerindeki kısıtlamalarını kaldırdı ve para arzını artırarak enflasyonu teşvik etme yeteneği kazandırdı. Bu, borç yükünü hafifletmeye ve yatırımı canlandırmaya yönelik bir araçtı."
+      },
+      {
+        "id": 10,
+        "text": "Doların devalüe edilmesi (değerinin düşürülmesi) hangi sonuca yol açtı?",
+        "options": [
+          "Amerikan ithalatının artmasına.",
+          "Amerikan ihracatının daha rekabetçi hale gelmesine.",
+          "Yabancı yatırımların tamamen durmasına.",
+          "Altın fiyatlarının düşmesine."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Doların altın karşısında devalüe edilmesi, Amerikan mallarının yabancı alıcılar için daha ucuz hale gelmesine ve böylece Amerikan ihracatının rekabet gücünü artırmasına neden oldu."
+      },
+      {
+        "id": 11,
+        "text": "Büyük Buhran'ın hafifletilmesinde altın standardından ayrılmanın rolü neydi?",
+        "options": [
+          "Önemsiz bir rol oynadı.",
+          "Krizin daha da derinleşmesine neden oldu.",
+          "Ekonomik iyileşmeyi hızlandıran önemli bir adımdı.",
+          "Sadece sembolik bir anlam taşıyordu."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Altın standardından ayrılmak, ABD hükümetine krizle mücadelede kritik araçlar sağlayarak Büyük Buhran'ın en kötü etkilerinin hafifletilmesinde ve ekonomik iyileşmenin hızlanmasında önemli bir rol oynamıştır."
+      },
+      {
+        "id": 12,
+        "text": "Bretton Woods Sistemi hangi olayın sonrasında kuruldu?",
+        "options": [
+          "Büyük Buhran'dan hemen sonra.",
+          "I. Dünya Savaşı'ndan sonra.",
+          "II. Dünya Savaşı'ndan sonra.",
+          "Soğuk Savaş'ın başlangıcında."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bretton Woods Sistemi, II. Dünya Savaşı'nın sonlarında, küresel ekonomik istikrarı sağlamak ve gelecekteki ekonomik krizleri önlemek amacıyla kurulmuştur."
+      },
+      {
+        "id": 13,
+        "text": "Altın standardı uygulanan bir sistemde, bir ülkenin para arzı neye bağlıdır?",
+        "options": [
+          "Hükümetin keyfi kararlarına.",
+          "Ülkenin gayri safi milli hasılasına.",
+          "Sahip olduğu altın miktarına.",
+          "Uluslararası Para Fonu'nun tavsiyelerine."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Altın standardı sisteminde, bir ülkenin para arzı doğrudan sahip olduğu altın miktarıyla sınırlıdır. Bu, hükümetin para politikasında sınırlı esnekliğe sahip olması anlamına gelir."
+      },
+      {
+        "id": 14,
+        "text": "1933 yılında ABD'nin altın standardından ayrılma kararı hangi yasal belgeyle onaylandı?",
+        "options": [
+          "Yeni Düzen Yasası (New Deal Act)",
+          "Ortak Çözüm Kararı (Joint Resolution)",
+          "Federal Rezerv Yasası (Federal Reserve Act)",
+          "Altın Rezerv Yasası (Gold Reserve Act)"
+        ],
+        "correctAnswer": 1,
+        "explanation": "ABD'nin altın standardından ayrılma kararı, 5 Haziran 1933'te Kongre tarafından onaylanan Ortak Çözüm Kararı (Joint Resolution) ile gerçekleşmiştir. 1934 Altın Rezerv Yasası bu durumu konsolide etmiştir."
+      },
+      {
+        "id": 15,
+        "text": "Altın standardından ayrılma, modern merkez bankacılığı için neden önemli bir adımdı?",
+        "options": [
+          "Merkez bankalarının altın rezervlerini tamamen elden çıkarmasını zorunlu kıldı.",
+          "Merkez bankalarına para politikalarını daha bağımsız bir şekilde uygulama yeteneği kazandırdı.",
+          "Tüm ülkeleri yeniden altın standardına geçmeye zorladı.",
+          "Merkez bankalarının görevlerini ortadan kaldırdı."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Altın standardından ayrılmak, merkez bankalarının para arzını altın rezervleriyle sınırlı kalmadan yönetme esnekliği kazanmasını sağladı, bu da modern para politikalarının temelini oluşturdu."
+      }
+    ]
   }
 ];
