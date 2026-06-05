@@ -15177,5 +15177,208 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Mısır, Mayıs 1967'de büyük miktarda askerini Sina Yarımadası'na kaydırarak İsrail sınırında gerilimi artırmıştır."
       }
     ]
+  },
+  {
+    "slug": "yumruklarin-isyani-cinde-boxer-ayaklanmasi-ve-yabanci-guclere-karsi-direnis",
+    "dateId": "2026-06-05",
+    "title": "Boxer Ayaklanması: Çin'in Batı Etkisine Karşı Direnişi | GenelKultur",
+    "description": "20. yüzyılın başında Çin'de yükselen Boxer Ayaklanması, ülkenin yabancı güçlere karşı verdiği bağımsızlık mücadelesinin sembolü oldu. Bu tarihi olayın nedenlerini, gelişimini ve küresel etkilerini keşfedin.",
+    "keywords": [
+      "Boxer Ayaklanması",
+      "Çin tarihi",
+      "Qing Hanedanı",
+      "yabancı etki",
+      "emperyalizm",
+      "1900 Çin",
+      "uluslararası ilişkiler",
+      "bağımsızlık mücadelesi",
+      "anti-kolonyalizm"
+    ],
+    "heading": "Yumrukların İsyanı: Çin'de Boxer Ayaklanması ve Yabancı Güçlere Karşı Direniş",
+    "intro": "20. yüzyılın başlarında, Çin İmparatorluğu derin bir krizin eşiğindeydi. Yüzyıllardır süren izolasyon politikası, Batılı güçlerin askeri ve ekonomik üstünlüğü karşısında çökmüş, ülke yarı sömürge durumuna düşmüştü. Bu çaresizlik ortamında, \"Hakka Teşvik Edilen Adalet ve Uyum Derneği\" üyeleri, yani Batılıların deyimiyle \"Boxerler\", geleneksel Çin değerlerini savunmak ve yabancı etkisini ülkeden atmak için ayaklandı. Bu ayaklanma, sadece Çin'in değil, tüm dünyanın siyasi haritasını değiştirecek büyük bir çatışmanın fitilini ateşleyecekti.",
+    "article": "Boxer Ayaklanması, 19. yüzyılın sonlarında Çin'de ortaya çıkan derin toplumsal, ekonomik ve kültürel rahatsızlıkların bir sonucuydu. Afyon Savaşları'ndan itibaren Batılı güçler, Çin üzerinde askeri ve ekonomik baskı kurarak, liman şehirleri, demiryolları ve madenler üzerinde kontrol sağlamışlardı. Misyonerlerin Hristiyanlığı yayma çabaları ve Batı yaşam tarzının dayatılması, geleneksel Çin toplumunda büyük tepkilere yol açıyordu. Felaketle sonuçlanan 1894-1895 Çin-Japon Savaşı ve ardından Batılı devletlerin Çin topraklarını \"etki alanlarına\" ayırması, bu yabancı düşmanlığını daha da körükledi. \"Yihetuan\" olarak da bilinen Boxerlar, geleneksel dövüş sanatları eğitiminden geçtikleri ve batıl inançlarla desteklendikleri, yabancı mermilerden korunacaklarına inandıkları bir örgütlenmeydi.\n\nAyaklanma, önceleri Shandong ve Hebei eyaletlerinde Hristiyan misyonerlere ve Çinli Hristiyanlara yönelik saldırılarla başladı. Ancak 1900 yılının Haziran ayına gelindiğinde, hareket başkent Pekin'e sıçradı. Boxerlar, şehirdeki yabancı elçilikleri, demiryollarını, telgraf hatlarını ve Batılılarla işbirliği yapan Çinlilere ait mülkleri hedef aldı. Pekin'deki yabancı elçilikler, 55 gün boyunca kuşatma altında kaldı. Bu durum, yabancı güçlerin Çin'e müdahale etmesi için önemli bir gerekçe oluşturdu. Japonya, Rusya, İngiltere, ABD, Almanya, Fransa, Avusturya-Macaristan ve İtalya'dan oluşan sekiz devletli bir uluslararası koalisyon, Pekin'e doğru ilerlemek üzere askeri birlikler gönderdi. Bu koalisyonun amacı, kendi vatandaşlarını ve diplomatlarını kurtarmaktı.\n\nQing Hanedanı başlangıçta Boxerlara karşı temkinli bir tutum sergilese de, İmparatoriçe Dowager Cixi liderliğindeki saray, yabancı güçlerin sürekli artan talepleri ve tehditleri karşısında Boxerları destekleme kararı aldı. 21 Haziran 1900'de Cixi, yabancı devletlere savaş ilan etti. Bu karar, zaten kaotik olan durumu daha da karmaşık hale getirdi. Ancak iyi eğitilmiş ve modern silahlarla donatılmış Sekiz Ulus İttifakı'nın askerleri, Boxerlara ve Qing İmparatorluk ordusuna üstün geldi. Pekin'deki kuşatma 14 Ağustos 1900'de sona erdi ve şehir yağmalandı. Ayaklanma, 7 Eylül 1901'de imzalanan Boxer Protokolü ile resmen sona erdi. Bu protokol, Çin'e ağır savaş tazminatları yükledi, yabancı devletlere daha fazla imtiyaz tanıdı ve ülkenin egemenliğini ciddi şekilde zedeledi. Boxer Ayaklanması, Çin'in modernleşme sürecinde önemli bir dönüm noktası olmuş, milliyetçi duyguları güçlendirmiş ve Qing Hanedanı'nın sonunu hızlandırmıştır.",
+    "category": "tarih",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Boxer Ayaklanması'nın temel amacı nedir?",
+        "options": [
+          "Qing Hanedanı'nı devirmek",
+          "Çin'de sanayileşmeyi teşvik etmek",
+          "Yabancı etkisini ve Hristiyanlığı ülkeden atmak",
+          "Japonya ile ittifak kurmak"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Boxer Ayaklanması, Batılı güçlerin Çin üzerindeki ekonomik ve kültürel baskısına, Hristiyan misyonerliğine ve yabancı etkisine karşı bir tepki olarak ortaya çıkmıştır."
+      },
+      {
+        "id": 2,
+        "text": "Boxer Ayaklanması'nın ismini veren \"Boxer\" terimi ne anlama gelir?",
+        "options": [
+          "Bir Çinli imparatorluk ailesinin adı",
+          "Geleneksel Çin dövüş sanatları uygulayıcıları",
+          "Batılı tüccarlar tarafından verilen bir lakap",
+          "Bir bölgenin coğrafi adı"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Ayaklanmacılar, Batılılar tarafından \"Boxer\" (Boksör) olarak adlandırılmışlardır çünkü geleneksel Çin dövüş sanatları (kung fu) eğitimi alıyorlardı. Çince isimleri \"Yihetuan\" (Hakka Teşvik Edilen Adalet ve Uyum Derneği) idi."
+      },
+      {
+        "id": 3,
+        "text": "Ayaklanmaya yol açan ana nedenlerden biri aşağıdakilerden hangisi değildir?",
+        "options": [
+          "Afyon Savaşları'nın etkileri",
+          "Batılı güçlerin ekonomik ve askeri baskısı",
+          "Çin'de hızlı bir demokratikleşme talebi",
+          "Hristiyan misyonerlerinin faaliyetleri"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Boxer Ayaklanması, demokratikleşme talebinden ziyade, yabancı etkisine ve Hristiyanlığa karşı geleneksel Çin değerlerini savunma amacıyla ortaya çıkmıştır."
+      },
+      {
+        "id": 4,
+        "text": "1894-1895 yılları arasında gerçekleşen hangi savaş, Çin'deki yabancı düşmanlığını körükleyen önemli bir olay olmuştur?",
+        "options": [
+          "Opium Savaşları",
+          "Çin-Japon Savaşı",
+          "Rus-Japon Savaşı",
+          "Kore Savaşı"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Çin'in Japonya'ya karşı ağır bir yenilgi aldığı 1894-1895 Çin-Japon Savaşı, Qing Hanedanı'nın zayıflığını gözler önüne sermiş ve Batılı güçlerin Çin üzerindeki baskısını artırmıştır."
+      },
+      {
+        "id": 5,
+        "text": "Boxerlar, Batılı mermilerden korunacaklarına dair hangi inançla hareket etmişlerdir?",
+        "options": [
+          "Qing İmparatoru'nun kutsamasıyla",
+          "Modern silahlarla kendilerini donatarak",
+          "Geleneksel dövüş sanatları ve batıl inançlarla",
+          "Yabancı güçlerle gizli bir anlaşma yaparak"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Boxerlar, geleneksel dövüş sanatları eğitimi ve batıl inançlar sayesinde, yabancı mermilerin kendilerine işlemeyeceğine inanıyorlardı."
+      },
+      {
+        "id": 6,
+        "text": "Boxer Ayaklanması'nın başkent Pekin'de ana hedefi ne olmuştur?",
+        "options": [
+          "İmparatorluk Sarayı",
+          "Yabancı elçilikler",
+          "Ticari limanlar",
+          "Kırsal bölgelerdeki köyler"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Pekin'e gelen Boxerlar, yabancı devletlerin elçiliklerini kuşatma altına alarak Batı etkisini hedef almışlardır."
+      },
+      {
+        "id": 7,
+        "text": "Pekin'deki yabancı elçiliklerin kuşatması yaklaşık kaç gün sürmüştür?",
+        "options": [
+          "30 gün",
+          "55 gün",
+          "90 gün",
+          "120 gün"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Yabancı elçilikler, Boxerlar ve Qing İmparatorluk ordusu tarafından yaklaşık 55 gün boyunca kuşatma altında tutulmuştur."
+      },
+      {
+        "id": 8,
+        "text": "Boxer Ayaklanması'na müdahale eden uluslararası koalisyon kaç devletten oluşuyordu?",
+        "options": [
+          "Beş",
+          "Yedi",
+          "Sekiz",
+          "On"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Koalisyon, Japonya, Rusya, İngiltere, ABD, Almanya, Fransa, Avusturya-Macaristan ve İtalya olmak üzere Sekiz Ulus İttifakı'ndan oluşuyordu."
+      },
+      {
+        "id": 9,
+        "text": "Uluslararası koalisyonun Çin'e askeri birlik göndermesindeki temel amaç neydi?",
+        "options": [
+          "Çin'i sömürgeleştirmek",
+          "Ticari ayrıcalıklar elde etmek",
+          "Kendi vatandaşlarını ve diplomatlarını kurtarmak",
+          "Qing Hanedanı'nı tamamen ortadan kaldırmak"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Koalisyonun resmi amacı, kuşatma altındaki yabancı vatandaşlarını ve diplomatlarını kurtarmaktı."
+      },
+      {
+        "id": 10,
+        "text": "Qing Hanedanı, başlangıçtaki tereddütüne rağmen Boxer Ayaklanması'nı neden destekleme kararı aldı?",
+        "options": [
+          "Boxerların gücünden korktuğu için",
+          "Yabancı güçlerin sürekli artan talep ve tehditleri nedeniyle",
+          "Boxerlarla gizli bir anlaşma yaptığı için",
+          "Çin'de demokrasiyi tesis etmek istediği için"
+        ],
+        "correctAnswer": 1,
+        "explanation": "İmparatoriçe Dowager Cixi liderliğindeki saray, yabancı güçlerin artan baskısı ve tehditleri karşısında Boxerları destekleme kararı almıştır."
+      },
+      {
+        "id": 11,
+        "text": "İmparatoriçe Dowager Cixi, hangi tarihte yabancı devletlere savaş ilan etti?",
+        "options": [
+          "5 Haziran 1900",
+          "14 Ağustos 1900",
+          "21 Haziran 1900",
+          "7 Eylül 1901"
+        ],
+        "correctAnswer": 2,
+        "explanation": "İmparatoriçe Dowager Cixi, 21 Haziran 1900'de yabancı devletlere savaş ilan etmiştir."
+      },
+      {
+        "id": 12,
+        "text": "Boxer Ayaklanması'nı resmen sona erdiren anlaşmanın adı nedir?",
+        "options": [
+          "Nanjing Antlaşması",
+          "Pekin Antlaşması",
+          "Boxer Protokolü",
+          "Shimonoseki Antlaşması"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Ayaklanma, 7 Eylül 1901'de imzalanan Boxer Protokolü ile resmen sona ermiştir."
+      },
+      {
+        "id": 13,
+        "text": "Boxer Protokolü'nün Çin üzerindeki başlıca etkilerinden biri nedir?",
+        "options": [
+          "Çin'in tam bağımsızlığını kazanması",
+          "Çin'e ağır savaş tazminatları yüklemesi",
+          "Qing Hanedanı'nın güçlenmesi",
+          "Yabancı güçlerin Çin'deki etkisini tamamen yitirmesi"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Protokol, Çin'e ağır savaş tazminatları yüklemiş ve yabancı devletlere daha fazla imtiyaz tanıyarak ülkenin egemenliğini zedelemiştir."
+      },
+      {
+        "id": 14,
+        "text": "Boxer Ayaklanması, Çin'in modernleşme sürecinde hangi yönde bir etki yaratmıştır?",
+        "options": [
+          "Sanayileşmeyi durdurmuştur",
+          "Milliyetçi duyguları güçlendirmiştir",
+          "Komünizmin yayılmasına zemin hazırlamıştır",
+          "Batı kültürüyle tam entegrasyonu sağlamıştır"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Ayaklanma, Çin'de milliyetçi duyguları güçlendirmiş ve yabancı hegemonyasına karşı ulusal bilinci artırmıştır."
+      },
+      {
+        "id": 15,
+        "text": "\"Yihetuan\" kelimesi, Boxer Ayaklanması'nda neyi ifade eder?",
+        "options": [
+          "Yabancı elçiliklerinin adı",
+          "Qing İmparatorluk Ordusu'nun bir birimi",
+          "Boxer Ayaklanması'nın Çince adı",
+          "Uluslararası koalisyonun askeri stratejisi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "\"Yihetuan\", Boxer Ayaklanması'nı gerçekleştiren örgütün Çince adıdır ve \"Hakka Teşvik Edilen Adalet ve Uyum Derneği\" anlamına gelir."
+      }
+    ]
   }
 ];
