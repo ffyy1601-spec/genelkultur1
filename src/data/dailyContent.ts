@@ -15585,5 +15585,209 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Makalede RFK'nin \"Senatör olarak da yoksulluk, ırk ayrımcılığı ve Vietnam Savaşı gibi konularda güçlü duruşuyla dikkat çekmişti\" ifadesi bulunmaktadır. Bu, suikast öncesindeki siyasi konumuydu."
       }
     ]
+  },
+  {
+    "slug": "cevre-bilincinin-kuresel-uyanisi-dunya-cevre-gunu-ve-stockholm-konferansi",
+    "dateId": "2026-06-05",
+    "title": "Çevre Bilincinin Doğuşu: Dünya Çevre Günü ve 1972 Stockholm Konferansı | GenelKultur",
+    "description": "Dünya Çevre Günü'nün tarihçesini, 1972 Stockholm Konferansı'nın önemini, Birleşmiş Milletler Çevre Programı (UNEP) kuruluşunu ve küresel çevre hareketine etkilerini keşfedin.",
+    "keywords": [
+      "Dünya Çevre Günü",
+      "Stockholm Konferansı 1972",
+      "çevre bilinci",
+      "Birleşmiş Milletler Çevre Programı",
+      "UNEP",
+      "ekolojik hareket",
+      "çevre koruma",
+      "5 Haziran",
+      "çevre politikası",
+      "sürdürülebilir kalkınma"
+    ],
+    "heading": "Çevre Bilincinin Küresel Uyanışı: Dünya Çevre Günü ve Stockholm Konferansı",
+    "intro": "Her yıl 5 Haziran'da kutladığımız Dünya Çevre Günü, aslında 1972 yılında İsveç'in başkenti Stockholm'de düzenlenen tarihi bir konferansın mirasıdır. Bu konferans, insanlığın çevre sorunlarına yönelik ilk küresel ve sistematik tepkilerinden biriydi. O güne kadar yerel veya bölgesel sorunlar olarak görülen kirlilik, kaynak tükenmesi ve doğal yaşam tahribatı gibi konular, ilk kez uluslararası bir platformda, gezegenin ortak geleceğini tehdit eden küresel meseleler olarak ele alındı. Stockholm Konferansı, çevre hareketinin doğuşuna zemin hazırlarken, günümüzdeki çevre politikalarının ve sürdürülebilirlik anlayışının temellerini attı.",
+    "article": "1972 Birleşmiş Milletler İnsan Çevresi Konferansı, dünya çapında 113 ülkenin temsilcilerini, uluslararası kuruluşları ve sivil toplum örgütlerini bir araya getiren dönüm noktası niteliğinde bir etkinlikti. Konferansın temel amacı, hızla kötüleşen çevre sorunlarına dikkat çekmek, bu sorunların nedenlerini ve olası çözümlerini tartışmak ve uluslararası işbirliğini teşvik etmekti. Katılımcılar, ekonomik kalkınmanın çevre üzerindeki olumsuz etkilerini, sanayileşmenin yol açtığı kirliliği ve doğal kaynakların sorumsuzca kullanımının uzun vadeli sonuçlarını masaya yatırdılar. Bu toplantı, çevrenin sadece bir bilimsel veya teknik mesele olmadığını, aynı zamanda ekonomik, sosyal ve politik boyutları olan karmaşık bir küresel sorun olduğunu ortaya koydu.\n\nKonferansın en önemli sonuçlarından biri, \"İnsan Çevresi Üzerine Stockholm Bildirgesi\"nin kabul edilmesiydi. Bu bildirge, insanların sağlıklı ve üretken bir yaşam için nitelikli bir çevreye sahip olma hakkını vurguluyor ve devletlerin çevre koruma konusunda sorumluluklarını tanımlıyordu. Ayrıca, uluslararası işbirliğinin gerekliliğinin altını çizen bildirge, gelecek nesillerin ihtiyaçlarını gözetecek şekilde çevresel kararlar alınması gerektiğini de belirtti. Bu ilkeler, modern çevre hukukunun ve sürdürülebilir kalkınma kavramının temelini oluşturdu.\n\nStockholm Konferansı, sadece bir bildirge ile kalmadı, aynı zamanda Birleşmiş Milletler Çevre Programı'nın (UNEP) kurulmasına da yol açtı. UNEP, küresel çevresel gündemi belirlemek, ülkeler arasında çevre politikalarını koordine etmek ve çevre projelerini desteklemek amacıyla kurulan merkezi bir organ oldu. O günden bu yana UNEP, iklim değişikliği, biyoçeşitlilik kaybı ve atık yönetimi gibi pek çok kritik alanda çalışmalar yürütmekte ve uluslararası anlaşmaların geliştirilmesinde kilit rol oynamaktadır. Dünya Çevre Günü'nün her yıl 5 Haziran'da kutlanması da, bu tarihi konferansın başlangıç günü anısına yapılan küresel bir farkındalık eylemidir. Bu özel gün, her yıl farklı bir tema ile dünya genelinde çevre sorunlarına dikkat çekmek ve bireylerden hükümetlere kadar herkesi harekete geçmeye teşvik etmek için bir fırsat sunar.",
+    "category": "bilim",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Dünya Çevre Günü, her yıl hangi tarihte kutlanmaktadır?",
+        "options": [
+          "22 Nisan",
+          "1 Mayıs",
+          "5 Haziran",
+          "12 Ekim"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Dünya Çevre Günü, 1972 Stockholm Konferansı'nın başlangıç tarihi olan 5 Haziran'da kutlanmaktadır. 22 Nisan Dünya Günü'dür."
+      },
+      {
+        "id": 2,
+        "text": "Dünya Çevre Günü'nün kutlanmasına karar verilen ilk Birleşmiş Milletler Konferansı nerede düzenlenmiştir?",
+        "options": [
+          "Rio de Janeiro",
+          "Stockholm",
+          "Kyoto",
+          "Cenevre"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Dünya Çevre Günü, 1972 yılında İsveç'in başkenti Stockholm'de düzenlenen \"Birleşmiş Milletler İnsan Çevresi Konferansı\" sonucunda ilan edilmiştir."
+      },
+      {
+        "id": 3,
+        "text": "1972 Stockholm Konferansı'nın temel amacı aşağıdakilerden hangisidir?",
+        "options": [
+          "Silahlanma yarışını sona erdirmek",
+          "Küresel ekonomik krize çözüm bulmak",
+          "Çevre sorunlarına dikkat çekmek ve uluslararası işbirliğini sağlamak",
+          "Uzay araştırmaları için fon toplamak"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Konferansın ana amacı, hızla artan çevre sorunlarına küresel ölçekte farkındalık yaratmak ve bu konuda uluslararası işbirliğini teşvik etmekti."
+      },
+      {
+        "id": 4,
+        "text": "Stockholm Konferansı sırasında kabul edilen önemli belge aşağıdakilerden hangisidir?",
+        "options": [
+          "Kyoto Protokolü",
+          "Paris Anlaşması",
+          "İnsan Çevresi Üzerine Stockholm Bildirgesi",
+          "Montreal Protokolü"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Konferansın sonunda, çevre koruma ve sürdürülebilir kalkınma ilkelerini içeren \"İnsan Çevresi Üzerine Stockholm Bildirgesi\" kabul edilmiştir."
+      },
+      {
+        "id": 5,
+        "text": "Aşağıdaki kuruluşlardan hangisi, Stockholm Konferansı'nın bir sonucu olarak kurulmuştur?",
+        "options": [
+          "UNESCO",
+          "UNICEF",
+          "Birleşmiş Milletler Çevre Programı (UNEP)",
+          "Dünya Sağlık Örgütü (WHO)"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Birleşmiş Milletler Çevre Programı (UNEP), Stockholm Konferansı'nın tavsiyesi üzerine küresel çevresel gündemi koordine etmek amacıyla kurulmuştur."
+      },
+      {
+        "id": 6,
+        "text": "Stockholm Bildirgesi'nin temel vurgularından biri aşağıdakilerden hangisidir?",
+        "options": [
+          "Teknolojik ilerlemenin mutlak üstünlüğü",
+          "İnsanların sağlıklı bir çevreye sahip olma hakkı",
+          "Sadece gelişmiş ülkelerin çevre koruma sorumluluğu",
+          "Doğal kaynakların sınırsız olduğu inancı"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Bildirge, her bireyin sağlıklı, üretken ve nitelikli bir çevrede yaşama hakkına sahip olduğunu ve bunun devletlerin sorumluluğunda olduğunu belirtir."
+      },
+      {
+        "id": 7,
+        "text": "Stockholm Konferansı'na dünya genelinden yaklaşık kaç ülke katılmıştır?",
+        "options": [
+          "50'den az",
+          "75-100 arası",
+          "110'dan fazla",
+          "Sadece Avrupa ülkeleri"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Konferansa dünya çapında 113 ülkenin temsilcileri katılarak küresel katılımın ilk örneklerinden birini oluşturmuştur."
+      },
+      {
+        "id": 8,
+        "text": "Stockholm Konferansı, çevre sorunlarını ilk kez hangi boyutta ele almıştır?",
+        "options": [
+          "Yerel düzeyde",
+          "Ulusal düzeyde",
+          "Bölgesel düzeyde",
+          "Küresel düzeyde"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Konferans, çevre sorunlarının sadece yerel veya ulusal değil, tüm gezegeni ilgilendiren küresel bir mesele olduğunu vurgulayan ilk uluslararası toplantıdır."
+      },
+      {
+        "id": 9,
+        "text": "\"Sürdürülebilir kalkınma\" kavramının temelleri hangi konferansla atılmıştır?",
+        "options": [
+          "Rio Konferansı (1992)",
+          "Dünya Zirvesi (2002)",
+          "Stockholm Konferansı (1972)",
+          "Kopenhag Zirvesi (2009)"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Stockholm Konferansı, doğrudan \"sürdürülebilir kalkınma\" terimini kullanmasa da, gelecek nesillerin ihtiyaçlarını gözeten çevresel kararlar alma prensibiyle bu kavramın temelini atmıştır."
+      },
+      {
+        "id": 10,
+        "text": "UNEP'in temel görevlerinden biri aşağıdakilerden hangisidir?",
+        "options": [
+          "Küresel askeri operasyonları yönetmek",
+          "Uluslararası ticaret anlaşmaları yapmak",
+          "Çevre politikalarını koordine etmek ve çevresel projeleri desteklemek",
+          "Uzay kolonizasyonu projeleri geliştirmek"
+        ],
+        "correctAnswer": 2,
+        "explanation": "UNEP, küresel çevresel gündemi belirlemek, ülkeler arasında çevre politikalarını koordine etmek ve çevre projelerini desteklemek amacıyla kurulmuştur."
+      },
+      {
+        "id": 11,
+        "text": "Dünya Çevre Günü her yıl genellikle hangi tema etrafında kutlanır?",
+        "options": [
+          "Dünya barışı",
+          "Farklı bir çevresel sorun veya hedef",
+          "Uluslararası uzay işbirliği",
+          "Spor ve olimpiyatlar"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Her yıl farklı bir ev sahibi ülke ve farklı bir tema ile kutlanan Dünya Çevre Günü, böylece güncel çevresel sorunlara dikkat çeker."
+      },
+      {
+        "id": 12,
+        "text": "Stockholm Konferansı'nın düzenlendiği yıl, çevre hareketinin gelişimi açısından nasıl bir öneme sahiptir?",
+        "options": [
+          "Çevre hareketinin tamamen sona erdiği yıl",
+          "Çevre hareketinin küresel düzeyde doğduğu ve ivme kazandığı yıl",
+          "Sadece yerel çevre hareketlerinin başladığı yıl",
+          "Çevre sorunlarının önemsiz görüldüğü bir dönem"
+        ],
+        "correctAnswer": 1,
+        "explanation": "1972 Konferansı, çevre hareketinin uluslararası bir platformda tanınmasını ve küresel düzeyde yaygınlaşmasını sağlamıştır."
+      },
+      {
+        "id": 13,
+        "text": "Aşağıdakilerden hangisi Stockholm Konferansı'nın masaya yatırdığı çevre sorunlarından biri değildir?",
+        "options": [
+          "Hava ve su kirliliği",
+          "Doğal kaynakların tükenmesi",
+          "Biyoçeşitlilik kaybı",
+          "Uzay çöpü sorunu"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Konferansın odağında sanayileşmenin ve kaynak kullanımının yol açtığı kirlilik, kaynak tükenmesi ve biyoçeşitlilik kaybı gibi konular vardı. Uzay çöpü, o dönemde henüz küresel bir öncelik değildi."
+      },
+      {
+        "id": 14,
+        "text": "Stockholm Bildirgesi, çevresel kararlar alınırken hangi nesillerin ihtiyaçlarının göz önünde bulundurulması gerektiğini belirtir?",
+        "options": [
+          "Sadece mevcut neslin",
+          "Geçmiş nesillerin",
+          "Gelecek nesillerin",
+          "Sadece belirli bir bölgedeki nesillerin"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bildirge, \"gelecek nesillerin ihtiyaçlarını tehlikeye atmadan bugünkü neslin ihtiyaçlarını karşılamak\" anlamına gelen sürdürülebilirlik ilkesine atıfta bulunur."
+      },
+      {
+        "id": 15,
+        "text": "Stockholm Konferansı'nın Birleşmiş Milletler düzeyinde düzenlenmesinin en önemli faydası ne olmuştur?",
+        "options": [
+          "Sadece tek bir ülkenin sorunlarını çözmek",
+          "Çevre sorunlarını uluslararası diplomasi ve işbirliği gündemine taşımak",
+          "Çevre sorunlarının sadece bilim insanlarına bırakılmasını sağlamak",
+          "Ekonomik büyümenin tek öncelik olduğunu ilan etmek"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Birleşmiş Milletler platformu, çevre sorunlarının küresel ölçekte tanınmasını, tartışılmasını ve çözüme yönelik uluslararası diplomatik çabaların başlamasını sağlamıştır."
+      }
+    ]
   }
 ];
