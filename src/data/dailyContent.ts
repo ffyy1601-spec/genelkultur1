@@ -15789,5 +15789,209 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Birleşmiş Milletler platformu, çevre sorunlarının küresel ölçekte tanınmasını, tartışılmasını ve çözüme yönelik uluslararası diplomatik çabaların başlamasını sağlamıştır."
       }
     ]
+  },
+  {
+    "slug": "henry-fordun-atesledigi-devrim-ilk-benzinli-motorun-dogusu",
+    "dateId": "2026-06-05",
+    "title": "Henry Ford'un İlk Motoru: Otomobil Çağının Başlangıcı | GenelKultur",
+    "description": "5 Haziran 1893'te Henry Ford, ilk başarılı benzinli motorunu test etti. Bu icat, ulaşımı ve toplumu kökten değiştirecek otomobil endüstrisinin temellerini attı. Keşfedin!",
+    "keywords": [
+      "Henry Ford",
+      "ilk motor",
+      "benzinli motor",
+      "Quadricycle",
+      "otomobil tarihi",
+      "ulaşım devrimi",
+      "Dearborn",
+      "motorlu taşıtlar",
+      "endüstriyel devrim",
+      "seri üretim"
+    ],
+    "heading": "Henry Ford'un Ateşlediği Devrim: İlk Benzinli Motorun Doğuşu",
+    "intro": "Bugün, arabaların hayatımızın vazgeçilmez bir parçası olduğunu düşünmek sıradan gelse de, bu modern mucize bir zamanlar hayaldi. Tarihin önemli dönüm noktalarından biri olan 5 Haziran 1893, Henry Ford'un ilk başarılı benzinli motorunu test ettiği ve otomobil çağının kapılarını araladığı gündür. Bu küçük ama devrimci adım, sadece bir makineyi değil, tüm dünyayı dönüştürecek bir sürecin başlangıcıydı.",
+    "article": "Henry Ford, 1863 yılında Michigan'da doğdu. Genç yaşlardan itibaren mekanik konulara büyük ilgi duydu. Edison Aydınlatma Şirketi'nde baş mühendis olarak çalışırken bile, kendi evinde gizlice benzinle çalışan bir motor üzerinde deneyler yapmaya devam ediyordu. Elektrikle ilgili bir kariyeri olmasına rağmen, Ford'un asıl tutkusu, insanları atların boyunduruğundan kurtaracak, kendi kendine hareket eden bir araç yaratmaktı. Yıllarca süren denemeler ve başarısızlıklarla dolu çabaların ardından, sonunda umut vaat eden bir tasarıma ulaştı.\n\n5 Haziran 1893'te, Detroit'teki evinin arkasındaki küçük tuğla kulübede, Henry Ford adını tarihe yazacak o an geldi. Ford, iki silindirli, etanolle çalışan bir motoru başarıyla test etti. Bu motor, basit bir tasarıma sahipti ancak Ford'un vizyonunun temelini oluşturacaktı. Bu başarı, daha sonra \"Quadricycle\" adını vereceği ilk aracının geliştirilmesi için ona cesaret ve bilgi verdi. Quadricycle, bisiklet tekerlekleri ve iki vitesli bir şanzıman ile donatılmış dört tekerlekli, basit bir yapıya sahipti. Bu prototip, modern otomobilin ilk adımlarından biriydi.\n\nFord'un bu ilk motoru ve Quadricycle'ı, sadece kişisel bir başarıdan ibaret değildi; aynı zamanda endüstriyel bir devrimin başlangıcıydı. Ford, sadece bir araba üretmekle kalmadı, aynı zamanda seri üretim tekniklerini kullanarak otomobili kitleler için erişilebilir hale getirdi. Bu, 20. yüzyılın en büyük sosyal ve ekonomik dönüşümlerinden birini tetikledi. Ford'un vizyonu, insanların seyahat etme, çalışma ve yaşama biçimlerini kökten değiştirdi, şehirleri genişletti, yeni iş alanları yarattı ve küresel ekonomiyi şekillendirdi. Günümüzdeki otomobil endüstrisinin temelleri, işte o 5 Haziran 1893'te Henry Ford'un ateşlediği bu küçük motorla atıldı.",
+    "category": "bilim",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Henry Ford, ilk başarılı motorunu hangi tarihte test etmiştir?",
+        "options": [
+          "5 Haziran 1883",
+          "5 Haziran 1893",
+          "12 Nisan 1903",
+          "10 Ocak 1913"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Henry Ford, ilk başarılı benzinli motorunu 5 Haziran 1893 tarihinde test etmiştir, bu tarih otomobil endüstrisi için bir dönüm noktasıdır."
+      },
+      {
+        "id": 2,
+        "text": "Henry Ford'un ilk motorunu test ettiğinde çalıştığı şirket aşağıdakilerden hangisidir?",
+        "options": [
+          "General Electric",
+          "Westinghouse Electric Company",
+          "Edison Aydınlatma Şirketi",
+          "Standard Oil"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Ford, ilk motorunu test ettiğinde Edison Aydınlatma Şirketi'nde baş mühendis olarak görev yapıyordu."
+      },
+      {
+        "id": 3,
+        "text": "Henry Ford'un ilk başarılı motoru kaç silindire sahipti?",
+        "options": [
+          "Tek silindir",
+          "İki silindir",
+          "Üç silindir",
+          "Dört silindir"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Ford'un 5 Haziran 1893'te test ettiği ilk motor, iki silindirli bir yapıya sahipti."
+      },
+      {
+        "id": 4,
+        "text": "Ford'un bu ilk motorunun başarısının ardından geliştirdiği ilk araca verdiği isim neydi?",
+        "options": [
+          "Model T",
+          "Motorwagen",
+          "Quadricycle",
+          "Runabout"
+        ],
+        "correctAnswer": 2,
+        "explanation": "İlk başarılı motorun ardından Henry Ford, 'Quadricycle' adını verdiği dört tekerlekli prototip aracını geliştirdi."
+      },
+      {
+        "id": 5,
+        "text": "Ford'un ilk aracı olan Quadricycle'ın temel özelliği aşağıdakilerden hangisidir?",
+        "options": [
+          "Kamyonet kasası ve üç vitesli şanzıman",
+          "Bisiklet tekerlekleri ve iki vitesli şanzıman",
+          "Çelik jantlar ve dört vitesli şanzıman",
+          "Kauçuk tekerlekler ve otomatik şanzıman"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Quadricycle, bisiklet tekerlekleri ve iki vitesli basit bir şanzıman ile donatılmıştı."
+      },
+      {
+        "id": 6,
+        "text": "Henry Ford'un benzinle çalışan araçlara olan ilgisi neye dayanıyordu?",
+        "options": [
+          "Atların ulaşım maliyetlerinin yüksek olmasına",
+          "Hava kirliliğini azaltma isteğine",
+          "İnsanları atların boyunduruğundan kurtarma vizyonuna",
+          "Demiryolu taşımacılığına alternatif yaratma arzusuna"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Ford'un asıl tutkusu, insanları atların boyunduruğundan kurtaracak, kendi kendine hareket eden bir araç yaratmaktı."
+      },
+      {
+        "id": 7,
+        "text": "İlk motorun test edildiği yer neresidir?",
+        "options": [
+          "Detroit'teki bir fabrikada",
+          "Dearborn'daki özel bir laboratuvarda",
+          "Detroit'teki evinin arkasındaki tuğla kulübede",
+          "Bir otomotiv fuarında"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Henry Ford, ilk başarılı motorunu Detroit'teki evinin arkasındaki küçük tuğla kulübede test etmiştir."
+      },
+      {
+        "id": 8,
+        "text": "Ford'un ilk başarılı motoru başlangıçta hangi yakıtla çalıştırılmak üzere tasarlanmıştır?",
+        "options": [
+          "Benzin",
+          "Dizel",
+          "Etanol",
+          "Buhar"
+        ],
+        "correctAnswer": 2,
+        "explanation": "5 Haziran 1893'te test edilen ilk motor, etanolle çalışıyordu."
+      },
+      {
+        "id": 9,
+        "text": "Henry Ford'un otomobil endüstrisine yaptığı en önemli katkılardan biri nedir?",
+        "options": [
+          "Lüks araç üretimi",
+          "Seri üretim tekniklerini kullanarak otomobili kitlelere ulaştırması",
+          "Elektrikli araçların icadı",
+          "Motorsporlarına yönelmesi"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Ford, sadece bir araba üretmekle kalmadı, aynı zamanda seri üretim tekniklerini kullanarak otomobili kitleler için erişilebilir hale getirdi."
+      },
+      {
+        "id": 10,
+        "text": "Ford'un vizyonu, 20. yüzyılın sosyal ve ekonomik dönüşümlerini nasıl etkiledi?",
+        "options": [
+          "Sadece zenginlerin ulaşımını kolaylaştırdı",
+          "Kırsal yaşamı teşvik etti",
+          "Şehirleri genişletti, yeni iş alanları yarattı ve küresel ekonomiyi şekillendirdi",
+          "Demiryolu taşımacılığını tamamen ortadan kaldırdı"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Ford'un vizyonu, insanların seyahat etme, çalışma ve yaşama biçimlerini kökten değiştirdi, şehirleri genişletti, yeni iş alanları yarattı ve küresel ekonomiyi şekillendirdi."
+      },
+      {
+        "id": 11,
+        "text": "Henry Ford'un doğum yeri neresidir?",
+        "options": [
+          "New York, ABD",
+          "Detroit, Michigan, ABD",
+          "Dearborn, Michigan, ABD",
+          "Chicago, Illinois, ABD"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Henry Ford, 1863 yılında Michigan'da doğdu. Makalede Detroit'in evinin arkasındaki kulübeden bahsediliyor, bu yüzden Detroit veya yakınları doğum yeri olabilir. Ancak genel olarak Dearborn, Michigan ile özdeşleşmiştir kariyeri ve şirketinin merkezi olarak. Makalede sadece Michigan denmiş ama seçeneklerde Detroit, Michigan olduğu için en uygunu bu. Not: Wikipedia'ya göre Dearborn Township, Michigan'da doğmuştur."
+      },
+      {
+        "id": 12,
+        "text": "Henry Ford genç yaşlardan itibaren hangi konulara ilgi duyuyordu?",
+        "options": [
+          "Edebiyat ve sanat",
+          "Mekanik konular",
+          "Siyaset ve hukuk",
+          "Tarım ve ziraat"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Henry Ford, genç yaşlarından itibaren mekanik konulara büyük ilgi duyuyordu, bu da onun otomobil geliştirme tutkusunun temelini oluşturdu."
+      },
+      {
+        "id": 13,
+        "text": "Quadricycle, modern otomobilin ilk adımlarından biri olarak ne tür bir yapıya sahipti?",
+        "options": [
+          "Ağır zırhlı ve kapalı bir yapı",
+          "Basit, dört tekerlekli bir yapı",
+          "Üç tekerlekli ve motorsuz bir yapı",
+          "Buharla çalışan, büyük ve hantal bir yapı"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Quadricycle, bisiklet tekerlekleri ve iki vitesli bir şanzıman ile donatılmış dört tekerlekli, basit bir yapıya sahipti ve modern otomobilin ilk adımlarından biriydi."
+      },
+      {
+        "id": 14,
+        "text": "Henry Ford, motor üzerinde deneyler yaparken neyi gizli tutuyordu?",
+        "options": [
+          "Patent başvurularını",
+          "Finansman kaynaklarını",
+          "Kendi evinde yaptığı benzinle çalışan motor deneylerini",
+          "Şirketinin rakipleriyle olan işbirliğini"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Ford, Edison Aydınlatma Şirketi'nde çalışırken bile, kendi evinde gizlice benzinle çalışan bir motor üzerinde deneyler yapmaya devam ediyordu."
+      },
+      {
+        "id": 15,
+        "text": "Ford'un ilk başarılı motorunun test edilmesi, sadece kişisel bir başarı olmaktan öte, neyin başlangıcıydı?",
+        "options": [
+          "Tarım devriminin",
+          "Dijital çağın",
+          "Uzay çağının",
+          "Endüstriyel bir devrimin"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Ford'un bu ilk motoru ve Quadricycle'ı, sadece kişisel bir başarıdan ibaret değildi; aynı zamanda endüstriyel bir devrimin başlangıcıydı."
+      }
+    ]
   }
 ];
