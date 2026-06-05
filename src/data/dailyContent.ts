@@ -15380,5 +15380,210 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "\"Yihetuan\", Boxer Ayaklanması'nı gerçekleştiren örgütün Çince adıdır ve \"Hakka Teşvik Edilen Adalet ve Uyum Derneği\" anlamına gelir."
       }
     ]
+  },
+  {
+    "slug": "robert-f-kennedy-suikasti-bir-umudun-trajik-sonu",
+    "dateId": "2026-06-05",
+    "title": "Robert F. Kennedy Suikastı: Bir Umudun Sönüşü ve Amerika'nın Yası | GenelKultur",
+    "description": "5 Haziran 1968'de yaşanan Robert F. Kennedy suikastı, Amerika'nın politik iklimini nasıl değiştirdi? Bir başkan adayının trajik sonu ve ardında bıraktığı miras hakkında her şey.",
+    "keywords": [
+      "Robert F Kennedy",
+      "RFK suikastı",
+      "1968",
+      "Amerika tarihi",
+      "Kennedy ailesi",
+      "Sirhan Sirhan",
+      "başkanlık seçimi",
+      "siyasi cinayetler",
+      "Vietnam Savaşı",
+      "insan hakları",
+      "adaletsizlik"
+    ],
+    "heading": "Robert F. Kennedy Suikastı: Bir Umudun Trajik Sonu",
+    "intro": "1968 yılı, Amerika Birleşik Devletleri için toplumsal çalkantıların, siyasi gerilimlerin ve büyük değişimlerin yaşandığı bir dönemdi. Vietnam Savaşı'nın derinleştirdiği kutuplaşma, sivil haklar hareketinin yükselişi ve gençlik isyanları ülkenin dört bir yanında hissediliyordu. İşte bu karmaşık atmosferde, umut vadeden bir lider, eski başkan John F. Kennedy'nin kardeşi Robert F. Kennedy, başkanlık yarışında yükselirken trajik bir sona kurban gitti. 5 Haziran 1968'de Los Angeles'ta düzenlenen suikast, sadece Kennedy ailesini değil, tüm Amerika'yı yasa boğdu ve tarihin akışını derinden etkiledi.",
+    "article": "5 Haziran 1968 gecesi, Robert F. Kennedy, Kaliforniya ön seçimlerini kazanmasının ardından Los Angeles'taki Ambassador Otel'de zafer konuşması yapıyordu. Konuşmasının ardından mutfak bölgesinden geçerken, 24 yaşındaki Ürdünlü-Filistinli Sirhan Sirhan tarafından uğradığı silahlı saldırı sonucu ağır yaralandı. Kennedy, bir gün sonra, 6 Haziran 1968'de hayatını kaybetti. Bu suikast, sadece beş yıl önce ağabeyi John F. Kennedy'nin Dallas'ta öldürülmesinin acısını tazeleyerek, ülkeyi bir kez daha derin bir şoka sürükledi.\n\nRobert F. Kennedy, 1960'larda Amerika'nın en etkili ve sevilen politikacılarından biriydi. Kardeşinin başkanlığı döneminde Adalet Bakanı olarak görev yapmış, sivil haklar mücadelesine önemli katkılarda bulunmuştu. Senatör olarak da yoksulluk, ırk ayrımcılığı ve Vietnam Savaşı gibi konularda güçlü duruşuyla dikkat çekmişti. Onun 1968 başkanlık adaylığı, özellikle gençler, azınlıklar ve savaş karşıtları arasında büyük bir heyecan yaratmış, birçok kişi için daha adil ve barışçıl bir geleceğin simgesi haline gelmişti. Suikastı, bu umutların trajik bir şekilde kesintiye uğraması anlamına geliyordu.\n\nRFK suikastı, Amerika'nın 1960'lı yıllardaki siyasi ve toplumsal çalkantıların zirve noktalarından biriydi. Martin Luther King Jr.'ın aynı yılın Nisan ayında öldürülmesinin ardından yaşanan bu ikinci büyük lider suikastı, Amerikan toplumunda derin bir karamsarlık ve güven kaybına yol açtı. Olayın arkasındaki nedenler ve Sirhan Sirhan'ın motivasyonları hala tartışma konusu olsa da, suikastın Amerika'nın iç ve dış politikaları üzerindeki etkisi yadsınamaz. Robert F. Kennedy'nin ölümü, Vietnam Savaşı'nın sonunu getirme, yoksullukla mücadele etme ve toplumsal birliği sağlama vizyonunu taşıyan bir liderin sahneden çekilmesiyle sonuçlandı ve ülkenin geleceğini farklı bir yöne çevirdi.",
+    "category": "tarih",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Robert F. Kennedy'ye düzenlenen suikast hangi tarihte gerçekleşmiştir?",
+        "options": [
+          "5 Nisan 1968",
+          "5 Mayıs 1968",
+          "5 Haziran 1968",
+          "5 Temmuz 1968"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Robert F. Kennedy'ye yönelik suikast, 5 Haziran 1968 gecesi Los Angeles'taki Ambassador Otel'de gerçekleşmiştir."
+      },
+      {
+        "id": 2,
+        "text": "Suikast olayı, Robert F. Kennedy'nin hangi eyaletteki ön seçim zaferini kutlamasının ardından meydana gelmiştir?",
+        "options": [
+          "New York",
+          "Kaliforniya",
+          "Massachusetts",
+          "Teksas"
+        ],
+        "correctAnswer": 1,
+        "explanation": "RFK, suikasttan kısa bir süre önce Kaliforniya ön seçimlerini kazanmasının ardından zafer konuşması yapıyordu."
+      },
+      {
+        "id": 3,
+        "text": "Robert F. Kennedy'nin suikastçısının adı nedir?",
+        "options": [
+          "Lee Harvey Oswald",
+          "James Earl Ray",
+          "Sirhan Sirhan",
+          "John Wilkes Booth"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Robert F. Kennedy'yi öldüren kişi, 24 yaşındaki Ürdünlü-Filistinli Sirhan Sirhan'dır."
+      },
+      {
+        "id": 4,
+        "text": "Robert F. Kennedy, suikasttan kaç gün sonra hayatını kaybetmiştir?",
+        "options": [
+          "Aynı gün",
+          "Bir gün sonra",
+          "İki gün sonra",
+          "Üç gün sonra"
+        ],
+        "correctAnswer": 1,
+        "explanation": "RFK, 5 Haziran'daki saldırıdan bir gün sonra, 6 Haziran 1968'de hayatını kaybetmiştir."
+      },
+      {
+        "id": 5,
+        "text": "Robert F. Kennedy, ağabeyi John F. Kennedy'nin başkanlığı döneminde hangi önemli görevde bulunmuştur?",
+        "options": [
+          "Dışişleri Bakanı",
+          "Savunma Bakanı",
+          "Adalet Bakanı",
+          "Hazine Bakanı"
+        ],
+        "correctAnswer": 2,
+        "explanation": "John F. Kennedy başkanlığı sırasında, kardeşi Robert F. Kennedy'yi Adalet Bakanı olarak atamıştır."
+      },
+      {
+        "id": 6,
+        "text": "1968 yılında Amerika'da yaşanan toplumsal çalkantıların ana nedenlerinden biri aşağıdakilerden hangisidir?",
+        "options": [
+          "Büyük Buhran'ın etkileri",
+          "Soğuk Savaş'ın sona ermesi",
+          "Vietnam Savaşı ve sivil haklar mücadelesi",
+          "Kadın hakları hareketinin yükselişi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Makalede, 1968 yılının Vietnam Savaşı'nın derinleştirdiği kutuplaşma ve sivil haklar hareketinin yükselişiyle karakterize edildiği belirtilmiştir."
+      },
+      {
+        "id": 7,
+        "text": "Robert F. Kennedy'nin başkanlık adaylığı özellikle hangi kesimler arasında büyük bir heyecan yaratmıştır?",
+        "options": [
+          "Muhafazakâr seçmenler ve sanayiciler",
+          "Gençler, azınlıklar ve savaş karşıtları",
+          "Büyük çiftçiler ve toprak sahipleri",
+          "Sendika liderleri ve işverenler"
+        ],
+        "correctAnswer": 1,
+        "explanation": "RFK'nin 1968 başkanlık adaylığı, özellikle gençler, azınlıklar ve savaş karşıtları arasında büyük bir heyecan yaratmıştır."
+      },
+      {
+        "id": 8,
+        "text": "Robert F. Kennedy suikastı, aynı yıl içinde yaşanan hangi önemli lider suikastını hatırlatarak Amerikan toplumunda şok etkisi yaratmıştır?",
+        "options": [
+          "Malcolm X suikastı",
+          "Martin Luther King Jr. suikastı",
+          "Medgar Evers suikastı",
+          "John F. Kennedy suikastı"
+        ],
+        "correctAnswer": 1,
+        "explanation": "RFK suikastı, sadece iki ay önce (Nisan 1968) gerçekleşen Martin Luther King Jr. suikastının ardından Amerikan toplumunda ikinci büyük lider suikastı olarak derin bir şok etkisi yaratmıştır."
+      },
+      {
+        "id": 9,
+        "text": "Robert F. Kennedy'nin 1968 başkanlık adaylığındaki temel vaatleri arasında aşağıdakilerden hangisi yer almaz?",
+        "options": [
+          "Yoksullukla mücadele",
+          "Uzay yarışını hızlandırmak",
+          "Irk ayrımcılığına son vermek",
+          "Vietnam Savaşı'nı sona erdirmek"
+        ],
+        "correctAnswer": 1,
+        "explanation": "RFK, yoksulluk, ırk ayrımcılığı ve Vietnam Savaşı gibi konularda güçlü duruşuyla biliniyordu. Uzay yarışı, daha çok John F. Kennedy döneminin bir hedefiydi."
+      },
+      {
+        "id": 10,
+        "text": "Robert F. Kennedy suikastı hangi otelde gerçekleşmiştir?",
+        "options": [
+          "Waldorf Astoria Otel",
+          "Hilton Otel",
+          "Ambassador Otel",
+          "Plaza Otel"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Robert F. Kennedy, Los Angeles'taki Ambassador Otel'de zafer konuşmasının ardından suikasta uğramıştır."
+      },
+      {
+        "id": 11,
+        "text": "Robert F. Kennedy'nin suikastı sonrasında, Amerikan toplumunda ortaya çıkan ana duygulardan biri nedir?",
+        "options": [
+          "İyimserlik ve yeniden doğuş",
+          "Derin bir karamsarlık ve güven kaybı",
+          "Ulusal gurur ve birlik",
+          "Öfke ve intikam arzusu"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Makalede, suikastın Amerikan toplumunda derin bir karamsarlık ve güven kaybına yol açtığı ifade edilmektedir."
+      },
+      {
+        "id": 12,
+        "text": "Sirhan Sirhan'ın Robert F. Kennedy'ye yönelik suikasttaki motivasyonlarının hala tartışma konusu olması ne anlama gelir?",
+        "options": [
+          "Suikastın arkasındaki gerçek nedenlerin tam olarak anlaşılamamış olması",
+          "Sirhan Sirhan'ın suçlu bulunmaması",
+          "Olayın bir kaza olduğunun düşünülmesi",
+          "Suikastın sadece tek bir kişisel nedene bağlı olması"
+        ],
+        "correctAnswer": 0,
+        "explanation": "\"Hala tartışma konusu\" ifadesi, suikastın ardındaki motivasyonların ve nedenlerin kamuoyunda veya uzmanlar arasında tam bir fikir birliğine varılamadığı, şüphelerin veya farklı teorilerin devam ettiği anlamına gelir."
+      },
+      {
+        "id": 13,
+        "text": "Robert F. Kennedy'nin politik kariyerinde, hangi başkanın döneminde önemli bir role sahip olmuştur?",
+        "options": [
+          "Lyndon B. Johnson",
+          "Dwight D. Eisenhower",
+          "John F. Kennedy",
+          "Richard Nixon"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Robert F. Kennedy, ağabeyi John F. Kennedy'nin başkanlığı döneminde Adalet Bakanı olarak görev yapmıştır."
+      },
+      {
+        "id": 14,
+        "text": "1968 yılındaki suikast, Robert F. Kennedy için ne anlama geliyordu?",
+        "options": [
+          "Politik kariyerinin zirvesine ulaşması",
+          "Başkanlık kampanyasının başarılı bir şekilde sona ermesi",
+          "Umut vaat eden bir liderin vizyonunun trajik bir şekilde kesintiye uğraması",
+          "Ailesinin siyasetteki etkisinin artması"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Makale, RFK'nin suikastının, taşıdığı umutların ve daha adil, barışçıl bir gelecek vizyonunun trajik bir şekilde kesintiye uğraması anlamına geldiğini belirtmektedir."
+      },
+      {
+        "id": 15,
+        "text": "Robert F. Kennedy, suikast öncesinde hangi siyasi pozisyonda görev yapmaktaydı?",
+        "options": [
+          "Vali",
+          "Temsilciler Meclisi Üyesi",
+          "Senatör",
+          "Başkan Yardımcısı"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Makalede RFK'nin \"Senatör olarak da yoksulluk, ırk ayrımcılığı ve Vietnam Savaşı gibi konularda güçlü duruşuyla dikkat çekmişti\" ifadesi bulunmaktadır. Bu, suikast öncesindeki siyasi konumuydu."
+      }
+    ]
   }
 ];
