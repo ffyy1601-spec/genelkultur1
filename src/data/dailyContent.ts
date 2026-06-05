@@ -14969,5 +14969,213 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Dunkerque, Manş Denizi kıyısında yer almaktadır ve tahliye edilen askerler bu deniz üzerinden İngiltere'ye taşınmıştır."
       }
     ]
+  },
+  {
+    "slug": "ortadogunun-yuzunu-degistiren-alti-gun-1967-arap-israil-savasi",
+    "dateId": "2026-06-05",
+    "title": "Altı Gün Savaşı: Ortadoğu'nun Kaderini Değiştiren Çatışma | GenelKultur",
+    "description": "1967'deki Altı Gün Savaşı'nın nedenlerini, seyrini ve Ortadoğu'daki uzun vadeli etkilerini keşfedin. İsrail-Arap çatışmasının dönüm noktası ve kalıcı sonuçları.",
+    "keywords": [
+      "Altı Gün Savaşı",
+      "1967 Arap-İsrail Savaşı",
+      "Ortadoğu Tarihi",
+      "İsrail",
+      "Mısır",
+      "Ürdün",
+      "Suriye",
+      "Gazze Şeridi",
+      "Batı Şeria",
+      "Golan Tepeleri",
+      "Kudüs",
+      "Cemal Abdünnasır",
+      "Filistin sorunu",
+      "Soğuk Savaş"
+    ],
+    "heading": "Ortadoğu'nun Yüzünü Değiştiren Altı Gün: 1967 Arap-İsrail Savaşı",
+    "intro": "5 Haziran 1967'de Ortadoğu, tarihindeki en kısa ama en yıkıcı savaşlardan birine uyandı. Sadece altı gün süren bu çatışma, bölgenin haritasını, güç dengelerini ve geleceğini geri dönülmez bir şekilde değiştirecekti. İsrail ile komşuları Mısır, Ürdün ve Suriye arasında patlak veren bu savaş, \"Altı Gün Savaşı\" olarak anılacak ve günümüz Ortadoğu sorunlarının pek çoğunun kökenini oluşturacaktı. Bu kısa ama yoğun dönem, uluslararası ilişkilerde de önemli yankılar uyandıracak bir dönüm noktasıydı.",
+    "article": "Savaşın patlak vermesine yol açan gerilimler, yıllardır birikiyordu. 1948 Arap-İsrail Savaşı'ndan sonra ateşkesle durulan çatışmalar, su kaynakları, sınır anlaşmazlıkları, Filistinli mülteci sorunu ve artan Arap milliyetçiliği gibi konularla sürekli sıcak kalmıştı. Özellikle Mısır lideri Cemal Abdünnasır'ın pan-Arabizm ideolojisi ve Sovyetler Birliği'nden aldığı destekle bölgedeki nüfuzunu artırma çabaları, İsrail için büyük bir tehdit olarak algılanıyordu. Mayıs 1967'de Mısır, Sina Yarımadası'na asker yığmaya ve Akabe Körfezi'ni İsrail gemilerine kapatmaya karar verdi. Bu ablukası, İsrail için bir savaş nedeni sayılacak \"casus belli\" olarak kabul edildi ve bölgedeki tansiyonu zirveye taşıdı.\n\nİsrail, Arap ülkelerinin ortak bir saldırı hazırlığında olduğunu düşünerek önleyici bir hava saldırısı başlatma kararı aldı. 5 Haziran sabahı erken saatlerde, İsrail Hava Kuvvetleri, \"Odak Operasyonu\" (Operation Focus) adı verilen bir baskınla Mısır hava üslerini hedef aldı. Bu sürpriz saldırı, Mısır Hava Kuvvetleri'nin büyük bir kısmını yerde imha etti ve İsrail'e savaşın ilk saatlerinde mutlak hava üstünlüğü sağladı. Hava desteğinden mahrum kalan Mısır ordusu, Sina Yarımadası'nda İsrail kara birlikleri karşısında hızla çöktü. Aynı gün Ürdün ve Suriye de İsrail'e saldırıya geçse de, İsrail Hava Kuvvetleri'nin üstünlüğü ve kara birliklerinin etkili manevraları sayesinde bu cephelerde de hızlı ilerlemeler kaydedildi. Savaşın hızı ve İsrail'in elde ettiği askeri başarı, dünya kamuoyunu şaşkına çevirdi.\n\nAltı gün içinde İsrail, muazzam topraklar ele geçirdi. Mısır'dan Sina Yarımadası ve Gazze Şeridi'ni, Ürdün'den Doğu Kudüs ve Batı Şeria'yı, Suriye'den ise Golan Tepeleri'ni işgal etti. Savaş, 10 Haziran'da Birleşmiş Milletler'in ateşkes çağrısıyla sona erdi. Askeri açıdan İsrail için ezici bir zafer olsa da, bu savaş Ortadoğu'ya kalıcı ve karmaşık sorunlar bıraktı. İşgal edilen topraklardaki Filistinli nüfusun durumu, yerleşim birimlerinin inşası, Kudüs'ün statüsü ve Golan Tepeleri'nin geleceği gibi konular, o günden bu yana bölgedeki barış çabalarını sekteye uğratan temel meseleler haline geldi. Altı Gün Savaşı, Soğuk Savaş dönemindeki bölgesel ve küresel güç dengelerini de etkileyerek, Ortadoğu'yu daha da derin bir çatışma sarmalına soktu ve Filistin sorununun uluslararası gündemdeki yerini pekiştirdi.",
+    "category": "tarih",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Altı Gün Savaşı hangi tarihte başlamıştır?",
+        "options": [
+          "1 Haziran 1967",
+          "5 Haziran 1967",
+          "10 Haziran 1967",
+          "15 Mayıs 1967"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Altı Gün Savaşı, İsrail'in Mısır hava üslerine yönelik önleyici hava saldırısıyla 5 Haziran 1967'de başlamıştır."
+      },
+      {
+        "id": 2,
+        "text": "İsrail'in savaşın ilk saatlerinde Mısır hava üslerine düzenlediği önleyici saldırının adı nedir?",
+        "options": [
+          "Şimşek Operasyonu",
+          "Zafer Operasyonu",
+          "Odak Operasyonu",
+          "Kartal Operasyonu"
+        ],
+        "correctAnswer": 2,
+        "explanation": "İsrail Hava Kuvvetleri'nin 5 Haziran 1967 sabahı Mısır hava üslerine yönelik gerçekleştirdiği stratejik saldırının adı 'Odak Operasyonu' (Operation Focus) idi."
+      },
+      {
+        "id": 3,
+        "text": "Altı Gün Savaşı'nda İsrail'e karşı savaşan başlıca Arap ülkeleri hangileridir?",
+        "options": [
+          "Mısır, Sudan, Libya",
+          "Ürdün, Irak, Suudi Arabistan",
+          "Mısır, Ürdün, Suriye",
+          "Suriye, Lübnan, Filistin"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Altı Gün Savaşı'nda İsrail'e karşı Mısır, Ürdün ve Suriye başı çekmiş, diğer Arap ülkeleri de sınırlı destek vermiştir."
+      },
+      {
+        "id": 4,
+        "text": "Mısır'ın savaş öncesinde Akabe Körfezi'ni İsrail gemilerine kapatması ne olarak kabul edilmiştir?",
+        "options": [
+          "Ekonomik ambargo",
+          "Sınır ihlali",
+          "Casus belli (savaş nedeni)",
+          "Uluslararası anlaşmazlık"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Akabe Körfezi'nin İsrail gemilerine kapatılması, İsrail tarafından hayati bir deniz yolu olduğu için doğrudan bir savaş nedeni ('casus belli') olarak görülmüştür."
+      },
+      {
+        "id": 5,
+        "text": "Altı Gün Savaşı sonucunda İsrail, Mısır'dan hangi önemli bölgeyi ele geçirmiştir?",
+        "options": [
+          "Sina Yarımadası",
+          "Nil Deltası",
+          "Süveyş Kanalı Bölgesi",
+          "Libya Sınır Bölgesi"
+        ],
+        "correctAnswer": 0,
+        "explanation": "İsrail, savaşın sonunda Mısır'dan geniş Sina Yarımadası'nı ve Gazze Şeridi'ni ele geçirmiştir."
+      },
+      {
+        "id": 6,
+        "text": "İsrail, Ürdün'den hangi bölgeleri işgal etmiştir?",
+        "options": [
+          "Amman ve çevresi",
+          "Doğu Kudüs ve Batı Şeria",
+          "Akabe liman şehri",
+          "Ölü Deniz kıyıları"
+        ],
+        "correctAnswer": 1,
+        "explanation": "İsrail, Ürdün cephesinde Doğu Kudüs'ü ve Ürdün'ün kontrolündeki Batı Şeria bölgesini ele geçirmiştir."
+      },
+      {
+        "id": 7,
+        "text": "Suriye'den ele geçirilen ve stratejik önemi olan bölgenin adı nedir?",
+        "options": [
+          "Şam Vadisi",
+          "Golan Tepeleri",
+          "Halep Ovası",
+          "Lübnan Sınırı"
+        ],
+        "correctAnswer": 1,
+        "explanation": "İsrail, savaşın son günlerinde Suriye'den stratejik öneme sahip Golan Tepeleri'ni ele geçirmiştir."
+      },
+      {
+        "id": 8,
+        "text": "Savaş sırasında Mısır'ın lideri kimdi?",
+        "options": [
+          "Enver Sedat",
+          "Hüsnü Mübarek",
+          "Cemal Abdünnasır",
+          "Muhammed Necib"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Altı Gün Savaşı sırasında Mısır'ın devlet başkanı ve pan-Arabizm'in önemli liderlerinden Cemal Abdünnasır idi."
+      },
+      {
+        "id": 9,
+        "text": "Altı Gün Savaşı'nın Ortadoğu'daki en önemli ve uzun vadeli sonuçlarından biri nedir?",
+        "options": [
+          "Petrol fiyatlarının düşmesi",
+          "Demokrasilerin yaygınlaşması",
+          "Filistin sorununun derinleşmesi ve yeni mülteci dalgaları",
+          "Bölgesel ekonomik entegrasyonun artması"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Savaş, işgal edilen topraklardaki Filistinlilerin durumunu ve yerleşim yerleri sorununu tetikleyerek Filistin sorununun daha da karmaşık ve derinleşmesine yol açmıştır."
+      },
+      {
+        "id": 10,
+        "text": "Savaş, Soğuk Savaş döneminde hangi iki küresel gücün Ortadoğu'daki nüfuz mücadelesini de yansıtmıştır?",
+        "options": [
+          "Almanya ve Fransa",
+          "İngiltere ve ABD",
+          "ABD ve Sovyetler Birliği",
+          "Çin ve Rusya"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Altı Gün Savaşı, Soğuk Savaş'ın bir yansıması olarak ABD'nin İsrail'i ve Sovyetler Birliği'nin Arap ülkelerini desteklemesiyle, iki süper gücün bölgesel nüfuz mücadelesine sahne olmuştur."
+      },
+      {
+        "id": 11,
+        "text": "Birleşmiş Milletler Güvenlik Konseyi'nin, Altı Gün Savaşı sonrası İsrail'in işgal ettiği topraklardan çekilmesini talep eden kararı hangi numarayı taşımaktadır?",
+        "options": [
+          "242",
+          "338",
+          "181",
+          "194"
+        ],
+        "correctAnswer": 0,
+        "explanation": "BMGK'nın 22 Kasım 1967'de kabul ettiği 242 sayılı Karar, 'işgal edilmiş topraklardan geri çekilmeyi' ve 'bölgedeki her devletin güvenli sınırlar içinde yaşama hakkını' vurgulamıştır."
+      },
+      {
+        "id": 12,
+        "text": "Altı Gün Savaşı'nın ardından İsrail'in askeri taktiği 'önleyici saldırı' olarak tanımlanmıştır. Bu ne anlama gelir?",
+        "options": [
+          "Düşmanın ilk saldırısını bekleme",
+          "Düşman saldırısından önce saldırma",
+          "Uzun soluklu bir yıpratma savaşı",
+          "Sadece savunmaya odaklanma"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Önleyici saldırı, düşmanın olası bir saldırısını bertaraf etmek veya zayıflatmak amacıyla, düşman saldırmadan önce yapılan bir askeri harekattır. İsrail, Arap ülkelerinin saldırı hazırlığında olduğunu düşünerek bu taktiği uygulamıştır."
+      },
+      {
+        "id": 13,
+        "text": "Altı Gün Savaşı'nda en çok zarar gören Arap hava kuvveti hangisiydi?",
+        "options": [
+          "Suriye Hava Kuvvetleri",
+          "Ürdün Hava Kuvvetleri",
+          "Irak Hava Kuvvetleri",
+          "Mısır Hava Kuvvetleri"
+        ],
+        "correctAnswer": 3,
+        "explanation": "İsrail'in 'Odak Operasyonu' öncelikli olarak Mısır hava üslerini hedef almış ve Mısır Hava Kuvvetleri'nin büyük bir kısmını daha savaşın ilk saatlerinde yerde imha etmiştir."
+      },
+      {
+        "id": 14,
+        "text": "Savaşın kesin olarak sona erdiği tarih nedir?",
+        "options": [
+          "8 Haziran 1967",
+          "9 Haziran 1967",
+          "10 Haziran 1967",
+          "12 Haziran 1967"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Altı Gün Savaşı, Birleşmiş Milletler'in ateşkes çağrısının ardından 10 Haziran 1967'de sona ermiştir."
+      },
+      {
+        "id": 15,
+        "text": "Altı Gün Savaşı'nın başlangıcında, Mısır hangi yarımadaya asker yığarak gerilimi tırmandırmıştır?",
+        "options": [
+          "Arabistan Yarımadası",
+          "Anadolu Yarımadası",
+          "Balkan Yarımadası",
+          "Sina Yarımadası"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Mısır, Mayıs 1967'de büyük miktarda askerini Sina Yarımadası'na kaydırarak İsrail sınırında gerilimi artırmıştır."
+      }
+    ]
   }
 ];
