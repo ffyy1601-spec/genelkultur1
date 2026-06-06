@@ -16812,5 +16812,209 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Gandhi'nin şiddet içermeyen direniş felsefesi ve eylemleri, Martin Luther King Jr.'ın liderliğindeki ABD Sivil Haklar Hareketi gibi birçok sivil haklar ve şiddet içermeyen direniş hareketine ilham kaynağı olmuştur."
       }
     ]
+  },
+  {
+    "slug": "tetris-bloklarin-dunyayi-fethettigi-oyunun-hikayesi",
+    "dateId": "2026-06-06",
+    "title": "Tetris'in Doğuşu: Sovyetlerden Dünyaya Yayılan Efsanevi Oyun | GenelKultur",
+    "description": "6 Haziran 1984'te Sovyetler Birliği'nde doğan Tetris, basit ama bağımlılık yapıcı mekaniğiyle kısa sürede tüm dünyayı fethetti. Bu efsanevi oyunun hikayesini, yaratıcısını ve kültürel etkilerini keşfedin.",
+    "keywords": [
+      "Tetris",
+      "video oyunları",
+      "Aleksey Pajitnov",
+      "Sovyetler Birliği",
+      "oyun tarihi",
+      "efsanevi oyun",
+      "bulmaca oyunu",
+      "Game Boy",
+      "Nintendo",
+      "kültürel fenomen"
+    ],
+    "heading": "Tetris: Blokların Dünyayı Fethettiği Oyunun Hikayesi",
+    "intro": "Dijital eğlence dünyasının en ikonik ve evrensel dilde konuşan isimlerinden biri olan Tetris, basit gibi görünen ancak derin bir strateji barındıran yapısıyla milyonları peşinden sürükledi. 6 Haziran 1984'te Sovyetler Birliği'nde doğan bu oyun, sadece bir eğlence aracı olmakla kalmadı, aynı zamanda kültürel bir fenomen haline gelerek nesiller arası bir köprü kurdu. Peki, bu blokların destansı yolculuğu nasıl başladı ve tüm dünyayı nasıl etkisi altına aldı?",
+    "article": "Tetris'in hikayesi, soğuk savaşın son dönemlerinde, Sovyetler Birliği'nin bilimsel merkezlerinden birinde başladı. 1984 yılında, SSCB Bilimler Akademisi'nde çalışan bilgisayar mühendisi Aleksey Pajitnov, bilgisayar başında geçirdiği zamanları verimli kılmak amacıyla basit bir oyun tasarlıyordu. Polyomino adı verilen geometrik şekillerden ilham alan Pajitnov, her biri dört küpten oluşan yedi farklı blok (tetromino) ile ekranda düşen ve sıraları tamamlayarak kaybolan bir sistem geliştirdi. Adını Yunanca 'tetra' (dört) ve Pajitnov'un favori sporu tenis'ten alan 'Tetris', kısa sürede kurum içindeki meslektaşları arasında büyük bir ilgi uyandırdı. Bu basit ama bağımlılık yapıcı oyun, Sovyet bilgisayar ağları üzerinden hızla yayıldı ve Batı dünyasına ulaşma serüvenine başladı.\n\nOyunun uluslararası başarısı, lisanslama ve telif hakları etrafında dönen karmaşık bir dizi olayla şekillendi. Sovyet hükümetine ait Elorg (Elektronorgtechnica) adlı şirket, Tetris'in global haklarını elinde tutuyordu ve oyunun dünyaya yayılmasında kilit rol oynadı. Çeşitli şirketler, oyunun Batı'ya taşınması için Elorg ile anlaşmalar yapmaya çalıştı. Özellikle Nintendo'nun Game Boy el konsolu için Tetris'i lisanslaması, oyunun kaderini tamamen değiştirdi. Game Boy ile birlikte sunulan Tetris, konsolun satışlarını rekor seviyelere taşıyarak, Tetris'i dünya çapında bir fenomen haline getirdi. Mobil cihazların ve internetin yaygınlaşmasıyla birlikte, Tetris'in erişilebilirliği daha da arttı ve oyun, modern dijital dünyada da popülerliğini korudu.\n\nTetris'in başarısı sadece ticari rakamlarla ölçülemez; aynı zamanda psikolojik ve kültürel etkileriyle de ön plana çıkar. Oyunun basit kuralları, herkesin kolayca öğrenmesini sağlarken, sürekli hızlanan tempo ve artan zorluk, oyuncuların sürekli meydan okuma hissini yaşamasına neden olur. \"Tetris etkisi\" olarak bilinen bir fenomen bile ortaya çıkmıştır; bu durum, insanların uzun süre Tetris oynadıktan sonra gerçek dünyadaki nesneleri bloklar şeklinde görmesi veya düzenleme isteği duymasıdır. Tetris, zaman yönetiminden problem çözme yeteneğine kadar birçok alanda bilişsel becerileri geliştiren bir araç olarak da görülmüştür. Yıllar içinde sayısız platformda piyasaya sürülen, turnuvaları düzenlenen ve akademik çalışmalara konu olan Tetris, bir video oyunundan çok daha fazlası olduğunu kanıtlamış, dijital çağın en kalıcı miraslarından biri olmuştur.",
+    "category": "genel",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Tetris'in yaratıcısı kimdir?",
+        "options": [
+          "Shigeru Miyamoto",
+          "Hideo Kojima",
+          "Aleksey Pajitnov",
+          "John Carmack"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Tetris, 1984 yılında Sovyet bilgisayar mühendisi Aleksey Pajitnov tarafından geliştirilmiştir."
+      },
+      {
+        "id": 2,
+        "text": "Tetris ilk olarak hangi ülkede geliştirilmiştir?",
+        "options": [
+          "Amerika Birleşik Devletleri",
+          "Japonya",
+          "Almanya",
+          "Sovyetler Birliği"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Tetris, Soğuk Savaş döneminde Sovyetler Birliği'nin Bilimler Akademisi'nde Aleksey Pajitnov tarafından yaratılmıştır."
+      },
+      {
+        "id": 3,
+        "text": "Tetris ismi ne anlama gelmektedir?",
+        "options": [
+          "Yunanca 'tetra' (dört) ve Pajitnov'un favori sporu olan 'tenis' kelimelerinin birleşimi.",
+          "Rusça 'düşen bloklar' anlamına gelen bir kelime.",
+          "Latince 'birlikte hareket et' anlamına gelen bir ifade.",
+          "Geliştirildiği bilgisayarın adının kısaltması."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Oyunun adı, her bloğun dört küpten oluşmasına atıfta bulunan Yunanca 'tetra' kelimesi ile yaratıcısı Pajitnov'un en sevdiği spor olan 'tenis' kelimesinin birleşiminden gelmektedir."
+      },
+      {
+        "id": 4,
+        "text": "Tetris'in yaygınlaşmasında en büyük rol oynayan el konsolu hangisidir?",
+        "options": [
+          "Atari Lynx",
+          "Sega Game Gear",
+          "Nintendo Game Boy",
+          "Sony PSP"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Nintendo'nun Game Boy el konsolu, Tetris'i kutu içeriğinde sunarak oyunun dünya çapında bir fenomen haline gelmesinde kritik bir rol oynamıştır."
+      },
+      {
+        "id": 5,
+        "text": "Tetris'te kullanılan temel geometrik şekillere ne ad verilir?",
+        "options": [
+          "Hexomino",
+          "Pentomino",
+          "Tetromino",
+          "Trionimo"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Tetris'te kullanılan ve her biri dört küpten oluşan yedi farklı blok, matematiksel olarak 'tetromino' olarak adlandırılır."
+      },
+      {
+        "id": 6,
+        "text": "Oyunun uluslararası lisans haklarını elinde bulunduran Sovyet şirketi hangisiydi?",
+        "options": [
+          "Goskompjut",
+          "Microgen",
+          "Elorg (Elektronorgtechnica)",
+          "Aeroflot"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Elorg (Elektronorgtechnica), Sovyet hükümetine bağlı bir şirket olup, Tetris'in uluslararası lisans ve telif haklarını yönetmiştir."
+      },
+      {
+        "id": 7,
+        "text": "Tetris'in ilk çıktığı yıl hangisidir?",
+        "options": [
+          "1974",
+          "1984",
+          "1994",
+          "2004"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Tetris, ilk olarak 6 Haziran 1984 tarihinde Aleksey Pajitnov tarafından geliştirilmiştir."
+      },
+      {
+        "id": 8,
+        "text": "Hangi fenomen, Tetris'i uzun süre oynayan kişilerin gerçek dünyadaki nesneleri bloklar şeklinde görmesi veya düzenleme isteği duyması durumunu tanımlar?",
+        "options": [
+          "Tetris Senfonisi",
+          "Tetris Sendromu",
+          "Tetris Etkisi",
+          "Tetris Rüyası"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Uzun süre Tetris oynamanın ardından ortaya çıkan, kişinin zihninde Tetris bloklarını görmesi veya gerçek dünyadaki nesneleri Tetris mantığıyla düzenleme isteği duyması durumuna 'Tetris etkisi' adı verilir."
+      },
+      {
+        "id": 9,
+        "text": "Tetris, ilk olarak hangi platformda ortaya çıkmıştır?",
+        "options": [
+          "Arcade makineleri",
+          "Ev konsolları",
+          "Bilgisayarlar (Electronika 60)",
+          "El konsolları"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Tetris, Aleksey Pajitnov tarafından Sovyet bilgisayarı Electronika 60 üzerinde geliştirilen bir bilgisayar oyunu olarak ortaya çıkmıştır."
+      },
+      {
+        "id": 10,
+        "text": "Aşağıdakilerden hangisi Tetris'in temel oynanış mekaniği değildir?",
+        "options": [
+          "Düşen blokları döndürmek",
+          "Yatay sıraları tamamlamak",
+          "Blokları patlatarak diğer oyunculara saldırmak",
+          "Blokları zemine yerleştirmek"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Tetris'in temel oynanışı, düşen blokları döndürerek ve konumlandırarak yatay sıraları tamamlamaya dayanır. Diğer oyunculara saldırmak, çok oyunculu varyasyonlarda görülebilse de, temel mekaniğin bir parçası değildir."
+      },
+      {
+        "id": 11,
+        "text": "Tetris'in yaratıcısı Aleksey Pajitnov, oyunun telif haklarından ne zaman tam anlamıyla faydalanmaya başlamıştır?",
+        "options": [
+          "Oyunun ilk çıktığı yıl olan 1984'te",
+          "Nintendo ile yapılan Game Boy anlaşmasıyla",
+          "Elorg ile olan sözleşmesinin sona ermesiyle (1996)",
+          "Oyunun PC versiyonu çıktığında"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Aleksey Pajitnov, Tetris'in telif haklarını 1996 yılına kadar Sovyet devleti adına Elorg'a devretmişti. Bu tarihten sonra kendi şirketiyle oyunun haklarından faydalanmaya başlamıştır."
+      },
+      {
+        "id": 12,
+        "text": "Tetris, hangi dönemde Sovyetler Birliği'nde geliştirilmiştir?",
+        "options": [
+          "II. Dünya Savaşı",
+          "Soğuk Savaş'ın son dönemleri",
+          "Perestroyka'dan önce",
+          "Ekim Devrimi"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Tetris, 1984 yılında, yani Soğuk Savaş'ın sonlarına doğru Sovyetler Birliği'nde geliştirilmiştir."
+      },
+      {
+        "id": 13,
+        "text": "Tetris'in kültürel etkileri arasında aşağıdakilerden hangisi sayılamaz?",
+        "options": [
+          "Bilgisayar oyunlarına olan bakışı değiştirmiştir.",
+          "Küresel çapta bir eğlence aracı haline gelmiştir.",
+          "Akademik çalışmalara konu olmuştur.",
+          "Dünya genelinde uzay araştırmalarını hızlandırmıştır."
+        ],
+        "correctAnswer": 3,
+        "explanation": "Tetris, bilgisayar oyunlarının kültürel kabulünü artırmış, eğlence sektöründe çığır açmış ve hatta bilişsel psikoloji alanında araştırmalara ilham vermiştir. Ancak uzay araştırmalarıyla doğrudan bir etkisi bulunmamaktadır."
+      },
+      {
+        "id": 14,
+        "text": "Tetris'in grafiklerinin ve oynanışının basitliği, başarısında hangi rolü oynamıştır?",
+        "options": [
+          "Oyunun sadece belirli bir kitleye hitap etmesine neden olmuştur.",
+          "Oyunun hızla modasının geçmesine yol açmıştır.",
+          "Oyunun evrensel bir çekicilik kazanmasını ve kolayca adapte edilmesini sağlamıştır.",
+          "Oyunun karmaşık stratejiler geliştirmesini engellemiştir."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Tetris'in basit grafikleri ve kolay öğrenilebilir oynanışı, dil veya kültürel engeller olmaksızın herkes tarafından anlaşılmasını ve oynanmasını sağlamış, bu da onun küresel başarısının anahtarlarından biri olmuştur."
+      },
+      {
+        "id": 15,
+        "text": "Tetris, Sovyetler Birliği içinde ilk olarak nasıl yayılmıştır?",
+        "options": [
+          "Televizyon kanallarında yapılan tanıtımlarla",
+          "Bilgisayar ağları üzerinden paylaşım yoluyla",
+          "Perakende mağazalarda disket satışlarıyla",
+          "Devlet tarafından zorunlu oyun olarak dağıtılmasıyla"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Oyun, Aleksey Pajitnov'un çalıştığı kurum içinde ve Sovyet bilgisayar ağları üzerinden meslektaşları arasında hızla yayılarak ilk popülaritesini kazanmıştır."
+      }
+    ]
   }
 ];
