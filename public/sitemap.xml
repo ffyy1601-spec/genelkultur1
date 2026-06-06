@@ -910,4 +910,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/gokyuzunden-elektrigi-indiren-adam-benjamin-franklin-ve-ucurtma-deneyi</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/gokyuzunden-elektrigi-indiren-adam-benjamin-franklin-ve-ucurtma-deneyi/oyna</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
