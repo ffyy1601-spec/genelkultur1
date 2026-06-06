@@ -900,4 +900,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/isvecin-kurtaricisi-gustav-vasa-ve-bagimsizlik-caginin-baslangici</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/isvecin-kurtaricisi-gustav-vasa-ve-bagimsizlik-caginin-baslangici/oyna</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
