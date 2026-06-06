@@ -16608,5 +16608,209 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Franklin, uçurtma deneyini yaşadığı yer olan Philadelphia, Pensilvanya'da gerçekleştirmiştir."
       }
     ]
+  },
+  {
+    "slug": "pasif-direnisin-dogusu-mahatma-gandhinin-pietermaritzburg-deneyimi",
+    "dateId": "2026-06-06",
+    "title": "Mahatma Gandhi'nin Güney Afrika'daki İlk Sivil İtaatsizlik Eylemi | GenelKultur",
+    "description": "Mahatma Gandhi'nin 7 Haziran 1893'te Güney Afrika'da yaşadığı ayrımcılık ve sivil itaatsizlik eylemiyle pasif direniş felsefesinin temellerini nasıl attığını keşfedin.",
+    "keywords": [
+      "Mahatma Gandhi",
+      "sivil itaatsizlik",
+      "pasif direniş",
+      "Güney Afrika",
+      "ayrımcılık",
+      "Pietermaritzburg olayı",
+      "tarih",
+      "insan hakları",
+      "7 Haziran 1893",
+      "Hintlilerin hakları"
+    ],
+    "heading": "Pasif Direnişin Doğuşu: Mahatma Gandhi'nin Pietermaritzburg Deneyimi",
+    "intro": "7 Haziran 1893 tarihi, modern sivil itaatsizlik hareketlerinin dönüm noktalarından birine sahne oldu. Genç bir avukat olan Mohandas Karamçand Gandhi'nin Güney Afrika'da yaşadığı kişisel bir ayrımcılık vakası, onu tüm dünyayı etkileyecek \"satyagraha\" felsefesinin temellerini atmaya itecekti. Bu olay, Gandhi'nin hayatını ve dolayısıyla Hindistan'ın bağımsızlık mücadelesini, hatta dünya genelindeki insan hakları hareketlerini derinden etkileyecek bir başlangıçtı.",
+    "article": "Mohandas Karamçand Gandhi, 1893 yılında hukuki bir davayla ilgilenmek üzere Güney Afrika'ya gitmişti. Genç bir Hint avukat olarak, o dönemdeki İngiliz sömürge yönetiminin ve beyaz azınlığın Hintlilere yönelik uyguladığı katı ırk ayrımcılığı politikalarıyla ilk kez yüz yüze geldi. Bu politikalar, Hintlilerin kamusal alanlarda, özellikle de trenlerde birinci sınıf vagonlarda seyahat etmelerini yasaklıyordu. Oysa Gandhi'nin geçerli bir birinci sınıf bileti vardı.\n\n7 Haziran 1893'te, Pretoria'ya gitmek üzere Pietermaritzburg istasyonundan bindiği trende, beyaz bir yolcunun şikayeti üzerine kendisinden üçüncü sınıf vagona geçmesi istendi. Gandhi, birinci sınıf bileti olduğunu belirterek bu talebe itiraz etti. Ancak ısrarı üzerine kondüktör ve diğer görevliler tarafından zorla trenden indirildi. Soğuk bir kış gecesi, bavullarıyla birlikte trenden atılan Gandhi, Pietermaritzburg istasyonunun bekleme salonunda saatlerce tek başına oturdu. Bu an, onun için sadece kişisel bir aşağılanma değil, aynı zamanda sömürgeciliğin ve ırk ayrımcılığının acımasız yüzünü anlamasına yol açan derin bir uyanıştı.\n\nBu deneyim, Gandhi'nin hayatının seyrini tamamen değiştirdi. O gece boyunca, ayrımcılığa karşı nasıl bir yol izleyeceği üzerine düşündü ve şiddet içermeyen direniş, yani \"satyagraha\" felsefesinin ilk tohumları o istasyonda atıldı. Gandhi, bu olayın ardından Güney Afrika'da Hintlilerin hakları için 21 yıl boyunca mücadele etti. Bu mücadele, onun sadece bir avukat olmaktan çıkıp bir siyasi ve ruhani lidere dönüşmesinin başlangıcı oldu. Pietermaritzburg olayı, hem onun hem de dünya tarihindeki birçok pasif direniş hareketinin ilham kaynağı olarak anılmaktadır.",
+    "category": "tarih",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Mahatma Gandhi Güney Afrika'ya hangi amaçla gitmişti?",
+        "options": [
+          "Siyasi bir misyon için",
+          "Ticaret yapmak için",
+          "Hukuki bir davayla ilgilenmek için",
+          "Misyonerlik yapmak için"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Gandhi, Güney Afrika'ya Dada Abdullah'ın hukuki davasına bakmak üzere genç bir avukat olarak gitmişti."
+      },
+      {
+        "id": 2,
+        "text": "Gandhi'nin trenden indirildiği yer ve tarih nedir?",
+        "options": [
+          "Cape Town, 1895",
+          "Johannesburg, 1893",
+          "Pietermaritzburg, 7 Haziran 1893",
+          "Durban, 1894"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Gandhi, 7 Haziran 1893 tarihinde Pietermaritzburg istasyonunda trenden indirilmiştir."
+      },
+      {
+        "id": 3,
+        "text": "Gandhi trenden neden indirilmişti?",
+        "options": [
+          "Bileti olmadığı için",
+          "Kavga çıkardığı için",
+          "Beyaz yolcularla aynı vagonda seyahat ettiği için",
+          "Yüksek sesle konuştuğu için"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Beyaz bir yolcunun şikayeti üzerine, o dönemdeki ırk ayrımcılığı yasaları gereği, birinci sınıf bileti olmasına rağmen beyazlara ayrılmış vagonda oturduğu için trenden indirilmiştir."
+      },
+      {
+        "id": 4,
+        "text": "Gandhi'nin bu olay sonrası geliştirdiği felsefenin adı nedir?",
+        "options": [
+          "Ahimsa",
+          "Satyagraha",
+          "Karma Yoga",
+          "Dharma"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Gandhi, bu olaydan sonra şiddet içermeyen direniş ve hakikatin gücü anlamına gelen \"Satyagraha\" felsefesini geliştirmiştir. Ahimsa, zarar vermeme ilkesidir ve Satyagraha'nın bir parçasıdır."
+      },
+      {
+        "id": 5,
+        "text": "Pietermaritzburg olayının Gandhi'nin hayatı üzerindeki temel etkisi ne olmuştur?",
+        "options": [
+          "Hukuk kariyerinden vazgeçmesine neden oldu",
+          "Hindistan'a geri dönmesini hızlandırdı",
+          "Sivil itaatsizlik ve pasif direniş hareketlerinin öncüsü olmasına yol açtı",
+          "İngiliz hükümetiyle işbirliği yapmasına neden oldu"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bu olay, Gandhi'nin ırk ayrımcılığına karşı mücadele etme kararını pekiştirmiş ve onu şiddet içermeyen direnişin, yani sivil itaatsizliğin güçlü bir savunucusu haline getirmiştir."
+      },
+      {
+        "id": 6,
+        "text": "Güney Afrika'daki Hintlilere yönelik uygulanan ayrımcılık politikaları genel olarak ne olarak adlandırılıyordu?",
+        "options": [
+          "Kölelik",
+          "Kast Sistemi",
+          "Apartheid'ın ilk biçimleri",
+          "Feodalizm"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Güney Afrika'da daha sonra resmileşecek olan Apartheid sisteminin ilk ve temel biçimleri, Gandhi'nin döneminde de Hintlilere ve siyahlara karşı uygulanmaktaydı."
+      },
+      {
+        "id": 7,
+        "text": "Gandhi, Pietermaritzburg istasyonunda trenden atıldıktan sonra ne kadar süre Güney Afrika'da kalmıştır?",
+        "options": [
+          "Yaklaşık 5 yıl",
+          "Yaklaşık 10 yıl",
+          "Yaklaşık 21 yıl",
+          "Yaklaşık 30 yıl"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Gandhi, 1893'ten 1914'e kadar yaklaşık 21 yıl Güney Afrika'da kalarak Hintlilerin hakları için mücadele etmiştir."
+      },
+      {
+        "id": 8,
+        "text": "Gandhi'nin Güney Afrika'da savunduğu temel haklar arasında hangisi yoktur?",
+        "options": [
+          "Oy kullanma hakkı",
+          "Seyahat özgürlüğü",
+          "Eşit eğitim hakkı",
+          "Din özgürlüğü"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Gandhi, Hintlilerin seyahat, eğitim ve din özgürlüğü gibi temel hakları için mücadele etmiş olsa da, oy kullanma hakkı o dönemdeki mücadelesinin ana odak noktalarından biri değildi. Daha çok ayrımcılık ve aşağılayıcı yasalara karşı direniş ön plandaydı."
+      },
+      {
+        "id": 9,
+        "text": "Satyagraha felsefesinin temelinde yatan ana ilke nedir?",
+        "options": [
+          "Kanunlara tam itaat",
+          "Şiddet yoluyla direniş",
+          "Hakikate bağlılık ve şiddetsizlik",
+          "Siyasi partiler kurmak"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Satyagraha, \"hakikatin gücü\" veya \"ruh gücü\" anlamına gelir ve temelinde şiddetsizlik (ahimsa) ve hakikate (satya) bağlılık yatarak, adaletsizliğe pasif ama kararlı bir şekilde karşı durmayı amaçlar."
+      },
+      {
+        "id": 10,
+        "text": "Gandhi'nin Pietermaritzburg olayındaki deneyimi, onun daha sonra hangi ülkedeki bağımsızlık mücadelesini etkilemiştir?",
+        "options": [
+          "Pakistan",
+          "Nepal",
+          "Bangladeş",
+          "Hindistan"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Güney Afrika'daki bu deneyimler, Gandhi'nin Hindistan'a döndükten sonra bu ülkenin İngiliz sömürge yönetiminden bağımsızlığını kazanma mücadelesine liderlik etmesinin temelini oluşturmuştur."
+      },
+      {
+        "id": 11,
+        "text": "Olayın yaşandığı dönemde Güney Afrika'daki yönetim biçimi neydi?",
+        "options": [
+          "Cumhuriyet",
+          "Monarşi",
+          "İngiliz Sömürge Yönetimi",
+          "Federasyon"
+        ],
+        "correctAnswer": 2,
+        "explanation": "1893 yılında Güney Afrika, Birleşik Krallık'ın bir sömürgesiydi ve İngiliz sömürge yönetimi altındaydı."
+      },
+      {
+        "id": 12,
+        "text": "Gandhi'nin trenden indirildiği vagonda kiminle bir sorun yaşamıştır?",
+        "options": [
+          "Kondüktör ve beyaz bir yolcu",
+          "Yalnızca kondüktör",
+          "Yalnızca beyaz bir yolcu",
+          "Siyah bir yolcu"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Gandhi, birinci sınıf vagonda beyaz bir yolcunun şikayeti üzerine kondüktör tarafından üçüncü sınıf vagona geçmesi istenmiş, itiraz etmesi üzerine trenden indirilmiştir."
+      },
+      {
+        "id": 13,
+        "text": "Gandhi'nin Güney Afrika'daki mücadelesi kaç yıl sürmüştür?",
+        "options": [
+          "10 yıl",
+          "15 yıl",
+          "21 yıl",
+          "25 yıl"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Gandhi, 1893'te Güney Afrika'ya gitmiş ve 1914'te Hindistan'a dönmüştür, yani yaklaşık 21 yıl boyunca orada mücadele etmiştir."
+      },
+      {
+        "id": 14,
+        "text": "Pietermaritzburg istasyonunda trenden indirildikten sonra Gandhi ne yapmıştır?",
+        "options": [
+          "Hemen geri dönmek için bilet almıştır",
+          "Bir sonraki treni beklemiştir",
+          "Hukuki yollara başvurmuştur",
+          "Soğukta bekleme salonunda oturup mücadelesini düşünmüştür"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Olaydan sonra, Gandhi soğuk bir kış gecesinde bekleme salonunda oturarak yaşadığı ayrımcılığı ve buna karşı nasıl mücadele edeceğini düşünmüş, bu da \"Satyagraha\" felsefesinin doğuşuna ilham vermiştir."
+      },
+      {
+        "id": 15,
+        "text": "Gandhi'nin bu olaydaki eylemi, dünya genelinde hangi hareketlere ilham kaynağı olmuştur?",
+        "options": [
+          "İşçi sendikaları hareketleri",
+          "Silahlı devrim hareketleri",
+          "Sivil haklar ve şiddet içermeyen direniş hareketleri",
+          "Teknolojik gelişmeler hareketleri"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Gandhi'nin şiddet içermeyen direniş felsefesi ve eylemleri, Martin Luther King Jr.'ın liderliğindeki ABD Sivil Haklar Hareketi gibi birçok sivil haklar ve şiddet içermeyen direniş hareketine ilham kaynağı olmuştur."
+      }
+    ]
   }
 ];
