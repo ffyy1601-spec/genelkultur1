@@ -18039,5 +18039,209 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Norveç Storting'i, 7 Haziran 1905 tarihinde İsveç ile olan birliğin feshedildiğini ilan etmiştir."
       }
     ]
+  },
+  {
+    "slug": "osirak-operasyonu-nukleer-bir-tehdidin-havadan-sonu",
+    "dateId": "2026-06-07",
+    "title": "Osirak Operasyonu: İsrail'in Irak Nükleer Reaktörüne Saldırısı | GenelKultur",
+    "description": "7 Haziran 1981'de gerçekleşen Osirak Operasyonu, İsrail'in Irak'ın nükleer programına karşı gerçekleştirdiği cesur hava saldırısını ve Ortadoğu'daki nükleer silahlanma tartışmalarını detaylarıyla inceleyin.",
+    "keywords": [
+      "Osirak Operasyonu",
+      "İsrail",
+      "Irak",
+      "nükleer reaktör",
+      "F-16",
+      "pre-emptif saldırı",
+      "nükleer silahlanma",
+      "Ortadoğu tarihi",
+      "hava saldırısı",
+      "1981"
+    ],
+    "heading": "Osirak Operasyonu: Nükleer Bir Tehdidin Havadan Sonu",
+    "intro": "1981 yılının yaz başında, Ortadoğu'nun gergin atmosferi, tüm dünyayı şoke eden bir olayla daha da ısındı. 7 Haziran'da İsrail Hava Kuvvetleri, Irak'ın henüz inşaat halinde olan Osirak nükleer reaktörüne karşı 'Operasyon Opera' adını verdikleri cesur ve tehlikeli bir hava saldırısı düzenledi. Bu tek seferlik operasyon, nükleer silahlanmanın bölgesel dengeler üzerindeki potansiyel etkisini ve uluslararası hukukun sınırlarını bir kez daha tartışmaya açtı.",
+    "article": "1970'lerin sonlarından itibaren Irak, Fransa'nın da yardımıyla iddialı bir nükleer program yürütmekteydi. Saddam Hüseyin liderliğindeki Irak, Bağdat yakınlarındaki Tuwaitha nükleer araştırma merkezinde 'Tammuz-1' adını verdikleri, Fransız yapımı Osirak tipi bir reaktör inşa ediyordu. İsrail, bu reaktörün Irak'ın nükleer silah geliştirmesi için kullanılabileceğinden derin endişe duyuyordu. Özellikle 1981'in yaz aylarında reaktörün nükleer yakıtla yüklenecek olması, İsrail için bir 'kırmızı çizgi' anlamına geliyordu. İsrail, diplomatik yollarla reaktörün durdurulması çabalarının sonuçsuz kalması üzerine askeri bir müdahaleyi kaçınılmaz görüyordu.\n\nOperasyonun planlaması büyük bir gizlilik içinde yürütüldü. İsrail Hava Kuvvetleri (IAF), F-16 Fighting Falcon jetlerini ve yedek F-15 Eagle uçaklarını kullanarak özel bir eğitim programı başlattı. Sekiz F-16 savaş uçağından oluşan saldırı gücü, uzun menzilli uçuş için özel yakıt tanklarıyla donatıldı. Uçuş rotası, Ürdün ve Suudi Arabistan hava sahasından mümkün olduğunca alçak irtifada ve radarlara yakalanmadan geçmek üzere tasarlandı. Bu, operasyonun en riskli kısımlarından biriydi zira en ufak bir tespit, operasyonun başarısını tehlikeye atabilir ve büyük bir diplomatik krize yol açabilirdi.\n\n7 Haziran 1981 Pazar günü öğleden sonra, İsrail F-16'ları Irak'a doğru havalandı. Pilotlar, radarlara yakalanmamak için Ürdün ve Suudi Arabistan sınırlarını takip ederek çok alçak irtifada uçtu. Yaklaşık 1.100 kilometrelik tehlikeli bir yolculuğun ardından, Osirak reaktörüne ulaştılar. Şaşkına dönen Irak savunması, jetler hedefi vurmadan önce etkili bir tepki veremedi. F-16'lar, yüksek hassasiyetli bombalarla reaktör kubbesini ve diğer kritik yapıları hedef alarak büyük hasara yol açtı. Operasyon sadece birkaç dakika sürdü. Tüm İsrail uçakları güvenli bir şekilde üslerine geri döndü ve mürettebattan hiçbiri zarar görmedi.\n\nOsirak Operasyonu, uluslararası camiada büyük bir yankı uyandırdı. Birleşmiş Milletler Güvenlik Konseyi, saldırıyı oybirliğiyle kınadı ve İsrail'in egemen bir devletin toprak bütünlüğünü ihlal ettiğini belirtti. ABD dahil birçok ülke, İsrail'in bu pre-emptif saldırısını eleştirdi. Ancak İsrail, eylemlerinin ulusal güvenliği için hayati olduğunu ve Irak'ın nükleer silah programını durdurmak için gerekli olduğunu savundu. Operasyon, nükleer silahların yayılmasının önlenmesi (NPT) anlaşmasının sınırlarını ve güçsüzlüklerini gündeme getirirken, devletlerin algılanan tehditlere karşı ne tür eylemlere başvurabileceği konusunda da ciddi tartışmaları tetikledi.\n\nOsirak Operasyonu'nun uzun vadeli etkileri günümüzde bile tartışılmaktadır. Bazıları, bu saldırının Irak'ın nükleer silah elde etmesini geciktirerek veya tamamen engelleyerek bölgeyi potansiyel bir nükleer felaketten kurtardığını savunurken, diğerleri uluslararası hukuka aykırı ve tehlikeli bir emsal oluşturduğunu belirtir. Operasyon, 'önleyici savaş' doktrininin en bilinen örneklerinden biri haline gelmiş ve uluslararası ilişkiler ve nükleer güvenlik politikaları üzerinde kalıcı bir iz bırakmıştır. Irak'ın 1991 Körfez Savaşı sonrası nükleer programıyla ilgili Birleşmiş Milletler denetimleri, operasyonun ne kadar etkili olduğu konusunda daha fazla bilgi sağlamıştır.",
+    "category": "bilim",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Osirak Operasyonu hangi tarihte gerçekleşmiştir?",
+        "options": [
+          "7 Mayıs 1980",
+          "7 Haziran 1981",
+          "15 Temmuz 1982",
+          "1 Eylül 1981"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Osirak Operasyonu, İsrail Hava Kuvvetleri tarafından Irak'ın nükleer reaktörüne karşı 7 Haziran 1981 tarihinde gerçekleştirilmiştir."
+      },
+      {
+        "id": 2,
+        "text": "Operasyonun hedefi olan nükleer reaktör hangi ülkede bulunuyordu?",
+        "options": [
+          "İran",
+          "Suriye",
+          "Mısır",
+          "Irak"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Operasyonun hedefi, Irak'ın başkenti Bağdat yakınlarındaki Tuwaitha nükleer araştırma merkezinde inşa edilmekte olan Osirak reaktörüydü."
+      },
+      {
+        "id": 3,
+        "text": "Osirak Operasyonu'nu hangi ülke gerçekleştirmiştir?",
+        "options": [
+          "Amerika Birleşik Devletleri",
+          "Fransa",
+          "İsrail",
+          "Birleşik Krallık"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Operasyon, İsrail Hava Kuvvetleri tarafından icra edilmiştir."
+      },
+      {
+        "id": 4,
+        "text": "Operasyonun adı neydi?",
+        "options": [
+          "Operasyon Kartal",
+          "Operasyon Şafak",
+          "Operasyon Opera",
+          "Operasyon Yıldırım"
+        ],
+        "correctAnswer": 2,
+        "explanation": "İsrail'in bu özel harekatına 'Operasyon Opera' adı verilmiştir."
+      },
+      {
+        "id": 5,
+        "text": "Saldırıda kullanılan ana savaş uçağı tipi hangisidir?",
+        "options": [
+          "F-4 Phantom",
+          "Mirage III",
+          "F-16 Fighting Falcon",
+          "A-4 Skyhawk"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Saldırı gücü, İsrail Hava Kuvvetleri'nin o dönemdeki en modern uçaklarından olan F-16 Fighting Falcon jetlerinden oluşuyordu."
+      },
+      {
+        "id": 6,
+        "text": "İsrail'in saldırıyı gerçekleştirme ana gerekçesi neydi?",
+        "options": [
+          "Petrol kaynaklarını ele geçirmek",
+          "Bölgedeki siyasi etkiyi artırmak",
+          "Irak'ın nükleer silah geliştirmesini engellemek",
+          "Fransa ile olan anlaşmazlıkları çözmek"
+        ],
+        "correctAnswer": 2,
+        "explanation": "İsrail, Irak'ın Osirak reaktörünü nükleer silah geliştirmek için kullanmasından endişe duyuyordu ve bunu engellemeyi amaçlıyordu."
+      },
+      {
+        "id": 7,
+        "text": "Operasyon sırasında İsrail uçakları hangi ülkelerin hava sahasından geçerek hedefe ulaştı?",
+        "options": [
+          "Suriye ve İran",
+          "Lübnan ve Mısır",
+          "Ürdün ve Suudi Arabistan",
+          "Türkiye ve Suriye"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Uçuş rotası, radarlara yakalanmamak için Ürdün ve Suudi Arabistan hava sahasından alçak irtifada geçmek üzere planlanmıştı."
+      },
+      {
+        "id": 8,
+        "text": "Birleşmiş Milletler Güvenlik Konseyi, Osirak saldırısına karşı nasıl bir tepki vermiştir?",
+        "options": [
+          "Saldırıyı desteklediğini açıklamıştır",
+          "İsrail'i tebrik etmiştir",
+          "Saldırıyı oybirliğiyle kınamıştır",
+          "Tarafsız kalmıştır"
+        ],
+        "correctAnswer": 2,
+        "explanation": "BM Güvenlik Konseyi, saldırıyı oybirliğiyle kınayan 487 sayılı kararı kabul etmiştir."
+      },
+      {
+        "id": 9,
+        "text": "Operasyonda kullanılan F-16 uçaklarına eşlik eden ve destek sağlayan diğer uçak tipi hangisiydi?",
+        "options": [
+          "A-10 Thunderbolt II",
+          "F-15 Eagle",
+          "Tornado IDS",
+          "F-5 Freedom Fighter"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Saldırı gücüne yedek olarak F-15 Eagle uçakları eşlik etmiştir."
+      },
+      {
+        "id": 10,
+        "text": "Osirak reaktörü, hangi ülkenin yardımıyla inşa ediliyordu?",
+        "options": [
+          "Almanya",
+          "Rusya",
+          "Çin",
+          "Fransa"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Irak'ın nükleer programında ve Osirak reaktörünün inşasında Fransa önemli bir rol oynamıştır."
+      },
+      {
+        "id": 11,
+        "text": "Operasyonun İsrail için en riskli kısımlarından biri neydi?",
+        "options": [
+          "Hedefe ulaşamama riski",
+          "Irak hava savunmasının gücü",
+          "Uçuş sırasında radar tespiti ve diplomatik kriz",
+          "Yetersiz yakıt kapasitesi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Operasyonun en riskli kısmı, uzun menzilli uçuş sırasında Ürdün ve Suudi Arabistan gibi komşu ülkelerin hava savunma radarları tarafından tespit edilmeden geçmekti. Bu durum büyük bir diplomatik krize yol açabilirdi."
+      },
+      {
+        "id": 12,
+        "text": "Saldırı sonucunda İsrail Hava Kuvvetleri'nden herhangi bir kayıp yaşanmış mıdır?",
+        "options": [
+          "Evet, 2 pilot hayatını kaybetti",
+          "Evet, 1 uçak düşürüldü",
+          "Hayır, herhangi bir kayıp yaşanmadı",
+          "Evet, 4 pilot esir alındı"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Operasyonun en dikkat çekici yönlerinden biri, tüm İsrail uçaklarının güvenli bir şekilde üslerine dönmesi ve mürettebattan hiçbirinin zarar görmemesidir."
+      },
+      {
+        "id": 13,
+        "text": "Operasyonun dünya genelinde tartışmalara yol açtığı temel doktrin veya kavram hangisidir?",
+        "options": [
+          "Karşılıklı garantili yıkım",
+          "Saldırmazlık anlaşmaları",
+          "Önleyici savaş (pre-emptive strike)",
+          "Caydırıcılık teorisi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Osirak Operasyonu, 'önleyici savaş' veya 'pre-emptif saldırı' doktrininin en bilinen ve tartışılan örneklerinden biri haline gelmiştir."
+      },
+      {
+        "id": 14,
+        "text": "Irak'ın nükleer programıyla ilgili endişeler, özellikle hangi tarihte reaktörün yakıtla yüklenecek olmasıyla zirveye ulaşmıştı?",
+        "options": [
+          "1980 başları",
+          "1981 yaz ayları",
+          "1982 sonları",
+          "1979 sonları"
+        ],
+        "correctAnswer": 1,
+        "explanation": "1981'in yaz aylarında reaktörün nükleer yakıtla yüklenecek olması, İsrail için bir 'kırmızı çizgi' ve müdahale için acil bir neden olarak görülmüştü."
+      },
+      {
+        "id": 15,
+        "text": "Saldırıdan sonra, Osirak reaktörünün akıbeti ne olmuştur?",
+        "options": [
+          "Kısa süre sonra yeniden inşa edildi",
+          "Hiçbir zaman nükleer yakıt yüklenmedi ve faaliyete geçmedi",
+          "Farklı bir ülkeden yardım alarak gizlice tamamlandı",
+          "Uluslararası bir nükleer enerji santraline dönüştürüldü"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Osirak reaktörü, İsrail saldırısı sonucunda büyük hasar görmüş ve hiçbir zaman nükleer yakıtla yüklenerek faaliyete geçmemiştir. Irak'ın nükleer silah programı bu olayla ciddi bir darbe almıştır."
+      }
+    ]
   }
 ];
