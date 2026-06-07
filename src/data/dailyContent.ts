@@ -18243,5 +18243,211 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Osirak reaktörü, İsrail saldırısı sonucunda büyük hasar görmüş ve hiçbir zaman nükleer yakıtla yüklenerek faaliyete geçmemiştir. Irak'ın nükleer silah programı bu olayla ciddi bir darbe almıştır."
       }
     ]
+  },
+  {
+    "slug": "apple-ii-kisisel-bilgisayar-devrimini-atesleyen-makine",
+    "dateId": "2026-06-07",
+    "title": "Apple II'nin Doğuşu: Evleri Bilgisayarla Tanıştıran Devrim | GenelKultur",
+    "description": "5 Haziran 1977'de tanıtılan Apple II, renkli grafikleri ve kullanıcı dostu arayüzü ile kişisel bilgisayar pazarını şekillendirdi. Bu makalede Apple II'nin tarihçesini, özelliklerini ve teknoloji dünyasına etkilerini keşfedin.",
+    "keywords": [
+      "Apple II",
+      "kişisel bilgisayar",
+      "Steve Wozniak",
+      "Steve Jobs",
+      "1977",
+      "teknoloji tarihi",
+      "ev bilgisayarı",
+      "bilgisayar devrimi",
+      "Apple",
+      "bilgisayar oyunu",
+      "renkli grafikler",
+      "BASIC"
+    ],
+    "heading": "Apple II: Kişisel Bilgisayar Devrimini Ateşleyen Makine",
+    "intro": "1970'ler, teknoloji dünyasında büyük bir değişim rüzgarının estiği yıllardı. Bu rüzgarın en güçlü eserlerinden biri, 5 Haziran 1977'de Apple Computer tarafından tanıtılan Apple II kişisel bilgisayarı oldu. Apple II, sadece bir elektronik cihaz olmaktan öte, insanları dijital dünyaya bağlayan, evlerde ve okullarda devrim yaratan bir kapı araladı. O güne kadar sadece büyük şirketlerin ya da kurumların erişebildiği bilgisayarları bireylerin kullanımına sunarak, geleceğin temellerini attı.",
+    "article": "Apple II'nin hikayesi, Apple'ın kurucuları Steve Jobs ve Steve Wozniak'ın vizyonuyla başladı. Wozniak'ın mühendislik dehası ve Jobs'ın pazarlama vizyonu birleştiğinde, ortaya çıkan ürün sadece teknik özellikleriyle değil, aynı zamanda kullanım kolaylığı ve erişilebilirliğiyle de öne çıktı. Apple I'in daha hobi düzeyinde bir bilgisayar olmasına karşın, Apple II, fişe takıp hemen kullanılabilecek, entegre bir tasarıma sahipti. Renkli grafik yetenekleri, dahili BASIC yorumlayıcısı ve genişletilebilirlik yuvaları gibi özellikleriyle rakiplerinden ayrılıyordu. Bu yenilikler, kullanıcıların karmaşık programlama bilgisine sahip olmadan da bilgisayarla etkileşime geçebilmesini sağladı.\n\nApple II'nin başarısı, kişisel bilgisayar pazarının doğuşunda kilit bir rol oynadı. Özellikle eğitim sektöründe ve küçük işletmelerde hızla yayıldı. VisiCalc gibi çığır açan elektronik tablo yazılımlarının Apple II'de çalışması, bilgisayarın sadece oyun veya hobi aracı olmaktan çıkıp, ciddi iş uygulamaları için de kullanılabileceğini gösterdi. Bu, pek çok şirketin bilgisayar altyapısını dönüştürmeye başlamasına ve kişisel bilgisayarların yaygınlaşmasının önünü açtı. Apple II, aynı zamanda bilgisayar oyunlarının gelişimine de büyük katkı sağladı; kullanıcılar için eğlenceli ve etkileşimli bir dünya yarattı.\n\nApple II serisi, sonraki yıllarda farklı modellerle (Apple II Plus, Apple IIe, Apple IIc, Apple IIGS) gelişmeye devam etti ve yaklaşık 17 yıl boyunca üretimde kalarak, teknoloji tarihinde eşine az rastlanır bir başarıya imza attı. Milyonlarca satış adedine ulaşarak, Apple'ı global bir teknoloji devi haline getiren ilk önemli ürünlerden biri oldu. Bugün bile, Apple II, modern bilişimin temellerini atan, kişisel bilgisayarı her eve sokan ve dijital devrimin fitilini ateşleyen ikonik bir makine olarak anılmaktadır. Onun mirası, günümüzün akıllı telefonlarından güçlü masaüstü bilgisayarlarına kadar pek çok teknolojik üründe yaşamaya devam etmektedir.",
+    "category": "bilim",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Apple II kişisel bilgisayarı ilk kez hangi tarihte tanıtıldı?",
+        "options": [
+          "5 Haziran 1977",
+          "1 Nisan 1976",
+          "12 Ağustos 1981",
+          "24 Ocak 1984"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Apple II, 5 Haziran 1977'de tanıtılarak kişisel bilgisayar devriminin önemli adımlarından birini atmıştır."
+      },
+      {
+        "id": 2,
+        "text": "Apple II'nin başlıca tasarımcısı kimdir?",
+        "options": [
+          "Steve Jobs",
+          "Bill Gates",
+          "Steve Wozniak",
+          "Paul Allen"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Apple II'nin donanım ve mühendislik tasarımı büyük ölçüde Steve Wozniak'a aittir."
+      },
+      {
+        "id": 3,
+        "text": "Apple II'yi önceki modeli Apple I'den ayıran en önemli özelliklerden biri nedir?",
+        "options": [
+          "Daha düşük fiyat",
+          "Dahili renkli grafik yetenekleri",
+          "Daha büyük depolama alanı",
+          "Taşınabilir tasarım"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Apple II, dahili renkli grafik yetenekleri ile öne çıkarak kullanıcı deneyimini zenginleştirmiştir."
+      },
+      {
+        "id": 4,
+        "text": "Apple II'nin başarısında büyük payı olan ve ilk elektronik tablo yazılımlarından biri olarak bilinen uygulama hangisidir?",
+        "options": [
+          "WordStar",
+          "Lotus 1-2-3",
+          "VisiCalc",
+          "Microsoft Excel"
+        ],
+        "correctAnswer": 2,
+        "explanation": "VisiCalc, Apple II üzerinde çalışarak bilgisayarların iş dünyasındaki yerini sağlamlaştıran ilk önemli elektronik tablo yazılımıdır."
+      },
+      {
+        "id": 5,
+        "text": "Apple II, hangi sektörlerde özellikle yaygınlaşmıştır?",
+        "options": [
+          "Finans ve bankacılık",
+          "Eğlence ve medya",
+          "Eğitim ve küçük işletmeler",
+          "Askeri ve savunma"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Apple II, özellikle okullarda ve küçük işletmelerde uygun maliyeti ve kullanım kolaylığı sayesinde popülerlik kazanmıştır."
+      },
+      {
+        "id": 6,
+        "text": "Apple II'nin hangi programlama dili yorumlayıcısı dahili olarak geliyordu?",
+        "options": [
+          "Pascal",
+          "C++",
+          "Java",
+          "BASIC"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Apple II, dahili bir BASIC dil yorumlayıcısı ile gelerek programlamayı daha erişilebilir hale getirmiştir."
+      },
+      {
+        "id": 7,
+        "text": "Apple II serisi kaç yıl boyunca üretimde kalmıştır?",
+        "options": [
+          "Yaklaşık 5 yıl",
+          "Yaklaşık 10 yıl",
+          "Yaklaşık 17 yıl",
+          "Yaklaşık 25 yıl"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Apple II serisi, çeşitli modellerle birlikte yaklaşık 17 yıl boyunca üretimde kalarak uzun soluklu bir başarı elde etmiştir."
+      },
+      {
+        "id": 8,
+        "text": "Apple II'nin ev bilgisayarları pazarındaki başarısında etkili olan faktörlerden biri nedir?",
+        "options": [
+          "Sadece profesyonel kullanım için tasarlanmış olması",
+          "Yüksek fiyat etiketi",
+          "Kullanıcı dostu arayüzü ve fişe takıp kullanma kolaylığı",
+          "Sadece siyah beyaz ekran desteği"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Apple II'nin kullanıcı dostu yapısı ve kolay kurulumu, onu ev kullanıcıları için cazip kılan en önemli özelliklerdendir."
+      },
+      {
+        "id": 9,
+        "text": "Apple II'nin tanıtıldığı dönemde Apple Computer'ın kurucuları arasında kimler yer alıyordu?",
+        "options": [
+          "Bill Gates ve Paul Allen",
+          "Steve Jobs ve Steve Wozniak",
+          "Larry Page ve Sergey Brin",
+          "Jeff Bezos ve Elon Musk"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Apple Computer'ın kurucuları Steve Jobs ve Steve Wozniak, Apple II'nin geliştirilmesinde ve tanıtılmasında merkezi rol oynamışlardır."
+      },
+      {
+        "id": 10,
+        "text": "Apple II'nin modern bilişime olan katkıları arasında aşağıdakilerden hangisi sayılamaz?",
+        "options": [
+          "Kişisel bilgisayar kavramının yaygınlaşması",
+          "Eğitimde bilgisayar kullanımının önünü açması",
+          "Grafik arayüz tabanlı işletim sistemlerini ilk kez sunması",
+          "İş dünyasında elektronik tablo kullanımını teşvik etmesi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Grafik arayüz tabanlı işletim sistemleri (GUI), Apple Macintosh ile daha sonra popülerleşmiş olup, Apple II esasen komut satırı tabanlıydı."
+      },
+      {
+        "id": 11,
+        "text": "Apple II'nin kasası, günümüz bilgisayarlarından farklı olarak genellikle hangi malzemeden yapılmıştı?",
+        "options": [
+          "Alüminyum",
+          "Ahşap",
+          "Plastik",
+          "Çelik"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Apple II'nin kasası, o dönemin çoğu kişisel bilgisayarında olduğu gibi genellikle plastikten yapılmıştı."
+      },
+      {
+        "id": 12,
+        "text": "Apple II'nin depolama birimi olarak başlangıçta en yaygın kullanılan araç nedir?",
+        "options": [
+          "Sabit diskler",
+          "CD-ROM'lar",
+          "Manyetik kasetler ve disketler",
+          "USB bellekler"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Başlangıçta manyetik kasetler, daha sonra ise 5.25 inçlik disket sürücüleri (Disk II) Apple II için ana depolama birimleriydi."
+      },
+      {
+        "id": 13,
+        "text": "Apple II'nin en büyük rakiplerinden biri olarak kabul edilen bilgisayar serisi hangisidir?",
+        "options": [
+          "IBM PC",
+          "Commodore 64",
+          "Amiga 500",
+          "Atari ST"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Apple II'nin en büyük rakiplerinden biri, 1981'de pazara giren ve iş dünyasında hızla benimsenen IBM PC idi."
+      },
+      {
+        "id": 14,
+        "text": "Apple II'nin genişletilebilirlik yuvaları (expansion slots) neye olanak sağlıyordu?",
+        "options": [
+          "Sadece hafıza artırımına",
+          "Sadece ekran kartı değişimine",
+          "Farklı çevre birimlerinin ve kartların eklenmesine",
+          "İşlemci yükseltmesine"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Genişletilebilirlik yuvaları sayesinde kullanıcılar modem, yazıcı kartları, depolama kontrolcüsü gibi çeşitli çevre birimlerini ve işlevleri bilgisayara ekleyebiliyordu."
+      },
+      {
+        "id": 15,
+        "text": "Apple II'nin tanıtıldığı yıl olan 1977'de, şirket hala bir garajda mı faaliyet gösteriyordu?",
+        "options": [
+          "Evet",
+          "Hayır, şirket ofislere taşınmıştı",
+          "Hayır, şirket daha yeni kurulmuştu",
+          "Bilgi yetersiz"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Apple Computer, 1977'de şirketleşmiş ve yeni ofislere taşınmıştı, artık bir garaj girişimi değildi."
+      }
+    ]
   }
 ];
