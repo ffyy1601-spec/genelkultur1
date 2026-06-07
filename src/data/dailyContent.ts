@@ -17219,5 +17219,213 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Günümüzde Ashmolean Müzesi, binlerce yıllık insanlık tarihini ve sanatını kapsayan zengin ve çeşitli koleksiyonlarıyla dünya çapında önemli bir kurum olmaya devam etmektedir."
       }
     ]
+  },
+  {
+    "slug": "dunyanin-bolusulmesi-tordesillas-antlasmasinin-mirasi",
+    "dateId": "2026-06-07",
+    "title": "Tordesillas Antlaşması: Dünyayı İkiye Bölen Çizgi | GenelKultur",
+    "description": "1494 Tordesillas Antlaşması ile İspanya ve Portekiz arasındaki yeni dünya paylaşımını, etkilerini ve coğrafi keşiflerin mirasını keşfedin. Avrupa'nın küresel hegemonyasının temelleri nasıl atıldı?",
+    "keywords": [
+      "Tordesillas Antlaşması",
+      "1494",
+      "İspanya",
+      "Portekiz",
+      "Yeni Dünya",
+      "coğrafi keşifler",
+      "kolonizasyon",
+      "Papa VI. Alexander",
+      "Brezilya",
+      "Zaragoza Antlaşması",
+      "Cape Verde Adaları",
+      "sömürgecilik",
+      "dünya paylaşımı",
+      "denizci imparatorluklar"
+    ],
+    "heading": "Dünyanın Bölüşülmesi: Tordesillas Antlaşması'nın Mirası",
+    "intro": "Coğrafi keşifler çağının zirvesinde, iki büyük denizci güç olan İspanya ve Portekiz, yeni keşfedilen topraklar üzerinde hak iddialarını çözmek için tarihi bir anlaşmaya imza attılar. Bu anlaşma, dünya haritasını ve kıtaların kaderini yüzyıllar boyunca şekillendirecek, ancak aynı zamanda tartışmalı bir miras bırakacaktı. 7 Haziran 1494'te imzalanan Tordesillas Antlaşması, Pasifik'ten Atlantik'e uzanan hayali bir çizgiyle dünyanın iki imparatorluk arasında nasıl bölündüğünün hikayesidir.",
+    "article": "Coğrafi keşifler çağının hızla ilerlediği 15. yüzyılın sonlarında, Atlas Okyanusu'nu aşan cesur denizciler yeni topraklar keşfediyor, Avrupa ise bu yeni zenginlik ve güç kaynakları üzerinde hak iddia etme yarışı içindeydi. Bu yarışın başını çeken iki büyük denizci imparatorluk, İspanya ve Portekiz, keşfedilen ve keşfedilecek olan toprakların paylaşımı konusunda ciddi anlaşmazlıklar yaşıyordu. Papa VI. Alexander, bu gerilimi azaltmak amacıyla 1493 yılında çeşitli papalık fermanları (örneğin Inter caetera) yayımlayarak bir ilk paylaşım önerisinde bulunmuştu. Ancak bu fermanlar Portekiz için yeterince adil bulunmadı ve iki ülke arasında doğrudan bir müzakere ihtiyacı doğdu.\n\nİşte bu kritik ortamda, 7 Haziran 1494 tarihinde İspanya'nın Kastilya Krallığı ve Portekiz Krallığı temsilcileri, bugün İspanya'da yer alan Tordesillas kasabasında bir araya gelerek tarihi Tordesillas Antlaşması'nı imzaladılar. Bu antlaşmanın merkezinde, Cape Verde Adaları'nın 370 fersah (yaklaşık 1770 km veya 1100 mil) batısından geçen boylam çizgisi bulunuyordu. Bu hayali çizginin doğusunda kalan tüm keşfedilmiş ve keşfedilecek topraklar Portekiz'e, batısında kalanlar ise İspanya'ya ait olacaktı. Bu paylaşım, dünya tarihinin seyrini kökten değiştirecek ve kıtaların kaderini belirleyecekti.\n\nAntlaşmanın en dikkat çekici sonuçlarından biri, Portekiz'in Brezilya üzerindeki hak iddiasının yasal zeminini oluşturmasıydı. Zira antlaşma çizgisinin doğusuna denk gelen Güney Amerika kıtasının doğu ucu, Portekiz'in \"tesadüfen\" keşfettiği topraklara denk düşüyordu. İspanya ise, Kuzey ve Güney Amerika kıtasının büyük bir kısmını kendi sömürge imparatorluğunun parçası haline getirecekti. Bu anlaşma, sadece toprak paylaşımını değil, aynı zamanda farklı dillerin, kültürlerin ve dinlerin yeni kıtalarda nasıl yayılacağını da şekillendirdi. Antlaşma, özellikle Asya'daki topraklar üzerindeki hak iddiaları konusunda yeni sorunlar yaratınca, 1529'da İspanya ve Portekiz bu kez Pasifik Okyanusu'nda bir anti-meridyen çizgisi belirleyen Zaragoza Antlaşması'nı imzalayarak paylaşımı tamamladılar. Tordesillas Antlaşması, küresel jeopolitiği yeniden tanımlayan ve Batı Avrupa'nın dünya hegemonyasının temelini atan en önemli diplomatik belgelerden biri olarak tarihe geçmiştir.",
+    "category": "tarih",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Tordesillas Antlaşması'nın temel amacı nedir?",
+        "options": [
+          "Avrupa'da barışı sağlamak",
+          "Yeni keşfedilen toprakların İspanya ve Portekiz arasında paylaşılması",
+          "Osmanlı İmparatorluğu ile ticari ilişkileri düzenlemek",
+          "Reform hareketlerini durdurmak"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Tordesillas Antlaşması, Coğrafi Keşifler sonrası İspanya ve Portekiz'in yeni keşfettikleri veya keşfedecekleri topraklar üzerindeki hak iddialarını çözmek ve aralarındaki rekabeti gidermek amacıyla imzalanmıştır."
+      },
+      {
+        "id": 2,
+        "text": "Tordesillas Antlaşması hangi iki Avrupa gücü arasında imzalanmıştır?",
+        "options": [
+          "İngiltere ve Fransa",
+          "İspanya ve Hollanda",
+          "İspanya ve Portekiz",
+          "Fransa ve Portekiz"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Antlaşma, dönemin önde gelen iki denizci ve sömürgeci gücü olan İspanya (Kastilya Krallığı) ve Portekiz Krallığı arasında yapılmıştır."
+      },
+      {
+        "id": 3,
+        "text": "Tordesillas Antlaşması ne zaman imzalanmıştır?",
+        "options": [
+          "1453",
+          "1488",
+          "1494",
+          "1517"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Tarihi Tordesillas Antlaşması, 7 Haziran 1494 tarihinde imzalanmıştır."
+      },
+      {
+        "id": 4,
+        "text": "Antlaşmadaki sınır çizgisi için hangi coğrafi referans noktası kullanılmıştır?",
+        "options": [
+          "Azor Adaları",
+          "Kanarya Adaları",
+          "Cape Verde Adaları",
+          "Grönland"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Sınır çizgisi, Portekiz'in batı kıyısının açıklarında yer alan Cape Verde (Yeşil Burun) Adaları'nın 370 fersah batısından geçecek şekilde belirlenmiştir."
+      },
+      {
+        "id": 5,
+        "text": "Antlaşmadaki sınır çizgisi, Cape Verde Adaları'nın kaç fersah (yaklaşık) batısına çizilmiştir?",
+        "options": [
+          "100 fersah",
+          "250 fersah",
+          "370 fersah",
+          "500 fersah"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Sınır çizgisi, Cape Verde Adaları'nın 370 fersah batısından geçmekteydi, bu da yaklaşık 1770 km veya 1100 mile denk gelir."
+      },
+      {
+        "id": 6,
+        "text": "Antlaşma sonucunda günümüzdeki hangi Güney Amerika ülkesinin topraklarının büyük bir kısmı Portekiz'in etki alanına girmiştir?",
+        "options": [
+          "Meksika",
+          "Peru",
+          "Arjantin",
+          "Brezilya"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Antlaşma çizgisinin doğusuna denk gelen Güney Amerika kıtasının doğu ucu, Portekiz'in Brezilya üzerindeki hak iddiasının yasal temelini oluşturmuştur."
+      },
+      {
+        "id": 7,
+        "text": "Tordesillas Antlaşması öncesinde anlaşmazlığı çözmeye yönelik ilk girişimlerde hangi Papa rol oynamıştır?",
+        "options": [
+          "Papa Julius II",
+          "Papa Leo X",
+          "Papa VI. Alexander",
+          "Papa Urban II"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Papa VI. Alexander, Tordesillas Antlaşması'ndan önce 1493 yılında yayımladığı papalık fermanlarıyla İspanya ve Portekiz arasındaki paylaşım sorununa çözüm bulmaya çalışmıştır."
+      },
+      {
+        "id": 8,
+        "text": "Avrupa devletlerinin bu dönemde yeni topraklar keşfetme ve ele geçirme motivasyonunun temelinde ne yatmaktadır?",
+        "options": [
+          "Bilimsel merak",
+          "Dini yayılma arzusu",
+          "Doğal kaynaklara ve ticari yollara erişim",
+          "Kültürel değişim isteği"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Coğrafi keşifler çağında Avrupa devletlerinin ana motivasyonu, yeni doğal kaynaklar (altın, gümüş, baharat vb.) bulmak, yeni ticaret yolları açmak ve ekonomik güçlerini artırmaktı."
+      },
+      {
+        "id": 9,
+        "text": "Tordesillas Antlaşması'ndaki İspanyol tarafının batı çizgisi, hangi kıtanın kolonizasyonunu büyük ölçüde etkilemiştir?",
+        "options": [
+          "Afrika",
+          "Asya",
+          "Avustralya",
+          "Amerika"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Çizginin batısında kalan topraklar İspanya'ya bırakılmıştı, bu da Kuzey ve Güney Amerika kıtalarının büyük bir kısmının İspanyol sömürgesi haline gelmesine yol açmıştır."
+      },
+      {
+        "id": 10,
+        "text": "Tordesillas Antlaşması'nın Pasifik Okyanusu'ndaki benzer bir paylaşım sorununu çözmek için imzalanan devam antlaşması hangisidir?",
+        "options": [
+          "Utrecht Antlaşması",
+          "Versailles Antlaşması",
+          "Zaragoza Antlaşması",
+          "Vestfalya Barışı"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Asya'daki Moluk Adaları gibi bölgeler üzerindeki hak iddiaları nedeniyle ortaya çıkan yeni sorunları çözmek amacıyla 1529'da Zaragoza Antlaşması imzalanmıştır."
+      },
+      {
+        "id": 11,
+        "text": "Tordesillas Antlaşması, genellikle hangi tarihi fenomenin öncüsü olarak kabul edilir?",
+        "options": [
+          "Aydınlanma Çağı",
+          "Sanayi Devrimi",
+          "Küresel Sömürgecilik",
+          "Reformasyon"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bu antlaşma, Avrupa'nın yeni keşfedilen toprakları sistematik bir şekilde paylaşarak küresel sömürge imparatorluklarının temelini atması ve modern sömürgecilik çağının başlangıcı olarak görülür."
+      },
+      {
+        "id": 12,
+        "text": "Antlaşmada belirtilen 370 fersahlık mesafe, günümüz ölçülerine göre yaklaşık kaç mildir?",
+        "options": [
+          "500 mil",
+          "800 mil",
+          "1100 mil",
+          "1500 mil"
+        ],
+        "correctAnswer": 2,
+        "explanation": "370 fersahlık mesafe, günümüz ölçü birimleriyle yaklaşık olarak 1100 mile denk gelmektedir (yaklaşık 1770 km)."
+      },
+      {
+        "id": 13,
+        "text": "Aşağıdakilerden hangisi Tordesillas Antlaşması'nın doğrudan bir sonucu DEĞİLDİR?",
+        "options": [
+          "Brezilya'nın Portekiz egemenliğine girmesi",
+          "Büyük Antil Adaları'nın İspanya kontrolüne geçmesi",
+          "Filipinler'in İspanya egemenliğine girmesi",
+          "Kuzey Amerika'nın büyük kısmının İspanya'ya kalması"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Filipinler'in İspanya egemenliğine girmesi, Tordesillas Antlaşması'ndan daha sonra, Pasifik'teki anlaşmazlıkları düzenleyen Zaragoza Antlaşması ile ilişkilidir, Tordesillas doğrudan Kuzey ve Güney Amerika ile Afrika'nın Atlantik kıyısını hedeflemiştir."
+      },
+      {
+        "id": 14,
+        "text": "Antlaşmayı İspanya adına hangi hükümdarlar imzalamıştır?",
+        "options": [
+          "V. Karl",
+          "II. Philip",
+          "Katolik Ferdinand ve Isabella",
+          "I. Charles"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Antlaşmayı İspanya adına dönemin Kastilya Krallığı ve Aragon Krallığı'nın Katolik hükümdarları olan Ferdinand ve Isabella imzalamıştır."
+      },
+      {
+        "id": 15,
+        "text": "Antlaşmanın belirlediği sınır çizgisi genel olarak hangi yönde ilerlemekteydi?",
+        "options": [
+          "Doğu-Batı",
+          "Kuzeydoğu-Güneybatı",
+          "Kuzey-Güney",
+          "Kuzeybatı-Güneydoğu"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Antlaşmanın belirlediği çizgi, bir boylam çizgisi olduğu için Atlas Okyanusu üzerinde Kuzey'den Güney'e doğru ilerleyen hayali bir çizgiydi."
+      }
+    ]
   }
 ];
