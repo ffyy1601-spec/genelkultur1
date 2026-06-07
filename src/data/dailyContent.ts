@@ -17836,5 +17836,208 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Kendi para birimi, posta hizmetleri ve diplomatik temsilcilik ağına sahip olması, Vatikan Şehir Devleti'nin tam bağımsız ve egemen bir siyasi varlık olduğunu göstermektedir."
       }
     ]
+  },
+  {
+    "slug": "iskandinavyada-bariscil-bir-devrim-norvecin-1905-bagimsizligi",
+    "dateId": "2026-06-07",
+    "title": "Norveç'in İsveç'ten Bağımsızlığı: 1905 Ayrılışının Hikayesi | GenelKultur",
+    "description": "7 Haziran 1905'te Norveç, İsveç ile olan birliğini feshetti ve bağımsızlığını ilan etti. Bu makalede, iki İskandinav ülkesi arasındaki bu barışçıl ayrılığın tarihi arka planını, nedenlerini ve sonuçlarını keşfedin.",
+    "keywords": [
+      "Norveç bağımsızlığı",
+      "İsveç Norveç Birliği",
+      "1905 Norveç",
+      "Oskar II",
+      "Karlstad Antlaşması",
+      "Norveç tarihi",
+      "barışçıl ayrılık",
+      "Haakon VII",
+      "İskandinavya tarihi"
+    ],
+    "heading": "İskandinavya'da Barışçıl Bir Devrim: Norveç'in 1905 Bağımsızlığı",
+    "intro": "Tarih, genellikle kanlı savaşlar ve çalkantılı devrimlerle dolu ayrılık öykülerine sahne olurken, bazen de ulusların kaderi şaşırtıcı bir barışçıllıkla yeniden çizilebilir. 7 Haziran 1905 tarihi, İskandinavya için böyle bir anın sembolüdür: Norveç'in, 91 yıllık birliğin ardından İsveç Krallığı'ndan ayrılarak tam bağımsızlığını ilan ettiği gün. Peki, bu ayrılık süreci nasıl gelişti ve Norveç'in bağımsızlık yolu neden bu kadar 'kansız' oldu?",
+    "article": "Norveç ve İsveç arasındaki birlik, 1814 yılında Napolyon Savaşları'nın bir sonucu olarak ortaya çıkmıştı. Danimarka'nın kaybettiği Norveç, Kiel Antlaşması ile İsveç'e bırakılmış, ancak Norveçliler kendi anayasalarını (Eidsvoll Anayasası) ve parlamentolarını (Storting) koruyarak İsveç ile gevşek bir 'kişisel birlik' kurmuşlardı. Bu birlik, ortak bir kral ve dış politika dışında Norveç'e iç işlerinde önemli bir özerklik tanıyordu. Ancak 19. yüzyıl boyunca Norveç'te gelişen ulusal kimlik, kendine ait semboller, dil ve kültür arayışı, tam bağımsızlık taleplerini giderek güçlendirdi.\n\nBağımsızlık taleplerinin fitilini ateşleyen başlıca sorunlardan biri, Norveç'in kendi konsolosluk hizmetlerini kurma arzusuydu. Norveç'in giderek büyüyen deniz ticareti, kendi konsoloslarına sahip olma ihtiyacını doğurmuştu. Ancak İsveç kralı Oskar II, bu talebi birliğin temellerini sarsacağı gerekçesiyle reddetti. Norveç Storting'i, 18 Mayıs 1905'te konsolosluk yasasını geçirse de, kral 27 Mayıs'ta bunu veto etti. Bu veto, Norveç hükümetindeki tüm bakanların istifa etmesine yol açtı. Kral'ın yeni bir Norveç hükümeti kuramamasının ardından, 7 Haziran 1905'te Norveç Storting'i tarihi bir karar alarak, kralın Norveç hükümeti kurma yeteneğini kaybetmesi nedeniyle İsveç ile olan birliğin feshedildiğini ilan etti.\n\nNorveç'in tek taraflı bağımsızlık ilanı, İsveç'te başlangıçta gerginlik yarattı ve hatta askeri müdahale olasılığı konuşuldu. Ancak diplomatik çabalar ve uluslararası baskı sonucunda barışçıl bir çözüm arayışına girildi. Norveç, bağımsızlık kararını halkoylamasına götürdü ve 13 Ağustos 1905'teki referandumda halkın %99.95'i birlikteliğin sonlandırılması yönünde oy kullandı. Bu ezici destek, Norveç'in bağımsızlık iradesini pekiştirdi. Eylül ayında Karlstad'da yapılan müzakereler sonucunda iki ülke, birliğin feshi ve Norveç'in bağımsızlığını resmen tanıyan bir anlaşmaya vardı. Norveçliler, Danimarka Prensi Carl'ı kendi kralları olarak seçti ve Prens Carl, Haakon VII adını alarak Norveç Krallığı'nın başına geçti. Bu olay, uluslararası ilişkilerde barışçıl ayrılıkların mümkün olduğunu gösteren nadir ve önemli bir örnek olarak tarihe geçti.",
+    "category": "tarih",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Norveç ve İsveç arasındaki birlik hangi olaylar sonucunda kurulmuştur?",
+        "options": [
+          "Fransız İhtilali'nin etkisiyle",
+          "Napolyon Savaşları ve Kiel Antlaşması sonucunda",
+          "İskandinavya Konseyi'nin kararıyla",
+          "Danimarka'nın isteği üzerine"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Norveç, Napolyon Savaşları sırasında Danimarka'nın yanında yer aldığı için, yenilginin ardından 1814'teki Kiel Antlaşması ile İsveç'e bırakılmıştır. Bu durum Norveç-İsveç birliğinin temelini atmıştır."
+      },
+      {
+        "id": 2,
+        "text": "Norveç, İsveç ile birleştiğinde hangi önemli hakkını korumuştur?",
+        "options": [
+          "Kendi ordusunu kurma hakkını",
+          "Kendi sömürgelerine sahip olma hakkını",
+          "Kendi anayasasını ve parlamentosunu (Storting) korumuştur",
+          "İsveç ile eşit oy hakkı"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Norveç, 1814'te İsveç ile birleşmesine rağmen, 17 Mayıs 1814 tarihli Eidsvoll Anayasası'nı ve kendi parlamentosunu (Storting) koruyarak iç işlerinde özerkliğini sürdürmüştür."
+      },
+      {
+        "id": 3,
+        "text": "1905'te Norveç'in İsveç'ten ayrılma sürecini tetikleyen temel anlaşmazlık konusu neydi?",
+        "options": [
+          "Vergi oranları konusundaki farklılıklar",
+          "Sınır anlaşmazlıkları",
+          "Norveç'in kendi konsolosluk hizmetlerini kurma isteği",
+          "Ortak ordu komutanlığının belirlenmesi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Norveç'in uluslararası ticareti için kendi konsolosluk hizmetlerini kurma talebi, İsveç kralı Oskar II tarafından reddedilince, bu durum ayrılık sürecini tetikleyen temel anlaşmazlık olmuştur."
+      },
+      {
+        "id": 4,
+        "text": "İsveç kralı Oskar II, Norveç Storting'inin konsolosluk yasasını ne zaman veto etmiştir?",
+        "options": [
+          "7 Haziran 1905",
+          "18 Mayıs 1905",
+          "27 Mayıs 1905",
+          "13 Ağustos 1905"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Norveç Storting'i konsolosluk yasasını 18 Mayıs 1905'te geçirmiş, ancak Kral Oskar II bu yasayı 27 Mayıs 1905'te veto etmiştir."
+      },
+      {
+        "id": 5,
+        "text": "Norveç Storting'i, İsveç ile olan birliğin feshedildiğini ne zaman ilan etmiştir?",
+        "options": [
+          "13 Ağustos 1905",
+          "7 Haziran 1905",
+          "23 Eylül 1905",
+          "18 Kasım 1905"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Kral Oskar II'nin Norveç hükümeti kuramamasının ardından, Norveç Storting'i 7 Haziran 1905'te birliğin feshedildiğini ilan etmiştir."
+      },
+      {
+        "id": 6,
+        "text": "Norveç'in bağımsızlık ilanı sonrası yapılan referandumda halkın bağımsızlığa desteği ne düzeydeydi?",
+        "options": [
+          "Yaklaşık %50",
+          "Yaklaşık %75",
+          "Yaklaşık %90",
+          "Yaklaşık %99.95"
+        ],
+        "correctAnswer": 3,
+        "explanation": "13 Ağustos 1905'te yapılan referandumda Norveç halkının %99.95 gibi ezici bir çoğunluğu, İsveç ile birliğin feshedilmesini desteklemiştir."
+      },
+      {
+        "id": 7,
+        "text": "Norveç ve İsveç arasındaki birliğin feshedilmesi hangi anlaşmayla resmileşmiştir?",
+        "options": [
+          "Kiel Antlaşması",
+          "Viyana Kongresi",
+          "Karlstad Antlaşması",
+          "Oslo Protokolü"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Eylül 1905'te İsveç ve Norveç temsilcileri arasında Karlstad'da yapılan müzakereler sonucunda, birliğin feshi ve Norveç'in bağımsızlığı resmen kabul edilmiştir."
+      },
+      {
+        "id": 8,
+        "text": "Bağımsız Norveç Krallığı'nın ilk kralı kim olmuştur?",
+        "options": [
+          "İsveç Kralı Oskar II",
+          "Danimarka Prensi Carl (Haakon VII)",
+          "Norveç Başbakanı Christian Michelsen",
+          "İngiliz Kralı VIII. Edward"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Norveçliler, referandum ve birliğin feshi sonrası Danimarka Prensi Carl'ı kendi kralları olarak seçmiş ve Prens Carl, Haakon VII adını almıştır."
+      },
+      {
+        "id": 9,
+        "text": "Norveç'in bağımsızlık sürecini 'barışçıl bir devrim' olarak nitelendirmemizin temel sebebi nedir?",
+        "options": [
+          "Savaş ilanına rağmen hiç çatışma yaşanmaması",
+          "Hiçbir askeri çatışma veya şiddet olayı yaşanmadan ayrılığın gerçekleşmesi",
+          "Dış güçlerin askeri müdahalesiyle çözüme ulaşılması",
+          "Uzun süren müzakerelerin sonucunda savaş kararı alınması"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Norveç'in 1905'teki bağımsızlık süreci, İsveç ile herhangi bir askeri çatışma veya büyük bir şiddet olayı yaşanmadan, diplomatik yollarla ve halkoylamasıyla tamamlandığı için 'barışçıl bir devrim' olarak nitelendirilir."
+      },
+      {
+        "id": 10,
+        "text": "Norveç'in kendi ulusal kimliğini güçlendirme arayışında hangi unsurlar etkili olmuştur?",
+        "options": [
+          "Yalnızca ekonomik çıkarlar",
+          "Sadece askeri gücün artırılması",
+          "Kültürel canlanma, farklı dil arayışı ve kendine özgü semboller",
+          "Avrupa Birliği'ne girme isteği"
+        ],
+        "correctAnswer": 2,
+        "explanation": "19. yüzyıl boyunca Norveç'te gelişen ulusal kimlik, kendine ait semboller, farklı dil arayışı (özellikle Nynorsk'un gelişimi) ve kültürel canlanma ile güçlenmiştir."
+      },
+      {
+        "id": 11,
+        "text": "Norveç'in bağımsızlık sürecindeki 'Storting' kelimesi ne anlama gelmektedir?",
+        "options": [
+          "Norveç ordusu",
+          "Norveç kraliyet ailesi",
+          "Norveç parlamentosu",
+          "Norveç'in en büyük şehri"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Storting, Norveç'in parlamentonun adıdır. Bağımsızlık ilanında ve konsolosluk yasası oylamasında önemli rol oynamıştır."
+      },
+      {
+        "id": 12,
+        "text": "1814'te Norveç'in İsveç'e bırakılmasının temel nedeni hangi antlaşmaydı?",
+        "options": [
+          "Versay Antlaşması",
+          "Sevr Antlaşması",
+          "Kiel Antlaşması",
+          "Tordesillas Antlaşması"
+        ],
+        "correctAnswer": 2,
+        "explanation": "1814'teki Kiel Antlaşması ile Danimarka, Norveç'i İsveç'e devretmek zorunda kalmıştır. Bu, Norveç-İsveç birliğinin başlangıcıdır."
+      },
+      {
+        "id": 13,
+        "text": "Norveç'in bağımsızlık sonrası seçtiği kralın Haakon VII adını almasının önemi nedir?",
+        "options": [
+          "İsveç Kralı ile aynı adı taşımak istemesi",
+          "Danimarka ile olan tarihi bağlarını koparmak için",
+          "Orta Çağ Norveç krallarının geleneğini sürdürmek ve ulusal kimliği pekiştirmek",
+          "Sadece rastgele seçilmiş bir isim olması"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Danimarka Prensi Carl'ın Haakon VII adını alması, Norveç'in bağımsız bir ulus olarak Orta Çağ'daki krallık geleneklerine dönüşünü ve ulusal kimliğini pekiştirmeyi simgeler."
+      },
+      {
+        "id": 14,
+        "text": "Norveç'in bağımsızlık sürecinin uluslararası ilişkilerdeki önemi nedir?",
+        "options": [
+          "Yeni bir savaşın başlangıcına işaret etmesi",
+          "Büyük güçler arasında bir gerginlik yaratması",
+          "Barışçıl ve müzakere yoluyla ulusal ayrılıkların mümkün olduğunu göstermesi",
+          "Sadece bölgesel bir etkiye sahip olması"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Norveç'in 1905'teki barışçıl ayrılığı, uluslararası ilişkilerde askeri çatışma olmaksızın ulusal birliklerin feshedilebileceğine dair önemli bir emsal teşkil etmiştir."
+      },
+      {
+        "id": 15,
+        "text": "Norveç'in 1905 bağımsızlık ilanının yapıldığı gün aşağıdakilerden hangisidir?",
+        "options": [
+          "1 Ocak",
+          "17 Mayıs",
+          "7 Haziran",
+          "23 Eylül"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Norveç Storting'i, 7 Haziran 1905 tarihinde İsveç ile olan birliğin feshedildiğini ilan etmiştir."
+      }
+    ]
   }
 ];
