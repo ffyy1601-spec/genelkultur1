@@ -17427,5 +17427,209 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Antlaşmanın belirlediği çizgi, bir boylam çizgisi olduğu için Atlas Okyanusu üzerinde Kuzey'den Güney'e doğru ilerleyen hayali bir çizgiydi."
       }
     ]
+  },
+  {
+    "slug": "insanligin-uzay-istasyonu-cagini-baslatan-gorev-salyut-1-ve-soyuz-11",
+    "dateId": "2026-06-07",
+    "title": "Salyut 1 ve Soyuz 11: İnsanlığın Uzay İstasyonu Macerasının Başlangıcı | GenelKultur",
+    "description": "7 Haziran 1971'de Salyut 1'e kenetlenen Soyuz 11, insanlığın uzay istasyonlarında yaşama ve çalışma hayalini gerçeğe dönüştürdü. Bu tarihi görevin detayları ve önemi hakkında bilgi edinin.",
+    "keywords": [
+      "Salyut 1",
+      "Soyuz 11",
+      "uzay istasyonu",
+      "ilk uzay istasyonu",
+      "uzay araştırmaları",
+      "uzay tarihi",
+      "Sovyet uzay programı",
+      "Georgi Dobrovolski",
+      "Viktor Patsayev",
+      "Vladislav Volkov"
+    ],
+    "heading": "İnsanlığın Uzay İstasyonu Çağını Başlatan Görev: Salyut 1 ve Soyuz 11",
+    "intro": "İnsanlık, yüzyıllardır yıldızlara uzanma ve uzayda yaşama hayali kurdu. 1971 yılı, bu hayalin somut bir adımla gerçeğe dönüştüğü yıl oldu. Sovyetler Birliği tarafından yörüngeye fırlatılan Salyut 1, dünyanın ilk uzay istasyonu olarak uzay keşfinde yeni bir çığır açtı. Bu devrim niteliğindeki yapıyı ziyaret edecek olan ilk mürettebatlı görev ise Soyuz 11 idi ve 7 Haziran 1971'de Salyut 1'e kenetlenerek tarihe geçti. Bu görev, uzayda uzun süreli yaşam ve çalışma potansiyelini gözler önüne serdi ve gelecekteki uzay istasyonlarının temelini attı.",
+    "article": "Uzay istasyonları fikri, uzay çağının başından beri mühendislerin ve bilim insanlarının zihnini meşgul ediyordu. Dünya yörüngesinde kalıcı bir yaşam alanı oluşturma hayali, hem bilimsel araştırmalar hem de gelecekteki gezegenlerarası seyahatler için kritik bir adımdı. Sovyetler Birliği, bu alandaki öncü rolünü sürdürerek, 19 Nisan 1971'de Salyut 1'i Baykonur Uzay Üssü'nden fırlattı. Salyut 1, uzayda bilimsel ve askeri gözlem yapma kapasitesine sahip, üç ana bölümden oluşan yaklaşık 20 metrelik devasa bir yapıydı.\n\nSalyut 1'e insanlı ilk ziyaret, 6 Haziran 1971'de fırlatılan Soyuz 11 göreviyle gerçekleşti. Kozmonotlar Georgi Dobrovolski (komutan), Vladislav Volkov (uçuş mühendisi) ve Viktor Patsayev (araştırma mühendisi), uzay istasyonuna ulaşarak 7 Haziran'da başarılı bir şekilde kenetlendiler. Mürettebat, uzay istasyonunda 23 gün boyunca çeşitli bilimsel deneyler, Dünya gözlemleri ve mühendislik testleri gerçekleştirdi. Uzayda uzun süre kalmanın insan vücudu üzerindeki etkilerini incelediler, astronomik gözlemler yaptılar ve Salyut 1'in sistemlerini detaylıca test ettiler. Bu süre zarfında, bir uzay istasyonunda yaşamanın zorlukları ve faydaları ilk elden deneyimlendi.\n\nAncak, bu tarihi görevin dönüşü trajik bir olayla sonuçlandı. 29 Haziran 1971'de Soyuz 11 uzay aracının Dünya atmosferine girişi sırasında, kabin basıncını düzenleyen bir valf beklenmedik bir şekilde açıldı. Hızla düşen basınç nedeniyle mürettebat, araç içindeki oksijenin uzaya kaçmasıyla boğularak hayatını kaybetti. Dünya'ya indikten sonra kapsülü açan kurtarma ekipleri, üç kozmonotun cansız bedenleriyle karşılaştı. Bu olay, uzay tarihinde yaşanan en büyük trajedilerden biri olarak kayıtlara geçti ve uzay araçlarının tasarımında önemli güvenlik iyileştirmelerinin yapılmasına yol açtı. Soyuz 11 mürettebatının kaybı büyük bir üzüntü yaratmış olsa da, Salyut 1 ve Soyuz 11 görevi, insanlığın uzayda uzun süreli var olma hedefine ulaşmasında kritik bir kilometre taşı oldu ve Uluslararası Uzay İstasyonu (ISS) gibi daha sonraki projelerin yolunu açtı.",
+    "category": "bilim",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Salyut 1, dünyanın ilk uzay istasyonu olarak ne zaman fırlatıldı?",
+        "options": [
+          "19 Nisan 1971",
+          "7 Haziran 1971",
+          "29 Haziran 1971",
+          "6 Haziran 1971"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Salyut 1, Baykonur Uzay Üssü'nden 19 Nisan 1971 tarihinde fırlatılarak dünya yörüngesine yerleşen ilk uzay istasyonu olmuştur."
+      },
+      {
+        "id": 2,
+        "text": "Soyuz 11 görevinin Salyut 1 ile kenetlenme tarihi nedir?",
+        "options": [
+          "19 Nisan 1971",
+          "6 Haziran 1971",
+          "7 Haziran 1971",
+          "29 Haziran 1971"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Soyuz 11, 6 Haziran 1971'de fırlatıldıktan bir gün sonra, 7 Haziran 1971 tarihinde Salyut 1 uzay istasyonuna başarılı bir şekilde kenetlenmiştir."
+      },
+      {
+        "id": 3,
+        "text": "Soyuz 11 görevi kaç kozmonot ile gerçekleştirildi?",
+        "options": [
+          "İki",
+          "Üç",
+          "Dört",
+          "Tek"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Soyuz 11 görevi, Georgi Dobrovolski, Vladislav Volkov ve Viktor Patsayev olmak üzere üç kozmonotla gerçekleştirilmiştir."
+      },
+      {
+        "id": 4,
+        "text": "Soyuz 11 görevinin komutanı kimdi?",
+        "options": [
+          "Vladislav Volkov",
+          "Viktor Patsayev",
+          "Georgi Dobrovolski",
+          "Yuri Gagarin"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Soyuz 11 mürettebatının komutanı Georgi Dobrovolski idi. Diğerleri uçuş ve araştırma mühendisleriydi."
+      },
+      {
+        "id": 5,
+        "text": "Soyuz 11 mürettebatı Salyut 1 istasyonunda ne kadar süre kaldı?",
+        "options": [
+          "7 gün",
+          "14 gün",
+          "23 gün",
+          "30 gün"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kozmonotlar, Salyut 1 uzay istasyonunda toplam 23 gün boyunca bilimsel deneyler ve gözlemler gerçekleştirdiler."
+      },
+      {
+        "id": 6,
+        "text": "Salyut 1 uzay istasyonunu hangi ülke fırlattı?",
+        "options": [
+          "Amerika Birleşik Devletleri",
+          "Sovyetler Birliği",
+          "Çin",
+          "Avrupa Uzay Ajansı"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Salyut 1, Sovyetler Birliği tarafından uzay yarışındaki liderliğini sürdürmek amacıyla fırlatılan dünyanın ilk uzay istasyonuydu."
+      },
+      {
+        "id": 7,
+        "text": "Soyuz 11 kozmonotlarının dönüş yolculuğunda hayatını kaybetme sebebi neydi?",
+        "options": [
+          "Yakıt bitmesi",
+          "Kapsülün Dünya'ya çarparak parçalanması",
+          "Kabin basıncını düzenleyen valfin açılması",
+          "Dış uzayda meteor çarpması"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kozmonotlar, Dünya atmosferine giriş sırasında kabin basıncını düzenleyen bir valfin beklenmedik şekilde açılması sonucu oksijen kaybı ve hızlı basınç düşüşü nedeniyle hayatlarını kaybettiler."
+      },
+      {
+        "id": 8,
+        "text": "Salyut 1 uzay istasyonunun temel amacı neydi?",
+        "options": [
+          "Ay'a insan göndermek",
+          "Mars'a robot göndermek",
+          "Uzayda uzun süreli bilimsel ve askeri gözlemler yapmak",
+          "Güneş sistemindeki diğer gezegenleri keşfetmek"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Salyut 1, uzayda uzun süreli bilimsel araştırmalar, Dünya gözlemleri ve askeri keşifler yapmak amacıyla tasarlanmıştı."
+      },
+      {
+        "id": 9,
+        "text": "Soyuz 11 görevinin trajik sonu, uzay programlarında hangi alanda önemli iyileştirmelere yol açtı?",
+        "options": [
+          "Motor teknolojisi",
+          "Uzay giysileri",
+          "Yakıt sistemleri",
+          "Kabin basıncı ve güvenlik protokolleri"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Soyuz 11 felaketi, uzay araçlarının kabin basıncı sistemleri ve genel güvenlik protokollerinde ciddi iyileştirmelerin yapılmasına neden oldu, özellikle kozmonotların uzay giysileriyle iniş yapması zorunluluğu getirildi."
+      },
+      {
+        "id": 10,
+        "text": "Soyuz 11 görevi, gelecekteki hangi uzay projelerinin temelini atmıştır?",
+        "options": [
+          "Apollo Ay görevleri",
+          "Uzay Mekiği programı",
+          "Uluslararası Uzay İstasyonu (ISS)",
+          "Voyager görevleri"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Salyut 1 ve Soyuz 11, uzayda uzun süreli insan varlığının fizibilitesini göstererek, Mir ve Uluslararası Uzay İstasyonu (ISS) gibi daha sonraki büyük uzay istasyonu projelerinin öncüsü olmuştur."
+      },
+      {
+        "id": 11,
+        "text": "Salyut 1'in fırlatıldığı uzay üssünün adı nedir?",
+        "options": [
+          "Cape Canaveral",
+          "Kennedy Uzay Merkezi",
+          "Baykonur Uzay Üssü",
+          "Jiuquan Uydu Fırlatma Merkezi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Salyut 1, Sovyetler Birliği'nin Kazakistan'daki ana uzay üssü olan Baykonur Uzay Üssü'nden fırlatılmıştır."
+      },
+      {
+        "id": 12,
+        "text": "Soyuz 11 mürettebatından Vladislav Volkov'un görevi neydi?",
+        "options": [
+          "Komutan",
+          "Uçuş Mühendisi",
+          "Araştırma Mühendisi",
+          "Bilim Adamı"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Vladislav Volkov, Soyuz 11 görevinde uçuş mühendisi olarak görev yapmıştır. Georgi Dobrovolski komutan, Viktor Patsayev ise araştırma mühendisiydi."
+      },
+      {
+        "id": 13,
+        "text": "Salyut 1'in uzaydaki ömrü ne kadar sürdü?",
+        "options": [
+          "23 gün",
+          "175 gün",
+          "1 yıl",
+          "5 yıl"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Salyut 1, 19 Nisan 1971'de fırlatıldıktan sonra yaklaşık 175 gün yörüngede kaldı ve 11 Ekim 1971'de atmosfere girerek yanmıştır."
+      },
+      {
+        "id": 14,
+        "text": "Soyuz 11 görevi sırasında gerçekleştirilen önemli bir deney aşağıdakilerden hangisidir?",
+        "options": [
+          "Ay yüzeyinde yürüyüş",
+          "Güneş rüzgarlarını ölçme",
+          "Uzayda uzun süre kalmanın insan vücudu üzerindeki etkilerini inceleme",
+          "Mars'tan kaya örnekleri toplama"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Soyuz 11 mürettebatı, uzay istasyonunda uzun süreli kalışın insan fizyolojisi üzerindeki etkilerini incelemek gibi çeşitli bilimsel ve tıbbi deneyler gerçekleştirmiştir."
+      },
+      {
+        "id": 15,
+        "text": "Salyut 1'den önce herhangi bir uzay istasyonu fırlatılmış mıydı?",
+        "options": [
+          "Evet, ABD tarafından fırlatılmıştı.",
+          "Evet, Sovyetler Birliği tarafından fırlatılmıştı.",
+          "Hayır, Salyut 1 ilk uzay istasyonuydu.",
+          "Apollo programı kapsamında daha büyük istasyonlar vardı."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Salyut 1, uzay tarihinin ilk uzay istasyonudur ve ondan önce yörüngeye fırlatılmış başka bir uzay istasyonu bulunmamaktadır."
+      }
+    ]
   }
 ];
