@@ -1010,4 +1010,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/kim-phuc-ve-napalm-kizi-vietnam-savasinin-ikonik-yuzu</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/kim-phuc-ve-napalm-kizi-vietnam-savasinin-ikonik-yuzu/oyna</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>

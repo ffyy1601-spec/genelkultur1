@@ -18449,5 +18449,210 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Apple Computer, 1977'de şirketleşmiş ve yeni ofislere taşınmıştı, artık bir garaj girişimi değildi."
       }
     ]
+  },
+  {
+    "slug": "kim-phuc-ve-napalm-kizi-vietnam-savasinin-ikonik-yuzu",
+    "dateId": "2026-06-07",
+    "title": "Kim Phuc ve Napalm Kızı: Vietnam Savaşı'nın İkonik Yüzü | GenelKultur",
+    "description": "8 Haziran 1972'de çekilen ve Vietnam Savaşı'nın sembolü haline gelen \"Napalm Kızı\" fotoğrafının ardındaki hikayeyi, Kim Phuc'un hayatını ve fotoğrafın dünya üzerindeki etkisini keşfedin.",
+    "keywords": [
+      "Kim Phuc",
+      "Napalm Kızı",
+      "Vietnam Savaşı",
+      "fotoğrafçılık tarihi",
+      "savaş fotoğrafçılığı",
+      "Nick Ut",
+      "Pulitzer Ödülü",
+      "Phan Thi Kim Phuc",
+      "savaş karşıtlığı",
+      "ikonik fotoğraf",
+      "1972"
+    ],
+    "heading": "Kim Phuc ve Napalm Kızı: Vietnam Savaşı'nın İkonik Yüzü",
+    "intro": "Tarihin sayfalarında öyle anlar vardır ki, tek bir kare tüm bir çağın, tüm bir savaşın acısını, dehşetini ve insanlık dışı yüzünü özetler. 8 Haziran 1972'de Vietnam'da çekilen \"Napalm Kızı\" fotoğrafı da işte böyle anlardan biridir. Koşarak kaçan çırılçıplak çocukların, özellikle de dokuz yaşındaki Kim Phuc'un yanıklar içinde kameralara yakalanması, Vietnam Savaşı'nın kalbine kazınmış, savaş karşıtı hareketin en güçlü sembollerinden biri olmuştur. Bu ikonik kare, sadece bir fotoğraf olmanın ötesinde, insanlığın vicdanında derin izler bırakmıştır.",
+    "article": "8 Haziran 1972 tarihinde, Vietnam Savaşı'nın en kanlı günlerinden biri yaşanıyordu. Güney Vietnam ordusunun Trang Bang köyüne yanlışlıkla napalm bombası atması sonucu korkunç bir manzara ortaya çıktı. Köy alevler içinde kalırken, insanlar can havliyle kaçışmaya başladı. Bu kaçışan kalabalığın içinde, napalmın neden olduğu yanıklarla çırılçıplak kalan dokuz yaşındaki Phan Thi Kim Phuc da vardı. Kolları açık, yüzü acıyla çarpılmış, çığlıklar atarak yolda koşarken, Associated Press fotoğrafçısı Nick Ut tarafından ölümsüzleştirildi. Bu an, savaşın dehşetini ve siviller üzerindeki yıkıcı etkisini tüm dünyaya acı bir şekilde gösterdi.\n\nFotoğrafın çekildiği an ve sonrasında yaşananlar da en az fotoğraf kadar çarpıcıdır. Nick Ut, deklanşöre bastıktan sonra sadece bir gazeteci olarak kalmadı, bir insan olarak harekete geçti. Kim Phuc'un ve diğer çocukların yardımına koştu, onları bir araçla hastaneye yetiştirdi. Kim Phuc'un vücudunun büyük bir bölümü üçüncü derece yanıklarla kaplıydı ve doktorlar hayatta kalma şansının çok düşük olduğunu belirtmişti. Ancak Kim Phuc, inanılmaz bir dirençle hayata tutundu. Sayısız ameliyat ve uzun süren fizik tedavi süreçlerinin ardından hayatta kalmayı başardı, ancak napalmın izlerini ömür boyu taşıdı.\n\n\"Napalm Kızı\" fotoğrafı, çekildiği günlerde dünya çapında büyük bir yankı uyandırdı. Savaşın gerçek yüzünü gözler önüne sererek, özellikle Batı ülkelerindeki savaş karşıtı hareketleri körükledi ve kamuoyunun Vietnam Savaşı'na olan bakış açısını derinden etkiledi. 1973 yılında Pulitzer Ödülü kazanan bu fotoğraf, savaş fotoğrafçılığının en güçlü örneklerinden biri olarak tarihe geçti. Kim Phuc, yıllar sonra dahi bu fotoğrafın kendisi için hem bir lanet hem de bir lütuf olduğunu ifade etti. O, sadece bir savaş kurbanı değil, aynı zamanda barışın ve uzlaşmanın küresel bir elçisi haline geldi. Bugün bile, \"Napalm Kızı\" fotoğrafı, savaşların masum insanlar üzerindeki yıkıcı etkisini hatırlatan güçlü bir uyarı niteliğindedir.",
+    "category": "tarih",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Napalm Kızı fotoğrafı hangi savaş sırasında çekilmiştir?",
+        "options": [
+          "Kore Savaşı",
+          "Vietnam Savaşı",
+          "II. Dünya Savaşı",
+          "Soğuk Savaş"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Napalm Kızı fotoğrafı, 8 Haziran 1972 tarihinde, Güney Vietnam ordusunun Trang Bang köyüne yanlışlıkla napalm bombası atması sonucu Vietnam Savaşı sırasında çekilmiştir."
+      },
+      {
+        "id": 2,
+        "text": "\"Napalm Kızı\" fotoğrafının ikonik figürü olan kız çocuğunun adı nedir?",
+        "options": [
+          "Mai Ly",
+          "Kim Phuc",
+          "Tran Thu",
+          "Le Thi"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Fotoğrafta yanıklar içinde koşarken görülen kız çocuğunun adı Phan Thi Kim Phuc'tur."
+      },
+      {
+        "id": 3,
+        "text": "Fotoğrafı çeken Associated Press fotoğrafçısının adı nedir?",
+        "options": [
+          "Robert Capa",
+          "Nick Ut",
+          "Eddie Adams",
+          "Kevin Carter"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Associated Press fotoğrafçısı Huynh Cong \"Nick\" Ut, bu ikonik fotoğrafı çekerek dünya kamuoyunun dikkatini Vietnam Savaşı'na çekmiştir."
+      },
+      {
+        "id": 4,
+        "text": "Fotoğraf ne zaman çekilmiştir?",
+        "options": [
+          "8 Nisan 1972",
+          "8 Mayıs 1972",
+          "8 Haziran 1972",
+          "8 Temmuz 1972"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Tarihin en etkileyici savaş fotoğraflarından biri olan \"Napalm Kızı\", 8 Haziran 1972 tarihinde kaydedilmiştir."
+      },
+      {
+        "id": 5,
+        "text": "Kim Phuc'un maruz kaldığı yanıklar kaçıncı derecedir?",
+        "options": [
+          "Birinci derece",
+          "İkinci derece",
+          "Üçüncü derece",
+          "Dördüncü derece"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Napalm bombasının neden olduğu yanıklar, Kim Phuc'un vücudunun büyük bir bölümünde üçüncü derece olarak teşhis edilmiştir."
+      },
+      {
+        "id": 6,
+        "text": "Fotoğrafın çekildiği köyün adı nedir?",
+        "options": [
+          "My Lai",
+          "Hue",
+          "Trang Bang",
+          "Saigon"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Güney Vietnam ordusunun napalm bombası attığı ve fotoğrafın çekildiği yer Trang Bang köyüdür."
+      },
+      {
+        "id": 7,
+        "text": "Fotoğrafın kazandığı önemli ödül hangisidir?",
+        "options": [
+          "Nobel Barış Ödülü",
+          "Booker Ödülü",
+          "Pulitzer Ödülü",
+          "Altın Küre"
+        ],
+        "correctAnswer": 2,
+        "explanation": "\"Napalm Kızı\" fotoğrafı, 1973 yılında prestijli Pulitzer Ödülü'ne layık görülmüştür."
+      },
+      {
+        "id": 8,
+        "text": "Nick Ut, fotoğrafı çektikten sonra Kim Phuc'a nasıl yardım etmiştir?",
+        "options": [
+          "Ona su vermiştir",
+          "Onu güvenli bir yere götürmüştür",
+          "Onu arabasıyla hastaneye götürmüştür",
+          "İlk yardım uygulamıştır"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Nick Ut, fotoğrafı çektikten sonra sadece bir gazeteci olarak kalmamış, Kim Phuc'u ve diğer yaralı çocukları arabasıyla hastaneye götürerek hayatlarını kurtarmaya çalışmıştır."
+      },
+      {
+        "id": 9,
+        "text": "Kim Phuc, bu olaydan sonra nasıl bir misyon üstlenmiştir?",
+        "options": [
+          "Savaş muhabirliği yapmıştır",
+          "Siyasi bir lider olmuştur",
+          "Barış ve uzlaşma elçisi olmuştur",
+          "Gazetecilik yapmıştır"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kim Phuc, yaşadığı acı tecrübelerden sonra barışın ve uzlaşmanın küresel bir elçisi haline gelmiştir."
+      },
+      {
+        "id": 10,
+        "text": "Napalm, genellikle hangi amaçla kullanılan bir maddedir?",
+        "options": [
+          "Tarımsal ilaçlama",
+          "Endüstriyel temizlik",
+          "Yangın söndürme",
+          "Yakıcı bomba"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Napalm, bir tür yakıcı bomba veya yangın çıkarıcı maddedir ve genellikle savaşlarda hedefleri ateşe vermek için kullanılır."
+      },
+      {
+        "id": 11,
+        "text": "\"Napalm Kızı\" fotoğrafının dünya kamuoyundaki en büyük etkisi ne olmuştur?",
+        "options": [
+          "Moda trendlerini değiştirmesi",
+          "Savaş karşıtı hareketleri güçlendirmesi",
+          "Yeni bir fotoğraf tekniği başlatması",
+          "Ekonomik krizleri tetiklemesi"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Bu ikonik fotoğraf, Vietnam Savaşı'nın dehşetini gözler önüne sererek özellikle Batı ülkelerindeki savaş karşıtı hareketlerin güçlenmesine büyük katkı sağlamıştır."
+      },
+      {
+        "id": 12,
+        "text": "Kim Phuc'un bu olaydan sonraki hayatı hakkında hangi ifade doğrudur?",
+        "options": [
+          "Hemen iyileşmiş ve normal hayatına dönmüştür.",
+          "Hayatının geri kalanında savaşın izlerini taşımıştır.",
+          "Savaşın bitiminden kısa süre sonra hayatını kaybetmiştir.",
+          "Olaydan sonra ülkesini terk etmemiştir."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Kim Phuc, napalmın neden olduğu yanıkların izlerini ve acılarını hayatı boyunca taşımıştır, ancak hayatta kalmayı başarmıştır."
+      },
+      {
+        "id": 13,
+        "text": "Fotoğrafın çekildiği bölgedeki saldırıyı hangi ordu gerçekleştirmiştir?",
+        "options": [
+          "Kuzey Vietnam Ordusu",
+          "ABD Ordusu",
+          "Güney Vietnam Ordusu",
+          "Viet Cong"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Fotoğrafın çekildiği Trang Bang köyüne yapılan ve Kim Phuc'un yaralanmasına neden olan napalm saldırısı, yanlışlıkla Güney Vietnam Ordusu tarafından gerçekleştirilmiştir."
+      },
+      {
+        "id": 14,
+        "text": "Kim Phuc, bu fotoğrafın kendisi için ne ifade ettiğini nasıl tanımlamıştır?",
+        "options": [
+          "Sadece bir anı",
+          "Büyük bir şans",
+          "Hem bir lanet hem de bir lütuf",
+          "Hiçbir önemi yok"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kim Phuc, fotoğrafın kendisine hatırlattığı acılar nedeniyle bir lanet, ancak barış elçisi olma ve insanlara ilham verme fırsatı sunduğu için bir lütuf olduğunu belirtmiştir."
+      },
+      {
+        "id": 15,
+        "text": "\"Napalm Kızı\" fotoğrafının temsil ettiği ana tema nedir?",
+        "options": [
+          "Askeri stratejilerin gücü",
+          "Savaşın insani maliyeti",
+          "Gazeteciliğin tehlikeleri",
+          "Uluslararası ilişkiler"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Bu fotoğraf, savaşların masum siviller ve çocuklar üzerindeki yıkıcı ve trajik insani maliyetini en güçlü şekilde temsil etmektedir."
+      }
+    ]
   }
 ];
