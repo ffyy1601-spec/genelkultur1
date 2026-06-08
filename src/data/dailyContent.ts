@@ -18857,5 +18857,208 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Ev sinema sistemlerinin yaygınlaşması, video kaset oynatıcıları ve sonrasında DVD gibi teknolojilerin ortaya çıkışıyla paralel bir gelişmedir ve drive-in sinemaların düşüşünde önemli bir rol oynamıştır."
       }
     ]
+  },
+  {
+    "slug": "bilgi-islem-caginin-dogusu-herman-hollerith-ve-delikli-kart-teknolojisi",
+    "dateId": "2026-06-08",
+    "title": "Veri İşlemede Devrim: Herman Hollerith ve Delikli Kart Makinesinin İcadı | GenelKultur",
+    "description": "Herman Hollerith'in 8 Haziran 1887'de patentini aldığı delikli kart tabülatör makinesi, modern bilgi işlem çağının temellerini attı. Bu makale, Hollerith'in hayatını, icadını ve günümüz teknolojisine etkilerini detaylandırıyor.",
+    "keywords": [
+      "Herman Hollerith",
+      "delikli kart makinesi",
+      "tabülatör",
+      "IBM tarihi",
+      "bilgi işlem tarihi",
+      "1887 patent",
+      "veri işleme",
+      "sayım makinesi",
+      "modern bilgisayarın temelleri"
+    ],
+    "heading": "Bilgi İşlem Çağının Doğuşu: Herman Hollerith ve Delikli Kart Teknolojisi",
+    "intro": "Günümüzün dijital dünyasında verilerin anında işlenmesi ve analiz edilmesi sıradan bir durum gibi görünse de, bu yeteneğin temelleri 19. yüzyılın sonlarında atıldı. Amerikalı mucit Herman Hollerith, nüfus sayımı gibi devasa veri setlerini işlemek için devrim niteliğinde bir çözüm geliştirdi: delikli kart tabülatör makinesi. 8 Haziran 1887'de patentini aldığı bu icat, sadece istatistiksel verilerin işlenişini kökten değiştirmekle kalmadı, aynı zamanda modern bilgisayar biliminin de ilk adımlarından biri oldu.",
+    "article": "Günümüzün dijital dünyasında verilerin anında işlenmesi ve analiz edilmesi sıradan bir durum gibi görünse de, bu yeteneğin temelleri 19. yüzyılın sonlarında atıldı. Amerikalı mucit Herman Hollerith, nüfus sayımı gibi devasa veri setlerini işlemek için devrim niteliğinde bir çözüm geliştirdi: delikli kart tabülatör makinesi. 8 Haziran 1887'de patentini aldığı bu icat, sadece istatistiksel verilerin işlenişini kökten değiştirmekle kalmadı, aynı zamanda modern bilgisayar biliminin de ilk adımlarından biri oldu. Bu makine, özellikle 1880 ABD nüfus sayımının manuel olarak işlenmesinin yaklaşık sekiz yıl sürmesi üzerine ortaya çıkan büyük bir ihtiyaca yanıt verdi. Manuel yöntemlerin hem maliyetli hem de yavaş olması, yeni ve daha hızlı bir veri işleme sistemine olan talebi artırmıştı.\n\nHollerith'in delikli kart tabülatör makinesi, verileri kartlar üzerindeki deliklerin varlığına veya yokluğuna göre kaydeden ve işleyen elektromekanik bir cihazdı. Her bir delikli kart, belirli bir bireyin veya verinin temsilini taşıyordu ve kart üzerindeki deliklerin konumu, ilgili bilgileri kodluyordu. Makine, bu delikleri okuyarak (genellikle elektrik akımı kullanarak) bilgiyi toplayıp sayabiliyordu. Bu yöntem, geleneksel el sayımı ve kağıt tabanlı sistemlere kıyasla muazzam bir hız ve doğruluk avantajı sağladı. Hollerith'in sistemi, sadece verileri toplamakla kalmıyor, aynı zamanda bu verileri sınıflandırıp özetleyebiliyordu, bu da onu istatistiksel analizler için paha biçilmez kılıyordu.\n\nHollerith, bu devrim niteliğindeki teknolojiyi pazarlamak için 1896'da Tabulating Machine Company'yi kurdu. Şirket, çeşitli hükümet daireleri ve büyük işletmeler için veri işleme hizmetleri sağlamaya başladı. Zamanla, bu şirket bir dizi birleşme ve yeniden yapılandırmanın ardından 1924 yılında International Business Machines Corporation (IBM) adını aldı. IBM, Hollerith'in delikli kart teknolojisinin mirasçısı olarak, 20. yüzyılın büyük bir bölümünde iş dünyasında ve hükümetlerde veri yönetiminin omurgasını oluşturdu. Delikli kartlar, bilgisayar çağının ilk dönemlerine kadar veri girişi ve depolama için standart bir yöntem olarak kaldı ve modern bilgisayarların temel mantıksal ve operasyonel prensiplerinin gelişimine zemin hazırladı.\n\nHerman Hollerith'in delikli kart teknolojisi, sadece bir mucidin dehasını değil, aynı zamanda veriye dayalı karar alma çağının başlangıcını da temsil eder. Onun icadı, kitlelerin verilerini daha verimli bir şekilde yönetme yeteneği sunarak, hem kamu hizmetlerinde hem de özel sektörde operasyonel verimliliği kökten değiştirdi. Bugünün büyük veri analizinden yapay zekaya kadar uzanan bilgi işlem dünyası, temellerini Hollerith'in 19. yüzyıl sonlarındaki bu ileri görüşlü çalışmasına borçludur.",
+    "category": "bilim",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Herman Hollerith'in delikli kart tabülatör makinesinin geliştirilmesindeki temel motivasyon neydi?",
+        "options": [
+          "Yeni bir enerji kaynağı bulmak",
+          "Daha hızlı trenler tasarlamak",
+          "Büyük veri setlerini (özellikle nüfus sayımını) daha hızlı işlemek",
+          "Uzay keşfi için yeni yöntemler geliştirmek"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Makale, Hollerith'in icadının 1880 ABD nüfus sayımının manuel olarak işlenmesinin yaklaşık sekiz yıl sürmesi üzerine ortaya çıkan büyük bir ihtiyaca yanıt verdiğini belirtir."
+      },
+      {
+        "id": 2,
+        "text": "Hollerith, icadının patentini hangi tarihte almıştır?",
+        "options": [
+          "8 Haziran 1880",
+          "8 Haziran 1896",
+          "8 Haziran 1887",
+          "8 Temmuz 1924"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Makalede açıkça belirtildiği üzere, Herman Hollerith icadının patentini 8 Haziran 1887'de almıştır."
+      },
+      {
+        "id": 3,
+        "text": "Hollerith'in delikli kart makinesi hangi tür verileri işlemek için kullanılmıştır?",
+        "options": [
+          "Resim ve video dosyaları",
+          "Sadece metin belgeleri",
+          "İstatistiksel ve sayısal veriler",
+          "Ses kayıtları"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Delikli kart makinesi, özellikle nüfus sayımı gibi istatistiksel ve sayısal verileri kaydetmek, işlemek ve analiz etmek için tasarlanmıştır."
+      },
+      {
+        "id": 4,
+        "text": "Hollerith'in kurduğu ve daha sonra IBM'e dönüşen şirketin orijinal adı neydi?",
+        "options": [
+          "American Computing Company",
+          "Tabulating Machine Company",
+          "Data Processing Inc.",
+          "Global Machines Corporation"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Makale, Hollerith'in 1896'da Tabulating Machine Company'yi kurduğunu ve bu şirketin daha sonra IBM'e dönüştüğünü belirtir."
+      },
+      {
+        "id": 5,
+        "text": "Delikli kart makinesinin çalışma prensibi en iyi nasıl açıklanır?",
+        "options": [
+          "Kartları manyetik olarak kodlayarak",
+          "Verileri kart üzerindeki mürekkep izleriyle okuyarak",
+          "Kartlar üzerindeki deliklerin varlığına veya yokluğuna göre elektrik akımı kullanarak",
+          "Işık sensörleri ile kartlardaki renkleri analiz ederek"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Makale, makinenin verileri kartlar üzerindeki deliklerin varlığına veya yokluğuna göre kaydeden ve işleyen elektromekanik bir cihaz olduğunu ve bu delikleri elektrik akımı kullanarak okuduğunu açıklar."
+      },
+      {
+        "id": 6,
+        "text": "Delikli kart sisteminin manuel yöntemlere göre başlıca avantajı neydi?",
+        "options": [
+          "Daha az enerji tüketimi",
+          "Daha estetik görünüm",
+          "Muazzam hız ve doğruluk",
+          "Daha düşük ilk kurulum maliyeti"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Makale, Hollerith'in yönteminin geleneksel el sayımı ve kağıt tabanlı sistemlere kıyasla muazzam bir hız ve doğruluk avantajı sağladığını belirtir."
+      },
+      {
+        "id": 7,
+        "text": "Hollerith'in icadının kullanıldığı ilk büyük ölçekli resmi uygulama hangisiydi?",
+        "options": [
+          "ABD seçimleri",
+          "ABD Nüfus Sayımı",
+          "Borsa veri analizi",
+          "Askeri istihbarat raporları"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Makale, makinenin özellikle 1880 ABD nüfus sayımının manuel olarak işlenmesindeki zorluklara çözüm olarak ortaya çıktığını ve bu sayımda kullanıldığını belirtir."
+      },
+      {
+        "id": 8,
+        "text": "Delikli kartlar, bilgisayar çağının hangi dönemine kadar standart bir veri girişi ve depolama yöntemi olarak kalmıştır?",
+        "options": [
+          "1950'ler",
+          "1980'ler",
+          "20. yüzyılın başları",
+          "Bilgisayar çağının ilk dönemleri"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Makale, delikli kartların bilgisayar çağının ilk dönemlerine kadar veri girişi ve depolama için standart bir yöntem olarak kaldığını ifade eder."
+      },
+      {
+        "id": 9,
+        "text": "Hollerith'in sistemi, verileri toplamanın yanı sıra başka hangi önemli yeteneğe sahipti?",
+        "options": [
+          "Verileri internet üzerinden yayınlama",
+          "Verileri görsel grafiklere dönüştürme",
+          "Verileri sınıflandırıp özetleme",
+          "Verileri sesli komutlarla yönetme"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Makale, Hollerith'in sisteminin sadece verileri toplamakla kalmayıp, aynı zamanda bu verileri sınıflandırıp özetleyebildiğini belirtir."
+      },
+      {
+        "id": 10,
+        "text": "Herman Hollerith, hangi ülkenin vatandaşıydı?",
+        "options": [
+          "Almanya",
+          "Birleşik Krallık",
+          "ABD",
+          "Fransa"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Makale, Herman Hollerith'i 'Amerikalı mucit' olarak tanımlamaktadır."
+      },
+      {
+        "id": 11,
+        "text": "1880 ABD nüfus sayımının manuel olarak işlenmesi yaklaşık ne kadar sürmüştür?",
+        "options": [
+          "Bir yıl",
+          "Üç yıl",
+          "Beş yıl",
+          "Sekiz yıl"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Makalede, 1880 ABD nüfus sayımının manuel olarak işlenmesinin yaklaşık sekiz yıl sürdüğü belirtilmektedir."
+      },
+      {
+        "id": 12,
+        "text": "Hollerith'in delikli kart teknolojisinin günümüzdeki 'büyük veri analizi' ve 'yapay zeka' gibi alanlarla ilişkisi nedir?",
+        "options": [
+          "Hiçbir ilişkisi yoktur, tamamen farklı teknolojilerdir.",
+          "Sadece isim benzerliği bulunmaktadır.",
+          "Bu alanların temel mantıksal ve operasyonel prensiplerinin gelişimine zemin hazırlamıştır.",
+          "Hollerith, bu teknolojileri doğrudan kendisi icat etmiştir."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Makale, günümüzün büyük veri analizinden yapay zekaya uzanan bilgi işlem dünyasının, temellerini Hollerith'in 19. yüzyıl sonlarındaki bu ileri görüşlü çalışmasına borçlu olduğunu belirtir."
+      },
+      {
+        "id": 13,
+        "text": "Hollerith'in makinesinde bilgiler nasıl kodlanıyordu?",
+        "options": [
+          "Kartların rengiyle",
+          "Deliklerin kart üzerindeki konumuyla",
+          "Kartın ağırlığıyla",
+          "Kartın boyutuyla"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Makalede, 'kart üzerindeki deliklerin konumu, ilgili bilgileri kodluyordu' ifadesi yer almaktadır."
+      },
+      {
+        "id": 14,
+        "text": "Hollerith'in kurduğu şirket, hangi yıl IBM adını almıştır?",
+        "options": [
+          "1896",
+          "1902",
+          "1924",
+          "1945"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Makale, şirketin bir dizi birleşme ve yeniden yapılandırmanın ardından 1924 yılında International Business Machines Corporation (IBM) adını aldığını belirtir."
+      },
+      {
+        "id": 15,
+        "text": "Delikli kart sistemleri, veri işleme maliyetlerini ve hızını nasıl etkilemiştir?",
+        "options": [
+          "Maliyetleri artırmış, hızı yavaşlatmıştır.",
+          "Maliyetleri düşürmüş, hızı artırmıştır.",
+          "Maliyetleri ve hızı etkilememiştir.",
+          "Sadece maliyetleri artırmıştır, hız değişmemiştir."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Hollerith'in sistemi, manuel yöntemlere göre hem maliyetli hem de yavaş olan süreçleri kökten değiştirerek maliyetleri düşürmüş ve veri işleme hızını muazzam derecede artırmıştır."
+      }
+    ]
   }
 ];
