@@ -19060,5 +19060,209 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Hollerith'in sistemi, manuel yöntemlere göre hem maliyetli hem de yavaş olan süreçleri kökten değiştirerek maliyetleri düşürmüş ve veri işleme hızını muazzam derecede artırmıştır."
       }
     ]
+  },
+  {
+    "slug": "gorme-engellilerin-dunyasini-aydinlatan-sistem-braille-alfabesi",
+    "dateId": "2026-06-08",
+    "title": "Louis Braille Kimdir? Braille Alfabesinin İcadı ve Önemi | GenelKultur",
+    "description": "Louis Braille'in hayatı, Braille alfabesini nasıl icat ettiği ve görme engelliler için bu devrim niteliğindeki sistemin dünya üzerindeki etkisi hakkında detaylı bilgi edinin.",
+    "keywords": [
+      "Louis Braille",
+      "Braille alfabesi",
+      "Braille sistemi",
+      "görme engelliler",
+      "kabartma yazı",
+      "Louis Braille hayatı",
+      "körler alfabesi",
+      "okuma yazma",
+      "Braille'in önemi",
+      "8 Haziran 1824"
+    ],
+    "heading": "Görme Engellilerin Dünyasını Aydınlatan Sistem: Braille Alfabesi",
+    "intro": "8 Haziran 1824 tarihi, görme engelliler için bir dönüm noktasına işaret eder. O gün, henüz genç bir dahi olan Louis Braille, kendi adıyla anılacak olan ve tüm dünyadaki görme engellilerin okuma yazma biçimini sonsuza dek değiştirecek kabartma yazı sistemini tanıttı. Peki, bu devrim niteliğindeki icat nasıl ortaya çıktı ve Braille'in hayatı bu sisteme nasıl yön verdi?",
+    "article": "Fransız mucit Louis Braille, 4 Ocak 1809'da Coupvray, Fransa'da doğdu. Henüz üç yaşındayken babasının atölyesinde geçirdiği bir kaza sonucu gözlerinden birini kaybetti ve kısa süre sonra diğer gözü de enfeksiyon nedeniyle işlevini yitirdi. Bu talihsiz olay, Braille'i henüz çocuk yaşta tamamen görme engelli hale getirdi. Ancak bu durum, onun öğrenme azmini ve dünyaya katkıda bulunma isteğini asla kırmadı. Paris'teki Kraliyet Körler Enstitüsü'nde eğitimine başlayan Braille, burada mevcut olan sınırlı kabartma yazı sistemlerinin yetersizliğini fark etti.\n\nO dönemde kullanılan kabartma harf sistemleri, büyük ve hantaldı, okuması yavaştı ve yazması neredeyse imkansızdı. Bu durum, Braille'i yeni bir çözüm aramaya itti. 12 yaşındayken, Charles Barbier adında bir Fransız ordusu subayının \"gece yazısı\" adı verilen bir sistemi tanıttığını öğrendi. Bu sistem, askerlerin karanlıkta birbirleriyle sessizce iletişim kurabilmeleri için noktalar ve çizgilerden oluşuyordu. Braille, Barbier'in sisteminin potansiyelini hemen gördü ve onu görme engellilerin ihtiyaçlarına göre uyarlamaya başladı. Yıllar süren azimli çalışmalar sonucunda, Braille 1824'te, her biri altı noktadan oluşan ve 63 farklı kombinasyon sunan, kendi adını taşıyan alfabeyi geliştirdi. 8 Haziran 1824'te bu sistemi ilk kez tanıttı.\n\nBraille alfabesi, sadece harfleri değil, sayıları, noktalama işaretlerini ve hatta müzik notalarını da temsil edebiliyordu. Bu sistemin en büyük avantajlarından biri, sadece okumayı değil, aynı zamanda yazmayı da mümkün kılmasıydı. Görme engelliler, özel bir kalem (stylus) ve bir Braille tahtası (slate) kullanarak kendi yazılarını oluşturabiliyorlardı. Başlangıçta, Braille'in sistemi enstitüde tam olarak kabul görmedi ve hatta yasaklandı. Ancak öğrencileri arasında hızla yayıldı ve Braille'in ölümünden sonra, 1868'de uluslararası alanda tanınmaya ve yaygınlaşmaya başladı. Bugün, Braille alfabesi dünya genelinde görme engelliler için vazgeçilmez bir iletişim ve öğrenme aracıdır, onlara bağımsızlık ve bilgiye erişim imkanı sunar.",
+    "category": "bilim",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Louis Braille hangi ülkede doğmuştur?",
+        "options": [
+          "Almanya",
+          "İngiltere",
+          "Fransa",
+          "İtalya"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Louis Braille, 4 Ocak 1809'da Coupvray, Fransa'da doğmuştur."
+      },
+      {
+        "id": 2,
+        "text": "Louis Braille kaç yaşında görme yetisini tamamen kaybetmiştir?",
+        "options": [
+          "Bir yaşında",
+          "İki yaşında",
+          "Üç yaşında",
+          "Dört yaşında"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Braille, üç yaşındayken geçirdiği bir kaza sonucu gözlerinden birini kaybetmiş ve kısa süre sonra diğer gözü de enfeksiyon nedeniyle işlevini yitirmiştir."
+      },
+      {
+        "id": 3,
+        "text": "Braille alfabesini geliştirmesinde Louis Braille'e ilham veren, Charles Barbier'in sisteminin adı nedir?",
+        "options": [
+          "Gündüz Yazısı",
+          "Savaş Kodu",
+          "Gece Yazısı",
+          "Asker Alfabesi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Louis Braille, Charles Barbier'in 'gece yazısı' adı verilen sisteminden ilham almıştır."
+      },
+      {
+        "id": 4,
+        "text": "Charles Barbier'in 'gece yazısı' sistemi başlangıçta ne amaçla kullanılıyordu?",
+        "options": [
+          "Ticari yazışmalar için",
+          "Askerlerin karanlıkta iletişim kurması için",
+          "Denizcilerin navigasyonu için",
+          "Gizli istihbarat mesajları için"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Barbier'in sistemi, askerlerin karanlıkta birbirleriyle sessizce iletişim kurabilmeleri için tasarlanmıştı."
+      },
+      {
+        "id": 5,
+        "text": "Louis Braille, kendi adını taşıyan alfabeyi ne zaman tanıtmıştır?",
+        "options": [
+          "1819",
+          "1821",
+          "1824",
+          "1829"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Louis Braille, geliştirdiği kabartma yazı sistemini 8 Haziran 1824'te tanıtmıştır."
+      },
+      {
+        "id": 6,
+        "text": "Braille alfabesinde her bir harf veya sembol kaç noktadan oluşur?",
+        "options": [
+          "Dört nokta",
+          "Beş nokta",
+          "Altı nokta",
+          "Yedi nokta"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Braille alfabesindeki her bir karakter, 2x3'lük bir düzenlemeyle altı noktadan oluşur."
+      },
+      {
+        "id": 7,
+        "text": "Braille alfabesi kaç farklı kombinasyon sunarak çeşitli karakterleri temsil edebilir?",
+        "options": [
+          "32",
+          "63",
+          "94",
+          "128"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Altı noktadan oluşan sistem, 63 farklı kombinasyon sunar."
+      },
+      {
+        "id": 8,
+        "text": "Braille alfabesinin en büyük avantajlarından biri aşağıdakilerden hangisidir?",
+        "options": [
+          "Sadece okumayı mümkün kılması",
+          "Sadece yazmayı mümkün kılması",
+          "Hem okumayı hem de yazmayı mümkün kılması",
+          "Normal görme yetisine sahip kişilerin de kullanabilmesi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Braille alfabesinin en büyük avantajı, görme engellilere hem okuma hem de yazma imkanı sunmasıdır."
+      },
+      {
+        "id": 9,
+        "text": "Braille yazmak için genellikle hangi araçlar kullanılır?",
+        "options": [
+          "Mürekkep ve fırça",
+          "Klavye ve ekran",
+          "Özel bir kalem (stylus) ve Braille tahtası (slate)",
+          "Daktilo ve şerit"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Görme engelliler, özel bir kalem (stylus) ve bir Braille tahtası (slate) kullanarak kendi yazılarını oluşturabilmektedir."
+      },
+      {
+        "id": 10,
+        "text": "Louis Braille'in sistemi başlangıçta Kraliyet Körler Enstitüsü tarafından nasıl bir tepkiyle karşılanmıştır?",
+        "options": [
+          "Hemen kabul görmüş ve yaygınlaştırılmıştır",
+          "Küçük çapta ilgi görmüş ancak resmiyet kazanmamıştır",
+          "Başlangıçta tam kabul görmemiş ve hatta yasaklanmıştır",
+          "Tamamen reddedilmiş ve geliştirilmesi engellenmiştir"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Başlangıçta, Braille'in sistemi enstitüde tam olarak kabul görmedi ve hatta yasaklandı."
+      },
+      {
+        "id": 11,
+        "text": "Braille alfabesi, Louis Braille'in ölümünden sonra ne zaman uluslararası alanda tanınmaya ve yaygınlaşmaya başlamıştır?",
+        "options": [
+          "1832",
+          "1845",
+          "1868",
+          "1880"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Braille'in ölümünden sonra, 1868'de uluslararası alanda tanınmaya ve yaygınlaşmaya başlamıştır."
+      },
+      {
+        "id": 12,
+        "text": "Braille alfabesi sadece harfleri mi temsil eder?",
+        "options": [
+          "Evet, sadece harfleri temsil eder.",
+          "Hayır, sadece sayıları temsil eder.",
+          "Hayır, harflerin yanı sıra sayıları, noktalama işaretlerini ve müzik notalarını da temsil edebilir.",
+          "Sadece kısa cümleleri temsil eder."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Braille alfabesi, sadece harfleri değil, sayıları, noktalama işaretlerini ve hatta müzik notalarını da temsil edebiliyordu."
+      },
+      {
+        "id": 13,
+        "text": "Louis Braille, eğitimine hangi kurumda başlamıştır?",
+        "options": [
+          "Paris Üniversitesi",
+          "Kraliyet Körler Enstitüsü",
+          "Fransız Bilimler Akademisi",
+          "Coupvray Yerel Okulu"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Louis Braille, Paris'teki Kraliyet Körler Enstitüsü'nde eğitimine başlamıştır."
+      },
+      {
+        "id": 14,
+        "text": "Braille alfabesinin günümüzdeki en önemli katkısı nedir?",
+        "options": [
+          "Sadece kitap okumayı kolaylaştırması",
+          "Sadece müzik çalmayı mümkün kılması",
+          "Görme engellilere bağımsızlık ve bilgiye erişim imkanı sunması",
+          "Sadece gizli iletişim kurmayı sağlaması"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bugün, Braille alfabesi dünya genelinde görme engelliler için vazgeçilmez bir iletişim ve öğrenme aracıdır, onlara bağımsızlık ve bilgiye erişim imkanı sunar."
+      },
+      {
+        "id": 15,
+        "text": "Louis Braille'in kör kalmasına neden olan kaza nerede meydana gelmiştir?",
+        "options": [
+          "Okulda",
+          "Evinde",
+          "Babasının atölyesinde",
+          "Sokakta oyun oynarken"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Louis Braille, henüz üç yaşındayken babasının atölyesinde geçirdiği bir kaza sonucu görme yetisini kaybetmiştir."
+      }
+    ]
   }
 ];
