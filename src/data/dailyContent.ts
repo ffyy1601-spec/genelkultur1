@@ -19469,5 +19469,210 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Bu tarihi uçuş, bilimsel merakın ve mühendislik dehasının birleşimiyle imkansız denilenin nasıl mümkün kılındığının bir kanıtı olarak tarihe geçmiştir."
       }
     ]
+  },
+  {
+    "slug": "soguk-savasin-derinliklerindeki-donum-noktasi-uss-george-washington",
+    "dateId": "2026-06-09",
+    "title": "Denizlerin Görünmez Gücü: USS George Washington ve Nükleer Caydırıcılığın Doğuşu | GenelKultur",
+    "description": "9 Haziran 1959'da fırlatılan USS George Washington, dünyanın ilk balistik füze denizaltısıydı. Bu makale, Soğuk Savaş'ın seyrini değiştiren bu teknolojik devrimi ve nükleer caydırıcılığa etkilerini inceliyor.",
+    "keywords": [
+      "USS George Washington",
+      "SSBN",
+      "nükleer denizaltı",
+      "balistik füze denizaltısı",
+      "Soğuk Savaş",
+      "nükleer caydırıcılık",
+      "deniz kuvvetleri tarihi",
+      "ABD donanması",
+      "denizaltı teknolojisi",
+      "tarihte bugün",
+      "9 Haziran"
+    ],
+    "heading": "Soğuk Savaş'ın Derinliklerindeki Dönüm Noktası: USS George Washington",
+    "intro": "20. yüzyılın ortaları, dünyayı nükleer silahların gölgesinde tutan Soğuk Savaş'ın en yoğun dönemlerinden biriydi. Bu gerilimli atmosferde, uluslararasında askeri üstünlük arayışı, teknolojide çığır açan gelişmeleri beraberinde getirdi. İşte bu gelişmelerden biri, denizlerin derinliklerinde sessizce nükleer bir tehdit taşıyabilecek, dünyanın ilk balistik füze denizaltısı USS George Washington'ın doğuşuydu. 9 Haziran 1959'da suya indirilen bu devasa gemi, stratejik dengeleri kalıcı olarak değiştirecek bir dönemin başlangıcını müjdeleyecekti.",
+    "article": "Soğuk Savaş döneminde Amerika Birleşik Devletleri ve Sovyetler Birliği arasındaki nükleer silahlanma yarışı, karada ve havada stratejik avantaj arayışlarını tetiklerken, denizaltı teknolojisi de bu rekabetin önemli bir parçası haline geldi. USS George Washington (SSBN-598), ilk kez 9 Haziran 1959'da General Dynamics'in Electric Boat tersanesinde denize indirildiğinde, insanlık tarihinde yeni bir nükleer caydırıcılık çağını başlatıyordu. Bu denizaltı, nükleer güçle çalışan bir gövdeye sahip olmanın yanı sıra, Polaris SLBM (Denizden Fırlatılan Balistik Füze) taşıma kapasitesine sahipti. Bu sayede, düşman topraklarına uzanabilecek menzilde füzeleri, okyanusların derinliklerinden, tespit edilmesi çok zor bir konumdan fırlatabilme yeteneğini kazanmıştı. Bu durum, karada veya havada konuşlu nükleer silahlara kıyasla çok daha güvenli ve etkili bir ikinci vuruş kapasitesi sunuyordu.\n\nBalistik füze denizaltıları (SSBN'ler), adeta su altında yüzen mobil füze siloları gibi işlev görüyordu. Nükleer reaktörleri sayesinde aylarca su altında kalabilen ve binlerce mil yol kat edebilen bu denizaltılar, düşman gözetiminden uzakta, stratejik hedeflere nükleer saldırı tehdidi oluşturuyordu. USS George Washington'ın başarısı, ABD Donanması'nın hızla diğer SSBN'leri inşa etmesine yol açtı ve bu platformlar, Soğuk Savaş'ın en kritik dönemlerinde nükleer stratejinin temel direklerinden biri haline geldi. Denizaltıların sessizliği ve gizliliği, onları ilk vuruş saldırılarına karşı neredeyse dokunulmaz kılıyordu, bu da nükleer savaşı önlemede hayati bir rol oynayan \"karşılıklı kesin yok etme\" (MAD) doktrininin güçlenmesine yardımcı oldu.\n\nUSS George Washington'ın ve onu takip eden SSBN filosunun geliştirilmesi, uluslararası güvenlik mimarisini kökten değiştirdi. Nükleer caydırıcılığın üç ayağından biri olan denizaltı gücü, kara tabanlı füzeler ve stratejik bombardıman uçaklarıyla birlikte, küresel bir nükleer felaketi önlemede kritik bir denge unsuru haline geldi. Bu denizaltılar, dünya üzerindeki nükleer gerilimin doruk noktaya ulaştığı anlarda bile, olası bir nükleer saldırıya karşı etkili bir misilleme tehdidi oluşturarak, büyük güçleri sorumlu davranmaya itti. Bugün hala modern SSBN'ler, stratejik nükleer caydırıcılığın belkemiğini oluşturmakta ve 9 Haziran 1959'da başlayan bu teknolojik devrimin mirasını taşımaktadır.",
+    "category": "bilim",
+    "questions": [
+      {
+        "id": 1,
+        "text": "USS George Washington hangi tarihte suya indirildi?",
+        "options": [
+          "9 Haziran 1959",
+          "10 Temmuz 1960",
+          "8 Mayıs 1958",
+          "12 Nisan 1961"
+        ],
+        "correctAnswer": 0,
+        "explanation": "USS George Washington, makalede belirtildiği üzere, 9 Haziran 1959 tarihinde suya indirilerek nükleer caydırıcılıkta yeni bir dönemi başlatmıştır."
+      },
+      {
+        "id": 2,
+        "text": "USS George Washington'ın temel stratejik özelliği nedir?",
+        "options": [
+          "Yüksek hızlı torpido fırlatma yeteneği",
+          "Denizden fırlatılan balistik füzeler taşıma kapasitesi",
+          "Anti-denizaltı savaşında üstünlük",
+          "Keşif ve istihbarat toplama"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Makalede de vurgulandığı gibi, USS George Washington'ı devrimci kılan özellik, Polaris SLBM (Denizden Fırlatılan Balistik Füze) taşıma ve fırlatma kapasitesiydi."
+      },
+      {
+        "id": 3,
+        "text": "SSBN kısaltmasının açılımı nedir?",
+        "options": [
+          "Submarine Search and Battle Nuclear",
+          "Ship Submersible Ballistic Nuclear",
+          "Strategic Submarine Based Navigation",
+          "Sonar System Bunkering Naval"
+        ],
+        "correctAnswer": 1,
+        "explanation": "SSBN, \"Ship Submersible Ballistic Nuclear\" yani \"Nükleer Balistik Denizaltı Gemisi\" anlamına gelir ve balistik füze taşıyan nükleer denizaltıları ifade eder."
+      },
+      {
+        "id": 4,
+        "text": "USS George Washington hangi tersanede inşa edildi?",
+        "options": [
+          "Newport News Shipbuilding",
+          "Portsmouth Naval Shipyard",
+          "General Dynamics Electric Boat",
+          "Mare Island Naval Shipyard"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Makalede, USS George Washington'ın General Dynamics'in Electric Boat tersanesinde denize indirildiği belirtilmiştir."
+      },
+      {
+        "id": 5,
+        "text": "SSBN'lerin geliştirilmesi Soğuk Savaş'taki hangi doktrinin güçlenmesine yardımcı oldu?",
+        "options": [
+          "Önleyici Saldırı Doktrini",
+          "Tek Taraflı Silahsızlanma",
+          "Karşılıklı Kesin Yok Etme (MAD)",
+          "Sınırlı Nükleer Savaş"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Denizaltıların gizliliği ve ikinci vuruş kapasitesi, olası bir ilk saldırıya karşı misilleme tehdidi oluşturarak Karşılıklı Kesin Yok Etme (Mutually Assured Destruction - MAD) doktrininin güçlenmesine katkıda bulunmuştur."
+      },
+      {
+        "id": 6,
+        "text": "Polaris SLBM füzeleri ne tür bir füzeydi?",
+        "options": [
+          "Kısa menzilli havadan havaya füze",
+          "Kara tabanlı seyir füzesi",
+          "Denizden fırlatılan balistik füze",
+          "Anti-gemi füzesi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Polaris SLBM (Submarine-Launched Ballistic Missile) adından da anlaşıldığı gibi, denizaltılardan fırlatılan balistik füzelerdir."
+      },
+      {
+        "id": 7,
+        "text": "Nükleer denizaltılar neden aylarca su altında kalabilir?",
+        "options": [
+          "Geniş yakıt depoları sayesinde",
+          "Hidrojen yakıt hücresi teknolojisiyle",
+          "Nükleer reaktörleri sayesinde",
+          "Güneş enerjisi panelleri ile"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Nükleer reaktörler, denizaltılara havaya bağımlı olmadan uzun süreler boyunca su altında kalabilme yeteneği sağlar."
+      },
+      {
+        "id": 8,
+        "text": "Soğuk Savaş'taki nükleer caydırıcılığın üç ayağından biri hangisidir?",
+        "options": [
+          "Tank güçleri",
+          "Denizaltı gücü",
+          "Uçak gemileri",
+          "Siber savaş birimleri"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Nükleer caydırıcılığın üç ayağı (nükleer üçleme), kara tabanlı füzeler, stratejik bombardıman uçakları ve denizaltı gücünden oluşur."
+      },
+      {
+        "id": 9,
+        "text": "USS George Washington'ın ana rakibi hangi ülkenin donanmasıydı?",
+        "options": [
+          "Birleşik Krallık",
+          "Çin",
+          "Sovyetler Birliği",
+          "Fransa"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Soğuk Savaş döneminde, ABD'nin ana rakibi ve nükleer silahlanma yarışındaki karşıt gücü Sovyetler Birliği'ydi."
+      },
+      {
+        "id": 10,
+        "text": "Nükleer denizaltılar, ilk vuruş saldırılarına karşı neden daha güvenli kabul ediliyordu?",
+        "options": [
+          "Daha kalın zırhları olduğu için",
+          "Kara üslerine daha yakın oldukları için",
+          "Sessizlikleri ve gizlilikleri nedeniyle tespit edilmeleri zor olduğu için",
+          "Daha hızlı hareket edebildikleri için"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Makalede belirtildiği gibi, denizaltıların sessizliği ve gizliliği, onları ilk vuruş saldırılarına karşı neredeyse dokunulmaz kılıyordu."
+      },
+      {
+        "id": 11,
+        "text": "SSBN'lerin stratejik değeri neyi temsil eder?",
+        "options": [
+          "Deniz ticareti yollarını koruma",
+          "Savaş bölgelerinde hızlı müdahale",
+          "İkinci vuruş kapasitesi ve nükleer caydırıcılık",
+          "Denizaltı avcılığı"
+        ],
+        "correctAnswer": 2,
+        "explanation": "SSBN'ler, bir nükleer saldırı sonrası bile misilleme yapabilme yeteneği, yani \"ikinci vuruş kapasitesi\" sağlayarak nükleer caydırıcılığın temelini oluşturur."
+      },
+      {
+        "id": 12,
+        "text": "USS George Washington'ın suya indirilmesiyle hangi yeni dönem başlamıştır?",
+        "options": [
+          "Sualtı keşif dönemi",
+          "Geleneksel denizaltı savaşı dönemi",
+          "Yeni bir nükleer caydırıcılık çağı",
+          "Uluslararası barış dönemi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Makalede, bu olayın \"insanlık tarihinde yeni bir nükleer caydırıcılık çağını başlattığı\" açıkça belirtilmiştir."
+      },
+      {
+        "id": 13,
+        "text": "Günümüzde modern SSBN'ler neyin belkemiğini oluşturmaktadır?",
+        "options": [
+          "Geleneksel donanma gücü",
+          "Stratejik nükleer caydırıcılık",
+          "Okyanus araştırma programları",
+          "Anti-terör operasyonları"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Makalenin sonunda da belirtildiği gibi, modern SSBN'ler günümüzde hala stratejik nükleer caydırıcılığın belkemiğini oluşturmaktadır."
+      },
+      {
+        "id": 14,
+        "text": "USS George Washington'dan sonra ABD Donanması'nın hızla ne yapmasına yol açtı?",
+        "options": [
+          "Uçak gemisi filosunu genişletmesine",
+          "Diğer SSBN'leri inşa etmesine",
+          "Kara tabanlı füze sistemlerini geliştirmesine",
+          "Uzay programına odaklanmasına"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Makalede, USS George Washington'ın başarısının ABD Donanması'nın hızla diğer SSBN'leri inşa etmesine yol açtığı belirtilmektedir."
+      },
+      {
+        "id": 15,
+        "text": "Soğuk Savaş'ta nükleer gerilimin doruk noktaya ulaştığı anlarda SSBN'lerin rolü neydi?",
+        "options": [
+          "Diplomatik görüşmeleri hızlandırmak",
+          "Ekonomik ambargolar uygulamak",
+          "Etkili bir misilleme tehdidi oluşturarak büyük güçleri sorumlu davranmaya itmek",
+          "Geleneksel askeri çatışmaları tırmandırmak"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Denizaltılar, olası bir nükleer saldırıya karşı etkili bir misilleme tehdidi oluşturarak, büyük güçleri sorumlu davranmaya ve nükleer savaştan kaçınmaya itmiştir."
+      }
+    ]
   }
 ];
