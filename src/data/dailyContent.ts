@@ -19880,5 +19880,212 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Gemiye verilen hasar nedeniyle, Cook ve ekibi gemiyi onarmak için Avustralya kıyısında uzun bir süre kalmak zorunda kalmıştır."
       }
     ]
+  },
+  {
+    "slug": "anne-frankin-gunlugu-insanligin-umut-fisiltisi",
+    "dateId": "2026-06-10",
+    "title": "Anne Frank'ın Günlüğü: Umut ve Direnişin Ölümsüz Mirası | GenelKultur",
+    "description": "Anne Frank'ın II. Dünya Savaşı sırasında Nazilerden saklanırken yazdığı günlüğün hikayesini, insanlığa bıraktığı mirası ve evrensel mesajlarını keşfedin. Genç bir kızın gözünden Holokost'un dehşetini ve insan ruhunun direncini anlatan bu eser hakkında her şey.",
+    "keywords": [
+      "Anne Frank",
+      "Anne Frank'ın Günlüğü",
+      "II. Dünya Savaşı",
+      "Holokost",
+      "Yahudi Soykırımı",
+      "Savaş Günlüğü",
+      "Saklanan Çocuklar",
+      "Amsterdam",
+      "Tarihi Miras",
+      "Direnme",
+      "Otto Frank",
+      "Gizli Ek Bina",
+      "Miep Gies"
+    ],
+    "heading": "Anne Frank'ın Günlüğü: İnsanlığın Umut Fısıltısı",
+    "intro": "Tarihin en karanlık dönemlerinden birinde, küçük bir kızın kağıda döktüğü kelimeler, insanlığın en güçlü seslerinden birine dönüştü. Anne Frank, II. Dünya Savaşı sırasında Hollanda'da ailesiyle birlikte Nazilerden saklanırken tuttuğu günlüğüyle, zulmün ve umutsuzluğun ortasında bile yaşama tutunma arzusunun, cesaretin ve direnişin sembolü oldu. Onun hikayesi, milyonlarca insana ilham vermeye ve geçmişin acı derslerini hatırlatmaya devam ediyor.",
+    "article": "Annelies Marie Frank, 12 Haziran 1929'da Almanya'nın Frankfurt şehrinde doğdu. Yahudi bir aileden gelen Anne, Nazilerin yükselişiyle birlikte ailesiyle birlikte 1933'te Hollanda'nın Amsterdam şehrine göç etti. Burada nispeten huzurlu bir çocukluk geçirse de, 1940'ta Almanya'nın Hollanda'yı işgal etmesiyle Yahudiler üzerindeki baskı artmaya başladı. Anne'ın 13. doğum gününde hediye edilen kırmızı-beyaz ekose kaplı bir günlük, onun en yakın sırdaşı olacaktı. 'Kitty' adını verdiği bu günlüğe, savaşın giderek kararan gölgesinde bile genç bir kızın hayallerini, korkularını ve gözlemlerini aktarmaya başladı. 6 Temmuz 1942'de, ailesiyle birlikte babası Otto Frank'ın işyerinin arkasındaki gizli bir ek binaya (Achterhuis) saklanmak zorunda kaldı.\n\nGizli Ek Bina'da geçirdiği 25 ay boyunca Anne ve ailesi, diğer dört Yahudi ve sonradan katılan bir dişçi ile birlikte dış dünyadan tamamen izole bir yaşam sürdü. Küçük, kapalı bir alanda, sürekli sessiz olmak zorunda kalarak, en basit gündelik ihtiyaçları bile karşılamakta zorlanarak yaşadılar. Günlük, Anne'ın bu zorlu koşullara rağmen hayata tutunma çabasını, ergenlik dönemi sancılarını, ailesiyle ve diğer saklanan kişilerle olan ilişkilerini, aşkı, umudu ve geleceğe dair hayallerini belgeliyordu. O, sadece kişisel deneyimlerini değil, aynı zamanda savaşın ve zulmün insan psikolojisi üzerindeki etkilerini de şaşırtıcı bir olgunlukla kaleme alıyordu. Dışarıdaki dünya radyodan duyulan haberlerle veya kendilerine gizlice yiyecek ve haber taşıyan, Miep Gies gibi cesur Hollandalı yardımcıları sayesinde öğreniliyordu.\n\nNe yazık ki, 4 Ağustos 1944'te, ihbar sonucu Gestapo tarafından yakalandılar. Anne ve ailesi önce Westerbork, ardından Auschwitz toplama kampına gönderildi. Anne ve kız kardeşi Margot, 1945'in başlarında Bergen-Belsen kampına transfer edildi ve burada tifüs salgını nedeniyle hayatlarını kaybettiler; kurtuluşun gelmesinden sadece haftalar önce. Aileden sağ kalan tek kişi, savaş sonrası Amsterdam'a dönen babası Otto Frank oldu. Saklandıkları yerden çıkan Miep Gies, bulduğu günlüğü Otto Frank'a teslim etti. Otto Frank, kızının yazdıklarını dünya ile paylaşmaya karar verdi ve böylece 'Genç Bir Kızın Günlüğü' (Türkçe'ye çeşitli çevirilerle 'Anne Frank'ın Hatıra Defteri' veya 'Anne Frank'ın Günlüğü' olarak aktarılmıştır) 1947'de yayımlandı. Bu günlük, Holokost'un kişisel bir tanıklığı olarak tarihin en etkileyici ve çok okunan eserlerinden biri haline gelerek, insanlığa savaşın yıkıcılığını ve nefretin trajik sonuçlarını hatırlatan ölümsüz bir miras bıraktı.",
+    "category": "tarih",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Anne Frank hangi şehirde doğmuştur?",
+        "options": [
+          "Amsterdam",
+          "Berlin",
+          "Frankfurt",
+          "Hamburg"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Anne Frank, 12 Haziran 1929'da Almanya'nın Frankfurt şehrinde doğmuştur."
+      },
+      {
+        "id": 2,
+        "text": "Anne Frank günlüğünü kaçıncı doğum gününde hediye olarak almıştır?",
+        "options": [
+          "10.",
+          "13.",
+          "15.",
+          "18."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Anne Frank, 13. doğum gününde, 12 Haziran 1942'de günlüğünü hediye olarak almıştır."
+      },
+      {
+        "id": 3,
+        "text": "Anne Frank günlüğüne hangi ismi vermiştir?",
+        "options": [
+          "Daisy",
+          "Kitty",
+          "Sophie",
+          "Elsa"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Anne Frank, günlüğüne 'Kitty' adını vermiş ve yazışmalarını bu hayali arkadaşına hitaben yapmıştır."
+      },
+      {
+        "id": 4,
+        "text": "Anne Frank ve ailesi II. Dünya Savaşı sırasında Nazilerden saklanmak için nerede yaşamışlardır?",
+        "options": [
+          "Bir bodrum katında",
+          "Bir orman kulübesinde",
+          "Babası Otto Frank'ın işyerinin gizli ek binasında",
+          "Bir kilisenin mahzeninde"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Anne ve ailesi, babası Otto Frank'ın Amsterdam'daki işyerinin arkasında bulunan ve 'Gizli Ek Bina' (Achterhuis) olarak bilinen yerde saklanmışlardır."
+      },
+      {
+        "id": 5,
+        "text": "Anne Frank ve ailesi gizli ek binada yaklaşık ne kadar süre saklanmıştır?",
+        "options": [
+          "6 ay",
+          "1 yıl",
+          "25 ay",
+          "3 yıl"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Anne Frank ve ailesi, 6 Temmuz 1942'den 4 Ağustos 1944'e kadar, yani yaklaşık 25 ay boyunca Gizli Ek Bina'da saklanmışlardır."
+      },
+      {
+        "id": 6,
+        "text": "Gizli Ek Bina'da Anne Frank ve ailesiyle birlikte toplam kaç kişi saklanmıştır?",
+        "options": [
+          "4",
+          "6",
+          "8",
+          "10"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Anne Frank, ailesi (anne, baba, abla) ve diğer dört Yahudi (van Pels ailesi ve Fritz Pfeffer) ile birlikte toplam sekiz kişi Gizli Ek Bina'da saklanmıştır."
+      },
+      {
+        "id": 7,
+        "text": "Anne Frank'ın ailesinden II. Dünya Savaşı'ndan sağ çıkan tek kişi kimdir?",
+        "options": [
+          "Edith Frank (annesi)",
+          "Margot Frank (ablası)",
+          "Otto Frank (babası)",
+          "Peter van Pels"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Anne'ın babası Otto Frank, Auschwitz'den kurtulan ve savaş sonrası Amsterdam'a dönen aileden tek kişiydi."
+      },
+      {
+        "id": 8,
+        "text": "Anne Frank'ın günlüğünü bulan ve savaştan sonra babasına teslim eden kişi kimdir?",
+        "options": [
+          "Edith Frank",
+          "Margot Frank",
+          "Miep Gies",
+          "Victor Kugler"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Aileye saklandıkları süre boyunca yardım eden Miep Gies, Gizli Ek Bina'nın Naziler tarafından basılmasından sonra günlüğü bulmuş ve savaştan sonra Otto Frank'a teslim etmiştir."
+      },
+      {
+        "id": 9,
+        "text": "Anne Frank'ın günlüğü ilk kez hangi yılda yayımlanmıştır?",
+        "options": [
+          "1945",
+          "1947",
+          "1950",
+          "1952"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Anne Frank'ın günlüğü, babası Otto Frank'ın çabalarıyla ilk kez 1947 yılında Hollandaca olarak 'Het Achterhuis' adıyla yayımlanmıştır."
+      },
+      {
+        "id": 10,
+        "text": "Anne Frank ve ablası Margot, hangi toplama kampında hayatlarını kaybetmişlerdir?",
+        "options": [
+          "Auschwitz",
+          "Dachau",
+          "Bergen-Belsen",
+          "Treblinka"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Anne ve Margot, 1945'in başlarında Bergen-Belsen toplama kampında tifüs salgını nedeniyle hayatlarını kaybetmişlerdir."
+      },
+      {
+        "id": 11,
+        "text": "Anne Frank ve ailesinin Almanya'dan Hollanda'ya göç etmelerinin temel nedeni nedir?",
+        "options": [
+          "Daha iyi iş imkanları arayışı",
+          "Nazilerin Yahudiler üzerindeki artan baskısı",
+          "Eğitim olanaklarının daha iyi olması",
+          "Ailesel bir anlaşmazlık"
+        ],
+        "correctAnswer": 1,
+        "explanation": "1930'larda Almanya'da Nazilerin iktidara gelmesiyle Yahudilere yönelik baskı ve zulüm artınca, Frank ailesi güvenli bir liman arayışıyla Hollanda'ya göç etmiştir."
+      },
+      {
+        "id": 12,
+        "text": "Anne Frank'ın günlüğünün orijinal Hollandaca adı nedir?",
+        "options": [
+          "Het Achterhuis",
+          "Het Dagboek van Anne Frank",
+          "De Geheime Kamer",
+          "Mijn Leven in het Achterhuis"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Günlüğün orijinal Hollandaca adı 'Het Achterhuis' (Gizli Ek Bina) idi ve bu isimle ilk kez yayımlandı. İngilizce'ye 'The Diary of a Young Girl' olarak çevrilmiştir."
+      },
+      {
+        "id": 13,
+        "text": "Anne Frank ve ablası Margot'un Bergen-Belsen kampında ölümüne neden olan başlıca hastalık nedir?",
+        "options": [
+          "Kolera",
+          "Tifüs",
+          "Verem",
+          "Pnömoni"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Anne Frank ve ablası Margot, 1945 yılının başlarında Bergen-Belsen toplama kampında yayılan tifüs salgınına yakalanarak hayatlarını kaybetmişlerdir."
+      },
+      {
+        "id": 14,
+        "text": "Gizli Ek Bina'da saklananlara dışarıdan yiyecek ve haber sağlayan cesur Hollandalı yardımcılarından biri kimdir?",
+        "options": [
+          "Hermann van Pels",
+          "Fritz Pfeffer",
+          "Miep Gies",
+          "Auguste van Pels"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Miep Gies, aileye saklandıkları süre boyunca dış dünyadan yiyecek, gazete ve haber getirerek büyük destek sağlamıştır."
+      },
+      {
+        "id": 15,
+        "text": "Anne Frank'ın günlüğünün dünya çapında bu kadar etkili olmasının temel nedenlerinden biri nedir?",
+        "options": [
+          "Bir macera romanı olması",
+          "Sadece Hollanda tarihine odaklanması",
+          "Holokost'un kişisel bir tanıklığını sunması ve insan ruhunun direncini göstermesi",
+          "Gizemli bir hazine haritası içermesi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Günlük, Holokost'un dehşetini genç bir kızın kişisel gözünden anlatarak, insan ruhunun direncini, umudu ve yaşama tutunma arzusunu evrensel bir dille aktardığı için dünya çapında büyük bir etki yaratmıştır."
+      }
+    ]
   }
 ];
