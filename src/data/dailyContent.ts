@@ -20290,5 +20290,211 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Savaşta alınan başarısızlıklar, İtalyan Faşist rejiminin askeri ve ekonomik zayıflıklarını gözler önüne sermiş ve Mussolini'nin devrilmesiyle rejimin sonunu getirmiştir."
       }
     ]
+  },
+  {
+    "slug": "hukukun-ustunlugunun-ilk-adimi-magna-carta-ve-tarihi-mirasi",
+    "dateId": "2026-06-11",
+    "title": "Magna Carta Nedir? Tarihi Önemi ve Modern Hukuka Etkisi | GenelKultur",
+    "description": "15 Haziran 1215'te Kral John tarafından mühürlenen Magna Carta, bireysel hakların ve hukukun üstünlüğünün temelini atan tarihi bir belgedir. Modern demokrasilere etkisini keşfedin.",
+    "keywords": [
+      "Magna Carta",
+      "Kral John",
+      "Runnymede",
+      "1215",
+      "İngiliz hukuku",
+      "anayasa",
+      "insan hakları",
+      "hukukun üstünlüğü",
+      "baronlar",
+      "feodalizm",
+      "ortaçağ",
+      "demokrasi"
+    ],
+    "heading": "Hukukun Üstünlüğünün İlk Adımı: Magna Carta ve Tarihi Mirası",
+    "intro": "800 yılı aşkın bir süredir insan hakları, hukukun üstünlüğü ve anayasal yönetim ilkelerinin en temel dayanaklarından biri olarak kabul edilen Magna Carta, sadece İngiliz tarihi için değil, tüm dünya için eşsiz bir dönüm noktasıdır. 15 Haziran 1215'te, İngiltere Kralı John'un asi baronların baskısı altında imzaladığı bu belge, kralların mutlak gücünün sınırlandırılabileceğini gösteren ilk somut adımlardan biriydi. Peki, bu kağıt parçası, nasıl oldu da çağlar boyunca sürecek bir değişim rüzgarının ilk esintisi haline geldi?",
+    "article": "Ortaçağ İngiltere'sinde Kral John, dış politikadaki başarısızlıkları, Fransa ile yapılan savaşlardaki kayıpları ve ağır vergilerle halkını ve özellikle de güçlü baronlarını bezdirmişti. Baronlar, kralın feodal haklarını keyfi olarak kullanmasına, adaletsiz uygulamalarına ve kiliseye müdahalesine karşı giderek artan bir hoşnutsuzluk içindeydiler. Bu gerilim, sonunda açık bir isyana dönüştü. Kralın yönetim biçiminden bıkan bir grup baron, bir araya gelerek taleplerini içeren bir liste hazırladılar. Bu talepler, kralın yetkilerini sınırlamayı ve feodal hakları güvence altına almayı amaçlıyordu. Kral John, ordusu zayıf ve baronların desteğini kaybetmiş bir durumdayken, Thames Nehri kıyısındaki Runnymede çayırlarında baronlarla müzakere etmek zorunda kaldı. 15 Haziran 1215'te, dirençle de olsa, Baronların Maddeleri olarak bilinen belgeyi, sonradan \"Magna Carta\" (Büyük Sözleşme) adını alacak olan metni mühürledi.\n\nMagna Carta'nın en önemli maddeleri arasında, kralın vergi toplama yetkisinin baronların \"ortak rızasına\" bağlanması, keyfi tutuklamaların yasaklanması ve \"kanunlar çerçevesinde yargılanma\" hakkı yer alıyordu. Özellikle 39. ve 40. maddeler, modern hukukun temel taşlarından biri olan adil yargılanma ve hukukun üstünlüğü ilkelerinin ilk emarelerini içeriyordu: \"Hiçbir özgür kişi, kendi akranlarının yasal yargısı ya da ülkenin kanunu ile olmadıkça tutuklanamaz, hapsedilemez, malından mülkünden mahrum edilemez, kanun dışı ilan edilemez, sürgün edilemez veya herhangi bir şekilde yok edilemez.\" ve \"Hiç kimseye hakkı veya adaleti satmayacağız, inkar etmeyeceğiz veya geciktirmeyeceğiz.\" Bu maddeler, bireyin devlete karşı belirli haklara sahip olduğu fikrini ortaya koyarak, o dönemin mutlakiyetçi yönetim anlayışına meydan okuyordu.\n\nBaşlangıçta Kral John, belgeyi çiğneme niyetindeydi ve kısa süre sonra Papa III. Innocent tarafından da geçersiz ilan edildi. Ancak Magna Carta'nın içerdiği ilkeler, sonraki nesiller boyunca İngiliz hukukunun ve anayasal gelişiminin temelini oluşturdu. İngiliz İç Savaşı, Şanlı Devrim ve Amerikan Bağımsızlık Bildirgesi gibi birçok tarihi olaya ilham kaynağı oldu. Bugün Birleşik Krallık'ta hala yürürlükte olan birkaç maddesi bulunan Magna Carta, sadece feodal hakların bir güvencesi olmakla kalmamış, aynı zamanda sınırlı hükümet, hukukun üstünlüğü ve bireysel özgürlükler gibi modern demokratik değerlerin köklerinin atıldığı bir sembol haline gelmiştir. Bu belge, dünya çapında birçok anayasaya ve insan hakları bildirgesine ilham vermiş, iktidarın keyfi kullanımına karşı bir uyarı işareti olarak tarihteki yerini almıştır.",
+    "category": "tarih",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Magna Carta hangi tarihte mühürlenmiştir?",
+        "options": [
+          "10 Haziran 1215",
+          "15 Haziran 1215",
+          "20 Temmuz 1215",
+          "5 Mayıs 1215"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Magna Carta, İngiltere Kralı John tarafından 15 Haziran 1215 tarihinde Runnymede'de mühürlenmiştir."
+      },
+      {
+        "id": 2,
+        "text": "Magna Carta'yı mühürleyen İngiltere Kralı kimdir?",
+        "options": [
+          "Kral Richard Aslan Yürekli",
+          "Kral Henry III",
+          "Kral Edward I",
+          "Kral John"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Magna Carta, o dönemde İngiltere'yi yöneten ve baronların baskısıyla karşılaşan Kral John tarafından mühürlenmiştir."
+      },
+      {
+        "id": 3,
+        "text": "Magna Carta'nın imzalanmasında etkili olan temel sebep nedir?",
+        "options": [
+          "Kralın dini reformlar yapma isteği",
+          "Kralın dış savaşlardaki başarıları",
+          "Kralın artan gücü ve keyfi uygulamaları",
+          "İskoçya ile yapılan barış antlaşması"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kral John'un başarısız savaşları, ağır vergileri ve keyfi yönetim anlayışı, baronların isyanına ve Magna Carta'nın ortaya çıkışına yol açmıştır."
+      },
+      {
+        "id": 4,
+        "text": "Magna Carta hangi nehir kıyısındaki Runnymede çayırlarında mühürlenmiştir?",
+        "options": [
+          "Severn Nehri",
+          "Mersey Nehri",
+          "Thames Nehri",
+          "Trent Nehri"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Magna Carta, Londra yakınlarındaki Thames Nehri kıyısındaki Runnymede çayırlarında kral ve baronlar arasında yapılan müzakereler sonucunda mühürlenmiştir."
+      },
+      {
+        "id": 5,
+        "text": "Magna Carta'nın en bilinen ve modern hukuka etki eden maddelerinden biri hangi hakla ilgilidir?",
+        "options": [
+          "Sadece soyluların vergi ödemesi",
+          "Kralın mutlak kilise yetkisi",
+          "Adil yargılanma ve hukukun üstünlüğü",
+          "Kralın ordusunu istediği gibi kullanması"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Magna Carta'nın 39. ve 40. maddeleri, keyfi tutuklamayı yasaklayarak ve kimseye adaleti satmama, inkar etmeme veya geciktirmeme ilkesini getirerek adil yargılanma ve hukukun üstünlüğü kavramlarının temellerini atmıştır."
+      },
+      {
+        "id": 6,
+        "text": "Magna Carta'yı geçersiz ilan eden Papa kimdir?",
+        "options": [
+          "Papa Gregory IX",
+          "Papa Boniface VIII",
+          "Papa III. Innocent",
+          "Papa Leo X"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kral John, belgeyi mühürledikten kısa bir süre sonra Papa III. Innocent'ten belgeyi geçersiz ilan etmesini istemiş ve Papa da bu talebi kabul etmiştir."
+      },
+      {
+        "id": 7,
+        "text": "Magna Carta'nın orijinal adı neydi?",
+        "options": [
+          "Kraliyet Fermanı",
+          "Baronların Maddeleri",
+          "Özgürlükler Sözleşmesi",
+          "İngiliz Anayasası"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Belge başlangıçta \"Baronların Maddeleri\" olarak adlandırılmış, daha sonra \"Magna Carta\" yani \"Büyük Sözleşme\" ismini almıştır."
+      },
+      {
+        "id": 8,
+        "text": "Magna Carta'nın İngiliz İç Savaşı üzerindeki etkisi nedir?",
+        "options": [
+          "İç savaşı başlatan doğrudan sebep olmuştur.",
+          "Kralın mutlakiyetçi yetkilerini desteklemiştir.",
+          "Parlamentonun hak iddialarına ilham vermiştir.",
+          "İç savaşta hiçbir rol oynamamıştır."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Magna Carta'nın getirdiği sınırlı hükümet ve parlamentonun yetkileri kavramları, İngiliz İç Savaşı sırasında parlamentonun krala karşı duruşunda önemli bir dayanak noktası olmuştur."
+      },
+      {
+        "id": 9,
+        "text": "Günümüzde Birleşik Krallık'ta Magna Carta'nın kaç maddesi hala yürürlüktedir?",
+        "options": [
+          "Hiçbiri",
+          "Birkaçı",
+          "Çoğunluğu",
+          "Tümü"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Magna Carta'nın orijinal 63 maddesinin çoğu zamanla yürürlükten kalkmış olsa da, bireyin özgürlüğünü ve hukukun üstünlüğünü garanti eden birkaç temel maddesi sembolik olarak ve hukuki referans olarak hala geçerlidir veya İngiliz yasalarının temelini oluşturur. Genellikle \"birkaçı\" şeklinde ifade edilir."
+      },
+      {
+        "id": 10,
+        "text": "Magna Carta, hangi yönetim biçimine karşı bir sınırlama getirmiştir?",
+        "options": [
+          "Oligarşi",
+          "Teokrasi",
+          "Mutlak Monarşi",
+          "Cumhuriyet"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Magna Carta, kralın keyfi ve sınırsız yetkilerine, yani mutlak monarşiye karşı, kralın gücünü sınırlayan ve hukukun üstünlüğünü vurgulayan bir belge olmuştur."
+      },
+      {
+        "id": 11,
+        "text": "Magna Carta'nın modern demokrasiler için en önemli mirası nedir?",
+        "options": [
+          "Soyluların ayrıcalıklarını pekiştirmesi",
+          "Feodal sistemin devamlılığını sağlaması",
+          "Sınırlı hükümet ve bireysel haklar ilkesi",
+          "Kralın dini otoritesini artırması"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Magna Carta, kralların veya hükümetlerin gücünün sınırlı olduğu ve bireylerin devlete karşı belirli haklara sahip olduğu \"sınırlı hükümet\" ve \"bireysel haklar\" ilkelerinin temellerini atmıştır."
+      },
+      {
+        "id": 12,
+        "text": "Magna Carta'nın mühürlenmesinin ardından Kral John'un belgeye karşı ilk tepkisi ne olmuştur?",
+        "options": [
+          "Hemen uygulamaya koymuştur.",
+          "Belgeyi kendi lehine değiştirmiştir.",
+          "Papa'dan belgeyi geçersiz kılmasını istemiştir.",
+          "Baronlara teşekkür etmiştir."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kral John, belgeyi mühürledikten kısa süre sonra, Papa III. Innocent'tan belgeyi geçersiz ilan etmesini istemiş ve belgeyi uygulamaktan kaçınmaya çalışmıştır."
+      },
+      {
+        "id": 13,
+        "text": "Magna Carta'dan ilham alan ve dünya tarihindeki önemli belgelerden biri aşağıdakilerden hangisidir?",
+        "options": [
+          "Fransız İnsan ve Yurttaş Hakları Bildirgesi",
+          "Amerikan Bağımsızlık Bildirgesi",
+          "Birleşmiş Milletler Kuruluş Antlaşması",
+          "Kyoto Protokolü"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Amerikan Bağımsızlık Bildirgesi ve ABD Anayasası da dahil olmak üzere birçok modern anayasa ve insan hakları belgesi, Magna Carta'nın getirdiği hukukun üstünlüğü ve bireysel özgürlükler ilkelerinden ilham almıştır."
+      },
+      {
+        "id": 14,
+        "text": "Magna Carta'nın temel amacı neydi?",
+        "options": [
+          "İngiltere'yi yabancı istilacılardan korumak",
+          "Kralın gücünü tamamen ortadan kaldırmak",
+          "Kral ile baronlar arasındaki yetki mücadelesini dengelemek",
+          "İngiliz Kilisesi'ni Roma'dan ayırmak"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Belge, kralın keyfi yetkilerini sınırlayarak, baronların (ve daha geniş anlamda \"özgür kişilerin\") haklarını güvence altına alarak, kral ile soylular arasındaki güç dengesini yeniden kurmayı amaçlamıştır."
+      },
+      {
+        "id": 15,
+        "text": "\"Hiçbir özgür kişi, kendi akranlarının yasal yargısı ya da ülkenin kanunu ile olmadıkça tutuklanamaz...\" ifadesi Magna Carta'nın hangi ilkesini özetler?",
+        "options": [
+          "Mülkiyet hakkı",
+          "Vergi toplama yetkisi",
+          "Due process (adil yargılama) ilkesi",
+          "Sözleşme özgürlüğü"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bu ifade, modern hukukta \"due process\" (adil yargılama) olarak bilinen ilkenin, yani kişilerin hukuka uygun bir süreç olmadan keyfi olarak cezalandırılamayacağı fikrinin Magna Carta'daki ilk ve en önemli ifadelerinden biridir."
+      }
+    ]
   }
 ];

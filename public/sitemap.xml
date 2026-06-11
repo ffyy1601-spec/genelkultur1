@@ -1100,4 +1100,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/hukukun-ustunlugunun-ilk-adimi-magna-carta-ve-tarihi-mirasi</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/hukukun-ustunlugunun-ilk-adimi-magna-carta-ve-tarihi-mirasi/oyna</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
