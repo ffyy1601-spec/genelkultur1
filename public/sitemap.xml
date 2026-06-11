@@ -1120,4 +1120,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/insanligin-uzaya-adanmis-ilk-fisiltisi-pioneer-10-ve-gunes-sisteminin-sinirlari</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/insanligin-uzaya-adanmis-ilk-fisiltisi-pioneer-10-ve-gunes-sisteminin-sinirlari/oyna</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>

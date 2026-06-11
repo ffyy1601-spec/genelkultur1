@@ -20699,5 +20699,209 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Anlaşma, serbest dolaşımı sağlarken, aynı zamanda dış sınırlar için ortak kontrol politikaları geliştirmeyi ve güvenlik risklerini en aza indirmek için iş birliğini güçlendirmeyi amaçlamıştır."
       }
     ]
+  },
+  {
+    "slug": "insanligin-uzaya-adanmis-ilk-fisiltisi-pioneer-10-ve-gunes-sisteminin-sinirlari",
+    "dateId": "2026-06-11",
+    "title": "Pioneer 10: Güneş Sistemi'nden Ayrılan İlk İnsan Yapımı Cisim | Uzay Keşifleri",
+    "description": "Pioneer 10 uzay aracının 13 Haziran 1983'te Neptün'ün yörüngesini geçerek Güneş Sistemi'nden ayrılan ilk insan yapımı cisim oluşu ve uzay keşiflerine katkıları.",
+    "keywords": [
+      "Pioneer 10",
+      "Güneş Sistemi",
+      "uzay keşfi",
+      "Neptün yörüngesi",
+      "NASA",
+      "uzay aracı",
+      "derin uzay",
+      "altın plak",
+      "Jüpiter",
+      "uzay yolculuğu"
+    ],
+    "heading": "İnsanlığın Uzaya Adanmış İlk Fısıltısı: Pioneer 10 ve Güneş Sistemi'nin Sınırları",
+    "intro": "13 Haziran 1983 tarihi, insanlığın uzay keşfi tarihinde dönüm noktalarından birine işaret eder. NASA'nın ikonik uzay aracı Pioneer 10, bu tarihte Neptün gezegeninin yörüngesini geçerek Güneş Sistemi'nin bilinen sınırlarını aşan ve yıldızlararası boşluğa doğru yolculuğa çıkan ilk insan yapımı cisim unvanını kazandı. Bu olay, sadece bir mühendislik başarısı olmakla kalmayıp, aynı zamanda evrendeki yerimiz ve potansiyel geleceğimiz hakkında derin düşüncelere yol açan bir dönüm noktasıydı.",
+    "article": "Pioneer 10, NASA tarafından 3 Mart 1972 tarihinde fırlatılan, Güneş Sistemi'nin dış gezegenlerini incelemek üzere tasarlanmış bir uzay sondasıydı. Temel görevi, Jüpiter'i ziyaret eden ilk uzay aracı olmak ve bu dev gezegenin manyetik alanı, radyasyon kuşakları ve atmosferi hakkında veri toplamaktı. Jüpiter'e ulaşmadan önce, bilinen en hızlı insan yapımı cisim olarak hız rekorunu kırmış ve Mars ile Jüpiter arasındaki asteroit kuşağını güvenli bir şekilde geçmişti. 4 Aralık 1973'te Jüpiter'e en yakın geçişini yaparak gezegenin ve uydularının detaylı fotoğraflarını çekmiş, bilim dünyasına çığır açan bilgiler sunmuştu.\n\nJüpiter görevinin tamamlanmasının ardından Pioneer 10, Güneş Sistemi'nin dışına doğru yolculuğuna devam etti. İnsanlığın, olası dünya dışı yaşam formlarıyla temasa geçme umuduyla, üzerinde insan figürleri ve Güneş Sistemi'nin konumunu gösteren bir altın plak taşıyordu. Bu plak, uzayda karşılaşılması muhtemel herhangi bir zeki varlığa, bizim kim olduğumuz ve nereden geldiğimiz hakkında bilgi verme amacı taşıyordu. Aracın ömrü, beklenenden çok daha uzun sürdü ve bilim insanlarına Güneş rüzgarları, kozmik ışınları ve Güneş Sistemi'nin dış bölgelerindeki koşullar hakkında eşsiz veriler sağladı.\n\n13 Haziran 1983'te, Pioneer 10, Güneş'ten yaklaşık 4.6 milyar kilometre uzakta, Neptün'ün yörüngesini aşarak Güneş Sistemi'nden resmi olarak ayrıldı. Bu, insanlık tarihinde bir ilk ve bilim kurgu filmlerini aratmayan bir başarıydı. Uzay aracıyla son temas 23 Ocak 2003 tarihinde, Güneş'ten yaklaşık 12 milyar kilometre uzaklıktan alındı. O zamandan beri, Pioneer 10, Boğa takımyıldızı yönünde yolculuğuna devam ediyor ve yaklaşık 2 milyon yıl sonra Aldebaran yıldızına ulaşması bekleniyor. Pioneer 10, hem teknolojik bir mucize hem de insanlığın merakının ve keşfetme arzusunun sonsuzluğunun bir sembolü olarak tarihteki yerini almıştır.",
+    "category": "bilim",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Pioneer 10 uzay aracı hangi tarihte fırlatılmıştır?",
+        "options": [
+          "3 Mart 1972",
+          "13 Haziran 1983",
+          "4 Aralık 1973",
+          "23 Ocak 2003"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Pioneer 10, 3 Mart 1972 tarihinde NASA tarafından uzaya fırlatılmıştır. Diğer tarihler aracın göreviyle ilgili farklı önemli anları işaret eder."
+      },
+      {
+        "id": 2,
+        "text": "Pioneer 10'un Güneş Sistemi'nden ayrıldığı tarih nedir?",
+        "options": [
+          "3 Mart 1972",
+          "13 Haziran 1983",
+          "4 Aralık 1973",
+          "23 Ocak 2003"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Pioneer 10, 13 Haziran 1983 tarihinde Neptün yörüngesini geçerek Güneş Sistemi'nden ayrılan ilk insan yapımı cisim olmuştur."
+      },
+      {
+        "id": 3,
+        "text": "Pioneer 10'un başlıca görevi hangi gezegeni incelemekti?",
+        "options": [
+          "Mars",
+          "Satürn",
+          "Jüpiter",
+          "Neptün"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Pioneer 10'un temel görevi, Jüpiter'i ziyaret eden ilk uzay aracı olarak bu dev gezegen hakkında veri toplamaktı."
+      },
+      {
+        "id": 4,
+        "text": "Pioneer 10, Jüpiter'e en yakın geçişini hangi tarihte yapmıştır?",
+        "options": [
+          "3 Mart 1972",
+          "13 Haziran 1983",
+          "4 Aralık 1973",
+          "23 Ocak 2003"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Pioneer 10, Jüpiter'e en yakın geçişini 4 Aralık 1973 tarihinde gerçekleştirmiş ve önemli veriler sağlamıştır."
+      },
+      {
+        "id": 5,
+        "text": "Pioneer 10 uzay aracı hangi asteroit kuşağını geçmiştir?",
+        "options": [
+          "Kuiper Kuşağı",
+          "Oort Bulutu",
+          "Mars ve Jüpiter Arası Asteroit Kuşağı",
+          "Satürn Halkaları"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Pioneer 10, Mars ile Jüpiter arasındaki asteroit kuşağını güvenli bir şekilde geçerek bu bölge hakkında değerli bilgiler sunmuştur."
+      },
+      {
+        "id": 6,
+        "text": "Pioneer 10, olası dünya dışı yaşam formlarıyla temasa geçme umuduyla üzerinde ne taşıyordu?",
+        "options": [
+          "Bir fotoğraf albümü",
+          "Bir altın plak",
+          "Bir uzay haritası",
+          "Bir radyo mesajı"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Pioneer 10, üzerinde insan figürleri ve Güneş Sistemi'nin konumunu gösteren bir altın plak taşıyarak, olası dünya dışı zeki yaşam formlarına insanlık hakkında bilgi vermeyi amaçlamıştır."
+      },
+      {
+        "id": 7,
+        "text": "Pioneer 10 ile Dünya arasındaki son temas hangi tarihte gerçekleşmiştir?",
+        "options": [
+          "13 Haziran 1983",
+          "4 Aralık 1973",
+          "3 Mart 1972",
+          "23 Ocak 2003"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Pioneer 10 ile Dünya arasındaki son başarılı temas 23 Ocak 2003 tarihinde gerçekleşmiştir."
+      },
+      {
+        "id": 8,
+        "text": "Güneş Sistemi'nden ayrıldığı sırada Pioneer 10, hangi gezegenin yörüngesini geçmişti?",
+        "options": [
+          "Jüpiter",
+          "Satürn",
+          "Uranüs",
+          "Neptün"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Pioneer 10, 13 Haziran 1983'te Neptün'ün yörüngesini geçerek Güneş Sistemi'nin bilinen sınırlarını aşmıştır."
+      },
+      {
+        "id": 9,
+        "text": "Pioneer 10'un yaklaşık olarak 2 milyon yıl sonra ulaşması beklenen yıldızın adı nedir?",
+        "options": [
+          "Sirius",
+          "Proxima Centauri",
+          "Aldebaran",
+          "Betelgeuse"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Makaleye göre, Pioneer 10'un yaklaşık 2 milyon yıl sonra Boğa takımyıldızındaki Aldebaran yıldızına ulaşması beklenmektedir."
+      },
+      {
+        "id": 10,
+        "text": "Pioneer 10'un ana görevinin bir parçası olarak Jüpiter'den topladığı bilgiler arasında hangisi bulunmaz?",
+        "options": [
+          "Manyetik alanı",
+          "Radyasyon kuşakları",
+          "Atmosferik bileşimi",
+          "Yüzeydeki okyanusların derinliği"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Jüpiter bir gaz devi olduğu için yüzeyinde okyanuslar bulunmaz. Pioneer 10, Jüpiter'in manyetik alanı, radyasyon kuşakları ve atmosferi hakkında veriler toplamıştır."
+      },
+      {
+        "id": 11,
+        "text": "Pioneer 10'un fırlatıldığı uzay ajansı hangisidir?",
+        "options": [
+          "ESA",
+          "Roscosmos",
+          "NASA",
+          "JAXA"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Pioneer 10, Amerikan Ulusal Havacılık ve Uzay Dairesi (NASA) tarafından fırlatılmıştır."
+      },
+      {
+        "id": 12,
+        "text": "Pioneer 10, hangi özelliğiyle Jüpiter'e ulaşmadan önce hız rekoru kırmıştır?",
+        "options": [
+          "En yavaş insan yapımı cisim olması",
+          "Bilinen en hızlı insan yapımı cisim olması",
+          "Işık hızına en yakın cisim olması",
+          "En yavaş hareket eden uzay aracı olması"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Pioneer 10, Jüpiter'e ulaşmadan önce bilinen en hızlı insan yapımı cisim olarak hız rekoru kırmıştır."
+      },
+      {
+        "id": 13,
+        "text": "Pioneer 10, Güneş Sistemi'nin dışına doğru yolculuğunda bilim insanlarına hangi konularda eşsiz veriler sağlamıştır?",
+        "options": [
+          "Dünya'nın atmosferi ve iklimi",
+          "Ay'ın jeolojik yapısı",
+          "Güneş rüzgarları, kozmik ışınlar ve Güneş Sistemi dışındaki koşullar",
+          "Merkür'ün çekirdek yapısı"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Aracın uzun ömrü boyunca, Pioneer 10 bilim insanlarına Güneş rüzgarları, kozmik ışınlar ve Güneş Sistemi'nin dış bölgelerindeki koşullar hakkında eşsiz veriler sağlamıştır."
+      },
+      {
+        "id": 14,
+        "text": "Pioneer 10'un taşıdığı altın plak üzerinde insan figürlerinin yanı sıra neyin konumu da gösteriliyordu?",
+        "options": [
+          "Dünya'daki önemli şehirler",
+          "Uzaydaki diğer galaksiler",
+          "Güneş Sistemi'nin konumu",
+          "Ay'daki iniş yerleri"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Altın plak, insan figürlerinin yanı sıra, potansiyel dünya dışı zeki varlıklara Dünya'nın ve Güneş Sistemi'nin evrendeki konumunu göstermek amacıyla tasarlanmıştır."
+      },
+      {
+        "id": 15,
+        "text": "Pioneer 10'un görevi nasıl bir sembol olarak kabul edilmektedir?",
+        "options": [
+          "Teknolojik bir başarısızlık",
+          "İnsanlığın merakının ve keşfetme arzusunun sonsuzluğunun sembolü",
+          "Uzay yarışının sonu",
+          "Dünya dışı yaşamın kesin kanıtı"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Pioneer 10, hem teknolojik bir mucize hem de insanlığın merakının ve keşfetme arzusunun sonsuzluğunun bir sembolü olarak tarihteki yerini almıştır."
+      }
+    ]
   }
 ];
