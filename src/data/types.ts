@@ -5,4 +5,4 @@ export interface Question {
   correctAnswer: number;
 }
 
-export type CategoryType = "genel" | "tarih" | "bilim" | "sanat";
+export type CategoryType = "genel" | "tarih" | "bilim" | "sanat" | "kpss";

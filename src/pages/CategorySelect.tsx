@@ -1,3 +1,4 @@
+import { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import PageLayout from "../components/PageLayout";
 import Seo from "../components/Seo";
@@ -46,9 +47,36 @@ const categories = [
     image:
       "https://lh3.googleusercontent.com/aida-public/AB6AXuB6zIb4wHbnaHoxtskMpZwH48RTw8Afvy7Cmt3C09NeoVBc6uwIOG468gt8QZSmUlmzSQyOx8wubUuAE8d2wc79KDI_5pjNg78NVF-IntEWTkPfJn0N_Uvqgw2XmgdHvfYdBjm7IiF_cIvYSDhjn43pPJdkfNPf9-jM44vdimJjMMMGlm6_ARYA3hiWPlJ35tQOkwD1vp_BPfqllW_ktBmt7_c2w42hbCsOFCu0jKNyOM85XLvMd8LGE_NgR5TDDK7C93wve4MPWuFB",
   },
+  {
+    title: "KPSS Tarih",
+    text: "KPSS sinav müfredatına özel hazirlanmis 10 ana konu basligi ve zengin soru havuzu.",
+    icon: "history",
+    href: ROUTES.kpssList,
+    image: "/images/anasayfa.webp",
+  },
 ];
 
 export default function CategorySelect() {
+  const kpssImages = [
+    "/images/islamiyet-oncesi-turk-tarihi.webp",
+    "/images/ilk-turk-islam-devletleri.webp",
+    "/images/osmanli-siyasi-tarihi.webp",
+    "/images/osmanli-kultur-medeniyeti.webp",
+    "/images/xx-yuzyilda-osmanli.webp",
+    "/images/kurtulus-savasi-hazirlik.webp",
+    "/images/kurtulus-savasi-muharebeler.webp",
+    "/images/ataturk-ilkel-ve-inkilaplari.webp",
+    "/images/ataturk-donemi-dis-politika.webp",
+    "/images/cagdas-turk-ve-dunya.webp",
+  ];
+
+  const [kpssImage, setKpssImage] = useState("/images/anasayfa.webp");
+
+  useEffect(() => {
+    const randomImg = kpssImages[Math.floor(Math.random() * kpssImages.length)];
+    setKpssImage(randomImg);
+  }, []);
+
   return (
     <PageLayout>
       <Seo
@@ -67,11 +95,11 @@ export default function CategorySelect() {
           </h1>
           <p className="mt-5 text-sm leading-7 text-on-surface-variant md:text-lg md:leading-8">
             Her kart kendi atmosferini tasir. Dilersen genel kulturle basla, dilersen tarih,
-            bilim ya da sanat alanina dogrudan gec.
+            bilim, sanat ya da KPSS tarih alanina dogrudan gec.
           </p>
         </section>
 
-        <div className="mt-10 grid grid-cols-1 gap-4 md:grid-cols-2 xl:grid-cols-4">
+        <div className="mt-10 grid grid-cols-1 gap-4 md:grid-cols-2 xl:grid-cols-3">
           {categories.map((item) => (
             <Link
               key={item.title}
@@ -80,7 +108,7 @@ export default function CategorySelect() {
             >
               <div
                 className="absolute inset-0 bg-cover bg-center transition-transform duration-700 group-hover:scale-110"
-                style={{ backgroundImage: `url(${item.image})` }}
+                style={{ backgroundImage: `url(${item.title === "KPSS Tarih" ? kpssImage : item.image})` }}
               ></div>
               <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(4,19,41,0.20),rgba(4,19,41,0.90))]"></div>
               <div className="absolute inset-0 bg-[radial-gradient(circle_at_top,rgba(242,202,80,0.16),transparent_38%)] opacity-80"></div>
@@ -118,6 +146,7 @@ export default function CategorySelect() {
               { label: "Tarih Sorulari", to: ROUTES.tarihSorulari },
               { label: "Bilim Sorulari", to: ROUTES.bilimSorulari },
               { label: "Sanat Sorulari", to: ROUTES.sanatSorulari },
+              { label: "KPSS Tarih Konulari", to: ROUTES.kpssList },
             ].map((item) => (
               <Link
                 key={item.to}

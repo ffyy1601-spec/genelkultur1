@@ -48,6 +48,7 @@ try {
     ROUTES.terms,
     // AI Otomasyon Rotaları
     ROUTES.dailyList,
+    ROUTES.kpssList,
   ];
 
   // Her yapay zeka testi ve oyun sayfası için rotaları ekle

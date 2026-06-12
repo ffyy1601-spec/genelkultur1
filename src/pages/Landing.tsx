@@ -88,10 +88,10 @@ export default function Landing() {
 
               <div className="mt-5 flex flex-wrap items-center gap-3 text-sm text-on-surface-variant">
                 <span className="rounded-full border border-primary/15 bg-surface-container-low/75 px-4 py-2 font-semibold text-on-surface">
-                  1000+ soru
+                  5000+ soru
                 </span>
                 <span className="rounded-full border border-white/10 bg-surface-container-low/75 px-4 py-2">
-                  4 kategori
+                  5 kategori
                 </span>
                 <span className="rounded-full border border-white/10 bg-surface-container-low/75 px-4 py-2">
                   15 soruluk hizli tur
@@ -162,11 +162,11 @@ export default function Landing() {
             <aside className="rounded-[2.2rem] border border-white/10 bg-[linear-gradient(180deg,rgba(255,255,255,0.10),rgba(255,255,255,0.04))] p-5 shadow-[0_34px_100px_rgba(0,0,0,0.30)] backdrop-blur-2xl md:p-6">
               <div className="grid grid-cols-3 gap-3">
                 <div className="rounded-2xl bg-surface-container-high/80 p-4 text-center">
-                  <div className="text-2xl font-black text-primary">4</div>
+                  <div className="text-2xl font-black text-primary">5</div>
                   <div className="mt-1 text-xs uppercase tracking-[0.18em] text-on-surface-variant">Kategori</div>
                 </div>
                 <div className="rounded-2xl bg-surface-container-high/80 p-4 text-center">
-                  <div className="text-2xl font-black text-primary">1000+</div>
+                  <div className="text-2xl font-black text-primary">5000+</div>
                   <div className="mt-1 text-xs uppercase tracking-[0.18em] text-on-surface-variant">Soru</div>
                 </div>
                 <div className="rounded-2xl bg-surface-container-high/80 p-4 text-center">

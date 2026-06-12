@@ -27,6 +27,7 @@ import Terms from "./pages/Terms";
 import DailyList from "./pages/DailyList";
 import DailyLanding from "./pages/DailyLanding";
 import DailyGame from "./pages/DailyGame";
+import KpssList from "./pages/KpssList";
 
 import { LEGACY_ROUTES, ROUTES } from "./lib/routes";
 import RouteEffects from "./components/RouteEffects";
@@ -78,6 +79,7 @@ export function AppContent({ includeRouteEffects = true }: AppContentProps) {
             <Route path={ROUTES.dailyList} element={<DailyList />} />
             <Route path={ROUTES.dailyLanding} element={<DailyLanding />} />
             <Route path={ROUTES.dailyGame} element={<DailyGame />} />
+            <Route path={ROUTES.kpssList} element={<KpssList />} />
 
             <Route path={LEGACY_ROUTES.categories} element={<Navigate replace to={ROUTES.categories} />} />
             <Route path={LEGACY_ROUTES.game} element={<Navigate replace to={ROUTES.game} />} />

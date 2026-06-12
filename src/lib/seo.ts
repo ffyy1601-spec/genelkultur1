@@ -11,6 +11,7 @@ export const CATEGORY_LABELS: Record<CategoryType, string> = {
   tarih: "Tarih",
   bilim: "Bilim",
   sanat: "Sanat",
+  kpss: "KPSS Tarih",
 };
 
 export const categoryQuestionCount = (category: CategoryType) => QUESTION_SETS[category].length;
@@ -20,7 +21,7 @@ export const buildCanonicalUrl = (path: string) => `${SITE_URL}${path === "/" ? 
 export const SITE_LINKS = [
   { label: "Ana Sayfa", to: ROUTES.home },
   { label: "Genel Kultur Testi", to: ROUTES.categories },
-  { label: "Sorular ve Cevaplar", to: ROUTES.contentHub },
+  { label: "KPSS Tarih", to: ROUTES.kpssList },
   { label: "AI Testleri", to: ROUTES.dailyList },
   { label: "Icerik Politikasi", to: ROUTES.contentPolicy },
   { label: "Hakkimizda", to: ROUTES.about },

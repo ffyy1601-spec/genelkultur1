@@ -1,7 +1,7 @@
 import { useMemo, useState } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
 import Seo from "../components/Seo";
-import { QUESTION_SETS } from "../data";
+import { QUESTION_SETS, KPSS_TOPIC_QUESTION_SETS, kpssTopics } from "../data";
 import heroImage from "../assets/hero.png";
 import type { CategoryType, Question } from "../data";
 import { ROUTES } from "../lib/routes";
@@ -19,11 +19,26 @@ export default function Game() {
   const location = useLocation();
   const searchParams = new URLSearchParams(location.search);
   const categoryParam = (searchParams.get("category") as CategoryType) || "genel";
+  const topicParam = searchParams.get("topic");
 
   const questions = useMemo(() => {
+    if (categoryParam === "kpss" && topicParam) {
+      const topicQuestions = KPSS_TOPIC_QUESTION_SETS[topicParam];
+      if (topicQuestions && topicQuestions.length > 0) {
+        return pickRandom(topicQuestions, Math.min(QUESTIONS_PER_ROUND, topicQuestions.length));
+      }
+    }
     const categoryQuestions = QUESTION_SETS[categoryParam] || QUESTION_SETS.genel;
     return pickRandom(categoryQuestions, Math.min(QUESTIONS_PER_ROUND, categoryQuestions.length));
-  }, [categoryParam]);
+  }, [categoryParam, topicParam]);
+
+  const topicTitle = useMemo(() => {
+    if (categoryParam === "kpss" && topicParam) {
+      const topicObj = kpssTopics.find((t) => t.slug === topicParam);
+      return topicObj ? `KPSS Tarih - ${topicObj.title}` : "KPSS Tarih";
+    }
+    return CATEGORY_LABELS[categoryParam] || "Genel Kultur";
+  }, [categoryParam, topicParam]);
 
   const [currentIdx, setCurrentIdx] = useState(0);
   const [score, setScore] = useState(0);
@@ -158,8 +173,8 @@ export default function Game() {
   return (
     <>
       <Seo
-        title={`${CATEGORY_LABELS[categoryParam] || "Genel Kultur"} Oyunu | GenelKultur.com.tr`}
-        description={`${CATEGORY_LABELS[categoryParam] || "Genel Kultur"} kategorisinde secilmis sorular seni bekliyor. Hemen oyuna katil ve skorunu gor.`}
+        title={`${topicTitle} Oyunu | GenelKultur.com.tr`}
+        description={`${topicTitle} kategorisinde secilmis sorular seni bekliyor. Hemen oyuna katil ve skorunu gor.`}
         path={ROUTES.game}
         noindex
       />
@@ -209,7 +224,7 @@ export default function Game() {
                     Soru {currentIdx + 1} / {questions.length}
                   </div>
                   <div className="mt-0.5 text-xs font-semibold text-on-surface-variant sm:mt-1 sm:text-base">
-                    {CATEGORY_LABELS[categoryParam]}
+                    {topicTitle}
                   </div>
                 </div>
               </div>

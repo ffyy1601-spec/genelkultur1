@@ -46,6 +46,17 @@ import { sanatBatch9 } from "./questions/sanat/batch9";
 import { sanatBatch10 } from "./questions/sanat/batch10";
 import { sanatBatch11 } from "./questions/sanat/batch11";
 
+import { kpssQuestions as islamiyetOncesi } from "./questions/kpss/islamiyetOncesi";
+import { kpssQuestions as ilkTurkIslam } from "./questions/kpss/ilkTurkIslam";
+import { kpssQuestions as osmanliSiyasi } from "./questions/kpss/osmanliSiyasi";
+import { kpssQuestions as osmanliKultur } from "./questions/kpss/osmanliKultur";
+import { kpssQuestions as xxYuzyilOsmanli } from "./questions/kpss/xxYuzyilOsmanli";
+import { kpssQuestions as kurtulusSavasiHazirlik } from "./questions/kpss/kurtulusSavasiHazirlik";
+import { kpssQuestions as kurtulusSavasiMuharebeler } from "./questions/kpss/kurtulusSavasiMuharebeler";
+import { kpssQuestions as ataturkIlkeInkilap } from "./questions/kpss/ataturkIlkeInkilap";
+import { kpssQuestions as ataturkDisPolitika } from "./questions/kpss/ataturkDisPolitika";
+import { kpssQuestions as cagdasTurkDunya } from "./questions/kpss/cagdasTurkDunya";
+
 const mojibakePattern = /[ÃÄÅÂÐ]/;
 
 const decodeMojibake = (value: string) => {
@@ -54,7 +65,7 @@ const decodeMojibake = (value: string) => {
   try {
     const bytes = Uint8Array.from([...value].map((char) => char.charCodeAt(0)));
     const decoded = new TextDecoder("utf-8", { fatal: false }).decode(bytes);
-    return decoded.includes("�") ? value : decoded;
+    return decoded.includes("") ? value : decoded;
   } catch {
     return value;
   }
@@ -66,11 +77,37 @@ const normalizeQuestion = (question: Question): Question => ({
   options: question.options.map(decodeMojibake),
 });
 
+export const KPSS_TOPIC_QUESTION_SETS: Record<string, Question[]> = {
+  "islamiyet-oncesi-turk-tarihi": islamiyetOncesi.map(normalizeQuestion),
+  "ilk-turk-islam-devletleri": ilkTurkIslam.map(normalizeQuestion),
+  "osmanli-siyasi-tarihi": osmanliSiyasi.map(normalizeQuestion),
+  "osmanli-kultur-ve-medeniyeti": osmanliKultur.map(normalizeQuestion),
+  "xx-yuzyilda-osmanli-devleti": xxYuzyilOsmanli.map(normalizeQuestion),
+  "kurtulus-savasi-hazirlik-donemi": kurtulusSavasiHazirlik.map(normalizeQuestion),
+  "kurtulus-savasi-muharebeler-donemi": kurtulusSavasiMuharebeler.map(normalizeQuestion),
+  "ataturk-ilke-ve-inkilaplari": ataturkIlkeInkilap.map(normalizeQuestion),
+  "ataturk-donemi-turk-dis-politikasi": ataturkDisPolitika.map(normalizeQuestion),
+  "cagdas-turk-ve-dunya-tarihi": cagdasTurkDunya.map(normalizeQuestion),
+};
+
 export const QUESTION_SETS: Record<CategoryType, Question[]> = {
   genel: [...genelBatch1, ...genelBatch2, ...genelBatch3, ...genelBatch4, ...genelBatch5, ...genelBatch6, ...genelBatch7, ...genelBatch8, ...genelBatch9, ...genelBatch10, ...genelBatch11, ...genelBatch12, ...genelBatch13, ...genelBatch14, ...genelBatch15].map(normalizeQuestion),
   tarih: [...tarihBatch1, ...tarihBatch2, ...tarihBatch3, ...tarihBatch4, ...tarihBatch5, ...tarihBatch6, ...tarihBatch7, ...tarihBatch8, ...tarihBatch9, ...tarihBatch10].map(normalizeQuestion),
   bilim: [...bilimBatch1, ...bilimBatch2, ...bilimBatch3, ...bilimBatch4, ...bilimBatch5, ...bilimBatch6, ...bilimBatch7, ...bilimBatch8, ...bilimBatch9, ...bilimBatch10].map(normalizeQuestion),
   sanat: [...sanatBatch1, ...sanatBatch2, ...sanatBatch3, ...sanatBatch4, ...sanatBatch5, ...sanatBatch6, ...sanatBatch7, ...sanatBatch8, ...sanatBatch9, ...sanatBatch10, ...sanatBatch11].map(normalizeQuestion),
+  kpss: [
+    ...islamiyetOncesi,
+    ...ilkTurkIslam,
+    ...osmanliSiyasi,
+    ...osmanliKultur,
+    ...xxYuzyilOsmanli,
+    ...kurtulusSavasiHazirlik,
+    ...kurtulusSavasiMuharebeler,
+    ...ataturkIlkeInkilap,
+    ...ataturkDisPolitika,
+    ...cagdasTurkDunya,
+  ].map(normalizeQuestion),
 };
 
 export type { CategoryType, Question } from "./types";
+export { kpssTopics } from "./kpssCatalog";
