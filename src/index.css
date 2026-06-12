@@ -98,6 +98,38 @@
     }
 }
 
+.animate-border-glow {
+    animation: border-glow 4s linear infinite;
+    transform-origin: center;
+    width: 250%;
+    height: 250%;
+    left: -75%;
+    top: -75%;
+}
+
+@keyframes border-glow {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.border-glow-overlay {
+    position: absolute;
+    inset: -1.5px;
+    border-radius: 1.85rem;
+    padding: 1.5px;
+    overflow: hidden;
+    pointer-events: none;
+    -webkit-mask: 
+       linear-gradient(#fff 0 0) content-box, 
+       linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+            mask-composite: exclude;
+}
+
 @layer base {
     .material-symbols-outlined {
         font-family: 'Material Symbols Outlined';

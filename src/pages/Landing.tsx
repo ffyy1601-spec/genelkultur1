@@ -98,32 +98,37 @@ export default function Landing() {
                 </span>
               </div>
 
-              <Link
-                to={ROUTES.categories}
-                className="group relative mt-6 flex w-full max-w-xl items-center justify-between overflow-hidden rounded-[1.7rem] border border-[#ffe7a8]/30 bg-[linear-gradient(135deg,rgba(242,202,80,0.18),rgba(255,220,120,0.42))] px-5 py-4 shadow-[0_22px_70px_rgba(242,202,80,0.18)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_30px_90px_rgba(242,202,80,0.24)] sm:px-6 sm:py-4"
-              >
-                <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_top_left,rgba(255,255,255,0.30),transparent_34%),linear-gradient(135deg,rgba(255,215,96,0.85),rgba(242,202,80,0.55)_45%,rgba(255,245,220,0.18)_100%)]"></div>
-                <div className="pointer-events-none absolute -left-8 top-1/2 h-20 w-20 -translate-y-1/2 rounded-full bg-white/30 blur-3xl transition-transform duration-500 group-hover:translate-x-3"></div>
-                <div className="pointer-events-none absolute bottom-[-30%] right-[-8%] h-24 w-32 rounded-full bg-[#0b1c35]/10 blur-2xl"></div>
+              <div className="group relative mt-6 w-full max-w-xl p-[2px] rounded-[1.8rem] overflow-hidden bg-transparent transition-all duration-300 hover:-translate-y-1 shadow-[0_22px_70px_rgba(242,202,80,0.22)] hover:shadow-[0_30px_90px_rgba(242,202,80,0.32)]">
+                {/* Rotating glow border - constantly spinning */}
+                <div className="absolute inset-0 animate-border-glow bg-[conic-gradient(from_0deg,#f2ca50_0%,#ef4444_25%,#f2ca50_50%,transparent_70%,transparent_100%)]"></div>
+                
+                <Link
+                  to={ROUTES.categories}
+                  className="relative z-10 flex w-full items-center justify-between overflow-hidden rounded-[1.7rem] bg-[linear-gradient(135deg,rgba(255,215,96,0.85),rgba(242,202,80,0.55)_45%,rgba(255,245,220,0.18)_100%)] px-5 py-4 transition-all duration-300 sm:px-6 sm:py-4"
+                >
+                  <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_top_left,rgba(255,255,255,0.30),transparent_34%)]"></div>
+                  <div className="pointer-events-none absolute -left-8 top-1/2 h-20 w-20 -translate-y-1/2 rounded-full bg-white/30 blur-3xl transition-transform duration-500 group-hover:translate-x-3"></div>
+                  <div className="pointer-events-none absolute bottom-[-30%] right-[-8%] h-24 w-32 rounded-full bg-[#0b1c35]/10 blur-2xl"></div>
 
-                <div className="relative pr-4 text-left">
-                  <div className="text-[10px] font-black uppercase tracking-[0.24em] text-[#6C4A00]/80">
-                    En Hizli Baslangic
+                  <div className="relative pr-4 text-left">
+                    <div className="text-[10px] font-black uppercase tracking-[0.24em] text-[#6C4A00]/80">
+                      En Hizli Baslangic
+                    </div>
+                    <div className="mt-1 bg-gradient-to-r from-[#fffaf0] via-white to-[#fff1c7] bg-clip-text text-xl font-black leading-tight text-transparent sm:text-[1.6rem]">
+                      Genel Kultur Testine Hemen Basla
+                    </div>
+                    <div className="mt-1.5 text-sm font-medium leading-6 text-[#fff3cf]/92 sm:text-[0.95rem]">
+                      Kategori sec, ilk soruyu saniyeler icinde gormeye basla.
+                    </div>
                   </div>
-                  <div className="mt-1 bg-gradient-to-r from-[#fffaf0] via-white to-[#fff1c7] bg-clip-text text-xl font-black leading-tight text-transparent sm:text-[1.6rem]">
-                    Genel Kultur Testine Hemen Basla
-                  </div>
-                  <div className="mt-1.5 text-sm font-medium leading-6 text-[#fff3cf]/92 sm:text-[0.95rem]">
-                    Kategori sec, ilk soruyu saniyeler icinde gormeye basla.
-                  </div>
-                </div>
 
-                <div className="relative flex h-12 w-12 shrink-0 items-center justify-center rounded-[1.1rem] border border-white/15 bg-[#10233f]/78 text-white shadow-[0_10px_24px_rgba(11,28,53,0.20)] backdrop-blur-sm sm:h-14 sm:w-14">
-                  <span className="material-symbols-outlined text-[1.55rem] transition-transform duration-300 group-hover:translate-x-0.5 sm:text-[1.75rem]">
-                    play_arrow
-                  </span>
-                </div>
-              </Link>
+                  <div className="relative flex h-12 w-12 shrink-0 items-center justify-center rounded-[1.1rem] border border-white/15 bg-[#10233f]/78 text-white shadow-[0_10px_24px_rgba(11,28,53,0.20)] backdrop-blur-sm sm:h-14 sm:w-14">
+                    <span className="material-symbols-outlined text-[1.55rem] transition-transform duration-300 group-hover:translate-x-0.5 sm:text-[1.75rem]">
+                      play_arrow
+                    </span>
+                  </div>
+                </Link>
+              </div>
 
               <h1 className="mt-7 text-4xl font-black leading-[0.95] tracking-tight text-on-surface sm:text-5xl md:text-7xl">
                 Bilgini sahneye cikar.
