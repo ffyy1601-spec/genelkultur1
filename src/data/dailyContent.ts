@@ -38,5 +38,23 @@ export const dailyQuizzes: DailyQuiz[] = [
     "intro": "Türkiye'nin yerli otomobil girişimi Togg, ikinci akıllı cihazı olan fastback modeli T10F'in yollardaki test sürüşlerine hız kesmeden devam ediyor. Estetik tasarımı ve yenilikçi teknolojileriyle dikkat çeken T10F, otomotiv dünyasında büyük bir merakla bekleniyor.",
     "article": "Togg, T10X SUV modelinin ardından ürün gamını genişletmeye devam ediyor. Şirketin yeni fastback modeli T10F, Türkiye'nin farklı bölgelerinde zorlu yol ve hava koşullarında test ediliyor. Bu testler, aracın batarya performansı, yürüyen aksamı ve gelişmiş sürüş destek sistemlerinin (ADAS) optimize edilmesini amaçlıyor. Mühendisler, aracın yalıtım ve aerodinamik özelliklerini de test pistlerinde mercek altına alıyor.\n\nT10F modeli, sadece tasarımıyla değil, teknik özellikleriyle de elektrikli araç pazarında rekabetçi bir konum hedefliyor. Farklı batarya seçenekleriyle sunulacak olan model, kullanıcılarına 600 kilometreye varan menzil opsiyonları vaat ediyor. Ayrıca çift motorlu dört çeker versiyonu, yüksek beygir gücü ve tork üreterek spor otomobil performansını elektrikli konforla birleştirecek.\n\nAracın iç mekanında ise Togg'un imzası haline gelen uçtan uca panoramik ekran deneyimi daha da geliştirilmiş olarak sunuluyor. Yapay zeka destekli bilgi-eğlence sistemi, kullanıcının alışkanlıklarına göre şekillenirken, akıllı yaşam çözümleri araç içi konforu üst seviyeye taşıyor. T10F, aynı zamanda en güncel Euro NCAP güvenlik testlerinden en yüksek derece olan 5 yıldızı alacak şekilde tasarlandı.\n\nOtomotiv analistleri, T10F'in sedan ve fastback pazarına yeni bir soluk getireceğini belirtiyor. Özellikle yerli pazardaki yüksek sedan talebi göz önüne alındığında, T10F'in geniş bir kitleye hitap etmesi bekleniyor. Seri üretimin önümüzdeki yıl başlaması ve ilk teslimatların yılın ikinci çeyreğinde yapılması hedefleniyor.\n\nGK Haber olarak yerli teknolojilerin gelişimini yakından takip etmeye devam ediyoruz. Togg'un bu yeni adımı, Türkiye'nin elektrikli mobilite vizyonunun en somut göstergelerinden biri olarak tarihe geçiyor.",
     "category": "teknoloji"
+  },
+  {
+    "slug": "merkez-bankasi-faiz-karari-aciklandi",
+    "dateId": "2026-06-12T12:00:00+03:00",
+    "title": "Merkez Bankası Haziran 2026 Faiz Kararını Açıkladı | GK Haber",
+    "description": "Türkiye Cumhuriyet Merkez Bankası (TCMB) Para Politikası Kurulu, Haziran ayı faiz kararını kamuoyuyla paylaştı. Kararın piyasalara etkisi ve uzman yorumları.",
+    "keywords": [
+      "merkez bankası",
+      "tcmb",
+      "faiz kararı",
+      "ekonomi",
+      "haziran 2026 faiz",
+      "piyasalar"
+    ],
+    "heading": "Ekonomide Gözler Merkez Bankası'nda: Faiz Kararını Açıkladı",
+    "intro": "Türkiye Cumhuriyet Merkez Bankası (TCMB) Para Politikası Kurulu, haziran ayı toplantısının ardından politika faizi kararını açıkladı. Kurul, piyasa beklentileri doğrultusunda faiz oranını sabit tutma kararı aldı.",
+    "article": "Merkez Bankası, Para Politikası Kurulu (PPK) toplantısında politika faizi olan bir hafta vadeli repo ihale faiz oranını yüzde 50 seviyesinde sabit bıraktı. Yapılan açıklamada, enflasyondaki düşüş eğiliminin kalıcı hale gelmesi ve beklentilerin hedeflerle uyumlu seyretmesi adına sıkı para politikası duruşunun kararlılıkla sürdürüleceği vurgulandı.\n\nKurul, enflasyonist baskıların küresel ve yerel düzeyde hala yakından izlendiğini belirtti. Hizmet enflasyonundaki katılık, enflasyon beklentileri ve jeopolitik risklerin enflasyon üzerindeki yukarı yönlü riskleri canlı tuttuğu ifade edilen raporda, likidite gelişmelerinin de yakından takip edildiği kaydedildi.\n\nKararın açıklanmasının ardından döviz kurlarında ve borsada yatay bir seyir izlendi. Ekonomistler, kararın sürpriz olmadığını ve Merkez Bankası'nın yılın ikinci yarısında enflasyondaki baz etkisiyle yaşanacak düşüşü gözlemlemek istediğini belirtiyor. İlk faiz indirim döngüsünün ise son çeyrekte başlayabileceği öngörülüyor.\n\nGK Haber Ekonomi Masası olarak piyasaların nabzını tutmaya devam edeceğiz. Faiz kararının önümüzdeki günlerde kredi faizlerine ve piyasa likiditesine yansımalarını detaylı analizlerle aktaracağız.",
+    "category": "ekonomi"
   }
 ];
