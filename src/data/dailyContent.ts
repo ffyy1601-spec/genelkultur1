@@ -21520,5 +21520,211 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Metal gövdesi pirinç çalgıların gücünü sağlarken, tek kamışlı ağızlık ahşap üflemelilerin ifade ve esneklik yeteneğini kazandırır."
       }
     ]
+  },
+  {
+    "slug": "nelson-mandelanin-omur-boyu-hapsi-irkciliga-karsi-bir-sembolun-yukselisi",
+    "dateId": "2026-06-12",
+    "title": "Nelson Mandela'nın Ömür Boyu Hapsi: Apartheid'a Karşı Direnişin Sembolü | GenelKultur",
+    "description": "12 Haziran 1964'te Nelson Mandela'nın ömür boyu hapse mahkum edilmesi, Güney Afrika'daki apartheid rejimine karşı direnişin en güçlü sembollerinden biri haline geldi. Mandela'nın mücadelesi ve mirası hakkında bilgi edinin.",
+    "keywords": [
+      "Nelson Mandela",
+      "Apartheid",
+      "Güney Afrika",
+      "Rivonia Davası",
+      "ırkçılık",
+      "insan hakları",
+      "direniş",
+      "Robben Adası",
+      "özgürlük mücadelesi",
+      "anti-apartheid",
+      "tarih",
+      "12 Haziran"
+    ],
+    "heading": "Nelson Mandela'nın Ömür Boyu Hapsi: Irkçılığa Karşı Bir Sembolün Yükselişi",
+    "intro": "12 Haziran 1964 tarihi, Güney Afrika tarihinde bir dönüm noktasıydı. Irk ayrımcılığına dayalı apartheid rejimine karşı mücadelenin en önemli liderlerinden Nelson Mandela ve yol arkadaşları, Rivonia Davası sonucunda ömür boyu hapse mahkum edildi. Bu karar, hem Güney Afrika'yı hem de tüm dünyayı derinden etkileyecek, Mandela'yı küresel bir direniş ve umut sembolü haline getirecekti.",
+    "article": "Nelson Mandela, apartheid rejimine karşı pasif direniş ve daha sonra silahlı mücadele çağrılarıyla tanınan bir avukat ve siyasi aktivistti. Afrika Ulusal Kongresi (ANC) içinde önemli bir figür haline gelen Mandela, rejimin baskıcı politikalarına karşı duruşuyla milyonların sesi oldu. 1960'larda ANC'nin yasaklanması ve örgüt üyelerine yönelik artan zulüm, Mandela ve arkadaşlarını Umkhonto we Sizwe (Ulusun Mızrağı) adında bir silahlı kanat kurmaya yöneltti. Bu kanat, sabotaj eylemleriyle rejimi hedef alıyor, ancak sivil kayıpları önlemeye özen gösteriyordu.\n\n1963 yılında, Mandela ve diğer bazı ANC liderleri, Johannesburg yakınlarındaki Rivonia kasabasında bir çiftlik evinde tutuklandı. Bu tutuklamayı takip eden Rivonia Davası, Güney Afrika tarihinin en önemli siyasi davalarından biri oldu. Savcılık, Mandela ve arkadaşlarını hükümeti devirmek için komplo kurmak ve sabotaj eylemleri düzenlemekle suçladı. Davanın duruşmaları, dünya çapında büyük ilgi gördü ve apartheid rejiminin insanlık dışı yüzünü bir kez daha gözler önüne serdi. Mandela, mahkemedeki savunmasında, \"İdealim, tüm insanların uyum içinde ve eşit fırsatlarla bir arada yaşadığı demokratik ve özgür bir toplumdur. Bu ideal uğruna yaşamaya hazırım ve eğer gerekirse, bu ideal uğruna ölmeye de hazırım\" sözleriyle tarihe geçti.\n\n12 Haziran 1964'te, Nelson Mandela ve yedi arkadaşı ömür boyu hapse mahkum edildi. Bu ceza, Mandela'nın 27 yılını Robben Adası, Pollsmoor ve Victor Verster hapishanelerinde geçirmesine neden oldu. Ancak hapis hayatı, onun mücadelesini durdurmadı; aksine, onu dünya çapında bir apartheid karşıtı hareketin sembolü haline getirdi. Uluslararası baskılar ve Güney Afrika içindeki direnişin yükselmesiyle, Mandela 1990 yılında serbest bırakıldı ve 1994'te Güney Afrika'nın ilk siyah başkanı seçilerek ülkesini uzlaşma ve yeniden yapılanma yolunda liderlik etti. Mandela'nın hayatı, insan hakları, eşitlik ve adalet mücadelesine adanmış bir yaşamın güçlü bir örneği olarak tarihe geçti.",
+    "category": "tarih",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Nelson Mandela'nın ömür boyu hapse mahkum edildiği tarih nedir?",
+        "options": [
+          "12 Mayıs 1963",
+          "12 Haziran 1964",
+          "12 Temmuz 1965",
+          "12 Ağustos 1966"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Nelson Mandela ve yol arkadaşları, Rivonia Davası sonucunda 12 Haziran 1964 tarihinde ömür boyu hapse mahkum edilmiştir."
+      },
+      {
+        "id": 2,
+        "text": "Nelson Mandela, hangi Güney Afrika rejimine karşı mücadele etti?",
+        "options": [
+          "Sömürgecilik",
+          "Apartheid",
+          "Feodalizm",
+          "Komünizm"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Mandela, Güney Afrika'daki ırk ayrımcılığına dayalı apartheid rejimine karşı yaşamı boyunca mücadele etmiştir."
+      },
+      {
+        "id": 3,
+        "text": "Mandela ve arkadaşları hangi dava sonucunda hapse mahkum edildi?",
+        "options": [
+          "Sharpeville Davası",
+          "Soweto Davası",
+          "Rivonia Davası",
+          "Freedom Charter Davası"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Mandela ve ANC'nin diğer liderleri, 1963'teki tutuklamalarının ardından Rivonia Davası'nda yargılanmış ve mahkum edilmiştir."
+      },
+      {
+        "id": 4,
+        "text": "Nelson Mandela'nın liderliğini yaptığı siyasi örgüt aşağıdakilerden hangisidir?",
+        "options": [
+          "Pan Afrikanist Kongre (PAC)",
+          "Inkatha Özgürlük Partisi (IFP)",
+          "Afrika Ulusal Kongresi (ANC)",
+          "Halkın Silahlı Direniş Hareketi (MK)"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Nelson Mandela, apartheid rejimine karşı mücadelenin öncü örgütlerinden Afrika Ulusal Kongresi'nin (ANC) önemli bir lideriydi."
+      },
+      {
+        "id": 5,
+        "text": "Mandela'nın hapsedilmesinden önce, ANC'nin silahlı kanadının adı neydi?",
+        "options": [
+          "Kara Şahinler",
+          "Özgürlük Savaşçıları",
+          "Umkhonto we Sizwe",
+          "Direniş Tugayları"
+        ],
+        "correctAnswer": 2,
+        "explanation": "ANC'nin yasaklanmasının ardından, Mandela ve arkadaşları \"Umkhonto we Sizwe\" (Ulusun Mızrağı) adında bir silahlı kanat kurmuşlardır."
+      },
+      {
+        "id": 6,
+        "text": "Mandela, mahkemedeki savunmasında hangi hapishanede ölmeyi göze aldığını ifade etti?",
+        "options": [
+          "Robben Adası",
+          "Pollsmoor",
+          "Victor Verster",
+          "Savunmasında böyle bir ifade kullanmamıştır."
+        ],
+        "correctAnswer": 3,
+        "explanation": "Mandela'nın savunmasındaki ünlü sözü, \"Bu ideal uğruna yaşamaya hazırım ve eğer gerekirse, bu ideal uğruna ölmeye de hazırım\" şeklindeydi; belirli bir hapishaneyi anmamıştır."
+      },
+      {
+        "id": 7,
+        "text": "Nelson Mandela, kaç yıl hapis yattı?",
+        "options": [
+          "18 yıl",
+          "27 yıl",
+          "32 yıl",
+          "40 yıl"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Mandela, 1964'teki mahkumiyetinin ardından 1990 yılına kadar toplam 27 yıl hapis yatmıştır."
+      },
+      {
+        "id": 8,
+        "text": "Mandela, hapis cezasının büyük bir bölümünü hangi adada geçirdi?",
+        "options": [
+          "St. Helena Adası",
+          "Ellis Adası",
+          "Robben Adası",
+          "Alcatraz Adası"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Nelson Mandela, hapis cezasının önemli bir kısmını Cape Town açıklarındaki kötü şöhretli Robben Adası hapishanesinde geçirmiştir."
+      },
+      {
+        "id": 9,
+        "text": "Mandela, ne zaman hapisten serbest bırakıldı?",
+        "options": [
+          "1985",
+          "1988",
+          "1990",
+          "1994"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Uluslararası baskılar ve Güney Afrika içindeki direnişin artması sonucunda Nelson Mandela, 1990 yılında serbest bırakılmıştır."
+      },
+      {
+        "id": 10,
+        "text": "Nelson Mandela, Güney Afrika'nın ilk siyah başkanı olarak ne zaman seçildi?",
+        "options": [
+          "1990",
+          "1992",
+          "1994",
+          "1996"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Mandela, 1994 yılında yapılan ilk tam demokratik seçimlerde Güney Afrika'nın ilk siyah başkanı seçilmiştir."
+      },
+      {
+        "id": 11,
+        "text": "Apartheid rejimi temel olarak neye dayanıyordu?",
+        "options": [
+          "Sınıf ayrımcılığına",
+          "Cinsiyet ayrımcılığına",
+          "Coğrafi ayrımcılığa",
+          "Irk ayrımcılığına"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Apartheid, Güney Afrika'da beyaz azınlık tarafından uygulanan, ırk temelinde katı bir ayrımcılık ve ayrılık sistemiydi."
+      },
+      {
+        "id": 12,
+        "text": "Rivonia Davası, hangi şehir yakınlarında gerçekleşen bir tutuklamayla başladı?",
+        "options": [
+          "Cape Town",
+          "Pretoria",
+          "Johannesburg",
+          "Durban"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Mandela ve diğer liderler, Johannesburg yakınlarındaki Rivonia kasabasında bir çiftlik evinde tutuklanmıştır."
+      },
+      {
+        "id": 13,
+        "text": "Aşağıdakilerden hangisi Mandela'nın mahkumiyeti sonrası uluslararası tepkilerden biri değildir?",
+        "options": [
+          "Birleşmiş Milletler'in ambargo kararları",
+          "Apartheid karşıtı küresel protesto gösterileri",
+          "Güney Afrika'nın NATO üyeliğinin feshi",
+          "Spor ve kültürel boykotlar"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Güney Afrika hiçbir zaman NATO üyesi olmamıştır, dolayısıyla NATO üyeliğinin feshi söz konusu değildir. Uluslararası ambargolar, protestolar ve boykotlar önemli tepkilerdendi."
+      },
+      {
+        "id": 14,
+        "text": "Mandela'nın hayatı ve mücadelesi en çok hangi değerlerle ilişkilendirilir?",
+        "options": [
+          "Zenginlik ve güç",
+          "Hız ve rekabet",
+          "İnsan hakları, eşitlik ve adalet",
+          "Sınırları koruma ve ulusalcılık"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Mandela'nın tüm mücadelesi, insan haklarının korunması, ırk ayrımcılığının sona erdirilmesi, eşitlik ve adalet değerleri üzerine kurulmuştur."
+      },
+      {
+        "id": 15,
+        "text": "Mandela'nın hapis cezasından sonraki ilk önemli görevi neydi?",
+        "options": [
+          "Birleşmiş Milletler Genel Sekreterliği",
+          "Afrika Birliği Başkanı",
+          "Güney Afrika Devlet Başkanı",
+          "Nobel Barış Ödülü Komitesi Üyeliği"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Mandela, hapisten çıktıktan sonra ülkesinin ilk demokratik seçimlerinde Güney Afrika Devlet Başkanı seçilerek en önemli liderlik görevini üstlenmiştir."
+      }
+    ]
   }
 ];
