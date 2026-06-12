@@ -182,85 +182,43 @@ Seçtiğin bu konu hakkında detaylı, bilgilendirici, Türkçe bir haber makale
     process.exit(0);
   }
 
-  // 3. Görsel API'lerini kullanarak haber görselini üret
+  // 3. Görsel API'lerini kullanarak haber görselini üret (gemini-3.1-flash-image)
   let imageUrl = "";
   if (parsedData.imagePrompt) {
     let base64Data = "";
-    
-    // Güçlü ve esnek görsel üretim modeli listesi (Sırayla denenecek)
-    const modelCandidates = [
-      { name: "imagen-4.0-generate-001", type: "imagen" },
-      { name: "imagen-4.0-fast-generate-001", type: "imagen" },
-      { name: "gemini-3.1-flash-image", type: "gemini" }
-    ];
-
-    for (const model of modelCandidates) {
-      try {
-        console.log(`[AI] Görsel üretimi deneniyor: ${model.name} (${model.type})...`);
-        if (model.type === "imagen") {
-          const imageApiUrl = `https://generativelanguage.googleapis.com/v1beta/models/${model.name}:predict?key=${apiKey}`;
-          const imageRequestBody = {
-            instances: [
-              {
-                prompt: parsedData.imagePrompt
-              }
-            ],
-            parameters: {
-              numberOfImages: 1,
-              aspectRatio: "16:9"
-            }
-          };
-
-          const imageResponse = await fetchWithRetry(imageApiUrl, {
-            method: "POST",
-            headers: { "Content-Type": "application/json" },
-            body: JSON.stringify(imageRequestBody)
-          });
-
-          if (imageResponse.ok) {
-            const imageResult = await imageResponse.json();
-            base64Data = imageResult.predictions?.[0]?.bytesBase64Encoded;
-            if (base64Data) {
-              console.log(`[AI] ✅ Görsel başarıyla üretildi (Model: ${model.name})`);
-              break; // Başarılı üretildiyse döngüden çık
-            }
-          } else {
-            const errTxt = await imageResponse.text();
-            console.warn(`[AI] ⚠️ ${model.name} API hatası (${imageResponse.status}): ${errTxt}`);
-          }
-        } else if (model.type === "gemini") {
-          const imageApiUrl = `https://generativelanguage.googleapis.com/v1beta/models/${model.name}:generateContent?key=${apiKey}`;
-          const imageRequestBody = {
-            contents: [{
-              parts: [{ text: parsedData.imagePrompt }]
-            }],
-            generationConfig: {
-              responseMimeType: "image/png"
-            }
-          };
-
-          const imageResponse = await fetchWithRetry(imageApiUrl, {
-            method: "POST",
-            headers: { "Content-Type": "application/json" },
-            body: JSON.stringify(imageRequestBody)
-          });
-
-          if (imageResponse.ok) {
-            const imageResult = await imageResponse.json();
-            const imagePart = imageResult.candidates?.[0]?.content?.parts?.find(part => part.inlineData);
-            base64Data = imagePart?.inlineData?.data || imageResult.candidates?.[0]?.content?.parts?.[0]?.inlineData?.data;
-            if (base64Data) {
-              console.log(`[AI] ✅ Görsel başarıyla üretildi (Model: ${model.name})`);
-              break;
-            }
-          } else {
-            const errTxt = await imageResponse.text();
-            console.warn(`[AI] ⚠️ ${model.name} API hatası (${imageResponse.status}): ${errTxt}`);
-          }
+    try {
+      console.log(`[AI] gemini-3.1-flash-image üzerinden görsel üretiliyor... Prompt: "${parsedData.imagePrompt}"`);
+      const imageApiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-image:generateContent?key=${apiKey}`;
+      const imageRequestBody = {
+        contents: [{
+          parts: [{ text: parsedData.imagePrompt }]
+        }],
+        generationConfig: {
+          responseMimeType: "image/png"
         }
-      } catch (err) {
-        console.warn(`[AI] ⚠️ ${model.name} denenirken hata oluştu: ${err.message}`);
+      };
+
+      const imageResponse = await fetchWithRetry(imageApiUrl, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(imageRequestBody)
+      });
+
+      if (imageResponse.ok) {
+        const imageResult = await imageResponse.json();
+        const imagePart = imageResult.candidates?.[0]?.content?.parts?.find(part => part.inlineData);
+        base64Data = imagePart?.inlineData?.data || imageResult.candidates?.[0]?.content?.parts?.[0]?.inlineData?.data;
+        if (base64Data) {
+          console.log(`[AI] ✅ Görsel başarıyla üretildi (gemini-3.1-flash-image)`);
+        } else {
+          console.warn("[AI] ⚠️ Görsel verisi base64 olarak alınamadı.");
+        }
+      } else {
+        const errTxt = await imageResponse.text();
+        console.warn(`[AI] ⚠️ Görsel API hatası (${imageResponse.status}): ${errTxt}`);
       }
+    } catch (err) {
+      console.warn(`[AI] ⚠️ Görsel üretilirken beklenmedik hata oluştu: ${err.message}`);
     }
 
     // Görseli disk'e kaydet
@@ -276,7 +234,7 @@ Seçtiğin bu konu hakkında detaylı, bilgilendirici, Türkçe bir haber makale
         console.error(`[AI] ⚠️ Görsel kaydedilirken disk hatası oluştu: ${saveErr.message}`);
       }
     } else {
-      console.warn("[AI] ⚠️ Hiçbir API'den görsel verisi alınamadı, haber görselsiz yayınlanacak.");
+      console.warn("[AI] ⚠️ Görsel verisi alınamadı, haber görselsiz yayınlanacak.");
     }
   }
 
