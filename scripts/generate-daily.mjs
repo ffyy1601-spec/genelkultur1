@@ -107,11 +107,12 @@ Seçtiğin bu konu hakkında detaylı, bilgilendirici, Türkçe bir haber makale
 Önemli Kurallar:
 1. Seçilen haber güncel, gerçek ve geniş kitlelerin ilgisini çekecek merak uyandırıcı bir konu olmalıdır (ünlü gelişmeleri, dizi/sinema gündemi, teknoloji trendleri, keşfet odaklı popüler konular).
 2. Haberi klasik bir haber ajansı (örn. TRT Haber, NTV, CNN Türk, DonanımHaber) tarzında, profesyonel, objektif ve zengin bir Türkçe ile yaz.
-3. Başlık (heading) çarpıcı, merak uyandırıcı, merak uyandırıp tıklama isteği uyandıran ancak clickbait olmayan ve SEO uyumlu olmalıdır.
-4. Makale içeriği en az 4-5 detaylı paragraf içermelidir (paragraf geçişlerinde \\n\\n kullan).
+3. Haber metnini zengin ve son derece profesyonel göstermek için mutlaka HTML formatında yaz. Makaleye uygun aralıklarla ilgi çekici, kısa alt başlıklar (<h3>) ekle. Önemli kişi isimleri, şirket adları, tarihler, yerler, tutarlar ve can alıcı bilgileri <strong> etiketleri içine alarak kalın yaz. Paragrafları <p> etiketleri arasına al. Eğer maddeler halinde bilgi veya maddeler veriliyorsa <ul> ve <li> etiketlerini kullan. Makalede en az 2-3 adet <h3> alt başlığı bulunmalı ve makale en az 4-5 paragraf uzunluğunda olmalıdır.
+4. Başlık (heading) çarpıcı, merak uyandırıcı, merak uyandırıp tıklama isteği uyandıran ancak clickbait olmayan ve SEO uyumlu olmalıdır.
 5. "imagePrompt" alanı, "gemini-3.1-flash-image" modelinde kullanılmak üzere, haber konusunu profesyonel bir haber fotoğrafçılığı veya basın fotoğrafı stilinde tasvir eden detaylı bir İngilizce prompt olmalıdır. Promptun içinde kesinlikle metin, yazı, logo, imza veya filigran (watermark) bulunmamasını İngilizce olarak belirt (örn: "professional news photo style, photorealistic, 8k resolution, no text, no logos").
-6. Daha önce şu konular hakkında haber/içerik üretildi: [${previousSlugs.join(", ")}]. Bu konularla kesinlikle aynı veya çok benzer olmayan TAMAMEN FARKLI ve özgün bir olay seç.
-7. JSON çıktısı geçerli olmalı ve şablona birebir uymalı.`;
+6. GÖRSEL GÜVENLİK FİLTRESİ KURALI: Eğer haber konusu politik gerilim, adli operasyon, kayyum, gözaltı, baskın, iflas, dava veya çatışma gibi hassas/negatif bir durum ise; görsel promptu kesinlikle şiddet, polis, kelepçe, suç tasviri veya adliye hücresi içermemelidir. Bunun yerine, durumla ilişkili son derece nötr, sembolik veya soyut kavramsal basın fotoğrafları kurgula (Örneğin; iş dünyasını veya finansı sembolize eden modern gökdelenler, adliye binasının dıştan profesyonel mimari görünümü, bir mahkeme tokmağı, altın veya döviz sembolleri, gıda kolileri gibi tamamen güvenli nesnelerin temiz ve sanatsal fotoğrafları). Prompt içinde 'police', 'arrest', 'handcuffs', 'raid', 'jail', 'courtroom drama' gibi filtreye takılabilecek hassas ve yasaklı kelimeleri asla kullanma.
+7. Daha önce şu konular hakkında haber/içerik üretildi: [${previousSlugs.join(", ")}]. Bu konularla kesinlikle aynı veya çok benzer olmayan TAMAMEN FARKLI ve özgün bir olay seç.
+8. JSON çıktısı geçerli olmalı ve şablona birebir uymalı.`;
 
   const textApiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent?key=${apiKey}`;
 
@@ -132,9 +133,9 @@ Seçtiğin bu konu hakkında detaylı, bilgilendirici, Türkçe bir haber makale
           keywords: { type: "ARRAY", items: { type: "STRING" }, description: "Haber SEO anahtar kelimeleri" },
           heading: { type: "STRING", description: "Haberin ana başlığı (örn: 'Yollarda Yeni Dönem: Togg T10F Test Ediliyor')" },
           intro: { type: "STRING", description: "Haberin kısa, dikkat çekici özet giriş paragrafı" },
-          article: { type: "STRING", description: "Detaylı haber metni (en az 4-5 paragraf, paragraf geçişlerinde \\n\\n kullan)" },
+          article: { type: "STRING", description: "Detaylı haber metni (HTML formatında, paragraflar için <p>, alt başlıklar için <h3>, vurgulamalar için <strong>, listeler için <ul>/<li> kullanın)" },
           category: { type: "STRING", enum: ["gundem", "teknoloji", "bilim", "ekonomi", "dunya", "spor", "sanat", "magazin"], description: "Haberin kategorisi" },
-          imagePrompt: { type: "STRING", description: "Görsel üretmek için kullanılacak detaylı İngilizce prompt" }
+          imagePrompt: { type: "STRING", description: "Görsel üretmek için kullanılacak detaylı İngilizce prompt (görsel güvenlik filtresi kurallarına uygun)" }
         },
         required: ["title", "description", "keywords", "heading", "intro", "article", "category", "imagePrompt"]
       }

@@ -74,13 +74,32 @@ export default function DailyLanding() {
     }
   };
 
-  const paragraphs = quiz.article.split("\n\n").filter((p) => p.trim() !== "");
-  const wordCount = quiz.article.split(" ").length;
+  // Format the article text to HTML (backward compatible for plain text and new HTML)
+  const formatArticleToHtml = (articleText: string): string => {
+    if (/<[a-z][\s\S]*>/i.test(articleText)) {
+      return articleText;
+    }
+    const normalized = articleText.replace(/\\n/g, "\n");
+    const paragraphsList = normalized.split("\n\n").filter((p) => p.trim() !== "");
+    const pullQuoteIdx = Math.floor(paragraphsList.length / 2);
+
+    return paragraphsList.map((para, idx) => {
+      if (idx === 0) {
+        return `<p class="lead">${para}</p>`;
+      }
+      if (paragraphsList.length > 3 && idx === pullQuoteIdx) {
+        const quoteText = para.slice(0, 180) + "…";
+        return `<blockquote>"${quoteText}"<br><span style="font-size: 14px; font-weight: 400; font-family: 'Inter', sans-serif; color: #4b5563;">— GK Haber Ajansı</span></blockquote><p>${para}</p>`;
+      }
+      return `<p>${para}</p>`;
+    }).join("\n");
+  };
+
+  const htmlContent = formatArticleToHtml(quiz.article);
+  const plainText = quiz.article.replace(/<[^>]*>/g, "");
+  const wordCount = plainText.split(/\s+/).filter(Boolean).length;
   const readingMinutes = Math.max(1, Math.ceil(wordCount / 200));
 
-  // Orta paragraftan alıntı seç
-  const pullQuoteIndex = Math.floor(paragraphs.length / 2);
-  const pullQuote = paragraphs[pullQuoteIndex]?.slice(0, 180) + "…";
 
   // Önceki Haberler listesi (Son 4 haber, aktif haber hariç)
   const previousNews = dailyQuizzes
@@ -241,6 +260,51 @@ export default function DailyLanding() {
           margin: 0 0 1.25em;
         }
 
+        .article-body p.lead,
+        .article-body > p:first-of-type {
+          font-size: 18px;
+          font-weight: 600;
+          line-height: 1.8;
+          color: #111827;
+          margin-bottom: 24px;
+        }
+
+        .article-body h3 {
+          font-family: 'Playfair Display', serif;
+          font-size: 22px;
+          font-weight: 700;
+          line-height: 1.35;
+          margin: 32px 0 16px;
+          color: #111827;
+        }
+
+        .article-body strong {
+          font-weight: 700;
+          color: #111827;
+        }
+
+        .article-body ul {
+          list-style-type: disc;
+          padding-left: 20px;
+          margin-bottom: 20px;
+        }
+
+        .article-body li {
+          margin-bottom: 8px;
+        }
+
+        .article-body blockquote {
+          font-family: 'Playfair Display', serif;
+          font-size: 20px;
+          font-weight: 700;
+          line-height: 1.45;
+          color: #111827;
+          border-top: 2.5px solid #111827;
+          border-bottom: 0.5px solid #d1d5db;
+          padding: 18px 0 16px;
+          margin: 28px 0;
+        }
+
         .pullquote {
           font-family: 'Playfair Display', serif;
           font-size: 21px;
@@ -397,38 +461,7 @@ export default function DailyLanding() {
           )}
 
           {/* Haber Metni */}
-          <div className="article-body">
-            {paragraphs.map((para, index) => {
-              // İlk paragraf: öne çıkan lead metin
-              if (index === 0) {
-                return (
-                  <p key={index} className="text-lg font-semibold leading-relaxed mb-6">
-                    {para}
-                  </p>
-                );
-              }
-
-              // Orta paragraf: alıntı kutusu
-              if (index === pullQuoteIndex) {
-                return (
-                  <div key={index} className="space-y-6">
-                    <div className="pullquote">
-                      "{pullQuote}"
-                      <br />
-                      <span style={{ fontSize: "14px", fontWeight: 400, fontFamily: "'Inter', sans-serif", color: "#4b5563" }}>
-                        — GK Haber Ajansı
-                      </span>
-                    </div>
-                    <p>{para}</p>
-                  </div>
-                );
-              }
-
-              return (
-                <p key={index}>{para}</p>
-              );
-            })}
-          </div>
+          <div className="article-body" dangerouslySetInnerHTML={{ __html: htmlContent }} />
 
           {/* Quiz CTA (Eğer haberde test varsa gösterilir) */}
           {hasQuiz && (
