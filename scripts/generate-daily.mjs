@@ -194,7 +194,7 @@ Seçtiğin bu konu hakkında detaylı, bilgilendirici, Türkçe bir haber makale
           parts: [{ text: parsedData.imagePrompt }]
         }],
         generationConfig: {
-          responseMimeType: "image/png"
+          responseModalities: ["TEXT", "IMAGE"]
         }
       };
 
