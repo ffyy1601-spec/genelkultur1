@@ -190,7 +190,7 @@ Seçtiğin bu konu hakkında detaylı, bilgilendirici, Türkçe bir haber makale
     // Güçlü ve esnek görsel üretim modeli listesi (Sırayla denenecek)
     const modelCandidates = [
       { name: "imagen-4.0-generate-001", type: "imagen" },
-      { name: "imagen-3.0-generate-002", type: "imagen" },
+      { name: "imagen-4.0-fast-generate-001", type: "imagen" },
       { name: "gemini-3.1-flash-image", type: "gemini" }
     ];
 
@@ -198,12 +198,15 @@ Seçtiğin bu konu hakkında detaylı, bilgilendirici, Türkçe bir haber makale
       try {
         console.log(`[AI] Görsel üretimi deneniyor: ${model.name} (${model.type})...`);
         if (model.type === "imagen") {
-          const imageApiUrl = `https://generativelanguage.googleapis.com/v1beta/models/${model.name}:generateImages?key=${apiKey}`;
+          const imageApiUrl = `https://generativelanguage.googleapis.com/v1beta/models/${model.name}:predict?key=${apiKey}`;
           const imageRequestBody = {
-            prompt: parsedData.imagePrompt,
-            config: {
+            instances: [
+              {
+                prompt: parsedData.imagePrompt
+              }
+            ],
+            parameters: {
               numberOfImages: 1,
-              outputMimeType: "image/png",
               aspectRatio: "16:9"
             }
           };
@@ -216,7 +219,7 @@ Seçtiğin bu konu hakkında detaylı, bilgilendirici, Türkçe bir haber makale
 
           if (imageResponse.ok) {
             const imageResult = await imageResponse.json();
-            base64Data = imageResult.generatedImages?.[0]?.image?.imageBytes;
+            base64Data = imageResult.predictions?.[0]?.bytesBase64Encoded;
             if (base64Data) {
               console.log(`[AI] ✅ Görsel başarıyla üretildi (Model: ${model.name})`);
               break; // Başarılı üretildiyse döngüden çık
@@ -232,8 +235,7 @@ Seçtiğin bu konu hakkında detaylı, bilgilendirici, Türkçe bir haber makale
               parts: [{ text: parsedData.imagePrompt }]
             }],
             generationConfig: {
-              responseMimeType: "image/png",
-              aspectRatio: "16:9"
+              responseMimeType: "image/png"
             }
           };
 
