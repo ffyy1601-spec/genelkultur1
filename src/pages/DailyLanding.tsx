@@ -337,13 +337,30 @@ export default function DailyLanding() {
         .related-grid {
           display: grid;
           grid-template-columns: 1fr 1fr;
-          gap: 16px;
+          gap: 20px;
         }
 
         .related-card {
-          border-top: 2px solid #d1d5db;
+          border-top: 1.5px solid #d1d5db;
           padding-top: 12px;
           text-decoration: none;
+          display: flex;
+          gap: 12px;
+          align-items: flex-start;
+        }
+
+        .related-card-img {
+          width: 90px;
+          height: 60px;
+          object-fit: cover;
+          border-radius: 4px;
+          flex-shrink: 0;
+          background-color: #f3f4f6;
+        }
+
+        .related-card-content {
+          flex-grow: 1;
+          min-width: 0;
         }
 
         .related-card-cat {
@@ -352,12 +369,12 @@ export default function DailyLanding() {
           letter-spacing: 0.1em;
           text-transform: uppercase;
           color: #B91C1C;
-          margin-bottom: 6px;
+          margin-bottom: 4px;
         }
 
         .related-card-title {
           font-family: 'Playfair Display', serif;
-          font-size: 15px;
+          font-size: 14px;
           font-weight: 700;
           line-height: 1.35;
           color: #111827;
@@ -512,10 +529,24 @@ export default function DailyLanding() {
                     to={`/test/${item.slug}`}
                     className="related-card group"
                   >
-                    <div className="related-card-cat">{getCategoryLabel(item.category)}</div>
-                    <h4 className="related-card-title group-hover:text-[#B91C1C] transition-colors">
-                      {item.heading}
-                    </h4>
+                    {item.imageUrl ? (
+                      <img
+                        src={item.imageUrl}
+                        alt={item.heading}
+                        className="related-card-img group-hover:opacity-90 transition-opacity"
+                        loading="lazy"
+                      />
+                    ) : (
+                      <div className="related-card-img flex items-center justify-center text-gray-400">
+                        <span className="material-symbols-outlined text-lg">image</span>
+                      </div>
+                    )}
+                    <div className="related-card-content">
+                      <div className="related-card-cat">{getCategoryLabel(item.category)}</div>
+                      <h4 className="related-card-title group-hover:text-[#B91C1C] transition-colors">
+                        {item.heading}
+                      </h4>
+                    </div>
                   </Link>
                 ))}
               </div>
