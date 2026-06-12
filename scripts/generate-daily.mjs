@@ -196,7 +196,9 @@ Seçtiğin bu konu hakkında detaylı, bilgilendirici, Türkçe bir haber makale
         }],
         generationConfig: {
           responseModalities: ["TEXT", "IMAGE"],
-          aspectRatio: "16:9"
+          imageConfig: {
+            aspectRatio: "16:9"
+          }
         }
       };
 
