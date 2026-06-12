@@ -376,7 +376,7 @@ async function notifyGoogleIndexingAPI(slug) {
 
     const baseUrl = "https://genelkultur.com.tr";
     await indexUrl(accessToken, `${baseUrl}/test/${slug}`);
-    await indexUrl(accessToken, `${baseUrl}/yapay-zeka-testleri`);
+    await indexUrl(accessToken, `${baseUrl}/gunluk-haberler`);
 
     console.log("[Indexing API] Tüm URL bildirimleri tamamlandı.");
   } catch (e) {

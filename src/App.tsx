@@ -81,6 +81,7 @@ export function AppContent({ includeRouteEffects = true }: AppContentProps) {
             <Route path={ROUTES.dailyGame} element={<DailyGame />} />
             <Route path={ROUTES.kpssList} element={<KpssList />} />
 
+             <Route path="/yapay-zeka-testleri" element={<Navigate replace to={ROUTES.dailyList} />} />
             <Route path={LEGACY_ROUTES.categories} element={<Navigate replace to={ROUTES.categories} />} />
             <Route path={LEGACY_ROUTES.game} element={<Navigate replace to={ROUTES.game} />} />
             <Route path={LEGACY_ROUTES.results} element={<Navigate replace to={ROUTES.results} />} />

@@ -23,7 +23,7 @@ export const ROUTES = {
   adsDisclosure: "/reklam-bilgilendirmesi",
   terms: "/kullanim-kosullari",
   // AI Otomasyon Rotalari
-  dailyList: "/yapay-zeka-testleri",
+  dailyList: "/gunluk-haberler",
   dailyLanding: "/test/:slug",
   dailyGame: "/test/:slug/oyna",
 } as const;
