@@ -28,6 +28,32 @@ function slugify(text) {
     .replace(/-+$/, '');            // Trim - from end
 }
 
+// Retrying fetch utility for API robustness
+async function fetchWithRetry(url, options, retries = 3, delay = 2500) {
+  for (let i = 0; i < retries; i++) {
+    try {
+      const response = await fetch(url, options);
+      if (response.ok) return response;
+      
+      const status = response.status;
+      // 503 (Temporary Overload) or 429 (Rate Limit) or 5xx server errors
+      if (status === 503 || status === 429 || status >= 500) {
+        console.warn(`[AI] Gemini API geçici hata verdi (${status}). ${delay / 1000} saniye sonra tekrar deneniyor... (Deneme ${i + 1}/${retries})`);
+        await new Promise(res => setTimeout(res, delay));
+        delay *= 2; // Exponential backoff
+        continue;
+      }
+      return response; // Return other errors (like 400 Bad Request) immediately
+    } catch (error) {
+      if (i === retries - 1) throw error;
+      console.warn(`[AI] Ağ hatası oluştu, tekrar deneniyor... (${error.message})`);
+      await new Promise(res => setTimeout(res, delay));
+      delay *= 2;
+    }
+  }
+  throw new Error(`Maksimum API deneme sayısına ulaşıldı (${retries})`);
+}
+
 const MONTHS_TR = [
   "Ocak", "Şubat", "Mart", "Nisan", "Mayıs", "Haziran",
   "Temmuz", "Ağustos", "Eylül", "Ekim", "Kasım", "Aralık"
@@ -116,7 +142,7 @@ Seçtiğin bu konu hakkında detaylı, bilgilendirici, Türkçe bir haber makale
   };
 
   console.log("[AI] Gemini 3.5 Flash üzerinden haber metni ve görsel promptu üretiliyor...");
-  const textResponse = await fetch(textApiUrl, {
+  const textResponse = await fetchWithRetry(textApiUrl, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify(requestBody)
@@ -161,7 +187,7 @@ Seçtiğin bu konu hakkında detaylı, bilgilendirici, Türkçe bir haber makale
         }
       };
 
-      const imageResponse = await fetch(imageApiUrl, {
+      const imageResponse = await fetchWithRetry(imageApiUrl, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(imageRequestBody)
