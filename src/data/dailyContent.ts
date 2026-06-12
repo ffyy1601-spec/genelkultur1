@@ -21107,5 +21107,214 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Fark Makinesi'nin hesaplama sonuçlarını otomatik olarak basılı hale getirmesi, elle kopyalama ve dizgi hatalarını ortadan kaldırarak tabloların doğruluğunu ve güvenilirliğini büyük ölçüde artırması açısından kritik bir adımdı."
       }
     ]
+  },
+  {
+    "slug": "gokyuzunde-pedallanan-destan-bryan-allen-ve-insan-gucuyle-mans-gecisi",
+    "dateId": "2026-06-12",
+    "title": "Gökyüzünde Pedallanan Destan: Bryan Allen ve Gossamer Albatross'un İnsan Gücüyle Manş Geçişi | GenelKultur",
+    "description": "12 Haziran 1979'da Bryan Allen, tamamen insan gücüyle çalışan Gossamer Albatross adlı uçakla Manş Denizi'ni geçti. Bu tarihi başarı, havacılık tarihinde bir dönüm noktası ve insan azminin zaferiydi.",
+    "keywords": [
+      "Bryan Allen",
+      "Gossamer Albatross",
+      "insan gücüyle uçuş",
+      "Manş Denizi geçişi",
+      "havacılık tarihi",
+      "Kremer Ödülü",
+      "Paul MacCready",
+      "ultralight uçak",
+      "bilim",
+      "teknoloji",
+      "mühendislik",
+      "1979",
+      "insanlık tarihi",
+      "dayanıklılık",
+      "rekor"
+    ],
+    "heading": "Gökyüzünde Pedallanan Destan: Bryan Allen ve İnsan Gücüyle Manş Geçişi",
+    "intro": "İnsanlık tarihi, imkansız denilenin peşinden giden cesur ruhların hikayeleriyle doludur. Uçmak, bu kadim hayallerden biriydi ve yüzyıllar boyunca makinelerle ilişkilendirildi. Ancak 12 Haziran 1979'da, Bryan Allen adında bir bisikletçi, tamamen kendi kas gücüyle çalışan hafif bir uçakla Manş Denizi'ni geçerek insan gücünün sınırlarını yeniden tanımladı. Bu, sadece bir rekor değil, aynı zamanda insan azminin ve mühendislik dehasının bir zaferiydi.",
+    "article": "İnsan gücüyle çalışan hava taşıtları, yüzyıllardır mühendislerin ve hayalperestlerin ilgisini çekmiştir. Leonardo da Vinci'nin tasarımlarından modern planörlere kadar uzanan bu arayış, çoğu zaman ağır makinelerin ve yeterli güç üretiminin zorlukları nedeniyle başarısızlıkla sonuçlanmıştır. Ancak 1970'lerde, Amerikalı havacılık mühendisi Dr. Paul MacCready, ultralight (çok hafif) uçak tasarımı konusunda devrim niteliğinde bir yaklaşım benimsedi. MacCready ve ekibi, öncelikle 1977'de Gossamer Condor ile Kremer Ödülü'nü kazanarak insan gücüyle kontrollü uçuşu başararak tarihe geçti. Bu ilk başarı, çok daha büyük ve daha zorlu bir hedef için zemin hazırladı: Manş Denizi'ni insan gücüyle geçmek.\n\nManş Denizi'ni geçme hedefi, havacılıkta bir sonraki büyük Kremer Ödülü için belirlenen bir meydan okumaydı ve 100.000 sterlinlik cazip bir ödül vaat ediyordu. MacCready'nin ekibi, Gossamer Condor'un deneyimlerinden yararlanarak yeni bir uçak tasarladı: Gossamer Albatross. Bu yeni model, Condor'dan daha hafif, aerodinamik olarak daha verimli ve özellikle uzun mesafeli uçuşlar için optimize edilmişti. Karbon fiber, polistiren köpük ve şeffaf Mylar filmi gibi hafif malzemeler kullanılarak inşa edilen Albatross, bisiklet pedallarıyla çalışan bir pervaneye güç veren bir pilotun kas gücünü kullanıyordu. Uçağın kanat açıklığı neredeyse bir Boeing 747 kadar olmasına rağmen, ağırlığı sadece 32 kilogram civarındaydı.\n\n12 Haziran 1979 sabahı, 26 yaşındaki Bryan Allen, Gossamer Albatross'un kokpitine girdi. Eski bir bisikletçi ve deneyimli bir planör pilotu olan Allen, hem fiziksel dayanıklılığı hem de pilotaj yeteneğiyle bu göreve en uygun adaydı. İngiltere'nin Folkestone kasabasından havalanan Allen, yaklaşık 2 saat 49 dakika süren zorlu bir uçuşun ardından Fransa'nın Cap Gris-Nez burnuna yakın bir sahile inerek tarihi bir başarıya imza attı. Rüzgarlar, türbülans ve Allen'ın tükenen enerjisiyle boğuştuğu bu yolculuk, sadece teknik bir başarı değil, aynı zamanda insan bedeninin ve zihninin sınırlarının zorlandığı bir irade savaşıydı. Bu uçuş, insan gücüyle havacılık alanında bir zirve noktası olarak kabul edilir ve gelecekteki ultralight havacılık projelerine ilham kaynağı olmuştur.",
+    "category": "bilim",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Bryan Allen, insan gücüyle Manş Denizi'ni hangi tarihte geçmiştir?",
+        "options": [
+          "12 Mayıs 1978",
+          "12 Haziran 1979",
+          "12 Temmuz 1980",
+          "12 Ağustos 1977"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Bryan Allen, Gossamer Albatross ile insan gücüyle Manş Denizi'ni 12 Haziran 1979 tarihinde geçerek tarihi bir başarıya imza atmıştır."
+      },
+      {
+        "id": 2,
+        "text": "Bryan Allen'ın Manş Denizi'ni geçerken kullandığı uçağın adı nedir?",
+        "options": [
+          "Spirit of St. Louis",
+          "Voyager",
+          "Gossamer Albatross",
+          "Wright Flyer"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bryan Allen, Manş Denizi geçişi için Paul MacCready ve ekibi tarafından tasarlanan Gossamer Albatross adlı insan gücüyle çalışan uçağı kullanmıştır."
+      },
+      {
+        "id": 3,
+        "text": "Gossamer Albatross'u tasarlayan mühendis kimdir?",
+        "options": [
+          "Burt Rutan",
+          "Paul MacCready",
+          "Igor Sikorsky",
+          "Kelly Johnson"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Amerikalı havacılık mühendisi Dr. Paul MacCready, Gossamer Condor ve Gossamer Albatross gibi insan gücüyle çalışan uçakların tasarımcısıdır."
+      },
+      {
+        "id": 4,
+        "text": "Bryan Allen'ın Manş Denizi geçişi kaç saat sürmüştür?",
+        "options": [
+          "Yaklaşık 1 saat 30 dakika",
+          "Yaklaşık 2 saat 15 dakika",
+          "Yaklaşık 2 saat 49 dakika",
+          "Yaklaşık 3 saat 20 dakika"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bryan Allen'ın Manş Denizi üzerindeki uçuşu yaklaşık 2 saat 49 dakika sürmüştür."
+      },
+      {
+        "id": 5,
+        "text": "Gossamer Albatross'un ana güç kaynağı nedir?",
+        "options": [
+          "Küçük bir elektrik motoru",
+          "Hafif bir benzinli motor",
+          "Pilotun kas gücü (pedallar)",
+          "Rüzgar enerjisi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Gossamer Albatross, tamamen pilot Bryan Allen'ın bisiklet pedalları aracılığıyla sağladığı kas gücüyle çalışan bir pervaneye sahipti."
+      },
+      {
+        "id": 6,
+        "text": "Gossamer Albatross'un inşasında kullanılan temel hafif malzemeler arasında aşağıdakilerden hangisi bulunur?",
+        "options": [
+          "Çelik ve alüminyum alaşımları",
+          "Titanyum ve nikel",
+          "Karbon fiber, polistiren köpük, Mylar filmi",
+          "Ahşap ve kumaş"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Uçağın ağırlığını minimumda tutmak için karbon fiber, polistiren köpük ve şeffaf Mylar filmi gibi ultralight malzemeler kullanılmıştır."
+      },
+      {
+        "id": 7,
+        "text": "Manş Denizi'ni insan gücüyle geçme başarısı hangi ödülün kazanılmasını sağlamıştır?",
+        "options": [
+          "Nobel Ödülü",
+          "Pulitzer Ödülü",
+          "Kremer Ödülü",
+          "Langeley Madalyası"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Manş Denizi'ni insan gücüyle geçmek, Royal Aeronautical Society tarafından verilen ikinci Kremer Ödülü'nün şartlarından biriydi ve Bryan Allen bu ödülü kazanmıştır."
+      },
+      {
+        "id": 8,
+        "text": "Bryan Allen Manş Denizi geçişine İngiltere'nin hangi kasabasından başlamıştır?",
+        "options": [
+          "Dover",
+          "Brighton",
+          "Folkestone",
+          "Portsmouth"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bryan Allen, İngiltere'nin Folkestone kasabasından havalanarak Manş Denizi geçişine başlamıştır."
+      },
+      {
+        "id": 9,
+        "text": "Gossamer Albatross'un kanat açıklığı yaklaşık olarak ne kadardı?",
+        "options": [
+          "Bir küçük jet uçağı kadar",
+          "Bir helikopter rotoru kadar",
+          "Bir Boeing 747 kadar",
+          "Bir planör kadar"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Gossamer Albatross'un kanat açıklığı, tasarımı gereği oldukça büyüktü ve yaklaşık bir Boeing 747 uçağının kanat açıklığı kadardı (29.25 metre)."
+      },
+      {
+        "id": 10,
+        "text": "Bryan Allen, Manş Denizi geçişinden önce hangi alanda deneyimliydi?",
+        "options": [
+          "Otomobil yarışçısı",
+          "Yüzücü",
+          "Bisikletçi ve planör pilotu",
+          "Denizci"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bryan Allen, eski bir bisikletçi ve deneyimli bir planör pilotu olarak, hem fiziksel dayanıklılığı hem de havacılık bilgisiyle bu zorlu göreve hazırlanmıştı."
+      },
+      {
+        "id": 11,
+        "text": "Gossamer Albatross'un yaklaşık ağırlığı ne kadardı?",
+        "options": [
+          "10 kg",
+          "32 kg",
+          "75 kg",
+          "120 kg"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Uçağın hafifliği, başarının anahtarlarından biriydi; Gossamer Albatross sadece 32 kilogram ağırlığındaydı (pilotsuz)."
+      },
+      {
+        "id": 12,
+        "text": "Bu tarihi uçuştan önce Paul MacCready ve ekibi hangi uçakla ilk Kremer Ödülü'nü kazanmıştır?",
+        "options": [
+          "Spirit of St. Louis",
+          "Gossamer Condor",
+          "Bell X-1",
+          "SpaceShipOne"
+        ],
+        "correctAnswer": 1,
+        "explanation": "MacCready'nin ekibi, Manş geçişinden önce 1977'de Gossamer Condor ile insan gücüyle kontrollü uçuşu başararak ilk Kremer Ödülü'nü kazanmıştı."
+      },
+      {
+        "id": 13,
+        "text": "Bryan Allen'ın iniş yaptığı yer Fransa'nın hangi bölgesine yakındı?",
+        "options": [
+          "Marsilya",
+          "Brest",
+          "Cap Gris-Nez",
+          "Nice"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Allen, yaklaşık 2 saat 49 dakika süren uçuşun ardından Fransa'nın Cap Gris-Nez burnuna yakın bir sahile inmiştir."
+      },
+      {
+        "id": 14,
+        "text": "Bu başarının önemi aşağıdakilerden hangisidir?",
+        "options": [
+          "En hızlı insan gücüyle uçuş rekorunu kırması",
+          "Sıradan bir insanın pilotaj yeteneğini göstermesi",
+          "İnsan gücüyle havacılıkta bir dönüm noktası olması",
+          "Ticari havacılıkta yeni bir çağ açması"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bryan Allen'ın Manş Denizi'ni insan gücüyle geçişi, insan gücüyle havacılık alanında bir zirve noktası ve insan azminin ve mühendislik dehasının bir zaferi olarak kabul edilir."
+      },
+      {
+        "id": 15,
+        "text": "Gossamer Albatross projesi, hangi kuruluş tarafından finanse edilen Kremer Ödülü için geliştirilmiştir?",
+        "options": [
+          "NASA",
+          "Royal Aeronautical Society",
+          "Smithsonian Enstitüsü",
+          "Birleşmiş Milletler"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Kremer Ödülü, insan gücüyle uçuşu teşvik etmek amacıyla İngiliz sanayici Henry Kremer tarafından kurulan ve Royal Aeronautical Society tarafından yönetilen bir ödüldür."
+      }
+    ]
   }
 ];
