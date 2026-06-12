@@ -150,12 +150,6 @@ export default function Landing() {
                   Kategorileri Gor
                   <span className="material-symbols-outlined text-base">arrow_forward</span>
                 </Link>
-                <Link
-                  to={ROUTES.genelKulturSorulari}
-                  className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-surface-container-low/70 px-5 py-3 font-semibold text-on-surface transition-all hover:-translate-y-0.5 hover:border-white/20"
-                >
-                  Ornek Sorulara Goz At
-                </Link>
               </div>
             </div>
 
@@ -211,29 +205,7 @@ export default function Landing() {
           </div>
         </section>
 
-        <section className="mx-auto w-full max-w-7xl px-4 pb-16 md:px-10 md:pb-24">
-          <div className="grid gap-6 md:grid-cols-3">
-            {[
-              {
-                title: "Hizli Baslangic",
-                text: "Beklemeden kategori sec, oyuna gir ve sonucunu aninda gor.",
-              },
-              {
-                title: "Dengeli Soru Havuzu",
-                text: "Genel kultur, tarih, bilim ve sanat alanlarinda farkli zorluklarda sorular.",
-              },
-              {
-                title: "Mobil Uyumlu Deneyim",
-                text: "Telefon ve masaustunde rahat okunan, hizli acilan modern bir arayuz.",
-              },
-            ].map((item) => (
-              <article key={item.title} className="rounded-[1.75rem] border border-white/10 bg-surface-container-low/85 p-6">
-                <h2 className="text-2xl font-black text-on-surface">{item.title}</h2>
-                <p className="mt-3 text-sm leading-7 text-on-surface-variant">{item.text}</p>
-              </article>
-            ))}
-          </div>
-        </section>
+
 
         {/* ── BUGÜN NE OLDU (GK HABER) ── */}
         {dailyQuizzes.length > 0 && (() => {
