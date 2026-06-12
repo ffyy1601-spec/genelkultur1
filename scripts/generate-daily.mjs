@@ -135,6 +135,7 @@ Seçtiğin bu konu hakkında detaylı, bilgilendirici, Türkçe bir haber makale
     }],
     generationConfig: {
       responseMimeType: "application/json",
+      thinkingConfig: { thinkingBudget: 0 },
       responseSchema: {
         type: "OBJECT",
         properties: {
