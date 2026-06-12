@@ -74,16 +74,16 @@ async function generateDailyContent() {
 
   // 2. Gemini 3.5 Flash API'den Google Search Grounding ile haber içeriği ve görsel promptu iste
   const prompt = `Bugünün tarihi: ${dayNum} ${monthName} ${year}. 
-Google Search aracını kullanarak Türkiye gündemindeki (politika, teknoloji, bilim, ekonomi, dünya, spor veya genel kültür alanlarında) en popüler, dikkat çekici, Google Discover (keşfet) sayfasına düşebilecek güncel bir haber veya olay seç.
+Google Search aracını kullanarak Türkiye gündemindeki en popüler, merak uyandırıcı, 'magazin, popüler kültür, sinema, dizi, teknoloji, spor, dünya, ekonomi veya bilim' alanlarında, Google Discover (keşfet) sayfasına düşebilecek yüksek tıklama (High-CTR) potansiyeli olan güncel bir haber veya olay seç.
 
 Seçtiğin bu konu hakkında detaylı, bilgilendirici, Türkçe bir haber makalesi ve bu haberi en iyi şekilde tasvir eden İngilizce bir görsel üretim promptu (imagePrompt) hazırla.
 
 Önemli Kurallar:
-1. Seçilen haber güncel ve gerçek olmalıdır.
+1. Seçilen haber güncel, gerçek ve geniş kitlelerin ilgisini çekecek merak uyandırıcı bir konu olmalıdır (ünlü gelişmeleri, dizi/sinema gündemi, teknoloji trendleri, keşfet odaklı popüler konular).
 2. Haberi klasik bir haber ajansı (örn. TRT Haber, NTV, CNN Türk, DonanımHaber) tarzında, profesyonel, objektif ve zengin bir Türkçe ile yaz.
-3. Başlık (heading) çarpıcı, merak uyandırıcı ve SEO uyumlu olmalıdır.
+3. Başlık (heading) çarpıcı, merak uyandırıcı, merak uyandırıp tıklama isteği uyandıran ancak clickbait olmayan ve SEO uyumlu olmalıdır.
 4. Makale içeriği en az 4-5 detaylı paragraf içermelidir (paragraf geçişlerinde \\n\\n kullan).
-5. "imagePrompt" alanı, "gemini-3.1-flash-image" modelinde kullanılmak üzere, haber konusunu profesyonel bir haber fotoğrafçılığı stilinde tasvir eden detaylı bir İngilizce prompt olmalıdır. Promptun içinde kesinlikle metin, yazı, logo, imza veya filigran (watermark) bulunmamasını İngilizce olarak belirt (örn: "professional news photo style, photorealistic, 8k resolution, no text, no logos").
+5. "imagePrompt" alanı, "gemini-3.1-flash-image" modelinde kullanılmak üzere, haber konusunu profesyonel bir haber fotoğrafçılığı veya basın fotoğrafı stilinde tasvir eden detaylı bir İngilizce prompt olmalıdır. Promptun içinde kesinlikle metin, yazı, logo, imza veya filigran (watermark) bulunmamasını İngilizce olarak belirt (örn: "professional news photo style, photorealistic, 8k resolution, no text, no logos").
 6. Daha önce şu konular hakkında haber/içerik üretildi: [${previousSlugs.join(", ")}]. Bu konularla kesinlikle aynı veya çok benzer olmayan TAMAMEN FARKLI ve özgün bir olay seç.
 7. JSON çıktısı geçerli olmalı ve şablona birebir uymalı.`;
 
@@ -107,7 +107,7 @@ Seçtiğin bu konu hakkında detaylı, bilgilendirici, Türkçe bir haber makale
           heading: { type: "STRING", description: "Haberin ana başlığı (örn: 'Yollarda Yeni Dönem: Togg T10F Test Ediliyor')" },
           intro: { type: "STRING", description: "Haberin kısa, dikkat çekici özet giriş paragrafı" },
           article: { type: "STRING", description: "Detaylı haber metni (en az 4-5 paragraf, paragraf geçişlerinde \\n\\n kullan)" },
-          category: { type: "STRING", enum: ["gundem", "teknoloji", "bilim", "ekonomi", "dunya", "spor", "sanat"], description: "Haberin kategorisi" },
+          category: { type: "STRING", enum: ["gundem", "teknoloji", "bilim", "ekonomi", "dunya", "spor", "sanat", "magazin"], description: "Haberin kategorisi" },
           imagePrompt: { type: "STRING", description: "Görsel üretmek için kullanılacak detaylı İngilizce prompt" }
         },
         required: ["title", "description", "keywords", "heading", "intro", "article", "category", "imagePrompt"]

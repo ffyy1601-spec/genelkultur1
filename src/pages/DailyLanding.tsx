@@ -69,6 +69,7 @@ export default function DailyLanding() {
       case "tarih": return "Tarih";
       case "bilim": return "Bilim";
       case "sanat": return "Sanat";
+      case "magazin": return "Magazin";
       default: return "Genel Kültür";
     }
   };
@@ -352,7 +353,7 @@ export default function DailyLanding() {
               {formattedDate} {formattedTime ? `· ${formattedTime}` : ""}
             </div>
           </header>
-          <div className="site-tagline">Dünya · Türkiye · Ekonomi · Spor · Teknoloji · Bilim · Sanat</div>
+          <div className="site-tagline">Dünya · Türkiye · Ekonomi · Spor · Teknoloji · Bilim · Sanat · Magazin</div>
 
           {/* Kategori */}
           <div className="hero-category">{getCategoryLabel(quiz.category)}</div>

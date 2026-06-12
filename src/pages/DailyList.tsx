@@ -20,6 +20,7 @@ export default function DailyList() {
       case "ekonomi": return "trending_up";
       case "dunya": return "public";
       case "spor": return "sports_soccer";
+      case "magazin": return "movie";
       default: return "public";
     }
   };
@@ -35,6 +36,7 @@ export default function DailyList() {
       case "ekonomi": return "Ekonomi";
       case "dunya": return "Dünya";
       case "spor": return "Spor";
+      case "magazin": return "Magazin";
       default: return "Genel Kültür";
     }
   };
@@ -113,6 +115,7 @@ export default function DailyList() {
               { id: "ekonomi", label: "Ekonomi" },
               { id: "dunya", label: "Dünya" },
               { id: "spor", label: "Spor" },
+              { id: "magazin", label: "Magazin" },
               { id: "tarih", label: "Tarih" },
               { id: "sanat", label: "Sanat" },
             ].map((cat) => (
