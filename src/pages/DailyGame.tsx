@@ -1,5 +1,5 @@
 import { useMemo, useState } from "react";
-import { useParams, useNavigate } from "react-router-dom";
+import { useParams, useNavigate, Navigate } from "react-router-dom";
 import Seo from "../components/Seo";
 import { dailyQuizzes } from "../data/dailyContent";
 import { ROUTES } from "../lib/routes";
@@ -28,12 +28,8 @@ export default function DailyGame() {
   const [shake, setShake] = useState(false);
   const [isQuitModalOpen, setIsQuitModalOpen] = useState(false);
 
-  if (!quiz) {
-    return (
-      <div className="flex min-h-screen items-center justify-center bg-background text-on-background">
-        Yükleniyor veya Test Bulunamadı...
-      </div>
-    );
+  if (!quiz || !quiz.questions || quiz.questions.length === 0) {
+    return <Navigate replace to={quiz ? `/test/${quiz.slug}` : ROUTES.dailyList} />;
   }
 
   const questions = quiz.questions;

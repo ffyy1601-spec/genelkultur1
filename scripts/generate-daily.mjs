@@ -41,16 +41,23 @@ async function generateDailyContent() {
   }
 
   const today = new Date();
+  // UTC saatini Türkiye saatine (+3 offset) dönüştür
+  const utcHour = today.getUTCHours();
+  const turkeyHour = (utcHour + 3) % 24;
+
   const year = today.getFullYear();
   const month = String(today.getMonth() + 1).padStart(2, "0");
   const day = String(today.getDate()).padStart(2, "0");
-  const dateId = `${year}-${month}-${day}`;
+  const hourStr = String(turkeyHour).padStart(2, "0");
+
+  // Örn: "2026-06-13T12:00:00+03:00" -> ISO biçimi sıralamayı ve new Date() analizini kolaylaştırır
+  const dateId = `${year}-${month}-${day}T${hourStr}:00:00+03:00`;
   const dayNum = today.getDate();
   const monthName = MONTHS_TR[today.getMonth()];
 
-  console.log(`[AI] Günlük içerik üretimi başladı: ${dayNum} ${monthName} (${dateId})`);
+  console.log(`[AI] Günlük haber üretimi başladı: ${dayNum} ${monthName} ${year} saat ${hourStr}:00 (${dateId})`);
 
-  // 1. Mevcut testleri oku ve slug listesini çıkar (tekrarı önlemek için)
+  // 1. Mevcut haberleri oku ve slug listesini çıkar (tekrarı önlemek için)
   let dailyQuizzes = [];
   try {
     const fileContent = await fs.readFile(dataFilePath, "utf-8");
@@ -63,96 +70,138 @@ async function generateDailyContent() {
   }
 
   const previousSlugs = dailyQuizzes.map(q => q.slug);
-  console.log(`[AI] Mevcut sayfa sayısı: ${dailyQuizzes.length}. Mevcut konular: ${previousSlugs.join(", ")}`);
+  console.log(`[AI] Mevcut sayfa sayısı: ${dailyQuizzes.length}. Mevcut haber slugları: ${previousSlugs.slice(-5).join(", ")}`);
 
-  // 2. Gemini API'den içerik iste
-  const prompt = `Bugünün tarihi: ${dayNum} ${monthName}.
-Tarihte bugün veya yakın zamanda gerçekleşmiş, Türk okuyucusunun ilgisini çekecek önemli, merak uyandıran tarihi, bilimsel, coğrafi veya kültürel bir olay/konu seç. 
-Seçtiğin bu konu hakkında detaylı, bilgilendirici, Türkçe bir SEO makalesi ve 15 soruluk bir test hazırla.
+  // 2. Gemini 3.5 Flash API'den Google Search Grounding ile haber içeriği ve görsel promptu iste
+  const prompt = `Bugünün tarihi: ${dayNum} ${monthName} ${year}. 
+Google Search aracını kullanarak Türkiye gündemindeki (politika, teknoloji, bilim, ekonomi, dünya, spor veya genel kültür alanlarında) en popüler, dikkat çekici, Google Discover (keşfet) sayfasına düşebilecek güncel bir haber veya olay seç.
+
+Seçtiğin bu konu hakkında detaylı, bilgilendirici, Türkçe bir haber makalesi ve bu haberi en iyi şekilde tasvir eden İngilizce bir görsel üretim promptu (imagePrompt) hazırla.
 
 Önemli Kurallar:
-1. Konu kategorisini 'tarih', 'bilim', 'sanat' veya 'genel' olarak belirt.
-2. Daha önce şu konular hakkında içerik üretildi: [${previousSlugs.join(", ")}]. Lütfen bu listede yer alan konularla kesinlikle aynı veya çok benzer olmayan TAMAMEN FARKLI ve özgün bir olay seç.
-3. Soruların 4 şıkkı olmalı (options dizisinde tam olarak 4 eleman).
-4. correctAnswer 0 ile 3 arasında bir indeks olmalı.
-5. explanation kısmında, cevabın neden doğru olduğunu ve o şıkla ilgili kısa, bilgilendirici bir açıklama yap.
-6. JSON çıktısı geçerli olmalı ve şablona birebir uymalı.`;
+1. Seçilen haber güncel ve gerçek olmalıdır.
+2. Haberi klasik bir haber ajansı (örn. TRT Haber, NTV, CNN Türk, DonanımHaber) tarzında, profesyonel, objektif ve zengin bir Türkçe ile yaz.
+3. Başlık (heading) çarpıcı, merak uyandırıcı ve SEO uyumlu olmalıdır.
+4. Makale içeriği en az 4-5 detaylı paragraf içermelidir (paragraf geçişlerinde \\n\\n kullan).
+5. "imagePrompt" alanı, "gemini-3.1-flash-image" modelinde kullanılmak üzere, haber konusunu profesyonel bir haber fotoğrafçılığı stilinde tasvir eden detaylı bir İngilizce prompt olmalıdır. Promptun içinde kesinlikle metin, yazı, logo, imza veya filigran (watermark) bulunmamasını İngilizce olarak belirt (örn: "professional news photo style, photorealistic, 8k resolution, no text, no logos").
+6. Daha önce şu konular hakkında haber/içerik üretildi: [${previousSlugs.join(", ")}]. Bu konularla kesinlikle aynı veya çok benzer olmayan TAMAMEN FARKLI ve özgün bir olay seç.
+7. JSON çıktısı geçerli olmalı ve şablona birebir uymalı.`;
 
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${apiKey}`;
+  const textApiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent?key=${apiKey}`;
 
   const requestBody = {
     contents: [{
       parts: [{ text: prompt }]
+    }],
+    tools: [{
+      googleSearch: {}
     }],
     generationConfig: {
       responseMimeType: "application/json",
       responseSchema: {
         type: "OBJECT",
         properties: {
-          title: { type: "STRING", description: "Sayfa SEO başlığı (örn: 'Newton Kimdir? Hayatı ve Buluşları | GenelKultur')" },
-          description: { type: "STRING", description: "Sayfa SEO açıklaması (meta description)" },
-          keywords: { type: "ARRAY", items: { type: "STRING" }, description: "SEO anahtar kelimeleri" },
-          heading: { type: "STRING", description: "Yazının ana başlığı (örn: 'Yerçekiminin Keşfi: Isaac Newton')" },
-          intro: { type: "STRING", description: "Konuya kısa, merak uyandırıcı bir giriş paragrafı" },
-          article: { type: "STRING", description: "Konuyu detaylı anlatan makale içeriği (en az 3 paragraf, paragraf geçişlerinde \\n\\n kullan)" },
-          category: { type: "STRING", enum: ["genel", "tarih", "bilim", "sanat"], description: "Konunun kategorisi" },
-          questions: {
-            type: "ARRAY",
-            items: {
-              type: "OBJECT",
-              properties: {
-                id: { type: "INTEGER" },
-                text: { type: "STRING", description: "Soru metni" },
-                options: { type: "ARRAY", items: { type: "STRING" } },
-                correctAnswer: { type: "INTEGER", description: "Doğru şıkkın indeksi (0-3)" },
-                explanation: { type: "STRING", description: "Doğru cevabın açıklaması" }
-              },
-              required: ["id", "text", "options", "correctAnswer", "explanation"]
-            }
-          }
+          title: { type: "STRING", description: "Haberin SEO sayfa başlığı (örn: 'Togg T10F Yol Testlerine Başladı | GK Haber')" },
+          description: { type: "STRING", description: "Haberin SEO açıklaması (meta description)" },
+          keywords: { type: "ARRAY", items: { type: "STRING" }, description: "Haber SEO anahtar kelimeleri" },
+          heading: { type: "STRING", description: "Haberin ana başlığı (örn: 'Yollarda Yeni Dönem: Togg T10F Test Ediliyor')" },
+          intro: { type: "STRING", description: "Haberin kısa, dikkat çekici özet giriş paragrafı" },
+          article: { type: "STRING", description: "Detaylı haber metni (en az 4-5 paragraf, paragraf geçişlerinde \\n\\n kullan)" },
+          category: { type: "STRING", enum: ["gundem", "teknoloji", "bilim", "ekonomi", "dunya", "spor", "sanat"], description: "Haberin kategorisi" },
+          imagePrompt: { type: "STRING", description: "Görsel üretmek için kullanılacak detaylı İngilizce prompt" }
         },
-        required: ["title", "description", "keywords", "heading", "intro", "article", "category", "questions"]
+        required: ["title", "description", "keywords", "heading", "intro", "article", "category", "imagePrompt"]
       }
     }
   };
 
-  const response = await fetch(url, {
+  console.log("[AI] Gemini 3.5 Flash üzerinden haber metni ve görsel promptu üretiliyor...");
+  const textResponse = await fetch(textApiUrl, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify(requestBody)
   });
 
-  if (!response.ok) {
-    const errorText = await response.text();
-    console.error(`HATA: Gemini API yanıt vermedi. Statü: ${response.status}. Detay: ${errorText}`);
+  if (!textResponse.ok) {
+    const errorText = await textResponse.text();
+    console.error(`HATA: Gemini API yanıt vermedi. Statü: ${textResponse.status}. Detay: ${errorText}`);
     process.exit(1);
   }
 
-  const result = await response.json();
-  const textResponse = result.candidates?.[0]?.content?.parts?.[0]?.text;
+  const result = await textResponse.json();
+  const textResponseContent = result.candidates?.[0]?.content?.parts?.[0]?.text;
 
-  if (!textResponse) {
-    console.error("HATA: Gemini geçerli bir yanıt üretmedi.", JSON.stringify(result));
+  if (!textResponseContent) {
+    console.error("HATA: Gemini geçerli bir metin yanıtı üretmedi.", JSON.stringify(result));
     process.exit(1);
   }
 
-  const parsedData = JSON.parse(textResponse);
+  const parsedData = JSON.parse(textResponseContent);
   const slug = slugify(parsedData.heading);
 
-  // Oluşturulan içeriğin slug'ının çakışmadığından emin ol
+  // Çakışmayı önle
   if (previousSlugs.includes(slug)) {
-    console.log(`[AI] '${slug}' konusu zaten mevcut. Yeni içerik üretilmedi, atlanıyor.`);
-    process.exit(0); // Hata değil, başarılı çıkış — değişiklik olmadığı için deploy da tetiklenmez
+    console.log(`[AI] '${slug}' haberi zaten mevcut. Yeni haber üretilmedi, atlanıyor.`);
+    process.exit(0);
   }
 
-  const newQuiz = {
+  // 3. Gemini 3.1 Flash Image API kullanarak haber görselini üret
+  let imageUrl = "";
+  if (parsedData.imagePrompt) {
+    try {
+      console.log(`[AI] Gemini 3.1 Flash Image üzerinden görsel üretiliyor... Prompt: "${parsedData.imagePrompt}"`);
+      const imageApiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-image:generateContent?key=${apiKey}`;
+      const imageRequestBody = {
+        contents: [{
+          parts: [{ text: parsedData.imagePrompt }]
+        }],
+        generationConfig: {
+          responseMimeType: "image/png",
+          aspectRatio: "16:9"
+        }
+      };
+
+      const imageResponse = await fetch(imageApiUrl, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(imageRequestBody)
+      });
+
+      if (imageResponse.ok) {
+        const imageResult = await imageResponse.json();
+        const base64Data = imageResult.candidates?.[0]?.content?.parts?.[0]?.inlineData?.data;
+
+        if (base64Data) {
+          const imageDir = path.join(rootDir, "public", "images", "news");
+          await fs.mkdir(imageDir, { recursive: true });
+          const imagePath = path.join(imageDir, `${slug}.png`);
+          await fs.writeFile(imagePath, Buffer.from(base64Data, "base64"));
+          imageUrl = `/images/news/${slug}.png`;
+          console.log(`[AI] Görsel başarıyla kaydedildi: ${imagePath}`);
+        } else {
+          console.warn("[AI] ⚠️ Görsel API'si base64 veri dönmedi, varsayılan görsel kullanılacak.");
+        }
+      } else {
+        const errTxt = await imageResponse.text();
+        console.warn(`[AI] ⚠️ Görsel API'si başarısız oldu (${imageResponse.status}): ${errTxt}`);
+      }
+    } catch (imageErr) {
+      console.error("[AI] ⚠️ Görsel üretimi/kaydı sırasında beklenmedik hata oluştu:", imageErr.message);
+    }
+  }
+
+  // imagePrompt'u TypeScript dosyasına eklemeye gerek yok, temizleyelim
+  delete parsedData.imagePrompt;
+
+  const newNewsItem = {
     slug,
     dateId,
+    imageUrl: imageUrl || undefined, // Görsel üretilmişse ekle
     ...parsedData
   };
 
-  // 3. dailyContent.ts dosyasını güncelle
-  dailyQuizzes.push(newQuiz);
+  // 4. dailyContent.ts dosyasını güncelle
+  dailyQuizzes.push(newNewsItem);
   const newFileContent = `export interface DailyQuestion {
   id: number;
   text: string;
@@ -171,19 +220,19 @@ export interface DailyQuiz {
   intro: string;
   article: string;
   category: string;
-  questions: DailyQuestion[];
+  imageUrl?: string;
+  questions?: DailyQuestion[];
 }
 
 export const dailyQuizzes: DailyQuiz[] = ${JSON.stringify(dailyQuizzes, null, 2)};\n`;
 
   await fs.writeFile(dataFilePath, newFileContent, "utf-8");
-  console.log(`[AI] Başarıyla yeni içerik eklendi. Konu: ${newQuiz.heading} (Kategori: ${newQuiz.category}, Rota: /test/${slug})`);
+  console.log(`[AI] Başarıyla yeni haber eklendi. Konu: ${newNewsItem.heading} (Kategori: ${newNewsItem.category}, Rota: /test/${slug})`);
 
-  // 4. sitemap.xml dosyasını güncelle
+  // 5. sitemap.xml dosyasını güncelle
   try {
     let sitemapContent = await fs.readFile(sitemapPath, "utf-8");
     const targetUrl = `https://genelkultur.com.tr/test/${slug}`;
-    const targetPlayUrl = `https://genelkultur.com.tr/test/${slug}/oyna`;
 
     if (!sitemapContent.includes(targetUrl)) {
       const closeTagIdx = sitemapContent.lastIndexOf("</urlset>");
@@ -192,11 +241,6 @@ export const dailyQuizzes: DailyQuiz[] = ${JSON.stringify(dailyQuizzes, null, 2)
     <loc>${targetUrl}</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>${targetPlayUrl}</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
   </url>\n`;
         
         sitemapContent = sitemapContent.slice(0, closeTagIdx) + newUrls + sitemapContent.slice(closeTagIdx);
@@ -208,13 +252,11 @@ export const dailyQuizzes: DailyQuiz[] = ${JSON.stringify(dailyQuizzes, null, 2)
     console.error("Sitemap güncellenirken bir hata oluştu:", err);
   }
 
-  // 5. Google Indexing API — yeni sayfaları doğrudan dizine bildir
+  // 6. Google Indexing API — yeni sayfaları doğrudan dizine bildir
   await notifyGoogleIndexingAPI(slug);
 }
 
 // ─── Google Indexing API ──────────────────────────────────────────────────────
-// Node.js built-in crypto ile RS256 JWT oluşturur — ekstra npm paketi gerekmez.
-
 async function getGoogleAccessToken(serviceAccountJson) {
   const sa = JSON.parse(serviceAccountJson);
   const now = Math.floor(Date.now() / 1000);
@@ -285,7 +327,6 @@ async function notifyGoogleIndexingAPI(slug) {
 
     const baseUrl = "https://genelkultur.com.tr";
     await indexUrl(accessToken, `${baseUrl}/test/${slug}`);
-    await indexUrl(accessToken, `${baseUrl}/test/${slug}/oyna`);
     await indexUrl(accessToken, `${baseUrl}/yapay-zeka-testleri`);
 
     console.log("[Indexing API] Tüm URL bildirimleri tamamlandı.");

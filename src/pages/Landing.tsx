@@ -235,13 +235,18 @@ export default function Landing() {
           </div>
         </section>
 
-        {/* ── BUGÜN NE OLDU ── */}
+        {/* ── BUGÜN NE OLDU (GK HABER) ── */}
         {dailyQuizzes.length > 0 && (() => {
           const catConfig: Record<string, { color: string; bg: string; icon: string; label: string }> = {
             tarih: { color: "#f97316", bg: "rgba(249,115,22,0.12)", icon: "history_edu", label: "Tarih" },
             bilim: { color: "#22d3ee", bg: "rgba(34,211,238,0.12)", icon: "science", label: "Bilim" },
             sanat: { color: "#a78bfa", bg: "rgba(167,139,250,0.12)", icon: "palette", label: "Sanat" },
             genel: { color: "#f2ca50", bg: "rgba(242,202,80,0.12)", icon: "public", label: "Genel Kültür" },
+            gundem: { color: "#ef4444", bg: "rgba(239,68,68,0.12)", icon: "gavel", label: "Gündem" },
+            teknoloji: { color: "#3b82f6", bg: "rgba(59,130,246,0.12)", icon: "devices", label: "Teknoloji" },
+            ekonomi: { color: "#10b981", bg: "rgba(16,185,129,0.12)", icon: "trending_up", label: "Ekonomi" },
+            dunya: { color: "#6366f1", bg: "rgba(99,102,241,0.12)", icon: "public", label: "Dünya" },
+            spor: { color: "#f59e0b", bg: "rgba(245,158,11,0.12)", icon: "sports_soccer", label: "Spor" }
           };
           const latest = [...dailyQuizzes].reverse().slice(0, 6);
           return (
@@ -250,20 +255,20 @@ export default function Landing() {
                 <div>
                   <p className="text-sm font-semibold uppercase tracking-[0.24em] text-primary flex items-center gap-2">
                     <span className="material-symbols-outlined text-base">auto_awesome</span>
-                    Yapay Zeka Editörü
+                    Günlük Haberler
                   </p>
-                  <h2 className="mt-3 text-3xl font-black tracking-tight text-on-surface md:text-4xl">
-                    Bugün Ne Oldu?
+                  <h2 className="mt-3 text-3xl font-serif font-black tracking-tight text-on-surface md:text-4xl">
+                    GK Haber - Günün Haberleri
                   </h2>
                   <p className="mt-2 text-sm text-on-surface-variant">
-                    Her gün yapay zeka tarafından üretilen güncel bilgi testleri.
+                    Türkiye ve dünyadan en güncel manşetler ve tarafsız analizler.
                   </p>
                 </div>
                 <Link
                   to={ROUTES.dailyList}
                   className="inline-flex items-center gap-2 self-start rounded-full border border-white/10 bg-surface-container-low/70 px-5 py-3 text-sm font-bold text-on-surface transition-all hover:-translate-y-0.5 hover:border-primary/30"
                 >
-                  Tüm AI Testleri
+                  Tüm Haberler
                   <span className="material-symbols-outlined text-base">arrow_forward</span>
                 </Link>
               </div>
@@ -271,19 +276,31 @@ export default function Landing() {
               <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-3">
                 {latest.map((item) => {
                   const cat = catConfig[item.category] ?? catConfig.genel;
+                  const hasQuestions = item.questions && item.questions.length > 0;
                   return (
                     <Link
                       key={item.slug}
                       to={`/test/${item.slug}`}
                       className="group relative overflow-hidden rounded-[1.6rem] border border-white/10 bg-surface-container-low/80 p-5 transition-all duration-300 hover:-translate-y-1 hover:border-white/20"
                     >
-                      {/* Dekoratif arka plan ikonu */}
-                      <span
-                        className="material-symbols-outlined pointer-events-none absolute -right-3 -top-3 select-none text-[5rem] opacity-[0.07] transition-transform duration-500 group-hover:scale-110"
-                        style={{ color: cat.color }}
-                      >
-                        {cat.icon}
-                      </span>
+                      {/* Manşet Görseli */}
+                      {item.imageUrl ? (
+                        <div className="aspect-[16/9] w-full overflow-hidden rounded-xl mb-3 border border-white/5 bg-black/15">
+                          <img
+                            src={item.imageUrl}
+                            alt={item.heading}
+                            className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
+                          />
+                        </div>
+                      ) : (
+                        /* Dekoratif arka plan ikonu */
+                        <span
+                          className="material-symbols-outlined pointer-events-none absolute -right-3 -top-3 select-none text-[5rem] opacity-[0.07] transition-transform duration-500 group-hover:scale-110"
+                          style={{ color: cat.color }}
+                        >
+                          {cat.icon}
+                        </span>
+                      )}
 
                       {/* Kategori rozeti */}
                       <div className="flex items-center justify-between mb-4">
@@ -294,30 +311,32 @@ export default function Landing() {
                           <span className="material-symbols-outlined text-xs">{cat.icon}</span>
                           {cat.label}
                         </span>
-                        <span className="text-[10px] text-on-surface-variant">
+                        <span className="text-[10px] text-on-surface-variant font-semibold">
                           {item.dateId
                             ? new Date(item.dateId).toLocaleDateString("tr-TR", { day: "numeric", month: "short" })
                             : ""}
                         </span>
                       </div>
 
-                      <h3 className="text-base font-black leading-7 text-on-surface line-clamp-2">
+                      <h3 className="text-base font-serif font-black leading-7 text-on-surface line-clamp-2 group-hover:text-primary transition-colors">
                         {item.heading}
                       </h3>
                       <p className="mt-2 text-xs leading-5 text-on-surface-variant line-clamp-2">
                         {item.intro}
                       </p>
 
-                      <div className="mt-4 flex items-center justify-between">
+                      <div className="mt-4 flex items-center justify-between border-t border-white/5 pt-3">
                         <span className="text-xs text-on-surface-variant flex items-center gap-1">
-                          <span className="material-symbols-outlined text-xs">quiz</span>
-                          {item.questions.length} soru
+                          <span className="material-symbols-outlined text-xs">
+                            {hasQuestions ? "quiz" : "article"}
+                          </span>
+                          {hasQuestions ? `${item.questions!.length} soru` : "Haber"}
                         </span>
                         <span
                           className="inline-flex items-center gap-1 text-xs font-black transition-transform duration-300 group-hover:translate-x-1"
                           style={{ color: cat.color }}
                         >
-                          Teste Git
+                          {hasQuestions ? "Teste Git" : "Haberi Oku"}
                           <span className="material-symbols-outlined text-sm">arrow_forward</span>
                         </span>
                       </div>

@@ -54,7 +54,9 @@ try {
   // Her yapay zeka testi ve oyun sayfası için rotaları ekle
   for (const quiz of dailyQuizzes) {
     prerenderRoutes.push(`/test/${quiz.slug}`);
-    prerenderRoutes.push(`/test/${quiz.slug}/oyna`);
+    if (quiz.questions && quiz.questions.length > 0) {
+      prerenderRoutes.push(`/test/${quiz.slug}/oyna`);
+    }
   }
 
   const template = await fs.readFile(path.join(distDir, "index.html"), "utf8");
