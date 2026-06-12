@@ -12,15 +12,27 @@
     <meta name="author" content="GenelKultur.com.tr" />
     <link rel="manifest" href="/site.webmanifest" />
     <!--app-head-->
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-9Y81QKXVRQ"></script>
+    <!-- Google Consent Mode Default Setup -->
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag() {
         dataLayer.push(arguments);
       }
-      gtag("js", new Date());
+      
+      const savedConsent = localStorage.getItem("cookie-consent-choice");
+      const consentState = savedConsent === "accepted" ? "granted" : "denied";
 
+      gtag("consent", "default", {
+        "ad_storage": consentState,
+        "analytics_storage": consentState,
+        "ad_user_data": consentState,
+        "ad_personalization": consentState
+      });
+    </script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-9Y81QKXVRQ"></script>
+    <script>
+      gtag("js", new Date());
       gtag("config", "G-9Y81QKXVRQ");
     </script>
     <script
