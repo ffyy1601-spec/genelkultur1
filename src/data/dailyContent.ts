@@ -21726,5 +21726,208 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Mandela, hapisten çıktıktan sonra ülkesinin ilk demokratik seçimlerinde Güney Afrika Devlet Başkanı seçilerek en önemli liderlik görevini üstlenmiştir."
       }
     ]
+  },
+  {
+    "slug": "goklerdeki-yildiz-valentina-tereskova-uzaya-cikan-ilk-kadin",
+    "dateId": "2026-06-12",
+    "title": "Uzayın Öncüsü: Valentina Tereşkova ve İlk Kadın Kozmonot Macerası | GenelKultur",
+    "description": "16 Haziran 1963'te uzaya çıkan ilk kadın olan Valentina Tereşkova'nın tarihi yolculuğunu, hayatını ve uzaydaki misyonunu keşfedin. Vostok 6 ile gerçekleştirdiği bu devrim niteliğindeki uçuşun insanlık ve uzay bilimi için önemini öğrenin.",
+    "keywords": [
+      "Valentina Tereşkova",
+      "ilk kadın kozmonot",
+      "Vostok 6",
+      "uzay tarihi",
+      "kadınlar uzayda",
+      "Sovyet uzay programı",
+      "uzay keşfi",
+      "16 Haziran 1963",
+      "Çayka"
+    ],
+    "heading": "Göklerdeki Yıldız: Valentina Tereşkova, Uzaya Çıkan İlk Kadın",
+    "intro": "İnsanlık tarihi boyunca uzay, hep merak ve keşif tutkusunun odak noktası olmuştur. Ancak 16 Haziran 1963 tarihi, bu keşif yolculuğunda çığır açan bir dönüm noktasına işaret eder: Sovyet kozmonot Valentina Tereşkova'nın, uzaya çıkan ilk kadın olarak tarihe geçmesi. Bu olay, sadece Sovyetler Birliği için değil, tüm dünya ve özellikle kadınların uzaydaki rolü için devrim niteliğindeydi.",
+    "article": "Valentina Vladimirovna Tereşkova, 6 Mart 1937'de Sovyetler Birliği'nin Yaroslavl Oblastı'nda küçük bir köyde dünyaya geldi. Genç yaşta bir tekstil fabrikasında çalışmaya başlayan Tereşkova'nın, gökyüzüne olan ilgisi paraşütçülük kulübüne katılmasıyla başladı. 1961 yılında, uzaya insan gönderme yarışında Batı ile rekabet eden Sovyetler Birliği, kadın kozmonot yetiştirme kararı aldı. Birçok aday arasından paraşütçülük geçmişi ve atletik yapısıyla dikkat çeken Tereşkova, bu özel programa seçilen dört kadından biri oldu. Zorlu eğitim süreçlerinden geçerek, uzayın bilinmeyenlerine meydan okumaya hazırlandı.\n\n16 Haziran 1963 tarihinde, Kazakistan'daki Baykonur Uzay Üssü'nden Vostok 6 uzay aracıyla fırlatılan Valentina Tereşkova, yörüngeye çıkan ilk kadın unvanını kazandı. Görev süresince 'Çayka' (Martı) çağrı adını kullanan Tereşkova, uzayda yaklaşık üç gün (70.8 saat) kalarak Dünya'nın 48 yörüngesini tamamladı. Bu süre zarfında, ağırlıksızlık durumunun kadın vücudu üzerindeki etkileri hakkında bilimsel veriler topladı, el yordamıyla uzay aracını yönetti ve gözlemlerini kayıt altına aldı. Görevi, dönemin gergin Soğuk Savaş atmosferinde Sovyet uzay programının büyük bir propaganda zaferi ve bilimsel bir başarısı olarak tarihe geçti.\n\nValentina Tereşkova'nın uzay uçuşu, sadece bir keşif değil, aynı zamanda kadınların bilim ve teknoloji alanındaki potansiyelini tüm dünyaya gösteren güçlü bir mesajdı. Uçuşundan sonra Sovyetler Birliği'nde ve uluslararası alanda büyük bir kahraman olarak karşılandı. Uzay kariyerinin ardından önemli politik ve sosyal görevler üstlenen Tereşkova, Sovyetler Birliği Yüksek Sovyeti'nde görev yaptı ve çeşitli uluslararası kadın örgütlerinde liderlik rolü oynadı. Günümüzde dahi aktif olan Tereşkova, uzay keşiflerinin ve kadınların bu alandaki temsilinin önemli bir sembolü olmaya devam etmektedir. Onun mirası, ilham verici cesareti ve insanlığın sınırları zorlama arzusunun bir göstergesidir.",
+    "category": "bilim",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Valentina Tereşkova hangi tarihte uzaya çıkarak tarihe geçmiştir?",
+        "options": [
+          "12 Nisan 1961",
+          "16 Haziran 1963",
+          "20 Temmuz 1969",
+          "6 Mart 1937"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Valentina Tereşkova, 16 Haziran 1963 tarihinde Vostok 6 ile uzaya çıkarak tarihteki ilk kadın kozmonot olmuştur. 12 Nisan 1961 Yuri Gagarin'in ilk insanlı uzay uçuşu, 20 Temmuz 1969 ise Ay'a ilk insan inişidir."
+      },
+      {
+        "id": 2,
+        "text": "Valentina Tereşkova uzaya hangi uzay aracıyla gitmiştir?",
+        "options": [
+          "Apollo 11",
+          "Soyuz",
+          "Vostok 6",
+          "Sputnik 1"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Valentina Tereşkova, Sovyetler Birliği'nin Vostok programı kapsamında geliştirilen Vostok 6 uzay aracıyla uzaya çıkmıştır."
+      },
+      {
+        "id": 3,
+        "text": "Valentina Tereşkova'nın uzaydaki çağrı kodu nedir?",
+        "options": [
+          "Şahin",
+          "Kartal",
+          "Martı",
+          "Ayı"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Valentina Tereşkova, uzaydaki görevi sırasında 'Çayka' (Martı) çağrı adını kullanmıştır. Bu isim, Slav dillerinde martı anlamına gelir."
+      },
+      {
+        "id": 4,
+        "text": "Tereşkova uzayda yaklaşık ne kadar süre kalmıştır?",
+        "options": [
+          "Birkaç saat",
+          "Bir gün",
+          "Üç gün",
+          "Bir hafta"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Valentina Tereşkova, uzayda yaklaşık olarak üç gün (70.8 saat) kalmış ve Dünya'nın 48 yörüngesini tamamlamıştır."
+      },
+      {
+        "id": 5,
+        "text": "Tereşkova uzaya çıkmadan önce hangi mesleği yapıyordu ve hangi hobiyle ilgileniyordu?",
+        "options": [
+          "Öğretmen - resim",
+          "Doktor - yüzme",
+          "Tekstil işçisi - paraşütçülük",
+          "Mühendis - müzik"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Tereşkova, uzaya gitmeden önce bir tekstil fabrikasında çalışıyor ve amatör olarak paraşütçülük yapıyordu. Paraşütçülük geçmişi, kozmonot programına seçilmesinde önemli bir etken olmuştur."
+      },
+      {
+        "id": 6,
+        "text": "Valentina Tereşkova'nın uzay uçuşu hangi ülkenin uzay programı kapsamında gerçekleşmiştir?",
+        "options": [
+          "Amerika Birleşik Devletleri",
+          "Sovyetler Birliği",
+          "Çin",
+          "Avrupa Uzay Ajansı"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Valentina Tereşkova, Soğuk Savaş döneminde uzay yarışının önemli bir oyuncusu olan Sovyetler Birliği'nin uzay programı kapsamında uzaya gönderilmiştir."
+      },
+      {
+        "id": 7,
+        "text": "Tereşkova'nın uzaydaki görevinin ana bilimsel amaçlarından biri neydi?",
+        "options": [
+          "Ay'a ilk adım atmak",
+          "Uzayda bitki yetiştirmek",
+          "Ağırlıksızlığın kadın vücudu üzerindeki etkilerini incelemek",
+          "Mars'a robot göndermek"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Tereşkova'nın görevi, ağırlıksızlık durumunun kadın vücudu üzerindeki fizyolojik ve psikolojik etkilerini inceleyerek gelecekteki kadın kozmonot görevleri için veri toplamaktı."
+      },
+      {
+        "id": 8,
+        "text": "Valentina Tereşkova, uzaya çıkan 'ilk kadın' olmanın yanı sıra, hangi başka 'ilk' ile anılabilir?",
+        "options": [
+          "Uzayda yürüyen ilk kadın",
+          "Aynı anda uzayda iki kadın",
+          "Uzayda tek başına görev yapan ilk kadın",
+          "Uzay istasyonunda kalan ilk kadın"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Valentina Tereşkova, uzayda tek başına görev yapan ilk kadın olmuştur. Diğer şıklar daha sonraki uzay görevlerinde gerçekleşen 'ilk'lerdir."
+      },
+      {
+        "id": 9,
+        "text": "Tereşkova'nın görevi, hangi dönemin uluslararası rekabet atmosferinde gerçekleşmiştir?",
+        "options": [
+          "Birinci Dünya Savaşı",
+          "İkinci Dünya Savaşı",
+          "Soğuk Savaş",
+          "Küreselleşme Çağı"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Tereşkova'nın uzay uçuşu, Sovyetler Birliği ile Amerika Birleşik Devletleri arasında yoğun bir uzay ve ideolojik rekabetin yaşandığı Soğuk Savaş döneminde gerçekleşmiştir."
+      },
+      {
+        "id": 10,
+        "text": "Vostok 6 uzay aracı, Tereşkova'yı hangi uzay üssünden fırlatmıştır?",
+        "options": [
+          "Kennedy Uzay Merkezi",
+          "Plesetsk Uzay Üssü",
+          "Başkent Uzay Üssü",
+          "Baykonur Uzay Üssü"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Vostok 6, günümüz Kazakistan sınırları içinde yer alan ve Sovyet uzay programının ana fırlatma tesisi olan Baykonur Uzay Üssü'nden fırlatılmıştır."
+      },
+      {
+        "id": 11,
+        "text": "Tereşkova'nın uzay uçuşundan sonraki kariyeri hakkında aşağıdakilerden hangisi doğrudur?",
+        "options": [
+          "Tekrar uzaya gitmemiştir",
+          "Sadece bilimsel araştırmalara devam etmiştir",
+          "Önemli politik ve sosyal görevler üstlenmiştir",
+          "Uzay programından tamamen ayrılmıştır"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Valentina Tereşkova, uzay uçuşundan sonra Sovyetler Birliği Yüksek Sovyeti'nde görev yapmış ve uluslararası kadın örgütlerinde liderlik gibi önemli politik ve sosyal görevler üstlenmiştir."
+      },
+      {
+        "id": 12,
+        "text": "Valentina Tereşkova'nın doğum tarihi nedir?",
+        "options": [
+          "16 Haziran 1963",
+          "6 Mart 1937",
+          "12 Nisan 1961",
+          "20 Temmuz 1969"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Valentina Tereşkova, 6 Mart 1937 tarihinde dünyaya gelmiştir. Diğer tarihler önemli uzay olaylarıdır ancak doğum tarihi değildir."
+      },
+      {
+        "id": 13,
+        "text": "Kadın kozmonot programı, Tereşkova'nın uzay uçuşuyla birlikte neyi simgelemiştir?",
+        "options": [
+          "Sadece erkeklerin uzayda görev yapabileceğini",
+          "Sovyetler Birliği'nin uzay yarışından çekildiğini",
+          "Kadınların bilim ve teknoloji alanındaki eşit potansiyelini",
+          "Uzay araştırmalarının sonunu"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Tereşkova'nın uzay uçuşu, kadınların bilim ve teknoloji alanında erkeklerle eşit yetenek ve potansiyele sahip olduğunu, hatta bu zorlu alanda bile başarılı olabileceğini tüm dünyaya göstermiştir."
+      },
+      {
+        "id": 14,
+        "text": "Vostok 6 görevi sırasında Tereşkova kaç yörünge tamamlamıştır?",
+        "options": [
+          "12",
+          "24",
+          "48",
+          "72"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Valentina Tereşkova, Vostok 6 görevi süresince Dünya'nın 48 yörüngesini tamamlamıştır."
+      },
+      {
+        "id": 15,
+        "text": "Tereşkova'nın uzay yolculuğu, genel olarak uzay keşifleri açısından ne gibi bir etki yaratmıştır?",
+        "options": [
+          "Uzay keşiflerini yavaşlatmıştır",
+          "Kadınların uzaydaki rolünü sınırlamıştır",
+          "İnsanlığın sınırları zorlama arzusunu ve çeşitliliğini vurgulamıştır",
+          "Sadece Sovyetler Birliği ile sınırlı kalmıştır"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Tereşkova'nın yolculuğu, insanlığın uzay keşiflerinde cinsiyet ayrımı gözetmeksizin sınırları zorlama arzusunu ve bu alandaki çeşitliliğin önemini tüm dünyaya göstermiş, gelecek nesillere ilham vermiştir."
+      }
+    ]
   }
 ];
