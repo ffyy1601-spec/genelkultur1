@@ -66,6 +66,17 @@ async function generateDailyContent() {
     process.exit(1);
   }
 
+  // API modellerini listele (hata tespiti için geçici günlük kaydı)
+  try {
+    const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models?key=${apiKey}`);
+    if (res.ok) {
+      const data = await res.json();
+      console.log("[AI] Kullanılabilir modeller:", data.models.map(m => m.name.split("/").pop()));
+    }
+  } catch (err) {
+    console.log("[AI] Modeller listelenirken hata oluştu:", err.message);
+  }
+
   const today = new Date();
   // Türkiye saatine (+3 saat) göre zamanı kaydır
   const turkeyTime = new Date(today.getTime() + (3 * 60 * 60 * 1000));
@@ -171,82 +182,86 @@ Seçtiğin bu konu hakkında detaylı, bilgilendirici, Türkçe bir haber makale
     process.exit(0);
   }
 
-  // 3. Görsel API'leri kullanarak haber görselini üret
+  // 3. Görsel API'lerini kullanarak haber görselini üret
   let imageUrl = "";
   if (parsedData.imagePrompt) {
     let base64Data = "";
     
-    // Yöntem A: Resmi Imagen-3 (imagen-3.0-generate-002) ile üret (Tavsiye edilen standart yöntem)
-    try {
-      console.log(`[AI] Imagen 3.0 (imagen-3.0-generate-002) üzerinden görsel üretiliyor... Prompt: "${parsedData.imagePrompt}"`);
-      const imageApiUrl = `https://generativelanguage.googleapis.com/v1beta/models/imagen-3.0-generate-002:generateImages?key=${apiKey}`;
-      const imageRequestBody = {
-        prompt: parsedData.imagePrompt,
-        config: {
-          numberOfImages: 1,
-          outputMimeType: "image/png",
-          aspectRatio: "16:9"
-        }
-      };
+    // Güçlü ve esnek görsel üretim modeli listesi (Sırayla denenecek)
+    const modelCandidates = [
+      { name: "imagen-4.0-generate-001", type: "imagen" },
+      { name: "imagen-3.0-generate-002", type: "imagen" },
+      { name: "gemini-3.1-flash-image", type: "gemini" }
+    ];
 
-      const imageResponse = await fetchWithRetry(imageApiUrl, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(imageRequestBody)
-      });
-
-      if (imageResponse.ok) {
-        const imageResult = await imageResponse.json();
-        base64Data = imageResult.generatedImages?.[0]?.image?.imageBytes;
-        if (base64Data) {
-          console.log(`[AI] Imagen 3.0 ile görsel başarıyla üretildi.`);
-        }
-      } else {
-        const errTxt = await imageResponse.text();
-        console.warn(`[AI] ⚠️ Imagen 3.0 API'si başarısız oldu (${imageResponse.status}): ${errTxt}`);
-      }
-    } catch (imageErr) {
-      console.warn(`[AI] ⚠️ Imagen 3.0 üretimi sırasında beklenmedik hata oluştu: ${imageErr.message}`);
-    }
-
-    // Yöntem B (Yedek): Eğer Imagen-3 başarısız olduysa gemini-3.1-flash-image dene
-    if (!base64Data) {
+    for (const model of modelCandidates) {
       try {
-        console.log(`[AI] Yedek yöntem: gemini-3.1-flash-image üzerinden görsel üretiliyor...`);
-        const imageApiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-image:generateContent?key=${apiKey}`;
-        const imageRequestBody = {
-          contents: [{
-            parts: [{ text: parsedData.imagePrompt }]
-          }],
-          generationConfig: {
-            responseMimeType: "image/png",
-            aspectRatio: "16:9"
-          }
-        };
+        console.log(`[AI] Görsel üretimi deneniyor: ${model.name} (${model.type})...`);
+        if (model.type === "imagen") {
+          const imageApiUrl = `https://generativelanguage.googleapis.com/v1beta/models/${model.name}:generateImages?key=${apiKey}`;
+          const imageRequestBody = {
+            prompt: parsedData.imagePrompt,
+            config: {
+              numberOfImages: 1,
+              outputMimeType: "image/png",
+              aspectRatio: "16:9"
+            }
+          };
 
-        const imageResponse = await fetchWithRetry(imageApiUrl, {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify(imageRequestBody)
-        });
+          const imageResponse = await fetchWithRetry(imageApiUrl, {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify(imageRequestBody)
+          });
 
-        if (imageResponse.ok) {
-          const imageResult = await imageResponse.json();
-          const imagePart = imageResult.candidates?.[0]?.content?.parts?.find(part => part.inlineData);
-          base64Data = imagePart?.inlineData?.data || imageResult.candidates?.[0]?.content?.parts?.[0]?.inlineData?.data;
-          if (base64Data) {
-            console.log(`[AI] gemini-3.1-flash-image (Yedek) ile görsel başarıyla üretildi.`);
+          if (imageResponse.ok) {
+            const imageResult = await imageResponse.json();
+            base64Data = imageResult.generatedImages?.[0]?.image?.imageBytes;
+            if (base64Data) {
+              console.log(`[AI] ✅ Görsel başarıyla üretildi (Model: ${model.name})`);
+              break; // Başarılı üretildiyse döngüden çık
+            }
+          } else {
+            const errTxt = await imageResponse.text();
+            console.warn(`[AI] ⚠️ ${model.name} API hatası (${imageResponse.status}): ${errTxt}`);
           }
-        } else {
-          const errTxt = await imageResponse.text();
-          console.warn(`[AI] ⚠️ Yedek Görsel API'si de başarısız oldu (${imageResponse.status}): ${errTxt}`);
+        } else if (model.type === "gemini") {
+          const imageApiUrl = `https://generativelanguage.googleapis.com/v1beta/models/${model.name}:generateContent?key=${apiKey}`;
+          const imageRequestBody = {
+            contents: [{
+              parts: [{ text: parsedData.imagePrompt }]
+            }],
+            generationConfig: {
+              responseMimeType: "image/png",
+              aspectRatio: "16:9"
+            }
+          };
+
+          const imageResponse = await fetchWithRetry(imageApiUrl, {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify(imageRequestBody)
+          });
+
+          if (imageResponse.ok) {
+            const imageResult = await imageResponse.json();
+            const imagePart = imageResult.candidates?.[0]?.content?.parts?.find(part => part.inlineData);
+            base64Data = imagePart?.inlineData?.data || imageResult.candidates?.[0]?.content?.parts?.[0]?.inlineData?.data;
+            if (base64Data) {
+              console.log(`[AI] ✅ Görsel başarıyla üretildi (Model: ${model.name})`);
+              break;
+            }
+          } else {
+            const errTxt = await imageResponse.text();
+            console.warn(`[AI] ⚠️ ${model.name} API hatası (${imageResponse.status}): ${errTxt}`);
+          }
         }
-      } catch (fallbackErr) {
-        console.error(`[AI] ⚠️ Yedek görsel üretimi sırasında da hata oluştu: ${fallbackErr.message}`);
+      } catch (err) {
+        console.warn(`[AI] ⚠️ ${model.name} denenirken hata oluştu: ${err.message}`);
       }
     }
 
-    // Görseli kaydet
+    // Görseli disk'e kaydet
     if (base64Data) {
       try {
         const imageDir = path.join(rootDir, "public", "images", "news");
@@ -254,7 +269,7 @@ Seçtiğin bu konu hakkında detaylı, bilgilendirici, Türkçe bir haber makale
         const imagePath = path.join(imageDir, `${slug}.png`);
         await fs.writeFile(imagePath, Buffer.from(base64Data, "base64"));
         imageUrl = `/images/news/${slug}.png`;
-        console.log(`[AI] Görsel başarıyla kaydedildi: ${imagePath}`);
+        console.log(`[AI] Görsel başarıyla diske kaydedildi: ${imagePath}`);
       } catch (saveErr) {
         console.error(`[AI] ⚠️ Görsel kaydedilirken disk hatası oluştu: ${saveErr.message}`);
       }
