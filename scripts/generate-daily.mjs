@@ -124,7 +124,7 @@ Seçtiğin bu konu hakkında detaylı, bilgilendirici, Türkçe bir haber makale
 7. Daha önce şu konular hakkında haber/içerik üretildi: [${previousSlugs.join(", ")}]. Bu konularla kesinlikle aynı veya çok benzer olmayan TAMAMEN FARKLI ve özgün bir olay seç.
 8. JSON çıktısı geçerli olmalı ve şablona birebir uymalı.`;
 
-  const textApiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent?key=${apiKey}`;
+  const textApiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash:generateContent?key=${apiKey}`;
 
   const requestBody = {
     contents: [{
@@ -153,7 +153,7 @@ Seçtiğin bu konu hakkında detaylı, bilgilendirici, Türkçe bir haber makale
     }
   };
 
-  console.log("[AI] Gemini 3.5 Flash üzerinden haber metni ve görsel promptu üretiliyor...");
+  console.log("[AI] Gemini 3.1 Flash üzerinden haber metni ve görsel promptu üretiliyor...");
   const textResponse = await fetchWithRetry(textApiUrl, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
