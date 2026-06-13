@@ -108,7 +108,7 @@ async function generateDailyContent() {
   const previousSlugs = dailyQuizzes.map(q => q.slug);
   console.log(`[AI] Mevcut sayfa sayısı: ${dailyQuizzes.length}. Mevcut haber slugları: ${previousSlugs.slice(-5).join(", ")}`);
 
-  // 2. Gemini 3.5 Flash API'den Google Search Grounding ile haber içeriği ve görsel promptu iste
+  // 2. Gemini 3.1 Flash-Lite API'den Google Search Grounding ile haber içeriği ve görsel promptu iste
   const prompt = `Bugünün tarihi: ${dayNum} ${monthName} ${year}. 
 Google Search aracını kullanarak Türkiye gündemindeki en popüler, merak uyandırıcı, 'magazin, popüler kültür, sinema, dizi, teknoloji, spor, dünya, ekonomi veya bilim' alanlarında, Google Discover (keşfet) sayfasına düşebilecek yüksek tıklama (High-CTR) potansiyeli olan güncel bir haber veya olay seç.
 
@@ -124,7 +124,7 @@ Seçtiğin bu konu hakkında detaylı, bilgilendirici, Türkçe bir haber makale
 7. Daha önce şu konular hakkında haber/içerik üretildi: [${previousSlugs.join(", ")}]. Bu konularla kesinlikle aynı veya çok benzer olmayan TAMAMEN FARKLI ve özgün bir olay seç.
 8. JSON çıktısı geçerli olmalı ve şablona birebir uymalı.`;
 
-  const textApiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash:generateContent?key=${apiKey}`;
+  const textApiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite:generateContent?key=${apiKey}`;
 
   const requestBody = {
     contents: [{
@@ -153,7 +153,7 @@ Seçtiğin bu konu hakkında detaylı, bilgilendirici, Türkçe bir haber makale
     }
   };
 
-  console.log("[AI] Gemini 3.1 Flash üzerinden haber metni ve görsel promptu üretiliyor...");
+  console.log("[AI] Gemini 3.1 Flash-Lite üzerinden haber metni ve görsel promptu üretiliyor...");
   const textResponse = await fetchWithRetry(textApiUrl, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
@@ -188,8 +188,8 @@ Seçtiğin bu konu hakkında detaylı, bilgilendirici, Türkçe bir haber makale
   if (parsedData.imagePrompt) {
     let base64Data = "";
     try {
-      console.log(`[AI] imagen-3.0-generate-002 üzerinden görsel üretiliyor... Prompt: "${parsedData.imagePrompt}"`);
-      const imageApiUrl = `https://generativelanguage.googleapis.com/v1beta/models/imagen-3.0-generate-002:generateImages?key=${apiKey}`;
+      console.log(`[AI] imagen-4.0-fast-generate-001 üzerinden görsel üretiliyor... Prompt: "${parsedData.imagePrompt}"`);
+      const imageApiUrl = `https://generativelanguage.googleapis.com/v1beta/models/imagen-4.0-fast-generate-001:generateImages?key=${apiKey}`;
       const imageRequestBody = {
         prompt: parsedData.imagePrompt,
         numberOfImages: 1,
@@ -207,7 +207,7 @@ Seçtiğin bu konu hakkında detaylı, bilgilendirici, Türkçe bir haber makale
         const imageResult = await imageResponse.json();
         base64Data = imageResult.generatedImages?.[0]?.image?.imageBytes;
         if (base64Data) {
-          console.log(`[AI] ✅ Görsel başarıyla üretildi (imagen-3.0-generate-002)`);
+          console.log(`[AI] ✅ Görsel başarıyla üretildi (imagen-4.0-fast-generate-001)`);
         } else {
           console.warn("[AI] ⚠️ Görsel verisi base64 olarak alınamadı.");
         }
