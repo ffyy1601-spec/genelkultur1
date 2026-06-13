@@ -188,13 +188,15 @@ Seçtiğin bu konu hakkında detaylı, bilgilendirici, Türkçe bir haber makale
   if (parsedData.imagePrompt) {
     let base64Data = "";
     try {
-      console.log(`[AI] imagen-4.0-fast-generate-001 üzerinden görsel üretiliyor... Prompt: "${parsedData.imagePrompt}"`);
-      const imageApiUrl = `https://generativelanguage.googleapis.com/v1beta/models/imagen-4.0-fast-generate-001:generateImages?key=${apiKey}`;
+      console.log(`[AI] gemini-3.1-flash-image üzerinden görsel üretiliyor... Prompt: "${parsedData.imagePrompt}"`);
+      const imageApiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-image:generateContent?key=${apiKey}`;
       const imageRequestBody = {
-        prompt: parsedData.imagePrompt,
-        numberOfImages: 1,
-        outputMimeType: "image/png",
-        aspectRatio: "16:9"
+        contents: [{
+          parts: [{ text: parsedData.imagePrompt }]
+        }],
+        generationConfig: {
+          responseModalities: ["IMAGE"]
+        }
       };
 
       const imageResponse = await fetchWithRetry(imageApiUrl, {
@@ -205,11 +207,11 @@ Seçtiğin bu konu hakkında detaylı, bilgilendirici, Türkçe bir haber makale
 
       if (imageResponse.ok) {
         const imageResult = await imageResponse.json();
-        base64Data = imageResult.generatedImages?.[0]?.image?.imageBytes;
+        base64Data = imageResult.candidates?.[0]?.content?.parts?.[0]?.inlineData?.data || imageResult.candidates?.[0]?.content?.parts?.[0]?.inline_data?.data;
         if (base64Data) {
-          console.log(`[AI] ✅ Görsel başarıyla üretildi (imagen-4.0-fast-generate-001)`);
+          console.log(`[AI] ✅ Görsel başarıyla üretildi (gemini-3.1-flash-image)`);
         } else {
-          console.warn("[AI] ⚠️ Görsel verisi base64 olarak alınamadı.");
+          console.warn("[AI] ⚠️ Görsel verisi base64 olarak alınamadı. Yanıt detayı:", JSON.stringify(imageResult));
         }
       } else {
         const errTxt = await imageResponse.text();
