@@ -188,18 +188,13 @@ Seçtiğin bu konu hakkında detaylı, bilgilendirici, Türkçe bir haber makale
   if (parsedData.imagePrompt) {
     let base64Data = "";
     try {
-      console.log(`[AI] gemini-3.1-flash-image üzerinden görsel üretiliyor... Prompt: "${parsedData.imagePrompt}"`);
-      const imageApiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-image:generateContent?key=${apiKey}`;
+      console.log(`[AI] imagen-3.0-generate-002 üzerinden görsel üretiliyor... Prompt: "${parsedData.imagePrompt}"`);
+      const imageApiUrl = `https://generativelanguage.googleapis.com/v1beta/models/imagen-3.0-generate-002:generateImages?key=${apiKey}`;
       const imageRequestBody = {
-        contents: [{
-          parts: [{ text: parsedData.imagePrompt }]
-        }],
-        generationConfig: {
-          responseModalities: ["TEXT", "IMAGE"],
-          imageConfig: {
-            aspectRatio: "16:9"
-          }
-        }
+        prompt: parsedData.imagePrompt,
+        numberOfImages: 1,
+        outputMimeType: "image/png",
+        aspectRatio: "16:9"
       };
 
       const imageResponse = await fetchWithRetry(imageApiUrl, {
@@ -210,10 +205,9 @@ Seçtiğin bu konu hakkında detaylı, bilgilendirici, Türkçe bir haber makale
 
       if (imageResponse.ok) {
         const imageResult = await imageResponse.json();
-        const imagePart = imageResult.candidates?.[0]?.content?.parts?.find(part => part.inlineData);
-        base64Data = imagePart?.inlineData?.data || imageResult.candidates?.[0]?.content?.parts?.[0]?.inlineData?.data;
+        base64Data = imageResult.generatedImages?.[0]?.image?.imageBytes;
         if (base64Data) {
-          console.log(`[AI] ✅ Görsel başarıyla üretildi (gemini-3.1-flash-image)`);
+          console.log(`[AI] ✅ Görsel başarıyla üretildi (imagen-3.0-generate-002)`);
         } else {
           console.warn("[AI] ⚠️ Görsel verisi base64 olarak alınamadı.");
         }
