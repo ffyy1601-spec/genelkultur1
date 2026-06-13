@@ -195,7 +195,10 @@ Seçtiğin bu konu hakkında detaylı, bilgilendirici, Türkçe bir haber makale
           parts: [{ text: parsedData.imagePrompt }]
         }],
         generationConfig: {
-          responseModalities: ["IMAGE"]
+          responseModalities: ["IMAGE"],
+          imageConfig: {
+            aspectRatio: "16:9"
+          }
         }
       };
 
