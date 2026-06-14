@@ -134,5 +134,142 @@ export const dailyQuizzes: DailyQuiz[] = [
     "intro": "Kuzey Amerika'nın ev sahipliğinde başlayan 2026 FIFA Dünya Kupası, sadece saha içindeki rekabetle değil, futbol tarihinde daha önce görülmemiş teknolojik yeniliklerle de spor dünyasının zirvesine yerleşti.",
     "article": "<p>Futbol dünyası, <strong>13 Haziran 2026</strong> itibarıyla bambaşka bir döneme tanıklık ediyor. ABD, Kanada ve Meksika'nın ortaklaşa düzenlediği <strong>2026 FIFA Dünya Kupası</strong>, sadece takımların mücadelesiyle değil, sahanın her noktasına entegre edilen ileri seviye teknolojilerle de adından söz ettiriyor. Uzun yıllar yetenek ve strateji üzerine kurulu olan futbol, artık veri ve yapay zeka destekli algoritmaların merkezinde yer aldığı bir arenaya dönüştü.</p><h3>Saniyenin 50'de Biri Hassasiyetinde Ofsayt Sistemi</h3><p>Turnuvanın en çok konuşulan yeniliklerinden biri, erkekler turnuvasında ilk kez tüm maçlarda kullanılan <strong>Yarı Otomatik Ofsayt Teknolojisi (SAOT)</strong> oldu. Sahaya yerleştirilen <strong>12 yüksek hızlı kamera</strong>, her oyuncunun iskelet modellemesini saniyede <strong>50 kare</strong> hızında takip ediyor. Bu sistem, ofsayt eşiğini geçmişteki 50 santimetreden <strong>10 santimetreye</strong> indirerek, kritik pozisyonlarda hakemlerin yükünü hafifletiyor ve adalet terazisini kusursuzlaştırıyor.</p><h3>Şarj Edilebilir Toplar ve Formula 1'den Gelen Çözümler</h3><p><ul><li><strong>Sensörlü Akıllı Top:</strong> Maç topları artık sadece deri ve havadan ibaret değil; içerisindeki çipler sayesinde milimetrik veri akışı sağlıyor ve maç öncesi şarj ediliyor.</li><li><strong>RefCam (Hakem Kamerası):</strong> Hakemlerin göğsüne yerleştirilen özel kameralar, izleyicilere oyunun tam merkezinden, oyuncu gözüyle bir deneyim sunuyor.</li><li><strong>İklim Kontrolü:</strong> Sıcak hava şartlarıyla başa çıkmak için turnuvada, yüksek performanslı araçlarda kullanılan <strong>Formula 1 soğutma teknolojileri</strong> stadyumlara entegre edildi.</li></ul></p><h3>Sinematik Bir Futbol Deneyimi</h3><p><strong>FIFA</strong> yetkililerinin \"geleceğin oyunu\" olarak nitelendirdiği bu teknolojik dönüşüm, sadece hakem kararlarını hızlandırmakla kalmıyor, aynı zamanda milyonlarca izleyiciye <strong>sinematik bir futbol deneyimi</strong> sunuyor. Genişletilmiş <strong>VAR</strong> uygulamaları ve anlık veri analizi platformları, oyunun duraklama süresini minimize ederken, taraftarların saha içindeki her saniyeye dair istatistiklere mobil uygulamalar üzerinden erişebilmesine olanak tanıyor.</p>",
     "category": "teknoloji"
+  },
+  {
+    "slug": "turkiye-24-yil-sonra-dunya-kupasi-arenasinda-85-milyonun-gozu-kanadadaki-dev-macta",
+    "dateId": "2026-06-13T07:00:00+03:00",
+    "imageUrl": "/images/news/turkiye-24-yil-sonra-dunya-kupasi-arenasinda-85-milyonun-gozu-kanadadaki-dev-macta.png",
+    "title": "24 Yıllık Dünya Kupası Hasreti Bitiyor! İşte Millilerin Avustralya Sınavı",
+    "description": "2026 FIFA Dünya Kupası'nda Türkiye, 24 yıl aradan sonra sahneye çıkıyor. Avustralya ile oynanacak kritik D Grubu karşılaşması öncesi tüm Türkiye kilitlendi. İşte dev maçın detayları ve milli heyecan.",
+    "keywords": [
+      "A Milli Takım",
+      "Dünya Kupası 2026",
+      "Türkiye Avustralya maçı",
+      "Vincenzo Montella",
+      "FIFA 2026",
+      "milli maç",
+      "futbol gündemi"
+    ],
+    "heading": "Türkiye 24 Yıl Sonra Dünya Kupası Arenasında: 85 Milyonun Gözü Kanada'daki Dev Maçta!",
+    "intro": "Türk futbol tarihinin unutulmaz günlerinden biri yaşanıyor. A Milli Futbol Takımı, 24 yıllık uzun bir aranın ardından 2026 FIFA Dünya Kupası'ndaki ilk sınavını Kanada'nın Vancouver şehrinde Avustralya'ya karşı veriyor.",
+    "article": "<p>Türkiye, büyük bir coşku ve umutla beklediği <strong>2026 FIFA Dünya Kupası</strong> serüvenine başlıyor. <strong>D Grubu</strong>'ndaki ilk maçında <strong>Avustralya</strong> ile karşı karşıya gelecek olan <strong>A Milli Takım</strong>, 24 yıl sonra yeniden dünyanın en büyük futbol sahnesinde boy gösteriyor. <strong>14 Haziran Pazar</strong> günü, Türkiye saati ile <strong>07.00</strong>'de <strong>Vancouver</strong>'daki <strong>BC Place</strong> stadyumunda başlayacak olan mücadele, milyonlarca futbolseveri ekran başına kilitleyecek.</p><h3>Hazırlıklar Tamamlandı, Montella'nın Gözü Zaferde</h3><p>Teknik direktör <strong>Vincenzo Montella</strong> yönetiminde <strong>Arizona</strong>'daki kamp sürecini başarıyla tamamlayan Ay-Yıldızlılar, ardından <strong>Kanada</strong>'ya geçerek son çalışmalarını <strong>Killarney Park</strong>'ta gerçekleştirdi. Takımın moral seviyesinin oldukça yüksek olduğu gözlenirken, oyuncuların büyük turnuva heyecanını sahaya yansıtmak için sabırsızlandığı belirtildi.</p><h3>Kadrodaki Son Durum ve Strateji</h3><p>Takımın yıldız ismi <strong>Kenan Yıldız</strong>'ın sakatlığı sebebiyle teknik heyetin tedbirli davrandığı biliniyor. <strong>Montella</strong>'nın, maç günü yapılacak kontrollerin ardından genç oyuncu hakkında nihai kararı vereceği açıklandı. Öte yandan, forvet hattında <strong>Kerem Aktürkoğlu</strong>'nun formda görüntüsü, millilerin hücum hattındaki en önemli kozu olarak öne çıkıyor. Millilerin muhtemel oyun planında:</p><ul><li>Savunma disiplininden taviz vermeden hızlı hücumlarla gol aramak</li><li><strong>Hakan Çalhanoğlu</strong>'nun liderliğinde orta saha kontrolünü elinde tutmak</li><li><strong>Avustralya</strong>'nın fiziksel oyununa karşı pas trafiğini hızlandırmak</li></ul><h3>Türkiye'de Maç Heyecanı: Meydanlar Kırmızı-Beyaz</h3><p>Türkiye genelinde milli maç heyecanı adeta bir seferberliğe dönüştü. İstanbul, Ankara ve diğer pek çok ilde belediyeler tarafından dev ekranlar kuruldu. <strong>İstanbul Büyükşehir Belediyesi</strong>; <strong>Eminönü</strong>, <strong>Üsküdar</strong> ve <strong>Maltepe</strong> gibi noktalarda taraftarları bir araya getiriyor. Bazı camilerde sabah namazı sonrasında kurulan ekranlarda maçın takip edilmesi ve vatandaşlara geleneksel ikramlarda bulunulması, bu büyük heyecanın toplumun her kesimini nasıl birleştirdiğinin bir göstergesi oldu.</p><h3>Fatih Terim'den Kritik Değerlendirme</h3><p>Deneyimli teknik direktör <strong>Fatih Terim</strong>, millilerin turnuvadaki şansına dair yaptığı açıklamada, Türkiye'nin potansiyelinin yüksek olduğunu vurgulayarak, <em>'Dünya Kupası'nın Türkiye'ye ihtiyacı var, ülkemiz büyük turnuvaları canlandırır'</em> ifadelerini kullandı. Terim, adım adım ilerlemenin stratejik önemine dikkat çekti.</p><p>Vancouver'da düdüğü <strong>Venezuela</strong> Futbol Federasyonu'ndan <strong>Jesús Valenzuela</strong>'nın çalacağı bu tarihi karşılaşma, Türkiye'nin Dünya Kupası'ndaki yeni sayfasının ilk cümlesi olacak. Tüm gözler, 85 milyonun kalbinin attığı Vancouver'a çevrilmiş durumda.</p>",
+    "category": "spor"
+  },
+  {
+    "slug": "turkiyenin-dijital-gelecegi-sekilleniyor-yapay-zeka-eylem-plani-aciklandi",
+    "dateId": "2026-06-13T14:00:00+03:00",
+    "imageUrl": "/images/news/turkiyenin-dijital-gelecegi-sekilleniyor-yapay-zeka-eylem-plani-aciklandi.png",
+    "title": "Türkiye Yapay Zeka Eylem Planı Açıklandı | GK Haber",
+    "description": "Cumhurbaşkanı Erdoğan'ın katılımıyla düzenlenen Türkiye Yapay Zeka Zirvesi'nde merakla beklenen Yapay Zeka Eylem Planı kamuoyuyla paylaşıldı. İşte detaylar.",
+    "keywords": [
+      "Türkiye Yapay Zeka Zirvesi",
+      "Yapay Zeka Eylem Planı",
+      "Recep Tayyip Erdoğan",
+      "teknoloji haberleri",
+      "dijital dönüşüm",
+      "yapay zeka 2026"
+    ],
+    "heading": "Türkiye'nin Dijital Geleceği Şekilleniyor: Yapay Zeka Eylem Planı Açıklandı",
+    "intro": "İstanbul'da düzenlenen Türkiye Yapay Zeka Zirvesi'nde, Türkiye'nin teknoloji odaklı vizyonunu belirleyecek olan 'Yapay Zeka Eylem Planı' Cumhurbaşkanı Recep Tayyip Erdoğan tarafından kamuoyuna duyuruldu.",
+    "article": "<h3>Yeni Nesil Teknoloji Stratejisi</h3><p>Türkiye, <strong>13 Haziran 2026</strong> tarihinde İstanbul'da düzenlenen <strong>Türkiye Yapay Zeka Zirvesi</strong> ile dijital dönüşüm yolculuğunda yeni bir döneme girdi. Etkinlikte, uzun süredir üzerinde çalışılan ve ülkenin gelecek yıllardaki teknolojik atılımlarını şekillendirecek olan <strong>Yapay Zeka Eylem Planı</strong> resmen açıklandı. Cumhurbaşkanı <strong>Recep Tayyip Erdoğan</strong>'ın bizzat katıldığı zirvede, yapay zekanın sadece bir yazılım aracı değil, ekonominin ve toplumsal yaşamın ana mimarı olacağı vurgulandı.</p><h3>Ekonomik ve Sosyal Dönüşümün Anahtarı</h3><p>Açıklanan eylem planı, Türkiye'nin küresel teknoloji yarışında rekabet gücünü artırmayı ve yerli çözümleri ön plana çıkarmayı hedefliyor. Plan kapsamında öne çıkan temel başlıklar şunlardır:</p><ul><li><strong>Yapay Zeka Yerel Geliştirme Platformları:</strong> Mühendislik süreçlerini hızlandıracak yerel yazılım ekosistemlerinin kurulması.</li><li><strong>Siber Güvenlikte Önleyici Yaklaşım:</strong> Saldırı sonrası onarım yerine saldırı öncesi koruma odaklı, yapay zeka destekli savunma mekanizmaları.</li><li><strong>İnsan Kaynağı ve Eğitim:</strong> Genç yeteneklerin yapay zeka alanında uzmanlaşması için özel teşvik ve eğitim programları.</li><li><strong>Etik ve Şeffaflık Standartları:</strong> Yapay zeka uygulamalarının etik ilkelere uygunluğunun denetlenmesi ve güven odaklı bir dijital altyapı inşası.</li></ul><h3>Sanayi ve Tarımda Dijital Devrim</h3><p>Eylem planı, teknolojiyle sınırlı kalmayıp <strong>tarım</strong> ve <strong>sanayi</strong> gibi sektörlerde de devrimsel adımları öngörüyor. Fiziksel yapay zeka (Physical AI) uygulamalarının üretim tesislerine entegrasyonu ile verimliliğin artırılması hedeflenirken, tarımsal verimliliği artıracak otonom sistemlerin yaygınlaştırılması kararlaştırıldı. Uzmanlar, bu planın Türkiye'nin <strong>2026 yılı</strong> ve sonrasında küresel pazarlardaki teknolojik egemenliğini güçlendireceği görüşünde birleşiyor.</p><h3>Küresel İş Birlikleri ve Hedefler</h3><p>Zirvede ayrıca, Türkiye'nin uluslararası teknoloji şirketleriyle yapacağı stratejik iş birliklerine de değinildi. Özellikle veri merkezleri ve bulut teknolojileri konusundaki altyapı yatırımlarının, Türkiye'yi bölgenin veri üssü haline getirmesi planlanıyor. <strong>Hazine ve Maliye Bakanlığı</strong> ile <strong>Sanayi ve Teknoloji Bakanlığı</strong> koordinesinde yürütülecek bu projeler, dijitalleşme sürecini 2026 yılı sonuna kadar hızlandıracak bir takvime bağlandı.</p>",
+    "category": "teknoloji"
+  },
+  {
+    "slug": "kuresel-ekonomide-devrim-elon-musk-dunyanin-ilk-dolar-trilyoneri-olarak-kayitlara-gecti",
+    "dateId": "2026-06-13T19:00:00+03:00",
+    "imageUrl": "/images/news/kuresel-ekonomide-devrim-elon-musk-dunyanin-ilk-dolar-trilyoneri-olarak-kayitlara-gecti.png",
+    "title": "Elon Musk Tarihe Geçti: Dünyanın İlk Dolar Trilyoneri Oldu",
+    "description": "Teknoloji dünyasının en büyük ismi Elon Musk, ulaştığı 1 trilyon dolarlık kişisel servetiyle ekonomi tarihinde yeni bir dönemi başlattı. İşte detaylar.",
+    "keywords": [
+      "Elon Musk",
+      "trilyoner",
+      "ekonomi",
+      "teknoloji",
+      "servet",
+      "Tesla",
+      "SpaceX",
+      "finans"
+    ],
+    "heading": "Küresel Ekonomide Devrim: Elon Musk Dünyanın İlk Dolar Trilyoneri Olarak Kayıtlara Geçti",
+    "intro": "Teknoloji ve inovasyon dünyasının en tartışmalı aynı zamanda en başarılı ismi olan Elon Musk, kişisel servetinde 1 trilyon dolar barajını aşarak modern ekonomi tarihinin ulaştığı en yüksek bireysel finansal eşiğe imza attı.",
+    "article": "<p>13 Haziran 2026 itibarıyla küresel finans piyasalarından gelen veriler, ekonomi dünyasında daha önce eşi benzeri görülmemiş bir gelişmeyi doğruladı. Tesla, SpaceX, Neuralink ve xAI gibi şirketlerin sahibi olan <strong>Elon Musk</strong>, kişisel servetini <strong>1 trilyon dolar</strong> seviyesinin üzerine taşıyarak dünya tarihinde bu unvana erişen ilk birey olarak kayıtlara geçti. Wall Street analistlerine göre, bu çarpıcı yükselişin arkasında özellikle yapay zeka entegreli otonom araç teknolojileri ve uzay lojistiğindeki devrimsel atılımlar yer alıyor.</p><h3>Ekonomik Büyümenin Arkasındaki İtici Güç</h3><p>Musk’ın servetindeki bu hızlı artışın temelinde, sahip olduğu şirketlerin 2026 yılının ilk iki çeyreğinde gösterdiği performans yatıyor. Uzmanlar, bu finansal patlamayı şu faktörlerle açıklıyor:</p><ul><li><strong>Otonom Sürüş Teknolojileri:</strong> Tesla’nın 2026 model yılı için duyurduğu tam otonom yapay zeka sürüş paketi, dünya genelinde satış rekorları kırdı.</li><li><strong>Yapay Zeka Yatırımları:</strong> xAI şirketi, kurumsal düzeydeki veri işleme kapasitesini üç katına çıkararak küresel teknoloji pazarında domine edici bir konum elde etti.</li><li><strong>Uzay Ekonomisi:</strong> SpaceX’in Ay ve Mars kolonizasyon projeleri için gerçekleştirdiği ticari yük taşıma operasyonları, şirketin piyasa değerini astronomik düzeylere taşıdı.</li></ul><h3>Yeni Bir Finansal Çağ mı Başlıyor?</h3><p>Ekonomistler, Musk’ın ulaştığı bu rakamın sadece kişisel bir başarı olmadığını, aynı zamanda <strong>küresel ekonomi</strong> dinamiklerinin teknoloji lehine ne kadar keskin bir şekilde değiştiğinin bir göstergesi olduğunu savunuyor. 1 trilyon dolarlık servet, birçok orta ölçekli ülkenin yıllık gayrisafi yurtiçi hasılasını (GSYH) geride bırakırken, Musk'ın bu kaynağı insanlığın geleceğine yönelik projelerde nasıl kullanacağı merak konusu oldu.</p><p><strong>New York Borsası</strong> uzmanları, 12 Haziran 2026 akşamı kapanış verileriyle netleşen bu gelişmenin ardından, teknoloji hisselerinde bir 'Musk Etkisi' dalgası yaşanabileceğini belirtiyor. Yatırımcılar, Musk'ın sahip olduğu şirketlerin gelecek dönemdeki stratejilerini ve bu servetin yaratacağı yeni iş kollarını yakından takip etmeye başladı.</p><h3>Eleştiriler ve Gelecek Projeksiyonu</h3><p>Büyük bir finansal başarının yanı sıra, bu kadar devasa bir servetin tek bir elde toplanması, dünya genelinde 'gelir adaletsizliği' ve 'şirketlerin devlet gücüyle yarışması' konularındaki tartışmaları da yeniden alevlendirdi. Sosyologlar, 2026 yılının sonuna doğru bu ekonomik dengenin, regülasyonlar ve yeni vergi düzenlemeleri ile nasıl bir şekil alacağını tartışmaya devam ediyor.</p><p>Elon Musk ise konuyla ilgili kısa bir değerlendirmesinde, servetin kendisi için bir amaç değil, 'insanlığı çok gezegenli bir tür yapma' vizyonunun sadece bir yan ürünü olduğunu ifade ederek, önümüzdeki ay Mars projeleriyle ilgili yeni bir açıklama yapacağının sinyallerini verdi.</p>",
+    "category": "ekonomi"
+  },
+  {
+    "slug": "sosyal-medyada-buyuk-panik-instagramda-kuresel-erisim-krizi",
+    "dateId": "2026-06-13T23:00:00+03:00",
+    "imageUrl": "/images/news/sosyal-medyada-buyuk-panik-instagramda-kuresel-erisim-krizi.png",
+    "title": "Instagram Çöktü mü? 13 Haziran 2026 Erişilemezlik Krizi | GK Haber",
+    "description": "13 Haziran 2026 Cumartesi günü Instagram dünya genelinde büyük bir erişim sorunu yaşıyor. Akış yenilenemiyor hatasının perde arkası ve kullanıcıları bekleyen son durum.",
+    "keywords": [
+      "Instagram çöktü mü",
+      "Instagram hata",
+      "13 Haziran 2026",
+      "teknoloji haberleri",
+      "sosyal medya erişim sorunu"
+    ],
+    "heading": "Sosyal Medyada Büyük Panik: Instagram'da Küresel Erişim Krizi!",
+    "intro": "Dünyanın en popüler sosyal medya platformlarından biri olan Instagram, 13 Haziran 2026 Cumartesi akşamı itibarıyla milyonlarca kullanıcıyı etkileyen küresel bir erişim sorunuyla karşı karşıya kaldı.",
+    "article": "<h3>Erişim Sorunu Milyonları Etkiledi</h3><p>Hafta sonunun ilk gününde akşam saatlerinde başlayan aksaklıklar, dünya genelinde <strong>Meta</strong> sunucularında büyük bir dalgalanmaya işaret ediyor. Kullanıcılar hesaplarına giriş yapmakta zorlanırken, platforma erişebilenlerin ise <strong>\"Akış yenilenemedi\"</strong> veya <strong>\"Sunucu bağlantısı kesildi\"</strong> uyarılarıyla karşılaştığı bildiriliyor.</p><h3>Downdetector Verileri alarm Veriyor</h3><p>Anlık hata raporlama servisi <strong>Downdetector</strong> üzerinden gelen veriler, şikayetlerin dakikalar içerisinde on binleri aştığını gösteriyor. Özellikle <strong>Avrupa</strong> ve <strong>Türkiye</strong> lokasyonlu giriş denemelerinde başarısızlık oranı zirveye ulaşmış durumda. Kullanıcılar, sadece ana akışın değil, <strong>Direct Message (DM)</strong> kutusu ve <strong>Hikayeler</strong> sekmesinin de yüklenemediğini rapor ediyor.</p><h3>Meta'dan Henüz Resmi Açıklama Yok</h3><p>Şu ana kadar <strong>Meta</strong> yönetiminden veya Instagram'ın teknik ekiplerinden sorunun kaynağına dair resmi bir açıklama gelmedi. Uzmanlar, sorunun sunucu bakımı veya küresel bir veri merkezi güncellemesinden kaynaklanabileceği üzerinde duruyor. Benzer bir durumun daha önce de yaşandığı ve genellikle birkaç saat içerisinde çözüldüğü hatırlatılıyor.</p><h3>Kullanıcılar Neler Yapabilir?</h3><ul><li>Uygulamayı tamamen kapatıp yeniden açmayı deneyin.</li><li>Cihazınızdaki önbelleği (cache) temizleyerek giriş yapmayı tekrar deneyin.</li><li>İnternet bağlantınızı kontrol edin; Wi-Fi yerine mobil veri üzerinden erişimi test edin.</li><li>Platformun durumunu anlık takip eden Downdetector veya benzeri siteleri kontrol ederek bölgenizdeki genel durumu gözlemleyin.</li></ul><p>Teknoloji dünyasının gözü kulağı <strong>Meta</strong> cephesinden gelecek açıklamalara çevrilmiş durumda. Sosyal medya platformunun normal işleyişine ne zaman döneceği ise hala belirsizliğini koruyor.</p>",
+    "category": "teknoloji"
+  },
+  {
+    "slug": "ekranlarin-yeni-yildizi-doganin-kanunu-ilk-bolumuyle-sosyal-medyayi-salladi",
+    "dateId": "2026-06-14T09:00:00+03:00",
+    "imageUrl": "/images/news/ekranlarin-yeni-yildizi-doganin-kanunu-ilk-bolumuyle-sosyal-medyayi-salladi.png",
+    "title": "Doğanın Kanunu Dizisi İlk Bölümüyle Zirveye Yerleşti | GK Haber",
+    "description": "Star TV'nin yeni dizisi Doğanın Kanunu, Alperen Duymaz ve Özge Yağız'lı kadrosuyla ekranlarda fırtınalar estiriyor. İşte dizi hakkında tüm detaylar.",
+    "keywords": [
+      "Doğanın Kanunu",
+      "Alperen Duymaz",
+      "Özge Yağız",
+      "Star TV yeni dizi",
+      "2026 yaz dizileri",
+      "magazin haberleri"
+    ],
+    "heading": "Ekranların Yeni Yıldızı Doğanın Kanunu: İlk Bölümüyle Sosyal Medyayı Salladı",
+    "intro": "Star TV'nin iddialı yaz dizisi Doğanın Kanunu, başrollerini paylaşan Alperen Duymaz ve Özge Yağız'ın uyumuyla izleyiciden tam not aldı. Yıllar önce bir felaketle kesilen yolların yeniden buluşmasını konu alan dizi, yayınlandığı ilk günden itibaren reyting listelerinde zirveye göz kırptı.",
+    "article": "<h3>Televizyon Dünyasında Yeni Bir Soluk</h3><p>Yaz sezonunun gelmesiyle birlikte ekranların dinamikleri yeniden değişirken, izleyicinin merakla beklediği yapımlardan biri olan <strong>Doğanın Kanunu</strong>, 10 Haziran 2026 tarihinde Star TV ekranlarında izleyiciyle buluştu. Ay Yapım imzalı proje, üç yıllık bir aranın ardından televizyon ekranlarına dönen yapım ekibinin en dikkat çekici çalışması olarak kayıtlara geçti.</p><h3>Karakterlerin Çatışmalı Dünyası</h3><p>Dizinin merkezinde, birbirinden tamamen farklı hayat görüşlerine sahip olan Yaman ve Doğa karakterleri yer alıyor. <strong>Alperen Duymaz</strong>'ın canlandırdığı Yaman ile <strong>Özge Yağız</strong>'ın hayat verdiği Doğa arasındaki gerilim, izleyiciyi ekran başına kilitliyor. Yıllar önce yaşanan ve felaketle sonuçlanan bir iş görüşmesi, bu iki zıt karakterin kaderini hiç beklemedikleri bir şekilde yeniden birleştirdi.</p><h3>Güçlü Kadro ve Teknik Detaylar</h3><p>Dizinin oyuncu kadrosunda başrol oyuncularının yanı sıra şu isimler dikkat çekiyor:</p><ul><li><strong>Hakan Yılmaz</strong></li><li><strong>Nur Yazar</strong></li><li><strong>Seda Türkmen</strong></li><li><strong>Hülya Duyar</strong></li><li><strong>Onur Berk Aslanoğlu</strong></li></ul><p>Yönetmen koltuğunda <strong>Ali Bilgin</strong> ve <strong>Beste Sultan Kasapoğulları</strong>'nın oturduğu yapım, görsel anlatımıyla da övgü topladı. Senaryosu <strong>Barış Erdoğan</strong> ve <strong>İlker Arslan</strong> tarafından kaleme alınan dizi, klasik bir yaz dizisi formatının ötesine geçerek derinlikli bir dram yapısı sunuyor.</p><h3>İzleyiciden Tam Not: Reytinglerde Büyük Başarı</h3><p>Yayınlandığı çarşamba akşamı sosyal medyada 'Trend Topic' listesinin üst sıralarına yerleşen <strong>Doğanın Kanunu</strong>, özellikle sosyal medya platformlarında karakter analizleri ve dizi müzikleriyle büyük yankı uyandırdı. Uzmanlar, dizinin bu başarısını 2026 yaz sezonunun en büyük çıkışlarından biri olarak değerlendiriyor.</p><h3>Gelecek Bölümlerde Neler Bekleniyor?</h3><p>Hikayenin ilerleyen bölümlerinde Yaman ve Doğa arasındaki çekişmenin nasıl bir aşk ilişkisine evrileceği merak konusu. Geçmişin sırlarının yavaş yavaş gün yüzüne çıkacağı dizide, izleyicileri sürprizli ve ters köşe sahneler bekliyor. Yapımcıların açıklamalarına göre, dizi boyunca karakter gelişimleri izleyiciyi dramatik ve duygusal bir yolculuğa çıkaracak.</p>",
+    "category": "magazin"
+  },
+  {
+    "slug": "dunya-ekonomisinde-yeni-cag-elon-muskin-trilyonerlik-yolculugu-ve-spacex-harekati",
+    "dateId": "2026-06-14T14:00:00+03:00",
+    "imageUrl": "/images/news/dunya-ekonomisinde-yeni-cag-elon-muskin-trilyonerlik-yolculugu-ve-spacex-harekati.png",
+    "title": "Elon Musk'ın Trilyonerlik Hikayesi: SpaceX'in Tarihi Halka Arzı Başlıyor",
+    "description": "Elon Musk, SpaceX'in dev halka arzı ile dünyanın ilk dolar trilyoneri oldu. Yatırımcıların merakla beklediği talep toplama süreci 17 Haziran'da resmen başlıyor.",
+    "keywords": [
+      "Elon Musk",
+      "SpaceX",
+      "halka arz",
+      "trilyoner",
+      "ekonomi",
+      "uzay teknolojileri",
+      "yatırım"
+    ],
+    "heading": "Dünya Ekonomisinde Yeni Çağ: Elon Musk'ın Trilyonerlik Yolculuğu ve SpaceX Harekâtı",
+    "intro": "Küresel finans piyasaları, teknoloji dünyasının en büyük halka arzlarından birine hazırlanıyor. SpaceX'in piyasa değerindeki baş döndürücü yükseliş, Elon Musk'ı tarihin ilk dolar trilyoneri yaparken, gözler 17 Haziran'da başlayacak talep toplama sürecine çevrildi.",
+    "article": "<h3>Teknoloji ve Sermayenin Dev Buluşması</h3><p>Dünya genelinde teknoloji ve sermaye piyasaları, <strong>Elon Musk</strong>'ın kurucusu olduğu <strong>SpaceX</strong> şirketinin halka arzıyla yeni bir döneme giriyor. Son günlerde açıklanan mali veriler ve yatırımcı ilgisi, şirketin değerlemesini görülmemiş seviyelere taşırken, <strong>Musk</strong> resmen dünyanın ilk <strong>dolar trilyoneri</strong> unvanına ulaştı. Bu gelişme, sadece bireysel bir servet artışı değil, aynı zamanda uzay ekonomisinin küresel piyasalardaki ağırlığının bir kanıtı olarak değerlendiriliyor.</p><h3>17 Haziran'da Başlayacak Süreç</h3><p>Yatırımcıların uzun süredir beklediği talep toplama işlemleri için geri sayım resmen başladı. <strong>17 Haziran 2026</strong> tarihinde başlayacak olan süreç, hem kurumsal hem de bireysel yatırımcılar tarafından yakından takip ediliyor. Uzmanlar, bu halka arzın son on yılın en büyük finansal operasyonlarından biri olacağını öngörüyor.</p><h3>Neler Bekleniyor?</h3><ul><li><strong>Küresel Likidite:</strong> Dünya genelinden dev fonların SpaceX hisselerine büyük ilgi göstermesi bekleniyor.</li><li><strong>Uzay Ekonomisi:</strong> Uydu interneti ve uzay taşımacılığı projelerinin şirketin gelecekteki büyüme motoru olması öngörülüyor.</li><li><strong>Teknoloji Entegrasyonu:</strong> Yapay zeka destekli otonom roket sistemlerinin verimlilik artışının, yatırımcı nezdinde güven tazelediği belirtiliyor.</li></ul><h3>Ekonomik Etkiler ve Gelecek Vizyonu</h3><p><strong>SpaceX</strong>'in ulaştığı bu finansal büyüklük, uzay sektöründeki özel girişimlerin gelecekteki rolünü de şekillendiriyor. <strong>İstanbul</strong>'da düzenlenen dijital dönüşüm zirvelerinde de sıkça vurgulandığı üzere, artık <strong>yapay zeka</strong>, <strong>5G</strong> ve <strong>uzay teknolojileri</strong> birbirine entegre bir şekilde çalışıyor. <strong>Elon Musk</strong>'ın bu başarısı, sadece bir şirketin değil, bir vizyonun da piyasalar tarafından onaylandığını gösteriyor. Analistler, önümüzdeki dönemde diğer teknoloji devlerinin de benzer stratejik hamleler yaparak piyasaları hareketlendireceğini ifade ediyor.</p>",
+    "category": "ekonomi"
+  },
+  {
+    "slug": "wall-streette-spacex-depremi-dev-sirket-ilk-gununde-21-trilyon-dolara-ulasti",
+    "dateId": "2026-06-14T19:00:00+03:00",
+    "imageUrl": "/images/news/wall-streette-spacex-depremi-dev-sirket-ilk-gununde-21-trilyon-dolara-ulasti.png",
+    "title": "SpaceX Borsada Fırtına Gibi Esti: Piyasa Değeri 2,1 Trilyon Dolara Ulaştı",
+    "description": "Elon Musk'ın havacılık devi SpaceX, Nasdaq'ta gerçekleştirdiği halka arz ile Wall Street'e tarihi bir giriş yaptı. Şirketin piyasa değeri 2,1 trilyon dolara ulaştı.",
+    "keywords": [
+      "SpaceX",
+      "Elon Musk",
+      "Nasdaq",
+      "halka arz",
+      "borsa",
+      "teknoloji haberleri",
+      "2026 teknoloji"
+    ],
+    "heading": "Wall Street’te SpaceX Depremi: Dev Şirket İlk Gününde 2,1 Trilyon Dolara Ulaştı",
+    "intro": "Havacılık ve uzay teknolojileri sektörünün öncüsü SpaceX, uzun süredir merakla beklenen halka arzını gerçekleştirdi. Nasdaq borsasındaki ilk işlem gününde hisselerinde yaşanan yüzde 19'luk artış, şirketin piyasa değerini 2,1 trilyon dolara taşıdı.",
+    "article": "<p>Dünya teknoloji ve finans çevrelerinin gözü, <strong>14 Haziran 2026</strong> tarihinde <strong>Nasdaq</strong> borsasına çevrilmiş durumdaydı. <strong>Elon Musk</strong> tarafından kurulan uzay taşımacılığı devi <strong>SpaceX</strong>, merakla beklenen halka arzını tamamlayarak borsada işlem görmeye başladı. Şirket, ilk gün gösterdiği performansla <strong>Wall Street</strong>'teki dengeleri kökten değiştirdi.</p><h3>Tarihi Başlangıç ve Rekor Değerleme</h3><p>Sabah saatlerinde <strong>150 dolarlık</strong> açılış fiyatıyla borsaya giriş yapan SpaceX hisseleri, yatırımcılardan gelen yoğun talep üzerine gün boyunca istikrarlı bir yükseliş grafiği izledi. İşlem gününün kapanışında <strong>160,95 dolar</strong> seviyesine ulaşan hisseler, şirketin piyasa değerinin <strong>2,1 trilyon dolar</strong> seviyesine çıkmasını sağladı. Bu büyüklük, SpaceX’i ABD borsalarındaki en değerli altıncı şirket konumuna yükseltti.</p><h3>Teknoloji Sektöründe Dengeler Değişiyor</h3><p>Analistler, SpaceX'in bu devasa girişinin teknoloji hisselerine olan bakışı güncellediğini belirtiyor. Özellikle <strong>yapay zeka</strong>, <strong>uzay keşfi</strong> ve <strong>uydu interneti</strong> gibi stratejik alanlardaki yatırımlarıyla dikkat çeken şirket, yatırım fonlarının portföylerini yeniden gözden geçirmesine yol açtı. İşte bu tarihi gelişmenin ardından öne çıkan ana başlıklar:</p><ul><li><strong>Piyasa Değeri:</strong> 2,1 Trilyon Dolar.</li><li><strong>Hisse Değişimi:</strong> İlk gün yüzde 19'luk artış.</li><li><strong>Sıralama:</strong> ABD'nin en değerli 6. şirketi.</li><li><strong>Yatırımcı İlgisi:</strong> Kurumsal ve bireysel yatırımcılardan yoğun talep.</li></ul><h3>Geleceğe Yatırım ve Stratejik Hamleler</h3><p>SpaceX'in sadece bir roket üreticisi değil, aynı zamanda <strong>Starlink</strong> üzerinden küresel çapta internet erişimi sağlayan dev bir altyapı kuruluşu olması, yatırımcıların şirkete olan güvenini artıran en önemli faktör olarak değerlendiriliyor. Uzmanlar, halka arzdan elde edilen gelirin, özellikle <strong>Mars</strong> yolculuğu ve <strong>yeni nesil Starship</strong> teknolojileri için Ar-Ge çalışmalarına aktarılacağını öngörüyor.</p><h3>Wall Street’in Yeni Gözdesi</h3><p><strong>Elon Musk</strong>'ın stratejik vizyonu ve <strong>SpaceX</strong>'in operasyonel başarıları, yatırımcılar tarafından uzun vadeli bir kazanç kapısı olarak görülüyor. Halka arzın ilk gününde yaşanan bu büyük çaplı yükseliş, 2026 yılının en dikkat çekici finansal olaylarından biri olarak tarihe geçti. Önümüzdeki günlerde diğer teknoloji devlerinin SpaceX'in bu başarısına nasıl yanıt vereceği ise merakla bekleniyor.</p>",
+    "category": "ekonomi"
   }
 ];
