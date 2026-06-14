@@ -642,16 +642,23 @@ export default function DailyLanding() {
           {/* Paylaş Row */}
           <div className="share-row">
             <button
-              onClick={() => window.open(`https://twitter.com/intent/tweet?url=${encodeURIComponent(window.location.href)}&text=${encodeURIComponent(quiz.heading)}`)}
+              onClick={() => window.open(`https://api.whatsapp.com/send?text=${encodeURIComponent(quiz.heading + " - " + window.location.href)}`, "_blank")}
+              className="share-btn"
+              style={{ borderColor: "#22c55e", color: "#15803d" }}
+            >
+              <span className="material-symbols-outlined text-sm" style={{ color: "#22c55e" }}>chat</span> WhatsApp
+            </button>
+            <button
+              onClick={() => window.open(`https://twitter.com/intent/tweet?url=${encodeURIComponent(window.location.href)}&text=${encodeURIComponent(quiz.heading)}`, "_blank")}
               className="share-btn"
             >
-              <span className="material-symbols-outlined text-sm">share</span> Paylaş
+              <span className="material-symbols-outlined text-sm">share</span> X (Twitter)
             </button>
             <button
               onClick={() => navigator.clipboard.writeText(window.location.href).then(() => alert("Haber linki kopyalandı!"))}
               className="share-btn"
             >
-              <span className="material-symbols-outlined text-sm">link</span> Bağlantıyı Kopyala
+              <span className="material-symbols-outlined text-sm">link</span> Kopyala
             </button>
           </div>
 

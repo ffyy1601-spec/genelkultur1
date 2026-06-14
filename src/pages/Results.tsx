@@ -78,6 +78,20 @@ export default function Results() {
     });
   };
 
+  const handleWhatsAppShareChallenge = () => {
+    const categoryTitle = category === "daily" ? "Günün Haber" : (category === "kpss" ? "KPSS Tarih" : (category.charAt(0).toUpperCase() + category.slice(1)));
+    const text = `⚔️ MEYDAN OKUMA!\n\nBen GenelKültür.com.tr'de "${categoryTitle}" testini çözdüm ve ${correct}/${total} skorunu elde ettim! 🧠\n\nBeni geçebilir misin? Hemen tıkla ve yarışa katıl:\n🔗 ${SITE_URL}${ROUTES.game}?category=${category}`;
+    window.open(`https://api.whatsapp.com/send?text=${encodeURIComponent(text)}`, "_blank");
+  };
+
+  const handleWhatsAppShareResult = () => {
+    const categoryTitle = category === "daily" ? "Günün Haber Testi" : "Bilgi Testi";
+    const level = gamificationResult?.newLevel || 1;
+    const titleText = getTitleForLevel(level);
+    const text = `🏆 GenelKültür.com.tr - YARIŞMA SONUCU\n\n🧠 Kategori: ${categoryTitle}\n🎯 Skor: ${correct}/${total} (${successRate}% Başarı)\n👑 Ünvan: Seviye ${level} • ${titleText.substring(2)}\n💬 Yorum: "${getHumorousComment(successRate)}"\n\nSen de test et ve karneni oluştur: ${SITE_URL}`;
+    window.open(`https://api.whatsapp.com/send?text=${encodeURIComponent(text)}`, "_blank");
+  };
+
   const statsTitle = gamificationResult ? getTitleForLevel(gamificationResult.newLevel) : "";
 
   return (
@@ -284,6 +298,14 @@ export default function Results() {
                       <span className="material-symbols-outlined text-sm">bolt</span>
                       {challengeCopied ? "Meydan Okuma Kopyalandı! ⚔️" : "ARKADAŞINA MEYDAN OKU ⚔️"}
                     </button>
+
+                    <button
+                      onClick={handleWhatsAppShareChallenge}
+                      className="flex w-full items-center justify-center gap-1.5 rounded-xl border border-green-500/30 bg-green-500/10 py-2.5 text-xs font-black text-green-500 transition-all hover:bg-green-500/20 hover:scale-[1.02] active:scale-95"
+                    >
+                      <span className="material-symbols-outlined text-sm" style={{ fontVariationSettings: "'FILL' 1" }}>chat</span>
+                      WHATSAPP'TA MEYDAN OKU ⚔️
+                    </button>
                   </div>
 
                   {/* Replay & Home Buttons */}
@@ -428,6 +450,15 @@ export default function Results() {
                 <span className="material-symbols-outlined text-sm">{copied ? "check" : "content_copy"}</span>
                 {copied ? "Sonuç Kopyalandı!" : "Metin Olarak Kopyala"}
               </button>
+
+              <button
+                onClick={handleWhatsAppShareResult}
+                className="flex items-center justify-center gap-2 rounded-xl bg-green-600 text-white py-3.5 text-sm font-bold transition-all shadow hover:bg-green-700 active:scale-95"
+              >
+                <span className="material-symbols-outlined text-sm">send</span>
+                WhatsApp'ta Sonucu Paylaş
+              </button>
+
               <button
                 onClick={() => { setShowReportCard(false); setCopied(false); }}
                 className="rounded-xl border border-white/10 bg-surface-container-high py-3.5 text-sm font-bold text-on-surface hover:bg-surface-container-highest transition-all"
