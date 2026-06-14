@@ -23,4 +23,5 @@ export const SITE_LINKS = [
   { label: "Genel Kultur Testi", to: ROUTES.categories },
   { label: "KPSS Tarih", to: ROUTES.kpssList },
   { label: "Günlük Haber", to: ROUTES.dailyList },
+  { label: "Profilim", to: ROUTES.profile },
 ];

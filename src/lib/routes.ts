@@ -2,6 +2,7 @@ export const ROUTES = {
   home: "/",
   categories: "/genel-kultur-kategorileri",
   kpssList: "/kpss-tarih-konulari",
+  profile: "/profil",
   contentHub: "/sorular-ve-cevaplar",
   genelKulturSorulari: "/genel-kultur-sorulari",
   genelKulturSorulariCevaplari: "/genel-kultur-sorulari-ve-cevaplari",

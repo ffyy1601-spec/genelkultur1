@@ -75,6 +75,7 @@ export interface UserStats {
   xpProgress: number; // Percentage of current level progress
   currentLevelXp: number; // XP at the beginning of current level
   nextLevelXp: number; // XP required for next level
+  categoryStats: Record<string, { total: number; correct: number }>;
 }
 
 export const LEVEL_BOUNDARIES = [0, 500, 1200, 2200, 3500, 5000, 7000, 9500, 12500, 16000];
@@ -112,6 +113,7 @@ export function getUserStats(): UserStats {
     completedQuizzes: 0,
     completedDaily: 0,
     unlockedBadges: [] as string[],
+    categoryStats: {} as Record<string, { total: number; correct: number }>,
   };
 
   const storedValue = localStorage.getItem("gk_user_stats");
@@ -177,6 +179,13 @@ export function processQuizCompletion(
   const newCompletedQuizzes = stats.completedQuizzes + 1;
   const newCompletedDaily = category === "daily" ? stats.completedDaily + 1 : stats.completedDaily;
 
+  // Track category accuracy stats
+  const currentCategoryStats = { ...stats.categoryStats };
+  const catStat = currentCategoryStats[category] || { total: 0, correct: 0 };
+  catStat.total += total;
+  catStat.correct += correct;
+  currentCategoryStats[category] = catStat;
+
   // Track category counts
   const isPerfect = correct === total && total > 0;
   
@@ -226,6 +235,7 @@ export function processQuizCompletion(
     completedQuizzes: newCompletedQuizzes,
     completedDaily: newCompletedDaily,
     unlockedBadges: Array.from(currentUnlockedIds),
+    categoryStats: currentCategoryStats,
   };
 
   localStorage.setItem("gk_user_stats", JSON.stringify(updatedStats));

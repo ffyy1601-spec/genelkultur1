@@ -28,6 +28,7 @@ import DailyList from "./pages/DailyList";
 import DailyLanding from "./pages/DailyLanding";
 import DailyGame from "./pages/DailyGame";
 import KpssList from "./pages/KpssList";
+import Profile from "./pages/Profile";
 
 import { LEGACY_ROUTES, ROUTES } from "./lib/routes";
 import RouteEffects from "./components/RouteEffects";
@@ -80,6 +81,7 @@ export function AppContent({ includeRouteEffects = true }: AppContentProps) {
             <Route path={ROUTES.dailyLanding} element={<DailyLanding />} />
             <Route path={ROUTES.dailyGame} element={<DailyGame />} />
             <Route path={ROUTES.kpssList} element={<KpssList />} />
+            <Route path={ROUTES.profile} element={<Profile />} />
 
              <Route path="/yapay-zeka-testleri" element={<Navigate replace to={ROUTES.dailyList} />} />
             <Route path={LEGACY_ROUTES.categories} element={<Navigate replace to={ROUTES.categories} />} />
