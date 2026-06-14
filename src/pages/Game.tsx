@@ -1,4 +1,4 @@
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
 import Seo from "../components/Seo";
 import { QUESTION_SETS, KPSS_TOPIC_QUESTION_SETS, kpssTopics } from "../data";
@@ -6,8 +6,7 @@ import heroImage from "../assets/hero.png";
 import type { CategoryType, Question } from "../data";
 import { ROUTES } from "../lib/routes";
 import { CATEGORY_LABELS } from "../lib/seo";
-
-const QUESTIONS_PER_ROUND = 15;
+import { playCorrectSound, playWrongSound } from "../lib/sound";
 
 const pickRandom = (arr: Question[], n: number) => {
   const shuffled = [...arr].sort(() => 0.5 - Math.random());
@@ -21,16 +20,26 @@ export default function Game() {
   const categoryParam = (searchParams.get("category") as CategoryType) || "genel";
   const topicParam = searchParams.get("topic");
 
+  const [selectedMode, setSelectedMode] = useState<"quick" | "classic" | "marathon" | null>(null);
+
+  const questionCount = useMemo(() => {
+    if (selectedMode === "quick") return 10;
+    if (selectedMode === "classic") return 15;
+    if (selectedMode === "marathon") return 25;
+    return 15; // default
+  }, [selectedMode]);
+
   const questions = useMemo(() => {
+    if (!selectedMode) return [];
     if (categoryParam === "kpss" && topicParam) {
       const topicQuestions = KPSS_TOPIC_QUESTION_SETS[topicParam];
       if (topicQuestions && topicQuestions.length > 0) {
-        return pickRandom(topicQuestions, Math.min(QUESTIONS_PER_ROUND, topicQuestions.length));
+        return pickRandom(topicQuestions, Math.min(questionCount, topicQuestions.length));
       }
     }
     const categoryQuestions = QUESTION_SETS[categoryParam] || QUESTION_SETS.genel;
-    return pickRandom(categoryQuestions, Math.min(QUESTIONS_PER_ROUND, categoryQuestions.length));
-  }, [categoryParam, topicParam]);
+    return pickRandom(categoryQuestions, Math.min(questionCount, categoryQuestions.length));
+  }, [categoryParam, topicParam, selectedMode, questionCount]);
 
   const topicTitle = useMemo(() => {
     if (categoryParam === "kpss" && topicParam) {
@@ -42,10 +51,17 @@ export default function Game() {
 
   const [currentIdx, setCurrentIdx] = useState(0);
   const [score, setScore] = useState(0);
+  const [timeLeft, setTimeLeft] = useState(20);
   const [correctAnswers, setCorrectAnswers] = useState(0);
   const [selectedOption, setSelectedOption] = useState<number | null>(null);
   const [isAnswered, setIsAnswered] = useState(false);
   const [wrongAnswersList, setWrongAnswersList] = useState<number[]>([]);
+  const [wrongAnswers, setWrongAnswers] = useState<{
+    question: string;
+    selected: string;
+    correct: string;
+    explanation?: string;
+  }[]>([]);
   const [joker50Used, setJoker50Used] = useState(false);
   const [jokerAudienceUsed, setJokerAudienceUsed] = useState(false);
   const [jokerDoubleUsed, setJokerDoubleUsed] = useState(false);
@@ -54,6 +70,86 @@ export default function Game() {
   const [isDoubleDipActive, setIsDoubleDipActive] = useState(false);
   const [shake, setShake] = useState(false);
   const [isQuitModalOpen, setIsQuitModalOpen] = useState(false);
+
+  // If mode is not selected, display the lobby mode selector
+  if (!selectedMode) {
+    return (
+      <>
+        <Seo
+          title={`${topicTitle} - Mod Seçimi | GenelKultur.com.tr`}
+          description={`${topicTitle} testi için oyun modunu seç ve hemen bilgi seviyeni ölç.`}
+          path={`${ROUTES.game}`}
+          noindex
+        />
+        <main className="flex min-h-[100dvh] flex-grow items-center justify-center overflow-hidden px-2 pb-2 pt-3 sm:px-4 sm:pb-6 sm:pt-6">
+          <div className="w-full max-w-md rounded-[1.6rem] border border-white/10 bg-[linear-gradient(180deg,rgba(18,35,62,0.94),rgba(12,28,53,0.88))] p-6 text-center shadow-[0_20px_50px_rgba(0,0,0,0.3)] backdrop-blur-xl relative overflow-hidden">
+            <div className="absolute -right-20 -top-20 h-40 w-40 rounded-full bg-primary/10 blur-[60px]"></div>
+            <div className="absolute -bottom-20 -left-20 h-40 w-40 rounded-full bg-tertiary/5 blur-[60px]"></div>
+
+            <div className="relative z-10 flex flex-col items-center">
+              <span className="material-symbols-outlined text-5xl text-primary animate-pulse" style={{ fontVariationSettings: "'FILL' 1" }}>
+                sports_esports
+              </span>
+              <h1 className="mt-3 text-2xl font-black text-white">{topicTitle}</h1>
+              <p className="mt-2 text-xs text-on-surface-variant/90 font-bold max-w-xs leading-normal">
+                Bilgi seviyeni ölçmek için bir oyun modu seç ve yarışmaya başla!
+              </p>
+
+              {/* Game Mode Buttons */}
+              <div className="mt-6 w-full space-y-3">
+                <button
+                  onClick={() => setSelectedMode("quick")}
+                  className="group flex w-full items-center gap-4 rounded-2xl border border-white/5 bg-white/5 p-4 text-left transition-all duration-300 hover:-translate-y-0.5 hover:border-primary/30 hover:bg-white/10 hover:shadow-[0_8px_20px_rgba(242,202,80,0.1)] active:scale-98"
+                >
+                  <div className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-primary/10 border border-primary/20 text-primary">
+                    <span className="material-symbols-outlined text-2xl">timer</span>
+                  </div>
+                  <div>
+                    <h3 className="text-sm font-black text-white group-hover:text-primary transition-colors">⏱️ Hızlı Tur</h3>
+                    <p className="text-[11px] text-on-surface-variant font-bold mt-0.5">10 Soru • Isınma turu.</p>
+                  </div>
+                </button>
+
+                <button
+                  onClick={() => setSelectedMode("classic")}
+                  className="group flex w-full items-center gap-4 rounded-2xl border border-white/5 bg-white/5 p-4 text-left transition-all duration-300 hover:-translate-y-0.5 hover:border-primary/30 hover:bg-white/10 hover:shadow-[0_8px_20px_rgba(242,202,80,0.1)] active:scale-98"
+                >
+                  <div className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-primary/10 border border-primary/20 text-primary">
+                    <span className="material-symbols-outlined text-2xl">psychology</span>
+                  </div>
+                  <div>
+                    <h3 className="text-sm font-black text-white group-hover:text-primary transition-colors">🧠 Klasik Tur</h3>
+                    <p className="text-[11px] text-on-surface-variant font-bold mt-0.5">15 Soru • Dengeli yarış.</p>
+                  </div>
+                </button>
+
+                <button
+                  onClick={() => setSelectedMode("marathon")}
+                  className="group flex w-full items-center gap-4 rounded-2xl border border-white/5 bg-white/5 p-4 text-left transition-all duration-300 hover:-translate-y-0.5 hover:border-primary/30 hover:bg-white/10 hover:shadow-[0_8px_20px_rgba(242,202,80,0.1)] active:scale-98"
+                >
+                  <div className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-primary/10 border border-primary/20 text-primary">
+                    <span className="material-symbols-outlined text-2xl">emoji_events</span>
+                  </div>
+                  <div>
+                    <h3 className="text-sm font-black text-white group-hover:text-primary transition-colors">🏆 Maraton Modu</h3>
+                    <p className="text-[11px] text-on-surface-variant font-bold mt-0.5">25 Soru • Devasa XP yarışı.</p>
+                  </div>
+                </button>
+              </div>
+
+              {/* Back Link */}
+              <button
+                onClick={() => navigate(-1)}
+                className="mt-6 text-xs font-bold text-on-surface-variant hover:text-white transition-colors"
+              >
+                Geri Dön
+              </button>
+            </div>
+          </div>
+        </main>
+      </>
+    );
+  }
 
   if (questions.length === 0) {
     return (
@@ -65,12 +161,54 @@ export default function Game() {
 
   const currentQ = questions[currentIdx];
 
+  const handleTimeout = () => {
+    setIsAnswered(true);
+    setShake(true);
+    setWrongAnswersList((prev) => [...prev, currentIdx]);
+    setWrongAnswers((prev) => [
+      ...prev,
+      {
+        question: currentQ.text,
+        selected: "Süre Bitti! ⏰",
+        correct: currentQ.options[currentQ.correctAnswer],
+        explanation: currentQ.explanation,
+      },
+    ]);
+    playWrongSound();
+    if (navigator.vibrate) {
+      navigator.vibrate([100, 50, 100]);
+    }
+    setIsDoubleDipActive(false);
+    setTimeout(() => goToNextQuestion(false), 2000);
+  };
+
+  useEffect(() => {
+    if (isAnswered || isQuitModalOpen) return;
+
+    setTimeLeft(20);
+
+    const interval = setInterval(() => {
+      setTimeLeft((prev) => {
+        if (prev <= 1) {
+          clearInterval(interval);
+          handleTimeout();
+          return 0;
+        }
+        return prev - 1;
+      });
+    }, 1000);
+
+    return () => clearInterval(interval);
+  }, [currentIdx, isAnswered, isQuitModalOpen]);
+
   const finishGame = (wasCorrect: boolean) => {
     navigate(ROUTES.results, {
       state: {
         score: score + (wasCorrect ? 100 : 0),
         correct: correctAnswers + (wasCorrect ? 1 : 0),
         total: questions.length,
+        category: categoryParam,
+        wrongAnswers: wrongAnswers,
       },
     });
   };
@@ -110,10 +248,24 @@ export default function Game() {
     if (optIdx === currentQ.correctAnswer) {
       setScore((prev) => prev + 100);
       setCorrectAnswers((prev) => prev + 1);
+      playCorrectSound();
       setTimeout(() => goToNextQuestion(true), 1500);
     } else {
       setShake(true);
       setWrongAnswersList((prev) => [...prev, currentIdx]);
+      setWrongAnswers((prev) => [
+        ...prev,
+        {
+          question: currentQ.text,
+          selected: currentQ.options[optIdx],
+          correct: currentQ.options[currentQ.correctAnswer],
+          explanation: currentQ.explanation,
+        },
+      ]);
+      playWrongSound();
+      if (navigator.vibrate) {
+        navigator.vibrate([100, 50, 100]);
+      }
       setIsDoubleDipActive(false);
       setTimeout(() => goToNextQuestion(false), 2000);
     }
@@ -190,6 +342,19 @@ export default function Game() {
               50% { transform: translateX(8px); }
               75% { transform: translateX(-8px); }
             }
+            @keyframes neon-pulse {
+              0%, 100% {
+                box-shadow: 0 0 4px rgba(242,202,80,0.08);
+                border-color: rgba(255,255,255,0.1);
+              }
+              50% {
+                box-shadow: 0 0 12px rgba(242,202,80,0.22);
+                border-color: rgba(242,202,80,0.45);
+              }
+            }
+            .joker-pulse {
+              animation: neon-pulse 2s infinite ease-in-out;
+            }
           `}</style>
 
           <div className="mb-2.5 flex gap-1 sm:mb-4 sm:gap-2">
@@ -230,29 +395,42 @@ export default function Game() {
               </div>
 
               <div className="grid grid-cols-3 gap-2 sm:gap-3">
-                {jokerButtons.map((joker) => (
-                  <button
-                    key={joker.key}
-                    onClick={joker.onClick}
-                    disabled={joker.used || isAnswered}
-                    className={`flex h-10 items-center justify-center rounded-[0.95rem] border transition-all duration-300 sm:h-12 sm:rounded-[1.2rem] ${
-                      joker.used || isAnswered
-                        ? "border-outline-variant/10 bg-surface-container text-on-surface-variant/40"
-                        : joker.active
-                          ? "border-primary/40 bg-primary/14 text-primary shadow-[0_12px_24px_rgba(242,202,80,0.12)]"
-                          : "border-white/10 bg-surface-container-low/80 text-primary hover:-translate-y-0.5 hover:border-primary/30 hover:bg-surface-container-high"
-                    }`}
-                    aria-label={joker.key}
-                    title={joker.key}
-                  >
-                    <span className="material-symbols-outlined text-[1.1rem] sm:text-[1.45rem]">{joker.icon}</span>
-                  </button>
-                ))}
+                {jokerButtons.map((joker) => {
+                  const isClickable = !joker.used && !isAnswered;
+                  return (
+                    <button
+                      key={joker.key}
+                      onClick={joker.onClick}
+                      disabled={joker.used || isAnswered}
+                      className={`flex h-10 items-center justify-center rounded-[0.95rem] border transition-all duration-300 sm:h-12 sm:rounded-[1.2rem] ${
+                        joker.used || isAnswered
+                          ? "border-outline-variant/10 bg-surface-container text-on-surface-variant/40"
+                          : joker.active
+                            ? "border-primary/40 bg-primary/14 text-primary shadow-[0_12px_24px_rgba(242,202,80,0.12)]"
+                            : `border-white/10 bg-surface-container-low/80 text-primary hover:-translate-y-0.5 hover:border-primary/30 hover:bg-surface-container-high ${isClickable ? "joker-pulse" : ""}`
+                      }`}
+                      aria-label={joker.key}
+                      title={joker.key}
+                    >
+                      <span className="material-symbols-outlined text-[1.1rem] sm:text-[1.45rem]">{joker.icon}</span>
+                    </button>
+                  );
+                })}
               </div>
             </div>
           </div>
 
-          <div className="relative mb-2.5 w-full rounded-[1.45rem] border border-white/10 bg-[linear-gradient(180deg,rgba(255,255,255,0.09),rgba(255,255,255,0.04))] p-4 text-center shadow-[0_18px_50px_rgba(0,0,0,0.22)] backdrop-blur-xl sm:mb-4 sm:rounded-[1.75rem] sm:p-6 md:p-8">
+          <div className="relative mb-2.5 w-full rounded-[1.45rem] border border-white/10 bg-[linear-gradient(180deg,rgba(255,255,255,0.09),rgba(255,255,255,0.04))] p-4 text-center shadow-[0_18px_50px_rgba(0,0,0,0.22)] backdrop-blur-xl sm:mb-4 sm:rounded-[1.75rem] sm:p-6 md:p-8 overflow-hidden">
+            {/* Timer Progress Bar */}
+            <div className="absolute top-0 left-0 right-0 h-1 bg-white/5">
+              <div
+                className={`h-full transition-all duration-1000 ease-linear ${
+                  timeLeft <= 5 ? "bg-error animate-pulse" : "bg-primary"
+                }`}
+                style={{ width: `${(timeLeft / 20) * 100}%` }}
+              ></div>
+            </div>
+
             <div className="pointer-events-none absolute -top-8 left-1/2 h-20 w-56 -translate-x-1/2 bg-primary/10 blur-[90px] sm:-top-10 sm:h-28 sm:w-72 sm:blur-[110px]"></div>
             <div className="relative">
               <div className="mb-2 inline-flex rounded-full border border-primary/20 bg-primary/10 px-3 py-1 text-[9px] font-bold uppercase tracking-[0.18em] text-primary sm:mb-4 sm:px-4 sm:py-1.5 sm:text-xs">

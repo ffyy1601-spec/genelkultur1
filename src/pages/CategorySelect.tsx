@@ -4,6 +4,7 @@ import PageLayout from "../components/PageLayout";
 import Seo from "../components/Seo";
 import { ROUTES } from "../lib/routes";
 import { SITE_URL } from "../lib/seo";
+import { getUserStats } from "../lib/gamification";
 
 const schema = {
   "@context": "https://schema.org",
@@ -57,6 +58,7 @@ const categories = [
 ];
 
 export default function CategorySelect() {
+  const [stats, setStats] = useState(() => getUserStats());
   const kpssImages = [
     "/images/islamiyet-oncesi-turk-tarihi.webp",
     "/images/ilk-turk-islam-devletleri.webp",
@@ -75,6 +77,7 @@ export default function CategorySelect() {
   useEffect(() => {
     const randomImg = kpssImages[Math.floor(Math.random() * kpssImages.length)];
     setKpssImage(randomImg);
+    setStats(getUserStats());
   }, []);
 
   return (
@@ -132,6 +135,28 @@ export default function CategorySelect() {
             </Link>
           ))}
         </div>
+
+        {/* Compact Profil & Seviye Bilgisi */}
+        <section className="mt-8 rounded-[1.5rem] border border-white/10 bg-[#12233e]/50 p-4 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 backdrop-blur-md">
+          <div className="flex items-center gap-3">
+            <div className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-primary/10 border border-primary/20 text-primary font-serif font-black text-lg">
+              {stats.level}
+            </div>
+            <div>
+              <p className="text-[10px] font-bold uppercase tracking-[0.18em] text-primary">Seviye {stats.level}</p>
+              <h3 className="text-sm font-black text-on-surface mt-0.5">{stats.title}</h3>
+            </div>
+          </div>
+          <div className="flex-1 max-w-xs sm:max-w-md w-full">
+            <div className="flex justify-between text-[10px] text-on-surface-variant/70 font-bold mb-1">
+              <span>Tecrübe Puanı (XP)</span>
+              <span>{stats.xp} / {stats.nextLevelXp} XP</span>
+            </div>
+            <div className="w-full bg-background/50 rounded-full h-1.5 overflow-hidden border border-white/5">
+              <div className="bg-primary h-full rounded-full transition-all duration-500" style={{ width: `${stats.xpProgress}%` }}></div>
+            </div>
+          </div>
+        </section>
 
         <section className="mt-12 rounded-[1.8rem] border border-white/10 bg-surface-container-low/75 p-6 md:p-8">
           <h2 className="text-3xl font-black tracking-tight text-on-surface">Konuya gore hazir sayfalar</h2>

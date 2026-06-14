@@ -1,13 +1,36 @@
+import { useState } from "react";
 import { Link, useParams, Navigate } from "react-router-dom";
 import PageLayout from "../components/PageLayout";
 import Seo from "../components/Seo";
 import { dailyQuizzes } from "../data/dailyContent";
 import { ROUTES } from "../lib/routes";
 import { SITE_URL } from "../lib/seo";
+import { getSimulatedViews, formatViews, getSimulatedReactions, getUserReaction, saveUserReaction, REACTION_KEYS, REACTION_DETAILS } from "../lib/viewCounter";
+import type { NewsReactions } from "../lib/viewCounter";
 
 export default function DailyLanding() {
   const { slug } = useParams<{ slug: string }>();
   const quiz = dailyQuizzes.find((item) => item.slug === slug);
+
+  const viewCount = useState(() => {
+    return quiz ? getSimulatedViews(quiz.slug, true) : 0;
+  })[0];
+
+  const [reactions, setReactions] = useState<NewsReactions>(() => {
+    return quiz ? getSimulatedReactions(quiz.slug) : { like: 0, wow: 0, clap: 0, fire: 0, sad: 0 };
+  });
+
+  const [activeReaction, setActiveReaction] = useState<keyof NewsReactions | null>(() => {
+    return quiz ? getUserReaction(quiz.slug) : null;
+  });
+
+  const handleReactionClick = (key: keyof NewsReactions) => {
+    if (!quiz) return;
+    const newActive = activeReaction === key ? null : key;
+    const updatedReactions = saveUserReaction(quiz.slug, newActive);
+    setReactions(updatedReactions);
+    setActiveReaction(newActive);
+  };
 
   if (!quiz) return <Navigate replace to={ROUTES.dailyList} />;
 
@@ -413,6 +436,95 @@ export default function DailyLanding() {
           margin: 28px 0;
         }
 
+        .reactions-container {
+          margin: 32px 0 20px;
+          border-top: 1.5px solid #d1d5db;
+          border-bottom: 0.5px solid #d1d5db;
+          padding: 24px 0;
+        }
+
+        .reactions-title {
+          font-family: 'Playfair Display', serif;
+          font-size: 20px;
+          font-weight: 900;
+          color: #111827;
+          margin-bottom: 16px;
+          text-align: center;
+        }
+
+        .reactions-grid {
+          display: grid;
+          grid-template-columns: repeat(5, 1fr);
+          gap: 12px;
+        }
+
+        .reaction-btn {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          background: #ffffff;
+          border: 0.5px solid #d1d5db;
+          border-radius: 12px;
+          padding: 12px 6px;
+          cursor: pointer;
+          transition: all 0.25s ease;
+        }
+
+        .reaction-btn:hover {
+          background: #f3f4f6;
+          transform: translateY(-2px);
+          box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+        }
+
+        .reaction-btn.selected {
+          background: #fef2f2;
+          border-color: #fca5a5;
+          box-shadow: 0 0 0 1px #fca5a5;
+        }
+
+        .reaction-emoji {
+          font-size: 28px;
+          line-height: 1.2;
+          margin-bottom: 6px;
+          transition: transform 0.2s ease;
+        }
+
+        .reaction-btn:hover .reaction-emoji {
+          transform: scale(1.15);
+        }
+
+        .reaction-label {
+          font-size: 11px;
+          font-weight: 700;
+          color: #4b5563;
+          margin-bottom: 4px;
+        }
+
+        .reaction-btn.selected .reaction-label {
+          color: #b91c1c;
+        }
+
+        .reaction-count {
+          font-size: 12px;
+          font-weight: 800;
+          color: #1f2937;
+        }
+
+        .reaction-btn.selected .reaction-count {
+          color: #b91c1c;
+        }
+
+        @media (max-width: 640px) {
+          .reactions-grid {
+            grid-template-columns: repeat(3, 1fr);
+          }
+        }
+        @media (max-width: 480px) {
+          .reactions-grid {
+            grid-template-columns: repeat(2, 1fr);
+          }
+        }
+
         @media (max-width: 540px) {
           .hero-headline {
             font-size: 28px;
@@ -450,6 +562,10 @@ export default function DailyLanding() {
             <span>
               <span className="material-symbols-outlined text-sm" style={{ verticalAlign: "middle" }}>schedule</span>
               {readingMinutes} dk okuma
+            </span>
+            <span>
+              <span className="material-symbols-outlined text-sm" style={{ verticalAlign: "middle" }}>visibility</span>
+              {formatViews(viewCount)} okuma
             </span>
             <span>
               <span className="material-symbols-outlined text-sm" style={{ verticalAlign: "middle" }}>edit</span>
@@ -499,6 +615,29 @@ export default function DailyLanding() {
               </Link>
             </div>
           )}
+
+          {/* Tepki Verme Bölümü */}
+          <div className="reactions-container">
+            <h3 className="reactions-title">Bu habere tepkiniz ne?</h3>
+            <div className="reactions-grid">
+              {REACTION_KEYS.map((key) => {
+                const isSelected = activeReaction === key;
+                const details = REACTION_DETAILS[key];
+                const count = reactions[key];
+                return (
+                  <button
+                    key={key}
+                    onClick={() => handleReactionClick(key)}
+                    className={`reaction-btn ${isSelected ? "selected" : ""}`}
+                  >
+                    <span className="reaction-emoji">{details.emoji}</span>
+                    <span className="reaction-label">{details.label}</span>
+                    <span className="reaction-count">{formatViews(count)}</span>
+                  </button>
+                );
+              })}
+            </div>
+          </div>
 
           {/* Paylaş Row */}
           <div className="share-row">

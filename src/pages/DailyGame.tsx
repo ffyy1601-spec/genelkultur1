@@ -1,8 +1,9 @@
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { useParams, useNavigate, Navigate } from "react-router-dom";
 import Seo from "../components/Seo";
 import { dailyQuizzes } from "../data/dailyContent";
 import { ROUTES } from "../lib/routes";
+import { playCorrectSound, playWrongSound } from "../lib/sound";
 
 export default function DailyGame() {
   const { slug } = useParams<{ slug: string }>();
@@ -15,10 +16,17 @@ export default function DailyGame() {
 
   const [currentIdx, setCurrentIdx] = useState(0);
   const [score, setScore] = useState(0);
+  const [timeLeft, setTimeLeft] = useState(20);
   const [correctAnswers, setCorrectAnswers] = useState(0);
   const [selectedOption, setSelectedOption] = useState<number | null>(null);
   const [isAnswered, setIsAnswered] = useState(false);
   const [wrongAnswersList, setWrongAnswersList] = useState<number[]>([]);
+  const [wrongAnswers, setWrongAnswers] = useState<{
+    question: string;
+    selected: string;
+    correct: string;
+    explanation?: string;
+  }[]>([]);
   const [joker50Used, setJoker50Used] = useState(false);
   const [jokerAudienceUsed, setJokerAudienceUsed] = useState(false);
   const [jokerDoubleUsed, setJokerDoubleUsed] = useState(false);
@@ -35,12 +43,54 @@ export default function DailyGame() {
   const questions = quiz.questions;
   const currentQ = questions[currentIdx];
 
+  const handleTimeout = () => {
+    setIsAnswered(true);
+    setShake(true);
+    setWrongAnswersList((prev) => [...prev, currentIdx]);
+    setWrongAnswers((prev) => [
+      ...prev,
+      {
+        question: currentQ.text,
+        selected: "Süre Bitti! ⏰",
+        correct: currentQ.options[currentQ.correctAnswer],
+        explanation: currentQ.explanation,
+      },
+    ]);
+    playWrongSound();
+    if (navigator.vibrate) {
+      navigator.vibrate([100, 50, 100]);
+    }
+    setIsDoubleDipActive(false);
+    setTimeout(() => goToNextQuestion(false), 2000);
+  };
+
+  useEffect(() => {
+    if (isAnswered || isQuitModalOpen) return;
+
+    setTimeLeft(20);
+
+    const interval = setInterval(() => {
+      setTimeLeft((prev) => {
+        if (prev <= 1) {
+          clearInterval(interval);
+          handleTimeout();
+          return 0;
+        }
+        return prev - 1;
+      });
+    }, 1000);
+
+    return () => clearInterval(interval);
+  }, [currentIdx, isAnswered, isQuitModalOpen]);
+
   const finishGame = (wasCorrect: boolean) => {
     navigate(ROUTES.results, {
       state: {
         score: score + (wasCorrect ? 100 : 0),
         correct: correctAnswers + (wasCorrect ? 1 : 0),
         total: questions.length,
+        category: "daily",
+        wrongAnswers: wrongAnswers,
       },
     });
   };
@@ -80,10 +130,24 @@ export default function DailyGame() {
     if (optIdx === currentQ.correctAnswer) {
       setScore((prev) => prev + 100);
       setCorrectAnswers((prev) => prev + 1);
+      playCorrectSound();
       setTimeout(() => goToNextQuestion(true), 1500);
     } else {
       setShake(true);
       setWrongAnswersList((prev) => [...prev, currentIdx]);
+      setWrongAnswers((prev) => [
+        ...prev,
+        {
+          question: currentQ.text,
+          selected: currentQ.options[optIdx],
+          correct: currentQ.options[currentQ.correctAnswer],
+          explanation: currentQ.explanation,
+        },
+      ]);
+      playWrongSound();
+      if (navigator.vibrate) {
+        navigator.vibrate([100, 50, 100]);
+      }
       setIsDoubleDipActive(false);
       setTimeout(() => goToNextQuestion(false), 2000);
     }
@@ -160,6 +224,19 @@ export default function DailyGame() {
               50% { transform: translateX(8px); }
               75% { transform: translateX(-8px); }
             }
+            @keyframes neon-pulse {
+              0%, 100% {
+                box-shadow: 0 0 4px rgba(242,202,80,0.08);
+                border-color: rgba(255,255,255,0.1);
+              }
+              50% {
+                box-shadow: 0 0 12px rgba(242,202,80,0.22);
+                border-color: rgba(242,202,80,0.45);
+              }
+            }
+            .joker-pulse {
+              animation: neon-pulse 2s infinite ease-in-out;
+            }
           `}</style>
 
           {/* İlerleme Çubuğu */}
@@ -203,30 +280,43 @@ export default function DailyGame() {
 
               {/* Joker Butonları */}
               <div className="grid grid-cols-3 gap-2 sm:gap-3">
-                {jokerButtons.map((joker) => (
-                  <button
-                    key={joker.key}
-                    onClick={joker.onClick}
-                    disabled={joker.used || isAnswered}
-                    className={`flex h-10 items-center justify-center rounded-[0.95rem] border transition-all duration-300 sm:h-12 sm:rounded-[1.2rem] ${
-                      joker.used || isAnswered
-                        ? "border-outline-variant/10 bg-surface-container text-on-surface-variant/40"
-                        : joker.active
-                          ? "border-primary/40 bg-primary/14 text-primary shadow-[0_12px_24px_rgba(242,202,80,0.12)]"
-                          : "border-white/10 bg-surface-container-low/80 text-primary hover:-translate-y-0.5 hover:border-primary/30 hover:bg-surface-container-high"
-                    }`}
-                    aria-label={joker.key}
-                    title={joker.key}
-                  >
-                    <span className="material-symbols-outlined text-[1.1rem] sm:text-[1.45rem]">{joker.icon}</span>
-                  </button>
-                ))}
+                {jokerButtons.map((joker) => {
+                  const isClickable = !joker.used && !isAnswered;
+                  return (
+                    <button
+                      key={joker.key}
+                      onClick={joker.onClick}
+                      disabled={joker.used || isAnswered}
+                      className={`flex h-10 items-center justify-center rounded-[0.95rem] border transition-all duration-300 sm:h-12 sm:rounded-[1.2rem] ${
+                        joker.used || isAnswered
+                          ? "border-outline-variant/10 bg-surface-container text-on-surface-variant/40"
+                          : joker.active
+                            ? "border-primary/40 bg-primary/14 text-primary shadow-[0_12px_24px_rgba(242,202,80,0.12)]"
+                            : `border-white/10 bg-surface-container-low/80 text-primary hover:-translate-y-0.5 hover:border-primary/30 hover:bg-surface-container-high ${isClickable ? "joker-pulse" : ""}`
+                      }`}
+                      aria-label={joker.key}
+                      title={joker.key}
+                    >
+                      <span className="material-symbols-outlined text-[1.1rem] sm:text-[1.45rem]">{joker.icon}</span>
+                    </button>
+                  );
+                })}
               </div>
             </div>
           </div>
 
           {/* Soru Gövdesi */}
-          <div className="relative mb-2.5 w-full rounded-[1.45rem] border border-white/10 bg-[linear-gradient(180deg,rgba(255,255,255,0.09),rgba(255,255,255,0.04))] p-4 text-center shadow-[0_18px_50px_rgba(0,0,0,0.22)] backdrop-blur-xl sm:mb-4 sm:rounded-[1.75rem] sm:p-6 md:p-8">
+          <div className="relative mb-2.5 w-full rounded-[1.45rem] border border-white/10 bg-[linear-gradient(180deg,rgba(255,255,255,0.09),rgba(255,255,255,0.04))] p-4 text-center shadow-[0_18px_50px_rgba(0,0,0,0.22)] backdrop-blur-xl sm:mb-4 sm:rounded-[1.75rem] sm:p-6 md:p-8 overflow-hidden">
+            {/* Timer Progress Bar */}
+            <div className="absolute top-0 left-0 right-0 h-1 bg-white/5">
+              <div
+                className={`h-full transition-all duration-1000 ease-linear ${
+                  timeLeft <= 5 ? "bg-error animate-pulse" : "bg-primary"
+                }`}
+                style={{ width: `${(timeLeft / 20) * 100}%` }}
+              ></div>
+            </div>
+
             <div className="pointer-events-none absolute -top-8 left-1/2 h-20 w-56 -translate-x-1/2 bg-primary/10 blur-[90px] sm:-top-10 sm:h-28 sm:w-72 sm:blur-[110px]"></div>
             <div className="relative">
               <span className="mb-2 inline-flex rounded-full border border-primary/20 bg-primary/10 px-3 py-1 text-[9px] font-bold uppercase tracking-[0.18em] text-primary sm:mb-4 sm:px-4 sm:py-1.5 sm:text-xs">

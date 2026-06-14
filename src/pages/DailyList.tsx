@@ -4,6 +4,7 @@ import PageLayout from "../components/PageLayout";
 import Seo from "../components/Seo";
 import { dailyQuizzes } from "../data/dailyContent";
 import { ROUTES } from "../lib/routes";
+import { getSimulatedViews, formatViews } from "../lib/viewCounter";
 
 export default function DailyList() {
   const [selectedCategory, setSelectedCategory] = useState<string>("all");
@@ -174,11 +175,18 @@ export default function DailyList() {
                     </span>
                     {getCategoryLabel(item.category)}
                   </div>
-                  <span className="text-[10px] font-semibold text-on-surface-variant/60">
-                    {item.dateId
-                      ? new Date(item.dateId).toLocaleDateString("tr-TR", { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' })
-                      : "Bugün"}
-                  </span>
+                  <div className="flex items-center gap-2 text-[10px] font-semibold text-on-surface-variant/60">
+                    <span className="flex items-center gap-0.5">
+                      <span className="material-symbols-outlined text-xs" style={{ fontSize: "12px", verticalAlign: "middle" }}>visibility</span>
+                      {formatViews(getSimulatedViews(item.slug, false))}
+                    </span>
+                    <span>•</span>
+                    <span>
+                      {item.dateId
+                        ? new Date(item.dateId).toLocaleDateString("tr-TR", { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' })
+                        : "Bugün"}
+                    </span>
+                  </div>
                 </div>
 
                 <h2 className="text-xl font-serif font-black leading-snug text-on-surface group-hover:text-primary transition-colors line-clamp-2">
