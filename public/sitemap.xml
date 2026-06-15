@@ -185,4 +185,9 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/yapay-zekada-kritik-mudahale-beyaz-saraydan-fable-5-ve-mythos-5-ambargosu</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
