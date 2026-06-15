@@ -175,4 +175,9 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/turkiyenin-yapay-zeka-vizyonu-aciklandi-81-ilde-dev-seferberlik-basliyor</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
