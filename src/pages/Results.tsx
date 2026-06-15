@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState, useMemo } from "react";
 import { Link, useLocation } from "react-router-dom";
 import PageLayout from "../components/PageLayout";
 import Seo from "../components/Seo";
@@ -17,8 +17,26 @@ function getHumorousComment(success: number): string {
 
 export default function Results() {
   const location = useLocation();
-  const hasResult = Boolean(location.state);
-  const { score = 0, correct = 0, total = 10, category = "genel", wrongAnswers = [] } = location.state || {};
+
+  // Try to recover state from LocalStorage if location.state is null (on page refresh)
+  const resultData = useMemo(() => {
+    if (location.state) {
+      return location.state;
+    } else {
+      try {
+        const backup = localStorage.getItem("gk_last_result");
+        if (backup) {
+          return JSON.parse(backup);
+        }
+      } catch (e) {
+        // Ignored
+      }
+    }
+    return null;
+  }, [location.state]);
+
+  const hasResult = Boolean(resultData);
+  const { score = 0, correct = 0, total = 10, category = "genel", wrongAnswers = [] } = resultData || {};
   const wrong = total - correct;
   const successRate = Math.round((correct / total) * 100) || 0;
 
@@ -38,12 +56,27 @@ export default function Results() {
   const strokeDashoffset = circumference - (successRate / 100) * circumference;
 
   useEffect(() => {
-    if (hasResult && !processedRef.current) {
+    if (location.state && !processedRef.current) {
       processedRef.current = true;
       const res = processQuizCompletion(score, correct, total, category);
       setGamificationResult(res);
+      // Backup the result and the calculated gamificationResult for recovery on refresh
+      try {
+        localStorage.setItem(
+          "gk_last_result",
+          JSON.stringify({
+            ...location.state,
+            gamificationResult: res,
+          })
+        );
+      } catch (e) {
+        // Ignored
+      }
+    } else if (!location.state && resultData) {
+      // Restored on refresh, load the saved gamificationResult
+      setGamificationResult(resultData.gamificationResult || null);
     }
-  }, [hasResult, score, correct, total, category]);
+  }, [location.state, resultData, score, correct, total, category]);
 
   useEffect(() => {
     if (hasResult && successRate >= 70) {
