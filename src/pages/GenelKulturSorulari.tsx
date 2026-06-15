@@ -161,18 +161,28 @@ export default function GenelKulturSorulari() {
     }))
   };
 
+  // Dynamic Title & Description based on search input for SEO
+  const seoTitle = searchQuery 
+    ? `"${searchQuery}" İle İlgili Genel Kültür Soruları | GenelKultur.com.tr` 
+    : "Genel Kültür Soruları ve Cevapları - Popüler Soru Listesi | GenelKultur.com.tr";
+
+  const seoDescription = searchQuery 
+    ? `GenelKültür.com.tr üzerinde "${searchQuery}" terimi ile ilgili arama sonuçları. En popüler genel kültür sorularını inceleyin ve test edin.` 
+    : "En çok aratılan 25 popüler genel kültür sorusu, cevabı ve detaylı açıklamaları. Bilgini sına, yeni şeyler öğren ve oyuna hemen başla!";
+
   return (
     <PageLayout>
       <Seo
-        title="Genel Kültür Soruları ve Cevapları - Popüler Soru Listesi | GenelKultur.com.tr"
-        description="En çok aratılan 25 popüler genel kültür sorusu, cevabı ve detaylı açıklamaları. Bilgini sına, yeni şeyler öğren ve oyuna hemen başla!"
+        title={seoTitle}
+        description={seoDescription}
         path={ROUTES.genelKulturSorulari}
         keywords={[
           "genel kültür soruları",
           "genel kültür soruları ve cevapları",
           "popüler genel kültür soruları",
           "bilgi yarışması soruları",
-          "cevaplı genel kültür soruları"
+          "cevaplı genel kültür soruları",
+          ...(searchQuery ? [searchQuery.toLowerCase()] : [])
         ]}
         schema={faqSchema}
       />

@@ -280,25 +280,10 @@ export const dailyQuizzes: DailyQuiz[] = ${JSON.stringify(dailyQuizzes, null, 2)
   await fs.writeFile(dataFilePath, newFileContent, "utf-8");
   console.log(`[AI] Başarıyla yeni haber eklendi. Konu: ${newNewsItem.heading} (Kategori: ${newNewsItem.category}, Rota: /test/${slug})`);
 
-  // 5. sitemap.xml dosyasını güncelle
+  // 5. sitemap.xml dosyasını güncelle (tüm dosyayı yeniden üreterek güncel tut)
   try {
-    let sitemapContent = await fs.readFile(sitemapPath, "utf-8");
-    const targetUrl = `https://genelkultur.com.tr/test/${slug}`;
-
-    if (!sitemapContent.includes(targetUrl)) {
-      const closeTagIdx = sitemapContent.lastIndexOf("</urlset>");
-      if (closeTagIdx !== -1) {
-        const newUrls = `  <url>
-    <loc>${targetUrl}</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>\n`;
-        
-        sitemapContent = sitemapContent.slice(0, closeTagIdx) + newUrls + sitemapContent.slice(closeTagIdx);
-        await fs.writeFile(sitemapPath, sitemapContent, "utf-8");
-        console.log(`[AI] sitemap.xml güncellendi: ${targetUrl}`);
-      }
-    }
+    const { execSync } = await import("node:child_process");
+    execSync("node scripts/generate-sitemap.mjs", { stdio: "inherit" });
   } catch (err) {
     console.error("Sitemap güncellenirken bir hata oluştu:", err);
   }
