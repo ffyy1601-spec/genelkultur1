@@ -36,14 +36,11 @@ export default function DailyGame() {
   const [shake, setShake] = useState(false);
   const [isQuitModalOpen, setIsQuitModalOpen] = useState(false);
 
-  if (!quiz || !quiz.questions || quiz.questions.length === 0) {
-    return <Navigate replace to={quiz ? `/test/${quiz.slug}` : ROUTES.dailyList} />;
-  }
-
-  const questions = quiz.questions;
+  const questions = quiz?.questions || [];
   const currentQ = questions[currentIdx];
 
   const handleTimeout = () => {
+    if (!currentQ) return;
     setIsAnswered(true);
     setShake(true);
     setWrongAnswersList((prev) => [...prev, currentIdx]);
@@ -65,7 +62,7 @@ export default function DailyGame() {
   };
 
   useEffect(() => {
-    if (isAnswered || isQuitModalOpen) return;
+    if (!quiz || !quiz.questions || quiz.questions.length === 0 || isAnswered || isQuitModalOpen) return;
 
     setTimeLeft(20);
 
@@ -81,7 +78,11 @@ export default function DailyGame() {
     }, 1000);
 
     return () => clearInterval(interval);
-  }, [currentIdx, isAnswered, isQuitModalOpen]);
+  }, [currentIdx, isAnswered, isQuitModalOpen, quiz]);
+
+  if (!quiz || !quiz.questions || quiz.questions.length === 0) {
+    return <Navigate replace to={quiz ? `/test/${quiz.slug}` : ROUTES.dailyList} />;
+  }
 
   const finishGame = (wasCorrect: boolean) => {
     navigate(ROUTES.results, {

@@ -71,6 +71,49 @@ export default function Game() {
   const [shake, setShake] = useState(false);
   const [isQuitModalOpen, setIsQuitModalOpen] = useState(false);
 
+  const currentQ = questions[currentIdx];
+
+  const handleTimeout = () => {
+    if (!currentQ) return;
+    setIsAnswered(true);
+    setShake(true);
+    setWrongAnswersList((prev) => [...prev, currentIdx]);
+    setWrongAnswers((prev) => [
+      ...prev,
+      {
+        question: currentQ.text,
+        selected: "Süre Bitti! ⏰",
+        correct: currentQ.options[currentQ.correctAnswer],
+        explanation: currentQ.explanation,
+      },
+    ]);
+    playWrongSound();
+    if (navigator.vibrate) {
+      navigator.vibrate([100, 50, 100]);
+    }
+    setIsDoubleDipActive(false);
+    setTimeout(() => goToNextQuestion(false), 2000);
+  };
+
+  useEffect(() => {
+    if (!selectedMode || isAnswered || isQuitModalOpen) return;
+
+    setTimeLeft(20);
+
+    const interval = setInterval(() => {
+      setTimeLeft((prev) => {
+        if (prev <= 1) {
+          clearInterval(interval);
+          handleTimeout();
+          return 0;
+        }
+        return prev - 1;
+      });
+    }, 1000);
+
+    return () => clearInterval(interval);
+  }, [currentIdx, isAnswered, isQuitModalOpen, selectedMode]);
+
   // If mode is not selected, display the lobby mode selector
   if (!selectedMode) {
     return (
@@ -158,48 +201,6 @@ export default function Game() {
       </div>
     );
   }
-
-  const currentQ = questions[currentIdx];
-
-  const handleTimeout = () => {
-    setIsAnswered(true);
-    setShake(true);
-    setWrongAnswersList((prev) => [...prev, currentIdx]);
-    setWrongAnswers((prev) => [
-      ...prev,
-      {
-        question: currentQ.text,
-        selected: "Süre Bitti! ⏰",
-        correct: currentQ.options[currentQ.correctAnswer],
-        explanation: currentQ.explanation,
-      },
-    ]);
-    playWrongSound();
-    if (navigator.vibrate) {
-      navigator.vibrate([100, 50, 100]);
-    }
-    setIsDoubleDipActive(false);
-    setTimeout(() => goToNextQuestion(false), 2000);
-  };
-
-  useEffect(() => {
-    if (isAnswered || isQuitModalOpen) return;
-
-    setTimeLeft(20);
-
-    const interval = setInterval(() => {
-      setTimeLeft((prev) => {
-        if (prev <= 1) {
-          clearInterval(interval);
-          handleTimeout();
-          return 0;
-        }
-        return prev - 1;
-      });
-    }, 1000);
-
-    return () => clearInterval(interval);
-  }, [currentIdx, isAnswered, isQuitModalOpen]);
 
   const finishGame = (wasCorrect: boolean) => {
     navigate(ROUTES.results, {
