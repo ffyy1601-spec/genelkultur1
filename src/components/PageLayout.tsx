@@ -3,6 +3,8 @@ import { NavLink } from "react-router-dom";
 import { ROUTES } from "../lib/routes";
 import { SITE_LINKS } from "../lib/seo";
 import CookieConsent from "./CookieConsent";
+import InstallBanner from "./InstallBanner";
+import UpdatePrompt from "./UpdatePrompt";
 
 interface PageLayoutProps {
   children: ReactNode;
@@ -143,6 +145,8 @@ export default function PageLayout({ children, showChrome = true }: PageLayoutPr
         </div>
       </footer>
       <CookieConsent />
+      <InstallBanner />
+      <UpdatePrompt />
     </>
   );
 }

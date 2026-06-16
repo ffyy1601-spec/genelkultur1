@@ -5,7 +5,7 @@ export default function TarihSorulari() {
   return (
     <SeoLandingPage
       title="Tarih Sorulari | GenelKultur.com.tr"
-      description="Tarih sorulari ile medeniyetler, savaslar ve donum noktalarina dair bilgini test et."
+      description="Tarih sorulari ile medeniyetler, savaslar and donum noktalarina dair bilgini test et."
       path={ROUTES.tarihSorulari}
       keywords={["tarih sorulari", "tarih testi", "tarih quiz", "bilgi yarismasi tarih"]}
       eyebrow="Tarih Sorulari"
@@ -18,3 +18,4 @@ export default function TarihSorulari() {
     />
   );
 }
+

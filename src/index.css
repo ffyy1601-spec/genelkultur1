@@ -151,3 +151,47 @@
         overflow: hidden;
     }
 }
+
+/* ── PWA banner animations ────────────────────────────────────── */
+.pwa-slide-up {
+    animation: pwa-slide-up 0.45s cubic-bezier(0.19, 1, 0.22, 1) forwards;
+}
+.pwa-slide-down {
+    animation: pwa-slide-down 0.35s cubic-bezier(0.55, 0, 1, 0.45) forwards;
+}
+.pwa-slide-down-in {
+    animation: pwa-slide-down-in 0.45s cubic-bezier(0.19, 1, 0.22, 1) forwards;
+}
+
+@keyframes pwa-slide-up {
+    from {
+        opacity: 0;
+        transform: translateY(100%);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes pwa-slide-down {
+    from {
+        opacity: 1;
+        transform: translateY(0);
+    }
+    to {
+        opacity: 0;
+        transform: translateY(100%);
+    }
+}
+
+@keyframes pwa-slide-down-in {
+    from {
+        opacity: 0;
+        transform: translate(-50%, -120%);
+    }
+    to {
+        opacity: 1;
+        transform: translate(-50%, 0);
+    }
+}
