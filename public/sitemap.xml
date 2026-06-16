@@ -180,4 +180,19 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/turkiyenin-yapay-zeka-vizyonu-aciklandi-81-ilde-dev-seferberlik-basliyor</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/yapay-zeka-icin-yeni-elektrik-cagi-turkiyeden-1-gwlik-dev-yatirim-hedefi</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/yapay-zekada-kritik-mudahale-beyaz-saraydan-fable-5-ve-mythos-5-ambargosu</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
