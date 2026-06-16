@@ -1,7 +1,13 @@
-import { usePWA } from "../lib/usePWA";
+interface UpdatePromptProps {
+  pwa: {
+    needRefresh: boolean;
+    updateApp: () => void;
+    dismissRefresh: () => void;
+  };
+}
 
-export default function UpdatePrompt() {
-  const { needRefresh, updateApp, dismissRefresh } = usePWA();
+export default function UpdatePrompt({ pwa }: UpdatePromptProps) {
+  const { needRefresh, updateApp, dismissRefresh } = pwa;
 
   if (!needRefresh) return null;
 

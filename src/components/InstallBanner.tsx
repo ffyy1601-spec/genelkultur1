@@ -1,5 +1,4 @@
 import { useState, useEffect } from "react";
-import { usePWA } from "../lib/usePWA";
 
 // ─── iOS Detection ──────────────────────────────────────────────
 function isIOS(): boolean {
@@ -7,18 +6,21 @@ function isIOS(): boolean {
   return /iPad|iPhone|iPod/.test(navigator.userAgent) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
 }
 
-function isInStandaloneMode(): boolean {
-  if (typeof window === "undefined") return false;
-  return window.matchMedia("(display-mode: standalone)").matches || (window.navigator as any).standalone === true;
-}
-
 // ─── Constants ──────────────────────────────────────────────────
 const IOS_DISMISSED_KEY = "pwa-ios-dismissed-at";
 const DISMISS_COOLDOWN_MS = 7 * 24 * 60 * 60 * 1000; // 7 days
-const SHOW_DELAY_MS = 4000; // Wait for cookie consent to settle
+const SHOW_DELAY_MS = 1500; // Gecikme süresi (çerez seçiminden sonra)
 
-export default function InstallBanner() {
-  const { canInstall, triggerInstall, isStandalone } = usePWA();
+interface InstallBannerProps {
+  pwa: {
+    canInstall: boolean;
+    triggerInstall: () => Promise<"accepted" | "dismissed" | "unavailable">;
+    isStandalone: boolean;
+  };
+}
+
+export default function InstallBanner({ pwa }: InstallBannerProps) {
+  const { canInstall, triggerInstall, isStandalone } = pwa;
   const [showIOSGuide, setShowIOSGuide] = useState(false);
   const [visible, setVisible] = useState(false);
   const [animateOut, setAnimateOut] = useState(false);
@@ -27,7 +29,7 @@ export default function InstallBanner() {
   const shouldShowNative = canInstall && !isStandalone;
 
   const shouldShowIOS = (() => {
-    if (!isIOS() || isInStandaloneMode()) return false;
+    if (!isIOS() || isStandalone) return false;
     const dismissedAt = localStorage.getItem(IOS_DISMISSED_KEY);
     if (dismissedAt) {
       const elapsed = Date.now() - parseInt(dismissedAt, 10);
@@ -40,19 +42,39 @@ export default function InstallBanner() {
   useEffect(() => {
     if (!shouldShowNative && !shouldShowIOS) return;
 
+    let timer: number | null = null;
+    let interval: number | null = null;
+
+    const triggerBanner = () => {
+      timer = window.setTimeout(() => {
+        if (shouldShowNative) {
+          setVisible(true);
+        } else if (shouldShowIOS) {
+          setShowIOSGuide(true);
+          setVisible(true);
+        }
+      }, SHOW_DELAY_MS);
+    };
+
+    // Çerez seçimi yapılmış mı kontrol et
     const cookieChoice = localStorage.getItem("cookie-consent-choice");
-    const delay = cookieChoice ? 1200 : SHOW_DELAY_MS;
+    if (cookieChoice) {
+      triggerBanner();
+    } else {
+      // Çerez seçimi yapılmamışsa, seçim yapılana kadar her 500ms'de bir kontrol et
+      interval = window.setInterval(() => {
+        const choice = localStorage.getItem("cookie-consent-choice");
+        if (choice) {
+          if (interval) window.clearInterval(interval);
+          triggerBanner();
+        }
+      }, 500);
+    }
 
-    const timer = setTimeout(() => {
-      if (shouldShowNative) {
-        setVisible(true);
-      } else if (shouldShowIOS) {
-        setShowIOSGuide(true);
-        setVisible(true);
-      }
-    }, delay);
-
-    return () => clearTimeout(timer);
+    return () => {
+      if (timer) window.clearTimeout(timer);
+      if (interval) window.clearInterval(interval);
+    };
   }, [shouldShowNative, shouldShowIOS]);
 
   // ── Handlers ─────────────────────────────────────────────────

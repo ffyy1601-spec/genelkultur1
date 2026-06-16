@@ -6,6 +6,8 @@ import CookieConsent from "./CookieConsent";
 import InstallBanner from "./InstallBanner";
 import UpdatePrompt from "./UpdatePrompt";
 
+import { usePWA } from "../lib/usePWA";
+
 interface PageLayoutProps {
   children: ReactNode;
   showChrome?: boolean;
@@ -13,6 +15,7 @@ interface PageLayoutProps {
 
 export default function PageLayout({ children, showChrome = true }: PageLayoutProps) {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const pwaState = usePWA();
 
   if (!showChrome) {
     return <>{children}</>;
@@ -145,8 +148,8 @@ export default function PageLayout({ children, showChrome = true }: PageLayoutPr
         </div>
       </footer>
       <CookieConsent />
-      <InstallBanner />
-      <UpdatePrompt />
+      <InstallBanner pwa={pwaState} />
+      <UpdatePrompt pwa={pwaState} />
     </>
   );
 }
