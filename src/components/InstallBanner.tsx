@@ -95,6 +95,8 @@ export default function InstallBanner({ pwa }: InstallBannerProps) {
   const handleDismiss = () => {
     if (showIOSGuide) {
       localStorage.setItem(IOS_DISMISSED_KEY, Date.now().toString());
+    } else {
+      localStorage.setItem("pwa-install-dismissed-at", Date.now().toString());
     }
     dismiss();
   };
