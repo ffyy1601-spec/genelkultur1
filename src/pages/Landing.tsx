@@ -147,8 +147,15 @@ export default function Landing() {
                   to={ROUTES.categories}
                   className="inline-flex items-center gap-2 rounded-full border border-primary/20 bg-primary/10 px-5 py-3 font-bold text-primary transition-all hover:-translate-y-0.5 hover:border-primary/35 hover:bg-primary/14"
                 >
-                  Kategorileri Gor
+                  Kategorileri Gör
                   <span className="material-symbols-outlined text-base">arrow_forward</span>
+                </Link>
+                <Link
+                  to={ROUTES.genelKulturBilgiYarismasi}
+                  className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-surface-container-low/80 px-5 py-3 font-bold text-on-surface transition-all hover:-translate-y-0.5 hover:border-primary/30"
+                >
+                  Bilgi Yarışması Çöz
+                  <span className="material-symbols-outlined text-base">workspace_premium</span>
                 </Link>
               </div>
             </div>

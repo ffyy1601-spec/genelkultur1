@@ -7,6 +7,7 @@ export const ROUTES = {
   genelKulturSorulari: "/genel-kultur-sorulari",
   genelKulturSorulariCevaplari: "/genel-kultur-sorulari-ve-cevaplari",
   genelKulturTesti: "/genel-kultur-testi",
+  genelKulturBilgiYarismasi: "/genel-kultur-bilgi-yarismasi",
   zorGenelKulturSorulari: "/zor-genel-kultur-sorulari",
   tarihSorulari: "/tarih-sorulari",
   tarihSorulariCevaplari: "/tarih-sorulari-ve-cevaplari",

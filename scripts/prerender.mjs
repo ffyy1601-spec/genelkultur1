@@ -32,6 +32,7 @@ try {
     ROUTES.genelKulturSorulari,
     ROUTES.genelKulturSorulariCevaplari,
     ROUTES.genelKulturTesti,
+    ROUTES.genelKulturBilgiYarismasi,
     ROUTES.zorGenelKulturSorulari,
     ROUTES.tarihSorulari,
     ROUTES.tarihSorulariCevaplari,

@@ -96,6 +96,9 @@ export default function PageLayout({ children, showChrome = true }: PageLayoutPr
               <NavLink to={ROUTES.categories} className="text-on-surface-variant transition-colors hover:text-on-surface">
                 Genel Kültür Testi
               </NavLink>
+              <NavLink to={ROUTES.genelKulturBilgiYarismasi} className="text-on-surface-variant transition-colors hover:text-on-surface">
+                Genel Kültür Bilgi Yarışması
+              </NavLink>
               <NavLink to={ROUTES.genelKulturSorulari} className="text-on-surface-variant transition-colors hover:text-on-surface">
                 Genel Kültür Soruları
               </NavLink>

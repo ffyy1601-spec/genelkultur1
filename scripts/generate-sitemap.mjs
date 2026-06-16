@@ -33,6 +33,7 @@ async function generateSitemap() {
       { path: "genel-kultur-sorulari", changefreq: "weekly", priority: "0.9" },
       { path: "genel-kultur-sorulari-ve-cevaplari", changefreq: "weekly", priority: "0.9" },
       { path: "genel-kultur-testi", changefreq: "weekly", priority: "0.9" },
+      { path: "genel-kultur-bilgi-yarismasi", changefreq: "weekly", priority: "0.9" },
       { path: "zor-genel-kultur-sorulari", changefreq: "weekly", priority: "0.8" },
       { path: "tarih-sorulari", changefreq: "weekly", priority: "0.8" },
       { path: "tarih-sorulari-ve-cevaplari", changefreq: "weekly", priority: "0.8" },

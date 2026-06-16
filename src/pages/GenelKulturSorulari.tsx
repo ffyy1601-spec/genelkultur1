@@ -129,12 +129,138 @@ const QUESTIONS_LIST = [
     q: "Elementlerin sınıflandırıldığı periyodik cetveli oluşturan Rus kimyager kimdir?",
     a: "Dmitri Mendeleyev",
     desc: "Mendeleyev, 1869 yılında elementleri atom kütlelerine göre sıralayarak periyodik tabloyu oluşturmuş ve henüz keşfedilmemiş elementlerin varlığını öngörmüştür."
+  },
+  {
+    q: "Yazlık saray olarak da bilinen ve İstanbul Boğazı kıyısında yer alan tarihi saray hangisidir?",
+    a: "Beylerbeyi Sarayı",
+    desc: "1860'larda Sultan Abdülaziz tarafından yaptırılan Beylerbeyi Sarayı, Osmanlı padişahlarının özellikle yaz aylarında ve yabancı devlet adamlarını ağırlamak amacıyla kullandığı eşsiz bir yapıdır."
+  },
+  {
+    q: "Osmanlı'da sefere çıkan ordunun başında padişahın bulunmadığı durumlarda komuta yetkisine sahip sadrazama hangi unvan verilirdi?",
+    a: "Serdar-ı Ekrem",
+    desc: "Sadrazamlar padişah adına orduya komuta ettiklerinde bu sıfatı alırlar ve padişahın mutlak yetkilerini savaş meydanında kullanırlardı."
+  },
+  {
+    q: "Optik bilimi üzerine yaptığı öncü çalışmalarla tanınan ve 'Kitabü'l-Menazır' adlı eserin yazarı olan Orta Çağ İslam bilgini kimdir?",
+    a: "İbnü'l-Heysem (Alhazen)",
+    desc: "Işığın doğrusal yayıldığını, görmenin gözden çıkan ışınlarla değil göze gelen ışınlarla gerçekleştiğini ispatlayan modern optiğin kurucularındandır."
+  },
+  {
+    q: "Dünyanın en tuzlu göllerinden biri olan ve deniz seviyesinden yaklaşık 430 metre aşağıda bulunan tektonik göl hangisidir?",
+    a: "Lut Gölü (Ölü Deniz)",
+    desc: "İsrail, Filistin ve Ürdün sınırında yer alan bu göl, aşırı yüksek tuzluluk oranı nedeniyle içinde balık veya bitki gibi canlıların yaşamasına izin vermez."
+  },
+  {
+    q: "Türkiye'nin en büyük tatlı su gölü hangisidir?",
+    a: "Beyşehir Gölü",
+    desc: "Konya ve Isparta illeri sınırında yer alan Beyşehir Gölü, hem yüzölçümü hem de içindeki adalarıyla Türkiye'nin en büyük tatlı su gölü unvanına sahiptir."
+  },
+  {
+    q: "Gözün odaklama sorunu nedeniyle yakındaki nesneleri net görememe (hipermetrop) durumunu düzeltmek için hangi mercek türü kullanılır?",
+    a: "İnce Kenarlı (Yakınsak) Mercek",
+    desc: "İnce kenarlı mercekler ışığı toplayarak görüntünün retina üzerine tam olarak düşmesini sağlar, hipermetropi tedavisinde kullanılır."
+  },
+  {
+    q: "Fransız yazar Victor Hugo'nun ünlü eseri 'Notre Dame'ın Kamburu' romanındaki çan çalıcısı karakterin adı nedir?",
+    a: "Quasimodo",
+    desc: "Quasimodo, Notre Dame Katedrali'nin çan çalıcısıdır ve çingene kızı Esmeralda'ya duyduğu karşılıksız aşk ile edebiyat tarihinin en unutulmaz karakterlerindendir."
+  },
+  {
+    q: "Eski Roma toplumunda soylu sınıfa (Patriciler) karşı hak arayışında olan sıradan halk tabakasına ne ad verilirdi?",
+    a: "Plebler",
+    desc: "Plebler, Roma Cumhuriyeti döneminde siyasi ve medeni haklar elde etmek amacıyla aristokrat Patriciler ile uzun süreli mücadeleler vermişlerdir."
+  },
+  {
+    q: "Radyoaktivite üzerine yaptığı çalışmalarla iki farklı alanda (Fizik ve Kimya) Nobel Ödülü kazanan ilk ve tek kadın bilim insanı kimdir?",
+    a: "Marie Curie",
+    desc: "Polonyum ve radyum elementlerini keşfeden Curie, bilim tarihine geçen başarılarıyla radyoaktivite biliminin öncüsü kabul edilir."
+  },
+  {
+    q: "Türkiye Cumhuriyeti tarihinde başbakanlık koltuğuna oturan ilk ve tek kadın siyasetçi kimdir?",
+    a: "Tansu Çiller",
+    desc: "1993-1996 yılları arasında Türkiye Cumhuriyeti'nin 22. başbakanı olarak görev yapmış, ekonomi profesörü olan kadın liderdir."
+  },
+  {
+    q: "Güneş Sistemi'nde Güneş'e en yakın ikinci gezegen olmasına rağmen atmosferindeki sera etkisi nedeniyle en sıcak gezegen hangisidir?",
+    a: "Venüs",
+    desc: "Yoğun karbondioksit atmosferi Güneş ısı enerjisini hapsederek yüzey sıcaklığının 460 derecenin üzerine çıkmasına neden olur."
+  },
+  {
+    q: "AB0 kan grubu sistemini keşfederek kan naklinin güvenli yapılmasını sağlayan ve Nobel Tıp Ödülü alan hekim kimdir?",
+    a: "Karl Landsteiner",
+    desc: "1901 yılında kan gruplarını tanımlayan Landsteiner, tıp dünyasında milyonlarca insanların hayatının kurtarılmasına öncülük etmiştir."
+  },
+  {
+    q: "Alplerin eteklerinde yer alan ve İsviçre'nin fiili başkenti (federal şehir) kabul edilen kent hangisidir?",
+    a: "Bern",
+    desc: "İsviçre'nin resmi bir başkenti anayasada bulunmasa da federal hükümet organlarının toplandığı Bern şehri fiili başkent işlevi görür."
+  },
+  {
+    q: "Gökbilimci Galileo Galilei'nin Dünya'nın döndüğünü savunduğu için yargılandığı Katolik Kilisesi mahkemesinin adı nedir?",
+    a: "Engizisyon Mahkemesi",
+    desc: "17. yüzyılda kilisenin yer merkezli evren teorisine karşı çıktığı için Galileo bu mahkemede yargılanmış ve ev hapsine mahkum edilmiştir."
+  },
+  {
+    q: "Afrika kıtasında yer alan ve dünyanın en uzun nehri olarak bilinen akarsu hangisidir?",
+    a: "Nil Nehri",
+    desc: "Victoria Gölü'nden doğup Akdeniz'e dökülen Nil Nehri, antik Mısır medeniyetinin doğup büyümesinde en hayati rolü üstlenmiştir."
+  },
+  {
+    q: "Şiir ve tiyatro alanındaki yenilikçi tarzıyla Türk edebiyatını derinden etkileyen, 'Makber' şiiriyle tanınan ve 'Şair-i Azam' unvanı verilen Tanzimat yazarı kimdir?",
+    a: "Abdülhak Hamit Tarhan",
+    desc: "Türk edebiyatının batılılaşmasında büyük rol oynamış, eserlerindeki felsefi derinlik ve yenilikçi dili nedeniyle kendisine en büyük şair anlamına gelen Şair-i Azam unvanı layık görülmüştür."
+  },
+  {
+    q: "Alyuvarlarda (kırmızı kan hücrelerinde) bulunan ve akciğerlerden dokulara oksijen taşımakla görevli demir yönünden zengin protein hangisidir?",
+    a: "Hemoglobin",
+    desc: "Hemoglobin oksijeni kendine bağlayarak kana kırmızı rengini verir. Eksikliğinde kansızlık (anemi) tablosu ortaya çıkar."
+  },
+  {
+    q: "Amerika Birleşik Devletleri'nin ilk başkanı olan ve ülkenin kuruluş sürecine liderlik eden tarihi figür kimdir?",
+    a: "George Washington",
+    desc: "Amerikan Bağımsızlık Savaşı'nda kurucu ordunun başkomutanlığını yapmış, 1789-1797 yılları arasında ülkenin ilk başkanı olarak görev almıştır."
+  },
+  {
+    q: "İlk kez 1896 yılında Atina'da başlatılan ve HTML sporları için dört yılda bir düzenlenen çok sporlu küresel etkinliğin adı nedir?",
+    a: "Modern Olimpiyat Oyunları",
+    desc: "Antik Yunan olimpiyatlarından esinlenerek Pierre de Coubertin'in öncülüğünde kurulan uluslararası en büyük spor organizasyonudur."
+  },
+  {
+    q: "Piyano ve benzeri tuşlu çalgılarda ses perdelerinin ve sürelerinin kesilmeden uzamasını sağlayan ayak pedallarına genel olarak ne ad verilir?",
+    a: "Sustain (Uzatma) Pedalı",
+    desc: "Piyanistin tuşa bastıktan sonra elini çekse dahi tellerin titreşmeye devam etmesini ve seslerin birbirine pürüzsüz bağlanmasını sağlar."
+  },
+  {
+    q: "Osmanlı Devleti döneminde çıkarılan ve Türk basın tarihinin ilk Türkçe gazetesi kabul edilen resmi yayının adı nedir?",
+    a: "Takvim-i Vekayi",
+    desc: "1831 yılında Sultan II. Mahmud döneminde haftalık olarak yayımlanmaya başlanan Osmanlı İmparatorluğu'nun ilk resmi devlet gazetesidir."
+  },
+  {
+    q: "Kuyruklu yıldızların yörüngelerinde ilerlerken arkalarında bıraktıkları ve Güneş rüzgarlarıyla parlayan çekirdeklerin ana bileşenleri nelerdir?",
+    a: "Buz, Kaya ve Kozmik Toz",
+    desc: "Kirli kartopu olarak da adlandırılan bu gök cisimleri Güneş'e yaklaştıkça içlerindeki buz gaz haline geçer ve kuyruk görünümü oluşur."
+  },
+  {
+    q: "Tarihin bilinen ilk yazılı kanunları olarak kabul edilen ve Mezopotamya uygarlığı Sümerler döneminde oluşturulan yasalar hangisidir?",
+    a: "Urnammu Kanunları",
+    desc: "M.Ö. 2100-2050 yıllarında Ur Kralı Ur-Nammu tarafından çivi yazısıyla yazılan bu kanunlar, Hammurabi Kanunları'ndan da eskidir."
+  },
+  {
+    q: "İnsan vücudunda kalsiyum fosfat kristallerinden oluşan ve kemiklerden bile daha sert olan en dayanıklı doku hangisidir?",
+    a: "Diş Minesi",
+    desc: "Dişlerin en dış katmanını oluşturan diş minesi, vücuttaki en yoğun mineral oranına sahip olup dış etkenlere karşı koruma sağlar."
+  },
+  {
+    q: "Türkiye'nin coğrafi olarak en uzun kara sınırı komşusu hangi ülkedir?",
+    a: "Suriye",
+    desc: "Türkiye ile Suriye arasındaki kara sınırı yaklaşık 911 kilometre uzunluğunda olup Türkiye'nin en uzun kara sınır hattını oluşturur."
   }
 ];
 
 export default function GenelKulturSorulari() {
   const [searchQuery, setSearchQuery] = useState("");
-  const [expandedIndex, setExpandedIndex] = useState<number | null>(null);
+  const [expandedState, setExpandedState] = useState<Record<number, boolean>>({});
+  const [allExpanded, setAllExpanded] = useState(false);
 
   const filteredQuestions = QUESTIONS_LIST.filter(
     (item) =>
@@ -144,7 +270,20 @@ export default function GenelKulturSorulari() {
   );
 
   const toggleAccordion = (index: number) => {
-    setExpandedIndex(expandedIndex === index ? null : index);
+    setExpandedState((prev) => ({
+      ...prev,
+      [index]: !prev[index],
+    }));
+  };
+
+  const toggleAll = () => {
+    const nextState = !allExpanded;
+    setAllExpanded(nextState);
+    const updated: Record<number, boolean> = {};
+    filteredQuestions.forEach((_, idx) => {
+      updated[idx] = nextState;
+    });
+    setExpandedState(updated);
   };
 
   // Google FAQ Schema
@@ -164,11 +303,11 @@ export default function GenelKulturSorulari() {
   // Dynamic Title & Description based on search input for SEO
   const seoTitle = searchQuery 
     ? `"${searchQuery}" İle İlgili Genel Kültür Soruları | GenelKultur.com.tr` 
-    : "Genel Kültür Soruları ve Cevapları - Popüler Soru Listesi | GenelKultur.com.tr";
+    : "50+ Genel Kültür Soruları ve Cevapları 2026 (Zor-Kolay) | GenelKultur.com.tr";
 
   const seoDescription = searchQuery 
     ? `GenelKültür.com.tr üzerinde "${searchQuery}" terimi ile ilgili arama sonuçları. En popüler genel kültür sorularını inceleyin ve test edin.` 
-    : "En çok aratılan 25 popüler genel kültür sorusu, cevabı ve detaylı açıklamaları. Bilgini sına, yeni şeyler öğren ve oyuna hemen başla!";
+    : "Özenle seçilmiş 50'den fazla genel kültür sorusu ve detaylı cevap açıklamaları. Tarih, bilim, sanat ve coğrafya dikeyinde bilgini hemen sına, yeni şeyler öğren!";
 
   return (
     <PageLayout>
@@ -214,7 +353,8 @@ export default function GenelKulturSorulari() {
               value={searchQuery}
               onChange={(e) => {
                 setSearchQuery(e.target.value);
-                setExpandedIndex(null); // Reset expansions on search
+                setExpandedState({}); // Reset expansions on search
+                setAllExpanded(false);
               }}
               className="w-full rounded-2xl border border-white/10 bg-surface-container-low py-4 pl-12 pr-4 text-sm text-on-surface placeholder:text-on-surface-variant/50 focus:border-primary/40 focus:outline-none focus:ring-1 focus:ring-primary/40 transition-all shadow-inner"
             />
@@ -222,7 +362,8 @@ export default function GenelKulturSorulari() {
               <button
                 onClick={() => {
                   setSearchQuery("");
-                  setExpandedIndex(null);
+                  setExpandedState({});
+                  setAllExpanded(false);
                 }}
                 className="absolute right-4 flex h-6 w-6 items-center justify-center rounded-full hover:bg-white/10 text-on-surface-variant"
               >
@@ -242,14 +383,28 @@ export default function GenelKulturSorulari() {
 
         {/* Results Info */}
         <div className="flex items-center justify-between mb-4 px-1">
-          <p className="text-xs font-semibold text-on-surface-variant">
-            {filteredQuestions.length} soru listeleniyor
-          </p>
+          <div className="flex items-center gap-3">
+            <p className="text-xs font-semibold text-on-surface-variant">
+              {filteredQuestions.length} soru listeleniyor
+            </p>
+            {filteredQuestions.length > 0 && (
+              <button
+                onClick={toggleAll}
+                className="text-xs font-bold text-primary hover:text-primary/80 transition-colors flex items-center gap-1 border border-primary/20 bg-primary/5 px-2.5 py-1 rounded-lg"
+              >
+                <span className="material-symbols-outlined text-xs">
+                  {allExpanded ? "unfold_less" : "unfold_more"}
+                </span>
+                {allExpanded ? "Tümünü Kapat" : "Tüm Cevapları Göster"}
+              </button>
+            )}
+          </div>
           {searchQuery && (
             <button
               onClick={() => {
                 setSearchQuery("");
-                setExpandedIndex(null);
+                setExpandedState({});
+                setAllExpanded(false);
               }}
               className="text-xs font-bold text-primary hover:underline"
             >
@@ -262,7 +417,7 @@ export default function GenelKulturSorulari() {
         <section className="space-y-3">
           {filteredQuestions.length > 0 ? (
             filteredQuestions.map((item, index) => {
-              const isExpanded = expandedIndex === index;
+              const isExpanded = !!expandedState[index];
               return (
                 <div
                   key={index}

@@ -8,6 +8,7 @@ import ContentHub from "./pages/ContentHub";
 import GenelKulturSorulari from "./pages/GenelKulturSorulari";
 import GenelKulturSorulariCevaplari from "./pages/GenelKulturSorulariCevaplari";
 import GenelKulturTesti from "./pages/GenelKulturTesti";
+import GenelKulturBilgiYarismasi from "./pages/GenelKulturBilgiYarismasi";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Privacy from "./pages/Privacy";
@@ -64,6 +65,7 @@ export function AppContent({ includeRouteEffects = true }: AppContentProps) {
             <Route path={ROUTES.genelKulturSorulari} element={<GenelKulturSorulari />} />
             <Route path={ROUTES.genelKulturSorulariCevaplari} element={<GenelKulturSorulariCevaplari />} />
             <Route path={ROUTES.genelKulturTesti} element={<GenelKulturTesti />} />
+            <Route path={ROUTES.genelKulturBilgiYarismasi} element={<GenelKulturBilgiYarismasi />} />
             <Route path={ROUTES.zorGenelKulturSorulari} element={<ZorGenelKulturSorulari />} />
             <Route path={ROUTES.tarihSorulari} element={<TarihSorulari />} />
             <Route path={ROUTES.tarihSorulariCevaplari} element={<TarihSorulariCevaplari />} />
