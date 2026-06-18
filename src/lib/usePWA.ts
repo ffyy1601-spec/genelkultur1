@@ -11,34 +11,27 @@ interface BeforeInstallPromptEvent extends Event {
 interface PWAState {
   /** true when the browser's native install prompt is available */
   canInstall: boolean;
-  /** true when a new SW version is waiting to activate */
-  needRefresh: boolean;
   /** true when the app is ready for offline use */
   offlineReady: boolean;
   /** true when running as installed PWA (standalone) */
   isStandalone: boolean;
   /** Trigger native install prompt — returns user choice */
   triggerInstall: () => Promise<"accepted" | "dismissed" | "unavailable">;
-  /** Accept the waiting SW and reload the page */
-  updateApp: () => void;
   /** Dismiss the offline-ready notification */
   dismissOfflineReady: () => void;
-  /** Dismiss the update notification */
-  dismissRefresh: () => void;
 }
 
 // ─── Constants ──────────────────────────────────────────────────
 const INSTALL_DISMISSED_KEY = "pwa-install-dismissed-at";
 const DISMISS_COOLDOWN_MS = 7 * 24 * 60 * 60 * 1000; // 7 days
+const UPDATE_CHECK_INTERVAL_MS = 10 * 60 * 1000; // 10 minutes
 
 // ─── Hook ───────────────────────────────────────────────────────
 export function usePWA(): PWAState {
   const [canInstall, setCanInstall] = useState(false);
-  const [needRefresh, setNeedRefresh] = useState(false);
   const [offlineReady, setOfflineReady] = useState(false);
 
   const deferredPromptRef = useRef<BeforeInstallPromptEvent | null>(null);
-  const updateSWRef = useRef<((reloadPage?: boolean) => Promise<void>) | null>(null);
 
   // Detect standalone mode
   const isStandalone =
@@ -46,32 +39,28 @@ export function usePWA(): PWAState {
     (window.matchMedia("(display-mode: standalone)").matches ||
       (window.navigator as any).standalone === true);
 
-  // ── Register the service worker ──────────────────────────────
+  // ── Register the service worker (autoUpdate mode) ────────────
   useEffect(() => {
     // Don't register in development for cleaner DX
     if (import.meta.env.DEV) return;
 
-    const updateSW = registerSW({
-      onNeedRefresh() {
-        setNeedRefresh(true);
-      },
+    // autoUpdate mode: SW activates immediately, no user prompt needed
+    registerSW({
       onOfflineReady() {
         setOfflineReady(true);
       },
       onRegisteredSW(_swUrl, registration) {
-        // Check for updates every 60 minutes
+        // Check for updates every 10 minutes (content updates 2x/day)
         if (registration) {
           setInterval(() => {
             registration.update();
-          }, 60 * 60 * 1000);
+          }, UPDATE_CHECK_INTERVAL_MS);
         }
       },
       onRegisterError(error) {
         console.error("SW registration error:", error);
       },
     });
-
-    updateSWRef.current = updateSW;
   }, []);
 
   // ── Listen for the install prompt ────────────────────────────
@@ -128,26 +117,15 @@ export function usePWA(): PWAState {
     return outcome;
   }, []);
 
-  const updateApp = useCallback(() => {
-    updateSWRef.current?.(true);
-  }, []);
-
   const dismissOfflineReady = useCallback(() => {
     setOfflineReady(false);
   }, []);
 
-  const dismissRefresh = useCallback(() => {
-    setNeedRefresh(false);
-  }, []);
-
   return {
     canInstall,
-    needRefresh,
     offlineReady,
     isStandalone,
     triggerInstall,
-    updateApp,
     dismissOfflineReady,
-    dismissRefresh,
   };
 }

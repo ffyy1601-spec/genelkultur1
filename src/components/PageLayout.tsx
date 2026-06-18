@@ -4,7 +4,7 @@ import { ROUTES } from "../lib/routes";
 import { SITE_LINKS } from "../lib/seo";
 import CookieConsent from "./CookieConsent";
 import InstallBanner from "./InstallBanner";
-import UpdatePrompt from "./UpdatePrompt";
+
 
 import { usePWA } from "../lib/usePWA";
 
@@ -149,7 +149,7 @@ export default function PageLayout({ children, showChrome = true }: PageLayoutPr
       </footer>
       <CookieConsent />
       <InstallBanner pwa={pwaState} />
-      <UpdatePrompt pwa={pwaState} />
+
     </>
   );
 }
