@@ -52,6 +52,8 @@ async function generateSitemap() {
       { path: "kullanim-kosullari", changefreq: "yearly", priority: "0.3" },
     ];
 
+    const today = new Date().toISOString().slice(0, 10);
+
     let xml = `<?xml version="1.0" encoding="UTF-8"?>\n`;
     xml += `<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n`;
 
@@ -59,6 +61,7 @@ async function generateSitemap() {
     for (const urlInfo of staticUrls) {
       xml += `  <url>\n`;
       xml += `    <loc>https://genelkultur.com.tr/${urlInfo.path}</loc>\n`;
+      xml += `    <lastmod>${today}</lastmod>\n`;
       xml += `    <changefreq>${urlInfo.changefreq}</changefreq>\n`;
       xml += `    <priority>${urlInfo.priority}</priority>\n`;
       xml += `  </url>\n`;
@@ -66,8 +69,10 @@ async function generateSitemap() {
 
     // Add dynamic news/tests
     for (const quiz of dailyQuizzes) {
+      const lastmod = quiz.dateId ? quiz.dateId.slice(0, 10) : today;
       xml += `  <url>\n`;
       xml += `    <loc>https://genelkultur.com.tr/test/${quiz.slug}</loc>\n`;
+      xml += `    <lastmod>${lastmod}</lastmod>\n`;
       xml += `    <changefreq>weekly</changefreq>\n`;
       xml += `    <priority>0.8</priority>\n`;
       xml += `  </url>\n`;

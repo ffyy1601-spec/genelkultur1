@@ -1,5 +1,4 @@
 import type { CategoryType } from "../data";
-import { QUESTION_SETS } from "../data";
 import { ROUTES } from "./routes";
 
 export const SITE_NAME = "GenelKultur.com.tr";
@@ -13,8 +12,6 @@ export const CATEGORY_LABELS: Record<CategoryType, string> = {
   sanat: "Sanat",
   kpss: "KPSS Tarih",
 };
-
-export const categoryQuestionCount = (category: CategoryType) => QUESTION_SETS[category].length;
 
 export const buildCanonicalUrl = (path: string) => `${SITE_URL}${path === "/" ? "" : path}`;
 

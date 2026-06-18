@@ -79,13 +79,21 @@ try {
     const rootStart = appHtml.indexOf('<div class="bg-background');
     const inlineHead = rootStart >= 0 ? appHtml.slice(0, rootStart) : "";
     const bodyMarkup = rootStart >= 0 ? appHtml.slice(rootStart) : appHtml;
-    const head = [
+    const rawHead = [
       helmet?.title?.toString() ?? "",
       helmet?.meta?.toString() ?? "",
       helmet?.link?.toString() ?? "",
       helmet?.script?.toString() ?? "",
       inlineHead,
     ].join("");
+
+    const head = rawHead.replace(/<link\s+[^>]*\/?>/gi, (match) => {
+      const isPreloadImage = match.includes('as="image"') && (match.includes('rel="preload"') || match.includes('rel=\'preload\''));
+      if (isPreloadImage && !match.includes("hero.png")) {
+        return "";
+      }
+      return match;
+    });
 
     const html = template
       .replace("<!--app-head-->", head)

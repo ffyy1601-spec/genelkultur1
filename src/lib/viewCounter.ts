@@ -20,6 +20,9 @@ function hashCode(str: string): number {
  * @param shouldIncrement If true, increments the view count (use on landing/details page)
  */
 export function getSimulatedViews(slug: string, shouldIncrement = false): number {
+  if (typeof localStorage === "undefined") {
+    return getBaseViews(slug);
+  }
   const storageKey = `gk_news_views_${slug}`;
   const storedValue = localStorage.getItem(storageKey);
 
@@ -87,6 +90,16 @@ export const REACTION_DETAILS: Record<keyof NewsReactions, { emoji: string; labe
  * Gets the simulated reaction counts for a news article.
  */
 export function getSimulatedReactions(slug: string): NewsReactions {
+  if (typeof localStorage === "undefined") {
+    const hash = hashCode(slug);
+    return {
+      like: 45 + (hash % 240),
+      wow: 12 + ((hash >> 1) % 95),
+      clap: 8 + ((hash >> 2) % 65),
+      fire: 15 + ((hash >> 3) % 150),
+      sad: 2 + ((hash >> 4) % 35),
+    };
+  }
   const storageKey = `gk_news_reactions_${slug}`;
   const storedValue = localStorage.getItem(storageKey);
 
@@ -117,6 +130,9 @@ export function getSimulatedReactions(slug: string): NewsReactions {
  * Gets the key of the reaction the user has clicked on for this article (if any).
  */
 export function getUserReaction(slug: string): keyof NewsReactions | null {
+  if (typeof localStorage === "undefined") {
+    return null;
+  }
   const storageKey = `gk_news_user_reaction_${slug}`;
   return localStorage.getItem(storageKey) as keyof NewsReactions | null;
 }
@@ -125,6 +141,16 @@ export function getUserReaction(slug: string): keyof NewsReactions | null {
  * Saves or updates a user's reaction to an article, adjusting the total counts.
  */
 export function saveUserReaction(slug: string, reactionKey: keyof NewsReactions | null): NewsReactions {
+  if (typeof localStorage === "undefined") {
+    const hash = hashCode(slug);
+    return {
+      like: 45 + (hash % 240),
+      wow: 12 + ((hash >> 1) % 95),
+      clap: 8 + ((hash >> 2) % 65),
+      fire: 15 + ((hash >> 3) % 150),
+      sad: 2 + ((hash >> 4) % 35),
+    };
+  }
   const reactionsKey = `gk_news_reactions_${slug}`;
   const userReactionKey = `gk_news_user_reaction_${slug}`;
   

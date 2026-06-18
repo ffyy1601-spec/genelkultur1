@@ -40,7 +40,7 @@ export default function DailyLanding() {
   const schema: any[] = [
     {
       "@context": "https://schema.org",
-      "@type": hasQuiz ? "Article" : "NewsArticle",
+      "@type": "NewsArticle",
       headline: quiz.title,
       description: quiz.description,
       image: quiz.imageUrl ? `${SITE_URL}${quiz.imageUrl}` : undefined,
@@ -53,6 +53,8 @@ export default function DailyLanding() {
         logo: { "@type": "ImageObject", url: `${SITE_URL}/favicon-512.png` },
       },
       datePublished: quiz.dateId,
+      dateModified: quiz.dateId,
+      articleBody: quiz.article.replace(/<[^>]*>/g, ""),
     }
   ];
 

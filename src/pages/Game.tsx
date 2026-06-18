@@ -2,7 +2,6 @@ import { useEffect, useMemo, useState } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
 import Seo from "../components/Seo";
 import { QUESTION_SETS, KPSS_TOPIC_QUESTION_SETS, kpssTopics } from "../data";
-import heroImage from "../assets/hero.png";
 import type { CategoryType, Question } from "../data";
 import { ROUTES } from "../lib/routes";
 import { CATEGORY_LABELS } from "../lib/seo";
@@ -524,7 +523,7 @@ export default function Game() {
       </main>
 
       <div className="pointer-events-none fixed inset-0 -z-20">
-        <img alt="Arka plan gorseli" className="h-full w-full object-cover grayscale opacity-[0.05]" src={heroImage} />
+        <img alt="Arka plan gorseli" className="h-full w-full object-cover grayscale opacity-[0.05]" src="/hero.png" />
         <div
           className="absolute inset-0 opacity-[0.03] bg-repeat"
           style={{

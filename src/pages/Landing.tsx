@@ -1,7 +1,6 @@
 import { Link } from "react-router-dom";
 import PageLayout from "../components/PageLayout";
 import Seo from "../components/Seo";
-import heroImage from "../assets/hero.png";
 import { ROUTES } from "../lib/routes";
 import { SITE_URL } from "../lib/seo";
 import { contentLibraryCards } from "../data/contentLibrary";
@@ -70,7 +69,7 @@ export default function Landing() {
             <img
               alt="Genel kultur bilgi yarismasi arka plan gorseli"
               className="h-full w-full object-cover opacity-[0.16] saturate-[0.9]"
-              src={heroImage}
+              src="/hero.png"
             />
           </div>
           <div className="pointer-events-none absolute inset-0 -z-20 bg-[radial-gradient(circle_at_top,rgba(242,202,80,0.18),transparent_32%),linear-gradient(180deg,rgba(4,19,41,0.55),rgba(4,19,41,0.94))]"></div>
