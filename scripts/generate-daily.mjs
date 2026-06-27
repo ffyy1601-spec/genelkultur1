@@ -2,6 +2,7 @@ import fs from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import crypto from "node:crypto";
+import { TwitterApi } from "twitter-api-v2";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -288,8 +289,63 @@ export const dailyQuizzes: DailyQuiz[] = ${JSON.stringify(dailyQuizzes, null, 2)
     console.error("Sitemap güncellenirken bir hata oluştu:", err);
   }
 
-  // 6. Google Indexing API — yeni sayfaları doğrudan dizine bildir
+  // 6. Twitter (X) — yeni haberi görseliyle otomatik paylaş
+  try {
+    const localImagePath = newNewsItem.imageUrl ? path.join(rootDir, "public", "images", "news", `${slug}.png`) : null;
+    await postToTwitter(newNewsItem.heading, newNewsItem.intro, slug, localImagePath);
+  } catch (err) {
+    console.error("Twitter paylaşılamadı:", err);
+  }
+
+  // 7. Google Indexing API — yeni sayfaları doğrudan dizine bildir
   await notifyGoogleIndexingAPI(slug);
+}
+
+// ─── Twitter (X) Otomatik Paylaşım Fonksiyonu ──────────────────────────────
+async function postToTwitter(heading, intro, slug, localImagePath) {
+  if (!process.env.TWITTER_API_KEY || !process.env.TWITTER_ACCESS_TOKEN) {
+    console.log("[Twitter Bot] Twitter API anahtarları tanımlı değil, paylaşım atlanıyor.");
+    return;
+  }
+
+  try {
+    console.log("[Twitter Bot] Twitter istemcisi başlatılıyor...");
+    const twitterClient = new TwitterApi({
+      appKey: process.env.TWITTER_API_KEY,
+      appSecret: process.env.TWITTER_API_SECRET,
+      accessToken: process.env.TWITTER_ACCESS_TOKEN,
+      accessSecret: process.env.TWITTER_ACCESS_SECRET,
+    });
+
+    let mediaId = null;
+
+    if (localImagePath) {
+      try {
+        console.log(`[Twitter Bot] Görsel yükleniyor: ${localImagePath}`);
+        mediaId = await twitterClient.v1.uploadMedia(localImagePath);
+        console.log(`[Twitter Bot] Görsel yüklendi. Media ID: ${mediaId}`);
+      } catch (mediaErr) {
+        console.warn(`[Twitter Bot] ⚠️ Görsel yüklenirken hata oluştu: ${mediaErr.message}`);
+      }
+    }
+
+    const url = `https://genelkultur.com.tr/test/${slug}`;
+    const rawContent = `📢 ${heading}\n\n📝 ${intro}`;
+    // Limit to 230 characters to leave space for links and format text safely (X has 280 character limit)
+    const truncatedContent = rawContent.length > 230 ? rawContent.slice(0, 227) + "..." : rawContent;
+    const tweetText = `${truncatedContent}\n\nDetaylar için tıklayın 👇\n🔗 ${url}`;
+
+    console.log("[Twitter Bot] Tweet atılıyor...");
+    const tweetOptions = { text: tweetText };
+    if (mediaId) {
+      tweetOptions.media = { media_ids: [mediaId] };
+    }
+
+    const { data } = await twitterClient.v2.tweet(tweetOptions);
+    console.log(`[Twitter Bot] ✅ Tweet başarıyla atıldı! ID: ${data.id}`);
+  } catch (err) {
+    console.error("[Twitter Bot] ❌ Paylaşım sırasında hata oluştu:", err.message);
+  }
 }
 
 // ─── Google Indexing API ──────────────────────────────────────────────────────
