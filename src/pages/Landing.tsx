@@ -28,18 +28,21 @@ const featuredCategories = [
   {
     title: "Genel Kültür",
     subtitle: "Geniş kapsama sahip hızlı quiz turları",
+    link: `${ROUTES.game}?category=genel`,
     image:
       "https://lh3.googleusercontent.com/aida-public/AB6AXuDdnK_XqjfbSatkYNHYb2sfF1a4K-F64geRJT5FG55s0G5KucVVZuooNh01SHJocF2ZwQi5R_s1IDf6Enqxxl30VAwBPISwh2UA9ufdlcWQSzmPcWdOK3nMKltU9EywtMxN8zzXjhNXtbkW452DI8cRuEJAY0Vtv02p5_fHj9AscVgrCA5J2HyppDAfLhWWQc_8owWDBkx4JSPV0dJ16FxmDFUqn_-qhimF4SdXVyOEWoazhYwhtaUbOa6acdB1YI_9OlkkwHdmsiod",
   },
   {
     title: "Tarih",
     subtitle: "İmparatorluklar, savaşlar ve dönüm noktaları",
+    link: `${ROUTES.game}?category=tarih`,
     image:
       "https://lh3.googleusercontent.com/aida-public/AB6AXuBXquEfwDXcMwEPe3vkeJIjec0rhqgHiNIvECygM3_D95kxStQ-hroYtPEwVW_KCEiwd3fQkXCaSdfD34wEwFJeLOIfRHeOeH_r8xkk-ePRlU6ZaU_hzDnsn8sAcRZHwBTjR1X8KVOswT9eMMQaPs5r0IBAhhX6OHS4VkyMBUTi_qPjPIatY8X3ftaptOGs3tXoT79pdaLlR0lYkOfoH0yLy12OiMdi7wbEU-DQvVyRxPXZiNngn-EupoVKdHeQzi7DaMlKQRfDAX9c",
   },
   {
     title: "Bilim",
     subtitle: "Evren, teknoloji ve merak uyandıran bilgiler",
+    link: `${ROUTES.game}?category=bilim`,
     image:
       "https://lh3.googleusercontent.com/aida-public/AB6AXuBp8Ad3dg2wbQh1CO95msXso0lgnT0x2u2O1U8olNbrI070hhLBBNouzM288C5AlhyvvHhjhXliLPyH4vx2JlmqA-cNOtUYE3Fo68bUyqlDO5xcrZmeIVpxDFcLYxA3KnQ_ASxJ_nhEGJ7fD3_6Xqq8fuzgsTOZdQZQducWfu5lIF53xmaCFOhhr627xVi3ocADRLvpY3ZhNpk3i32IpGiSSKCtQ9P1l-pQ6pFNtQqvDEcaoUXE_f62dZ1DJUF0Klitjb2PuPEtwjCF",
   },
@@ -187,23 +190,24 @@ export default function Landing() {
                 </div>
                 <div className="mt-5 space-y-3">
                   {featuredCategories.map((item) => (
-                    <div
+                    <Link
                       key={item.title}
-                      className="relative overflow-hidden rounded-[1.5rem] border border-white/10 p-4"
+                      to={item.link}
+                      className="group relative block overflow-hidden rounded-[1.5rem] border border-white/10 p-4 transition-all duration-300 hover:-translate-y-0.5 hover:border-primary/45 hover:shadow-[0_12px_30px_rgba(242,202,80,0.1)]"
                     >
                       <div
-                        className="absolute inset-0 bg-cover bg-center opacity-25"
+                        className="absolute inset-0 bg-cover bg-center opacity-25 transition-transform duration-500 group-hover:scale-105"
                         style={{ backgroundImage: `url(${item.image})` }}
                       ></div>
                       <div className="absolute inset-0 bg-[linear-gradient(90deg,rgba(4,19,41,0.92),rgba(4,19,41,0.58))]"></div>
                       <div className="relative flex items-center justify-between gap-4">
                         <div>
-                          <h3 className="text-lg font-black text-on-surface">{item.title}</h3>
+                          <h3 className="text-lg font-black text-on-surface transition-colors duration-300 group-hover:text-primary">{item.title}</h3>
                           <p className="mt-1 text-sm text-on-surface-variant">{item.subtitle}</p>
                         </div>
-                        <span className="material-symbols-outlined text-primary">arrow_forward</span>
+                        <span className="material-symbols-outlined text-primary transition-transform duration-300 group-hover:translate-x-1">arrow_forward</span>
                       </div>
-                    </div>
+                    </Link>
                   ))}
                 </div>
               </div>
