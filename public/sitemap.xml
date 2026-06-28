@@ -349,28 +349,16 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://genelkultur.com.tr/rehber/genel-kultur-nasil-gelistirilir</loc>
-    <lastmod>2026-06-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://genelkultur.com.tr/test/dijital-hayatiniz-artik-dijital-miras-kapsaminda-yeni-donem-basliyor</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://genelkultur.com.tr/rehber/genel-kultur-calisma-teknikleri</loc>
-    <lastmod>2026-06-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://genelkultur.com.tr/rehber/genel-kultur-sorulari-hangi-konulardan-cikar</loc>
-    <lastmod>2026-06-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://genelkultur.com.tr/rehber/bilgi-yarismasina-hazirlik-rehberi</loc>
-    <lastmod>2026-06-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://genelkultur.com.tr/test/zihin-gucuyle-dijital-dunya-turkiyede-ilk-nexus-1-beyin-arayuzu-basariyla-uygulandi</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://genelkultur.com.tr/test/tarihin-kilitli-kapilari-aciliyor-4000-yillik-tabletler-kirilmadan-okunuyor</loc>
@@ -407,5 +395,29 @@
     <lastmod>2026-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/rehber/genel-kultur-nasil-gelistirilir</loc>
+    <lastmod>2026-06-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/rehber/genel-kultur-calisma-teknikleri</loc>
+    <lastmod>2026-06-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/rehber/genel-kultur-sorulari-hangi-konulardan-cikar</loc>
+    <lastmod>2026-06-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/rehber/bilgi-yarismasina-hazirlik-rehberi</loc>
+    <lastmod>2026-06-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
 </urlset>

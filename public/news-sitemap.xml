@@ -1,3 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  <url>
+    <loc>https://genelkultur.com.tr/test/tarihin-kilitli-kapilari-aciliyor-4000-yillik-tabletler-kirilmadan-okunuyor</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-27T09:00:00.000Z</news:publication_date>
+      <news:title>Tarihin Kilitli Kapıları Açılıyor: 4.000 Yıllık Tabletler Kırılmadan Okunuyor!</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/islemcilerde-atomik-donem-ibmden-dunyanin-ilk-sub-1-nanometre-cipi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-27T09:00:00.000Z</news:publication_date>
+      <news:title>İşlemcilerde Atomik Dönem: IBM&apos;den Dünyanın İlk Sub-1 Nanometre Çipi!</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/uzay-ekonomisinde-yeni-cag-asteroidden-gelen-ilk-hasat-dunyaya-indi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-27T10:00:00.000Z</news:publication_date>
+      <news:title>Uzay Ekonomisinde Yeni Çağ: Asteroidden Gelen İlk Hasat Dünyaya İndi</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/betonun-yerini-doga-aliyor-istanbulun-ilk-otonom-dikey-orman-kuleleri-yukseliyor</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-27T15:00:00.000Z</news:publication_date>
+      <news:title>Betonun Yerini Doğa Alıyor: İstanbul&apos;un İlk Otonom &apos;Dikey Orman&apos; Kuleleri Yükseliyor</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/toprak-yok-gunes-sinirli-turkiyenin-ilk-otonom-dikey-tarim-kuleleri-kapilarini-aciyor</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-28T10:00:00.000Z</news:publication_date>
+      <news:title>Toprak Yok, Güneş Sınırlı: Türkiye&apos;nin İlk Otonom &apos;Dikey Tarım&apos; Kuleleri Kapılarını Açıyor</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/trafik-yerde-kaldi-kisisel-ucan-kanat-teknolojisi-aerowing-turkiye-semalarinda</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-28T15:00:00.000Z</news:publication_date>
+      <news:title>Trafik Yerde Kaldı: Kişisel Uçan Kanat Teknolojisi &apos;AeroWing&apos; Türkiye Semalarında</news:title>
+    </news:news>
+  </url>
 </urlset>
