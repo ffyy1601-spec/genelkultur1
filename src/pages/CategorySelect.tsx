@@ -9,16 +9,16 @@ import { getUserStats } from "../lib/gamification";
 const schema = {
   "@context": "https://schema.org",
   "@type": "CollectionPage",
-  name: "Genel Kultur Kategorileri",
+  name: "Genel Kültür Kategorileri",
   url: `${SITE_URL}${ROUTES.categories}`,
   inLanguage: "tr-TR",
-  description: "Genel kultur, tarih, bilim ve sanat kategorileri ile quiz turlarina giris sayfasi.",
+  description: "Genel kültür, tarih, bilim ve sanat kategorileri ile quiz turlarına giriş sayfası.",
 };
 
 const categories = [
   {
-    title: "Genel Kultur",
-    text: "En genis kapsamli soru havuzu. Genel kultur sorulari icin ideal baslangic noktasi.",
+    title: "Genel Kültür",
+    text: "En geniş kapsamlı soru havuzu. Genel kültür soruları için ideal başlangıç noktası.",
     icon: "public",
     href: `${ROUTES.game}?category=genel`,
     image:
@@ -26,7 +26,7 @@ const categories = [
   },
   {
     title: "Tarih",
-    text: "Imparatorluklar, savaslar, donum noktalari ve dunya tarihinden secilmis turlar.",
+    text: "İmparatorluklar, savaşlar, dönüm noktaları ve dünya tarihinden seçilmiş turlar.",
     icon: "history_edu",
     href: `${ROUTES.game}?category=tarih`,
     image:
@@ -34,7 +34,7 @@ const categories = [
   },
   {
     title: "Bilim",
-    text: "Evren, fizik, biyoloji, teknoloji ve bilim tarihine uzanan bilgi yarismasi alani.",
+    text: "Evren, fizik, biyoloji, teknoloji ve bilim tarihine uzanan bilgi yarışması alanı.",
     icon: "science",
     href: `${ROUTES.game}?category=bilim`,
     image:
@@ -42,7 +42,7 @@ const categories = [
   },
   {
     title: "Sanat",
-    text: "Resim, muzik, edebiyat ve sinema dunyasindan secilmis yaratici soru setleri.",
+    text: "Resim, müzik, edebiyat ve sinema dünyasından seçilmiş yaratıcı soru setleri.",
     icon: "palette",
     href: `${ROUTES.game}?category=sanat`,
     image:
@@ -50,7 +50,7 @@ const categories = [
   },
   {
     title: "KPSS Tarih",
-    text: "KPSS sinav müfredatına özel hazirlanmis 10 ana konu basligi ve zengin soru havuzu.",
+    text: "KPSS sınav müfredatına özel hazırlanmış 10 ana konu başlığı ve zengin soru havuzu.",
     icon: "history",
     href: ROUTES.kpssList,
     image: "/images/anasayfa.webp",
@@ -83,8 +83,8 @@ export default function CategorySelect() {
   return (
     <PageLayout>
       <Seo
-        title="Genel Kultur Testi Kategorileri | Genel Kultur Sorulari ve Quiz"
-        description="Genel kultur, tarih, bilim ve sanat kategorilerinden birini sec. Hemen bilgi yarismasina basla ve genel kultur seviyeni olc."
+        title="Genel Kültür Testi Kategorileri | Genel Kültür Soruları ve Quiz"
+        description="Genel kültür, tarih, bilim ve sanat kategorilerinden birini seçin. Hemen bilgi yarışmasına başlayın ve genel kültür seviyenizi ölçün."
         path={ROUTES.categories}
         keywords={["genel kultur testi", "genel kultur sorulari", "quiz kategorileri", "bilgi yarismasi", "genel kultur"]}
         schema={schema}
@@ -92,13 +92,13 @@ export default function CategorySelect() {
 
       <main className="mx-auto flex w-full max-w-7xl flex-1 flex-col px-4 py-10 md:px-10 md:py-16">
         <section className="max-w-3xl">
-          <p className="text-sm font-semibold uppercase tracking-[0.24em] text-primary">Kategori Secimi</p>
+          <p className="text-sm font-semibold uppercase tracking-[0.24em] text-primary">Kategori Seçimi</p>
           <h1 className="mt-4 text-4xl font-black tracking-tight text-on-background md:text-6xl">
-            Sana uygun kategoriyle oyuna gir.
+            Size uygun kategoriyle oyuna girin.
           </h1>
           <p className="mt-5 text-sm leading-7 text-on-surface-variant md:text-lg md:leading-8">
-            Her kart kendi atmosferini tasir. Dilersen genel kulturle basla, dilersen tarih,
-            bilim, sanat ya da KPSS tarih alanina dogrudan gec.
+            Her kart kendi atmosferini taşır. Dilerseniz genel kültürle başlayın, dilerseniz tarih,
+            bilim, sanat ya da KPSS tarih alanına doğrudan geçin.
           </p>
         </section>
 
@@ -125,7 +125,7 @@ export default function CategorySelect() {
                   <h2 className="text-2xl font-black text-white">{item.title}</h2>
                   <p className="mt-3 text-sm leading-7 text-white/78">{item.text}</p>
                   <div className="mt-6 inline-flex items-center gap-2 text-sm font-black text-primary">
-                    Hemen Basla
+                    Hemen Başla
                     <span className="material-symbols-outlined text-base transition-transform duration-300 group-hover:translate-x-1">
                       arrow_forward
                     </span>
@@ -159,19 +159,22 @@ export default function CategorySelect() {
         </section>
 
         <section className="mt-12 rounded-[1.8rem] border border-white/10 bg-surface-container-low/75 p-6 md:p-8">
-          <h2 className="text-3xl font-black tracking-tight text-on-surface">Konuya gore hazir sayfalar</h2>
+          <h2 className="text-3xl font-black tracking-tight text-on-surface">Konuya göre hazır sayfalar</h2>
           <p className="mt-3 max-w-3xl text-sm leading-7 text-on-surface-variant">
-            Belirli aramalara hizli ulasmak isteyen ziyaretciler icin hazirlanan bu sayfalar, hem konu odakli bilgi verir hem de dogrudan ilgili quiz deneyimine baglanir.
+            Belirli aramalara hızlı ulaşmak isteyen ziyaretçiler için hazırlanan bu sayfalar, hem konu odaklı bilgi verir hem de doğrudan ilgili quiz deneyimine bağlanır.
           </p>
           <div className="mt-6 grid gap-3 md:grid-cols-2 xl:grid-cols-3">
             {[
-              { label: "Genel Kultur Sorulari", to: ROUTES.genelKulturSorulari },
-              { label: "Genel Kultur Testi", to: ROUTES.genelKulturTesti },
-              { label: "Zor Genel Kultur Sorulari", to: ROUTES.zorGenelKulturSorulari },
-              { label: "Tarih Sorulari", to: ROUTES.tarihSorulari },
-              { label: "Bilim Sorulari", to: ROUTES.bilimSorulari },
-              { label: "Sanat Sorulari", to: ROUTES.sanatSorulari },
-              { label: "KPSS Tarih Konulari", to: ROUTES.kpssList },
+              { label: "Genel Kültür Soruları", to: ROUTES.genelKulturSorulari },
+              { label: "Genel Kültür Testi", to: ROUTES.genelKulturTesti },
+              { label: "50 Soruluk Genel Kültür Testi", to: ROUTES.test50 },
+              { label: "100 Soruluk Genel Kültür Testi", to: ROUTES.test100 },
+              { label: "Genel Kültür Bilgileri", to: ROUTES.genelKulturBilgileri },
+              { label: "Zor Genel Kültür Soruları", to: ROUTES.zorGenelKulturSorulari },
+              { label: "Tarih Soruları", to: ROUTES.tarihSorulari },
+              { label: "Bilim Soruları", to: ROUTES.bilimSorulari },
+              { label: "Sanat Soruları", to: ROUTES.sanatSorulari },
+              { label: "KPSS Tarih Konuları", to: ROUTES.kpssList },
             ].map((item) => (
               <Link
                 key={item.to}
@@ -187,21 +190,21 @@ export default function CategorySelect() {
         <section className="mt-8 rounded-[1.8rem] border border-white/10 bg-[linear-gradient(180deg,rgba(18,35,62,0.92),rgba(8,20,38,0.95))] p-6 md:p-8">
           <div className="flex flex-col gap-3 md:flex-row md:items-end md:justify-between">
             <div>
-              <p className="text-sm font-semibold uppercase tracking-[0.22em] text-primary">Ayrik Icerik Katmani</p>
+              <p className="text-sm font-semibold uppercase tracking-[0.22em] text-primary">Ayrık İçerik Katmanı</p>
               <h2 className="mt-3 text-3xl font-black tracking-tight text-on-surface md:text-4xl">
-                Soru-cevap sayfalari quiz akisini bozmadan ayri bir yoldan ilerler.
+                Soru-cevap sayfaları quiz akışını bozmadan ayrı bir yoldan ilerler.
               </h2>
             </div>
             <Link
               to={ROUTES.contentHub}
               className="inline-flex items-center gap-2 self-start rounded-full border border-white/10 bg-surface-container-low/70 px-5 py-3 text-sm font-bold text-on-surface transition-all hover:-translate-y-0.5 hover:border-primary/30"
             >
-              Icerik Merkezine Git
+              İçerik Merkezine Git
               <span className="material-symbols-outlined text-base">arrow_forward</span>
             </Link>
           </div>
           <p className="mt-4 max-w-3xl text-sm leading-7 text-on-surface-variant">
-            Buradaki sayfalar; gorunur soru, dogru cevap ve kisa aciklama sunar. Hazir oldugunda yine tek tikla ilgili kategori quizine donersin.
+            Buradaki sayfalar; görünür soru, doğru cevap ve kısa açıklama sunar. Hazır olduğunuzda yine tek tıkla ilgili kategori quizine dönersiniz.
           </p>
         </section>
       </main>

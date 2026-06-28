@@ -184,8 +184,8 @@ export default function Results() {
       `}</style>
 
       <Seo
-        title="Sonuclar | GenelKultur.com.tr"
-        description="Yarismayi tamamladin. Basari oranini, dogru ve yanlis sayilarini simdi inceleyebilirsin."
+        title="Sonuçlar | GenelKultur.com.tr"
+        description="Yarışmayı tamamladınız. Başarı oranınızı, doğru ve yanlış sayılarınızı şimdi inceleyebilirsiniz."
         path={ROUTES.results}
         noindex
       />

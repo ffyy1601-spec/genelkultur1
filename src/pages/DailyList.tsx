@@ -4,7 +4,6 @@ import PageLayout from "../components/PageLayout";
 import Seo from "../components/Seo";
 import { dailyQuizzes } from "../data/dailyContent";
 import { ROUTES } from "../lib/routes";
-import { getSimulatedViews, formatViews } from "../lib/viewCounter";
 
 export default function DailyList() {
   const [selectedCategory, setSelectedCategory] = useState<string>("all");
@@ -159,6 +158,10 @@ export default function DailyList() {
                     <img
                       src={item.imageUrl}
                       alt={item.heading}
+                      width={1280}
+                      height={720}
+                      loading="lazy"
+                      decoding="async"
                       className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
                     />
                   </div>
@@ -176,11 +179,6 @@ export default function DailyList() {
                     {getCategoryLabel(item.category)}
                   </div>
                   <div className="flex items-center gap-2 text-[10px] font-semibold text-on-surface-variant/60">
-                    <span className="flex items-center gap-0.5">
-                      <span className="material-symbols-outlined text-xs" style={{ fontSize: "12px", verticalAlign: "middle" }}>visibility</span>
-                      {formatViews(getSimulatedViews(item.slug, false))}
-                    </span>
-                    <span>•</span>
                     <span>
                       {item.dateId
                         ? new Date(item.dateId).toLocaleDateString("tr-TR", { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' })

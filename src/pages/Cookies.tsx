@@ -15,7 +15,7 @@ export default function Cookies() {
       <main className="mx-auto flex w-full max-w-4xl flex-1 flex-col gap-8 px-6 py-16 md:px-10">
         <h1 className="text-4xl font-black tracking-tight text-on-surface md:text-5xl">Çerez Politikası</h1>
         <div className="space-y-6 text-sm leading-7 text-on-surface-variant">
-          <p className="text-xs text-on-surface-variant/70">Son Güncelleme: 12 Haziran 2026</p>
+          <p className="text-xs text-on-surface-variant/70">Son Güncelleme: 29 Haziran 2026</p>
 
           <section className="space-y-3">
             <h2 className="text-lg font-bold text-on-surface">1. Çerez (Cookie) Nedir?</h2>
@@ -89,7 +89,7 @@ export default function Cookies() {
           <section className="space-y-3">
             <h2 className="text-lg font-bold text-on-surface">5. İletişim</h2>
             <p>
-              Çerez Politikamız ile ilgili sorularınızı İletişim sayfamızda bulunan yöntemleri kullanarak bizlere iletebilirsiniz. Sitemizi kullanmaya devam etmeniz, bu çerez kullanım koşullarını kabul ettiğiniz anlamına gelmektedir.
+              Çerez Politikamız ile ilgili sorularınızı İletişim sayfamızda bulunan yöntemleri kullanarak veya doğrudan <strong>genelkultur46@gmail.com</strong> adresinden bizlere iletebilirsiniz. Sitemizi kullanmaya devam etmeniz, bu çerez kullanım koşullarını kabul ettiğiniz anlamına gelmektedir.
             </p>
           </section>
         </div>

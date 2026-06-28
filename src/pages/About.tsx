@@ -37,11 +37,11 @@ export default function About() {
           </article>
           <article className="rounded-3xl border border-outline-variant/10 bg-surface-container-low p-6 space-y-3">
             <div className="flex h-12 w-12 items-center justify-center rounded-2xl bg-primary/10 text-primary">
-              <span className="material-symbols-outlined">psychology</span>
+              <span className="material-symbols-outlined">verified</span>
             </div>
-            <h2 className="text-xl font-bold text-on-surface">Yapay Zeka & Editör Sinerjisi</h2>
+            <h2 className="text-xl font-bold text-on-surface">Editör Onaylı İçerik</h2>
             <p className="text-sm leading-6 text-on-surface-variant">
-              Her 2 saatte bir güncellenen içeriklerimiz, Google Gemini 2.5 API ile üretilerek veri doğruluğu kontrolü ve editör onayından geçerek yayına sunulur.
+              Tüm soru ve içeriklerimiz editör ekibimiz tarafından hazırlanır; doğruluk kontrolünden ve son okumadan geçtikten sonra yayına alınır. Hatalı bir bilgi fark ederseniz iletişim sayfamızdan bize bildirebilirsiniz.
             </p>
           </article>
           <article className="rounded-3xl border border-outline-variant/10 bg-surface-container-low p-6 space-y-3">
@@ -71,9 +71,10 @@ export default function About() {
             <div className="space-y-3">
               <h3 className="text-lg font-bold text-on-surface">Teknolojik Altyapı ve Gelecek</h3>
               <p>
-                GenelKultur.com.tr; React 19, TypeScript, Vite ve TailwindCSS kullanan modern ve hızlı bir SPA (Single Page Application) olarak geliştirilmiştir.
-                Ayrıca tüm sayfalar arama motorlarının tam anlamıyla dizine ekleyebilmesi için özel olarak pre-render edilmektedir. Gelecekte,
-                daha fazla kategori, çoklu oyuncu (multiplayer) modları ve özelleştirilmiş bilgi seviyesi analitiği sunmayı hedefliyoruz.
+                GenelKultur.com.tr; modern, hızlı ve mobil uyumlu bir web uygulaması olarak geliştirilmiştir.
+                Tüm sayfalar arama motorlarının tam anlamıyla dizine ekleyebilmesi için önceden işlenmiş statik
+                içerik olarak sunulur. Gelecekte daha fazla kategori, yeni soru havuzları ve kişiselleştirilmiş
+                ilerleme takibi sunmayı hedefliyoruz.
               </p>
             </div>
           </div>
@@ -83,8 +84,8 @@ export default function About() {
           <h3 className="text-xl font-bold text-on-surface">İletişim ve Editörlük</h3>
           <p className="text-sm leading-6 text-on-surface-variant">
             Sitemizdeki herhangi bir sorunun hatalı olduğunu düşünüyorsanız, içerik ortaklığı teklifleriniz veya teknik sorun bildirimleriniz için
-            bizimle <a href={ROUTES.contact} className="text-primary hover:underline font-semibold">İletişim</a> sayfamız üzerinden ya da 
-            doğrudan <strong>info@genelkultur.com.tr</strong> adresinden çekinmeden iletişim kurabilirsiniz. Ziyaretçilerimizin geri bildirimleri,
+            bizimle <a href={ROUTES.contact} className="text-primary hover:underline font-semibold">İletişim</a> sayfamız üzerinden ya da
+            doğrudan <strong>genelkultur46@gmail.com</strong> adresinden çekinmeden iletişim kurabilirsiniz. Ziyaretçilerimizin geri bildirimleri,
             içerik kalitemizi artırmadaki en önemli gücümüzdür.
           </p>
         </section>

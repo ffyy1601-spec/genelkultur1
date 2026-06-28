@@ -4,18 +4,17 @@ import { ROUTES } from "../lib/routes";
 export default function TarihSorulari() {
   return (
     <SeoLandingPage
-      title="Tarih Sorulari | GenelKultur.com.tr"
-      description="Tarih sorulari ile medeniyetler, savaslar and donum noktalarina dair bilgini test et."
+      title="Tarih Soruları | GenelKultur.com.tr"
+      description="Tarih soruları ile medeniyetler, savaşlar ve dönüm noktalarına dair bilginizi test edin."
       path={ROUTES.tarihSorulari}
       keywords={["tarih sorulari", "tarih testi", "tarih quiz", "bilgi yarismasi tarih"]}
-      eyebrow="Tarih Sorulari"
-      heading="Tarih Sorulari ile gecmisi daha dikkatli okumayi dene."
-      intro="Tarih sorulari; olaylarin nedenlerini, sonuclarini ve kronolojik akislarini anlamayi olcer. Bu sayfa, tarih meraklilari icin odakli bir giris noktasidir."
-      bullets={["Kronoloji odagi", "Medeniyet ve imparatorluklar", "Savas ve donum noktalari"]}
-      sampleQuestions={["Istanbul hangi yil fethedildi?", "Sanayi Devrimi ilk olarak hangi ulkede basladi?", "Kurtulus Savasi sirasinda Sakarya Meydan Muharebesi hangi yil oldu?", "Roma Imparatorlugu ikiye hangi donemde ayrildi?"]}
-      ctaLabel="Tarih Sorularini Coz"
+      eyebrow="Tarih Soruları"
+      heading="Tarih Soruları ile geçmişi daha dikkatli okumayı deneyin."
+      intro="Tarih soruları; olayların nedenlerini, sonuçlarını ve kronolojik akışlarını anlamayı ölçer. Bu sayfa, tarih meraklıları için odaklı bir giriş noktasıdır."
+      bullets={["Kronoloji odağı", "Medeniyet ve imparatorluklar", "Savaş ve dönüm noktaları"]}
+      sampleQuestions={["İstanbul hangi yıl fethedildi?", "Sanayi Devrimi ilk olarak hangi ülkede başladı?", "Kurtuluş Savaşı sırasında Sakarya Meydan Muharebesi hangi yıl oldu?", "Roma İmparatorluğu ikiye hangi dönemde ayrıldı?"]}
+      ctaLabel="Tarih Sorularını Çöz"
       ctaHref={`${ROUTES.game}?category=tarih`}
     />
   );
 }
-

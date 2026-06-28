@@ -107,8 +107,20 @@ export default function PageLayout({ children, showChrome = true }: PageLayoutPr
               <NavLink to={ROUTES.genelKulturSorulari} className="text-on-surface-variant transition-colors hover:text-on-surface">
                 Genel Kültür Soruları
               </NavLink>
+              <NavLink to={ROUTES.test50} className="text-on-surface-variant transition-colors hover:text-on-surface">
+                50 Soruluk Genel Kültür Testi
+              </NavLink>
+              <NavLink to={ROUTES.test100} className="text-on-surface-variant transition-colors hover:text-on-surface">
+                100 Soruluk Genel Kültür Testi
+              </NavLink>
+              <NavLink to={ROUTES.genelKulturBilgileri} className="text-on-surface-variant transition-colors hover:text-on-surface">
+                Genel Kültür Bilgileri
+              </NavLink>
               <NavLink to={ROUTES.contentHub} className="text-on-surface-variant transition-colors hover:text-on-surface">
                 Sorular ve Cevaplar
+              </NavLink>
+              <NavLink to={ROUTES.guides} className="text-on-surface-variant transition-colors hover:text-on-surface">
+                Genel Kültür Rehberi
               </NavLink>
               <NavLink to={ROUTES.genelKulturTesti} className="text-on-surface-variant transition-colors hover:text-on-surface">
                 Genel Kültür Testi Sayfası
@@ -116,6 +128,12 @@ export default function PageLayout({ children, showChrome = true }: PageLayoutPr
               <NavLink to={ROUTES.kpssList} className="text-on-surface-variant transition-colors hover:text-on-surface">
                 KPSS Tarih Konuları
               </NavLink>
+              <NavLink to={ROUTES.dailyList} className="text-on-surface-variant transition-colors hover:text-on-surface">
+                Günlük Haberler
+              </NavLink>
+              <a href="/rss.xml" className="text-on-surface-variant transition-colors hover:text-on-surface" target="_blank" rel="noopener">
+                RSS Akışı
+              </a>
               <NavLink to={ROUTES.about} className="text-on-surface-variant transition-colors hover:text-on-surface">
                 Hakkımızda
               </NavLink>

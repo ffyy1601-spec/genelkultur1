@@ -49,7 +49,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add src/data/dailyContent.ts public/sitemap.xml
+          git add src/data/dailyContent.ts public/sitemap.xml public/news-sitemap.xml public/rss.xml
           if [ -d "public/images/news" ]; then git add public/images/news/; fi
           if git diff --staged --quiet; then
             echo "[CI] Değişiklik yok, deploy atlanıyor."

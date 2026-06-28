@@ -9,6 +9,9 @@ export const ROUTES = {
   genelKulturTesti: "/genel-kultur-testi",
   genelKulturBilgiYarismasi: "/genel-kultur-bilgi-yarismasi",
   zorGenelKulturSorulari: "/zor-genel-kultur-sorulari",
+  test50: "/50-soruluk-genel-kultur-testi",
+  test100: "/100-soruluk-genel-kultur-testi",
+  genelKulturBilgileri: "/genel-kultur-bilgileri",
   tarihSorulari: "/tarih-sorulari",
   tarihSorulariCevaplari: "/tarih-sorulari-ve-cevaplari",
   bilimSorulari: "/bilim-sorulari",
@@ -28,6 +31,9 @@ export const ROUTES = {
   dailyList: "/gunluk-haberler",
   dailyLanding: "/test/:slug",
   dailyGame: "/test/:slug/oyna",
+  // Ozgun rehber/blog icerikleri
+  guides: "/genel-kultur-rehberi",
+  guideDetail: "/rehber/:slug",
 } as const;
 
 export const LEGACY_ROUTES = {

@@ -2,6 +2,7 @@ import fs from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import crypto from "node:crypto";
+import sharp from "sharp";
 import { TwitterApi } from "twitter-api-v2";
 
 const __filename = fileURLToPath(import.meta.url);
@@ -110,20 +111,27 @@ async function generateDailyContent() {
   console.log(`[AI] Mevcut sayfa sayısı: ${dailyQuizzes.length}. Mevcut haber slugları: ${previousSlugs.slice(-5).join(", ")}`);
 
   // 2. Gemini 3.1 Flash-Lite API'den Google Search Grounding ile haber içeriği ve görsel promptu iste
-  const prompt = `Bugünün tarihi: ${dayNum} ${monthName} ${year}. 
-Google Search aracını kullanarak Türkiye gündemindeki en popüler, merak uyandırıcı, 'magazin, popüler kültür, sinema, dizi, teknoloji, spor, dünya, ekonomi veya bilim' alanlarında, Google Discover (keşfet) sayfasına düşebilecek yüksek tıklama (High-CTR) potansiyeli olan güncel bir haber veya olay seç.
+  const prompt = `Bugünün tarihi: ${dayNum} ${monthName} ${year}.
 
-Seçtiğin bu konu hakkında detaylı, bilgilendirici, Türkçe bir haber makalesi ve bu haberi en iyi şekilde tasvir eden İngilizce bir görsel üretim promptu (imagePrompt) hazırla.
+GÖREVİN: Google Search aracını kullanarak, SON 3 GÜN içinde Türkiye ve dünya gündemine gerçekten düşmüş, GERÇEK ve DOĞRULANABİLİR bir haber seç; ardından bu haberi profesyonel, viral potansiyeli yüksek bir Türkçe makaleye dönüştür.
 
-Önemli Kurallar:
-1. Seçilen haber güncel, gerçek ve geniş kitlelerin ilgisini çekecek merak uyandırıcı bir konu olmalıdır (ünlü gelişmeleri, dizi/sinema gündemi, teknoloji trendleri, keşfet odaklı popüler konular).
-2. Haberi klasik bir haber ajansı (örn. TRT Haber, NTV, CNN Türk, DonanımHaber) tarzında, profesyonel, objektif ve zengin bir Türkçe ile yaz.
-3. Haber metnini zengin, son derece detaylı ve profesyonel göstermek için mutlaka HTML formatında yaz. Makale kapsamlı, doyurucu ve derinlemesine bilgi sunan uzunlukta olmalı, en az 500-700 kelimeden oluşmalıdır. Makaleye uygun aralıklarla ilgi çekici, kısa alt başlıklar (<h3>) ekle. Önemli kişi isimleri, şirket adları, tarihler, yerler, tutarlar ve can alıcı bilgileri <strong> etiketleri içine alarak kalın yaz. Paragrafları <p> etiketleri arasına al. Eğer maddeler halinde bilgi veya veriler sunuluyorsa mutlaka <ul> ve <li> etiketlerini kullan. Makalede en az 3-4 adet <h3> alt başlığı bulunmalı ve makale en az 6-8 detaylı paragraf uzunluğunda olmalıdır.
-4. Başlık (heading) çarpıcı, merak uyandırıcı, merak uyandırıp tıklama isteği uyandıran ancak clickbait olmayan ve SEO uyumlu olmalıdır.
-5. "imagePrompt" alanı, "gemini-3.1-flash-image" modelinde kullanılmak üzere, haber konusunu profesyonel bir haber fotoğrafçılığı veya basın fotoğrafı stilinde tasvir eden detaylı bir İngilizce prompt olmalıdır. Promptun içinde kesinlikle metin, yazı, logo, imza veya filigran (watermark) bulunmamasını İngilizce olarak belirt. Görselin Keşfet feed'inde parlaması ve tıklama oranını artırması için prompt sonuna mutlaka şu sanatsal ve teknik kalite parametrelerini İngilizce olarak ekle: "High-end photojournalism style, shot on 35mm lens, award-winning editorial press photograph, photorealistic, cinematic lighting, vivid colors, extremely detailed texture, 8k, no text, no logos, no watermarks, clean composition".
-6. GÖRSEL GÜVENLİK FİLTRESİ KURALI: Eğer haber konusu politik gerilim, adli operasyon, kayyum, gözaltı, baskın, iflas, dava veya çatışma gibi hassas/negatif bir durum ise; görsel promptu kesinlikle şiddet, polis, kelepçe, suç tasviri veya adliye hücresi içermemelidir. Bunun yerine, durumla ilişkili son derece nötr, sembolik veya soyut kavramsal basın fotoğrafları kurgula (Örneğin; iş dünyasını veya finansı sembolize eden modern gökdelenler, adliye binasının dıştan profesyonel mimari görünümü, bir mahkeme tokmağı, altın veya döviz sembolleri, gıda kolileri gibi tamamen güvenli nesnelerin temiz ve sanatsal fotoğrafları). Prompt içinde 'police', 'arrest', 'handcuffs', 'raid', 'jail', 'courtroom drama' gibi filtreye takılabilecek hassas ve yasaklı kelimeleri asla kullanma.
-7. Daha önce şu konular hakkında haber/içerik üretildi: [${previousSlugs.join(", ")}]. Bu konularla kesinlikle aynı veya çok benzer olmayan TAMAMEN FARKLI ve özgün bir olay seç.
-8. JSON çıktısı geçerli olmalı ve şablona birebir uymalı.`;
+═══ BÖLÜM A: GERÇEKLİK VE DOĞRULAMA (EN ÖNEMLİ KURALLAR) ═══
+1. SADECE Google Search ile bulduğun, birden fazla kaynakta yer alan GERÇEK ve GÜNCEL bir olayı işle. Aramada böyle bir haber bulamazsan, varsayım üretme; başka gerçek bir konu ara.
+2. KESİNLİKLE UYDURMA YASAĞI: Var olmayan şirket, ürün, kişi, kurum, yasa, istatistik, tarih veya alıntı ASLA üretme. Tüm isimler, rakamlar, tarihler ve alıntılar aramada gördüğün gerçek kaynaklara dayanmalıdır. Emin olmadığın hiçbir spesifik bilgiyi (özellikle para tutarı, yüzde, "ilk", "dünyada tek" gibi iddialar) yazma.
+3. Bir bilgiden emin değilsen, o bilgiyi atla veya "iddia ediliyor / öne sürülüyor" gibi temkinli dille belirt. Spekülasyonu kesin gerçek gibi sunma.
+4. "sourceName" alanına haberi aldığın gerçek ve tanınmış kaynağın adını (örn: Anadolu Ajansı, NTV, Reuters, BBC Türkçe), "sourceUrl" alanına ise o kaynaktaki gerçek haber bağlantısını yaz. Bu alanlar uydurma OLAMAZ; aramada gerçekten gördüğün bir URL olmalıdır.
+
+═══ BÖLÜM B: VİRAL / YÜKSEK TIKLAMA (HIGH-CTR) ═══
+5. Konu seçimi: Geniş kitleyi ilgilendiren, merak uyandıran, paylaşılası ve Google Discover'a düşebilecek alanlara öncelik ver — teknoloji, bilim, ekonomi-cep, magazin/popüler kültür, dizi/sinema, spor, ilginç dünya haberleri, sağlık/yaşam.
+6. Başlık (heading): Merak boşluğu yaratan, duygusal veya şaşırtıcı bir kanca içeren, somut ve net bir başlık kur. Güçlü ama DÜRÜST olmalı — başlıkta vaat edileni makale mutlaka karşılamalı (yanıltıcı/abartılı clickbait YASAK). Mümkünse sayı, "neden/nasıl" veya çarpıcı bir sonuç kullan.
+7. intro: İlk 2 cümlede en çarpıcı bilgiyi vererek okuru içeri çek; okumaya devam etme isteği uyandır.
+
+═══ BÖLÜM C: BİÇİM VE KALİTE ═══
+8. Makaleyi klasik, güvenilir bir haber ajansı tarzında (objektif, profesyonel, akıcı Türkçe) yaz. Mutlaka HTML formatında olsun: paragraflar <p>, en az 3 adet kısa ve ilgi çekici alt başlık <h3>, önemli isim/tarih/rakamlar <strong>, sıralı bilgiler <ul>/<li>. Makale doyurucu olmalı (en az 6 paragraf, yaklaşık 2000-3500 karakter).
+9. "imagePrompt": "gemini-3.1-flash-image" için, haber konusunu profesyonel basın fotoğrafı stilinde tasvir eden detaylı İngilizce prompt. İçinde metin/yazı/logo/filigran olmamasını İngilizce belirt. Sonuna mutlaka ekle: "High-end photojournalism style, shot on 35mm lens, award-winning editorial press photograph, photorealistic, cinematic lighting, vivid colors, extremely detailed texture, 8k, no text, no logos, no watermarks, clean composition".
+10. GÖRSEL GÜVENLİK FİLTRESİ: Konu hassas/negatif ise (politik gerilim, adli operasyon, gözaltı, baskın, iflas, dava, çatışma) görsel promptu şiddet/polis/kelepçe/suç/adliye hücresi içermesin. Bunun yerine nötr, sembolik basın fotoğrafları kur (modern gökdelenler, adliye binasının dış mimarisi, mahkeme tokmağı, döviz/altın sembolleri, gıda kolileri gibi güvenli nesneler). 'police','arrest','handcuffs','raid','jail','courtroom drama' gibi kelimeleri ASLA kullanma.
+11. Daha önce şu konular üretildi: [${previousSlugs.join(", ")}]. Bunlarla aynı/çok benzer OLMAYAN, tamamen farklı ve güncel bir olay seç.
+12. JSON çıktısı geçerli olmalı ve şablona birebir uymalı.`;
 
   const textApiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite:generateContent?key=${apiKey}`;
 
@@ -147,9 +155,11 @@ Seçtiğin bu konu hakkında detaylı, bilgilendirici, Türkçe bir haber makale
           intro: { type: "STRING", description: "Haberin kısa, dikkat çekici özet giriş paragrafı" },
           article: { type: "STRING", description: "Detaylı haber metni (HTML formatında, paragraflar için <p>, alt başlıklar için <h3>, vurgulamalar için <strong>, listeler için <ul>/<li> kullanın)" },
           category: { type: "STRING", enum: ["gundem", "teknoloji", "bilim", "ekonomi", "dunya", "spor", "sanat", "magazin"], description: "Haberin kategorisi" },
+          sourceName: { type: "STRING", description: "Haberin alındığı gerçek ve tanınmış kaynağın adı (örn: Anadolu Ajansı, NTV, Reuters). Uydurma olamaz." },
+          sourceUrl: { type: "STRING", description: "Google Search'te gerçekten bulunan, habere ait kaynak URL'si. Uydurma olamaz, geçerli bir bağlantı olmalı." },
           imagePrompt: { type: "STRING", description: "Görsel üretmek için kullanılacak detaylı İngilizce prompt (görsel güvenlik filtresi kurallarına uygun)" }
         },
-        required: ["title", "description", "keywords", "heading", "intro", "article", "category", "imagePrompt"]
+        required: ["title", "description", "keywords", "heading", "intro", "article", "category", "sourceName", "sourceUrl", "imagePrompt"]
       }
     }
   };
@@ -225,17 +235,22 @@ Seçtiğin bu konu hakkında detaylı, bilgilendirici, Türkçe bir haber makale
       console.warn(`[AI] ⚠️ Görsel üretilirken beklenmedik hata oluştu: ${err.message}`);
     }
 
-    // Görseli disk'e kaydet
+    // Görseli WebP'ye çevirip disk'e kaydet (performans/Core Web Vitals için)
     if (base64Data) {
       try {
         const imageDir = path.join(rootDir, "public", "images", "news");
         await fs.mkdir(imageDir, { recursive: true });
-        const imagePath = path.join(imageDir, `${slug}.png`);
-        await fs.writeFile(imagePath, Buffer.from(base64Data, "base64"));
-        imageUrl = `/images/news/${slug}.png`;
-        console.log(`[AI] Görsel başarıyla diske kaydedildi: ${imagePath}`);
+        const imagePath = path.join(imageDir, `${slug}.webp`);
+        const pngBuffer = Buffer.from(base64Data, "base64");
+        await sharp(pngBuffer)
+          .resize({ width: 1280, withoutEnlargement: true })
+          .webp({ quality: 78 })
+          .toFile(imagePath);
+        imageUrl = `/images/news/${slug}.webp`;
+        const sizeKb = Math.round((await fs.stat(imagePath)).size / 1024);
+        console.log(`[AI] Görsel WebP olarak kaydedildi (${sizeKb}KB): ${imagePath}`);
       } catch (saveErr) {
-        console.error(`[AI] ⚠️ Görsel kaydedilirken disk hatası oluştu: ${saveErr.message}`);
+        console.error(`[AI] ⚠️ Görsel kaydedilirken hata oluştu: ${saveErr.message}`);
       }
     } else {
       console.warn("[AI] ⚠️ Görsel verisi alınamadı, haber görselsiz yayınlanacak.");
@@ -272,6 +287,8 @@ export interface DailyQuiz {
   intro: string;
   article: string;
   category: string;
+  sourceName?: string;
+  sourceUrl?: string;
   imageUrl?: string;
   questions?: DailyQuestion[];
 }
@@ -291,7 +308,7 @@ export const dailyQuizzes: DailyQuiz[] = ${JSON.stringify(dailyQuizzes, null, 2)
 
   // 6. Twitter (X) — yeni haberi görseliyle otomatik paylaş
   try {
-    const localImagePath = newNewsItem.imageUrl ? path.join(rootDir, "public", "images", "news", `${slug}.png`) : null;
+    const localImagePath = newNewsItem.imageUrl ? path.join(rootDir, "public", "images", "news", `${slug}.webp`) : null;
     await postToTwitter(newNewsItem.heading, newNewsItem.intro, slug, localImagePath);
   } catch (err) {
     console.error("Twitter paylaşılamadı:", err);

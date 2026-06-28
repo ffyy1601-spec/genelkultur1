@@ -4,18 +4,17 @@ import { ROUTES } from "../lib/routes";
 export default function BilimSorulari() {
   return (
     <SeoLandingPage
-      title="Bilim Sorulari | GenelKultur.com.tr"
-      description="Bilim sorulari ile fizik, biyoloji, uzay ve teknoloji alanlarindaki bilgini test et."
+      title="Bilim Soruları | GenelKultur.com.tr"
+      description="Bilim soruları ile fizik, biyoloji, uzay ve teknoloji alanlarındaki bilginizi test edin."
       path={ROUTES.bilimSorulari}
       keywords={["bilim sorulari", "bilim testi", "fen quiz", "teknoloji sorulari"]}
-      eyebrow="Bilim Sorulari"
-      heading="Bilim Sorulari ile merakini olc ve bilgini derinlestir."
-      intro="Bilim sorulari; fizik, biyoloji, kimya, astronomi ve teknoloji gibi alanlardaki temel kavramlari olcer. Bu sayfa, bilim odakli quiz deneyimine acik bir giristir."
-      bullets={["Fen ve teknoloji odagi", "Temel kavramlar", "Merak uyandiran bilgi akisi"]}
-      sampleQuestions={["DNA'nin cift sarmal yapisini aciklayan bilim insani ikilisi kimdir?", "Dunya Gunes etrafinda yaklasik kac gunde dolasir?", "Suyun kimyasal formulu nedir?", "Ilk yapay uydu Sputnik hangi ulke tarafindan uzaya gonderildi?"]}
-      ctaLabel="Bilim Sorularini Coz"
+      eyebrow="Bilim Soruları"
+      heading="Bilim Soruları ile merakınızı ölçün ve bilginizi derinleştirin."
+      intro="Bilim soruları; fizik, biyoloji, kimya, astronomi ve teknoloji gibi alanlardaki temel kavramları ölçer. Bu sayfa, bilim odaklı quiz deneyimine açık bir giriştir."
+      bullets={["Fen ve teknoloji odağı", "Temel kavramlar", "Merak uyandıran bilgi akışı"]}
+      sampleQuestions={["DNA'nın çift sarmal yapısını açıklayan bilim insanı ikilisi kimdir?", "Dünya, Güneş etrafında yaklaşık kaç günde dolaşır?", "Suyun kimyasal formülü nedir?", "İlk yapay uydu Sputnik hangi ülke tarafından uzaya gönderildi?"]}
+      ctaLabel="Bilim Sorularını Çöz"
       ctaHref={`${ROUTES.game}?category=bilim`}
     />
   );
 }
-

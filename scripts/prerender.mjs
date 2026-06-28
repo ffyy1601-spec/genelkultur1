@@ -19,10 +19,11 @@ const server = await createServer({
 });
 
 try {
-  const [{ AppContent }, { ROUTES }, { dailyQuizzes }] = await Promise.all([
+  const [{ AppContent }, { ROUTES }, { dailyQuizzes }, { guides }] = await Promise.all([
     server.ssrLoadModule("/src/App.tsx"),
     server.ssrLoadModule("/src/lib/routes.ts"),
     server.ssrLoadModule("/src/data/dailyContent.ts"),
+    server.ssrLoadModule("/src/data/guides.ts"),
   ]);
 
   const prerenderRoutes = [
@@ -34,6 +35,9 @@ try {
     ROUTES.genelKulturTesti,
     ROUTES.genelKulturBilgiYarismasi,
     ROUTES.zorGenelKulturSorulari,
+    ROUTES.test50,
+    ROUTES.test100,
+    ROUTES.genelKulturBilgileri,
     ROUTES.tarihSorulari,
     ROUTES.tarihSorulariCevaplari,
     ROUTES.bilimSorulari,
@@ -50,6 +54,8 @@ try {
     // AI Otomasyon Rotaları
     ROUTES.dailyList,
     ROUTES.kpssList,
+    // Özgün rehber içerikleri
+    ROUTES.guides,
   ];
 
   // Her yapay zeka testi ve oyun sayfası için rotaları ekle
@@ -58,6 +64,11 @@ try {
     if (quiz.questions && quiz.questions.length > 0) {
       prerenderRoutes.push(`/test/${quiz.slug}/oyna`);
     }
+  }
+
+  // Her rehber makalesi için rota ekle
+  for (const guide of guides) {
+    prerenderRoutes.push(`/rehber/${guide.slug}`);
   }
 
   const template = await fs.readFile(path.join(distDir, "index.html"), "utf8");

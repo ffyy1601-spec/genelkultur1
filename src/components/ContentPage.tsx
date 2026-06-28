@@ -85,23 +85,23 @@ export default function ContentPage({ page }: ContentPageProps) {
               to={ROUTES.contentHub}
               className="inline-flex items-center justify-center gap-2 rounded-[1.4rem] border border-white/10 bg-surface-container-low/75 px-7 py-4 text-base font-bold text-on-surface transition-all duration-300 hover:-translate-y-1 hover:border-primary/30"
             >
-              Tum Icerik Katmanini Gor
+              Tüm İçerik Katmanını Gör
             </Link>
           </div>
 
           <div className="mt-8 grid gap-4 border-t border-white/10 pt-6 md:grid-cols-3">
             <div className="rounded-[1.2rem] border border-white/10 bg-background/20 p-4">
-              <p className="text-[10px] font-black uppercase tracking-[0.22em] text-primary">Editor</p>
+              <p className="text-[10px] font-black uppercase tracking-[0.22em] text-primary">Editör</p>
               <p className="mt-2 text-sm font-bold text-on-surface">{page.editor}</p>
             </div>
             <div className="rounded-[1.2rem] border border-white/10 bg-background/20 p-4">
-              <p className="text-[10px] font-black uppercase tracking-[0.22em] text-primary">Son Guncelleme</p>
+              <p className="text-[10px] font-black uppercase tracking-[0.22em] text-primary">Son Güncelleme</p>
               <p className="mt-2 text-sm font-bold text-on-surface">{page.updatedAt}</p>
             </div>
             <div className="rounded-[1.2rem] border border-white/10 bg-background/20 p-4">
-              <p className="text-[10px] font-black uppercase tracking-[0.22em] text-primary">Duzeltme Bildirimi</p>
+              <p className="text-[10px] font-black uppercase tracking-[0.22em] text-primary">Düzeltme Bildirimi</p>
               <Link to={page.correctionHref} className="mt-2 inline-flex text-sm font-bold text-primary transition-colors hover:text-primary/80">
-                Iletisim uzerinden hata bildir
+                İletişim üzerinden hata bildir
               </Link>
             </div>
           </div>
@@ -129,7 +129,7 @@ export default function ContentPage({ page }: ContentPageProps) {
               <article key={bullet} className="rounded-[1.6rem] border border-white/10 bg-surface-container-low/75 p-5">
                 <h2 className="text-lg font-black text-on-surface">{bullet}</h2>
                 <p className="mt-3 text-sm leading-7 text-on-surface-variant">
-                  Bu bolum, quiz oncesi goz gezdirme ve taranabilir icerik ihtiyacini ayni yerde toplar.
+                  Bu bölüm, quiz öncesi göz gezdirme ve taranabilir içerik ihtiyacını aynı yerde toplar.
                 </p>
               </article>
             ))}
@@ -139,18 +139,18 @@ export default function ContentPage({ page }: ContentPageProps) {
         <section className="mt-8 rounded-[1.8rem] border border-white/10 bg-surface-container-low/75 p-6 md:p-8">
           <div className="flex flex-col gap-3 md:flex-row md:items-end md:justify-between">
             <div>
-              <p className="text-xs font-black uppercase tracking-[0.24em] text-primary">Calisma Notlari</p>
+              <p className="text-xs font-black uppercase tracking-[0.24em] text-primary">Çalışma Notları</p>
               <h2 className="mt-2 text-3xl font-black tracking-tight text-on-surface md:text-4xl">
-                Quiz'e gecmeden once hizli tekrar stratejisi
+                Quiz'e geçmeden önce hızlı tekrar stratejisi
               </h2>
             </div>
-            <div className="text-sm text-on-surface-variant">{page.questions.length} aciklamali soru bu sayfada yer aliyor.</div>
+            <div className="text-sm text-on-surface-variant">{page.questions.length} açıklamalı soru bu sayfada yer alıyor.</div>
           </div>
 
           <div className="mt-6 grid gap-4 md:grid-cols-3">
             {page.studyTips.map((tip, index) => (
               <article key={tip} className="rounded-[1.3rem] border border-white/10 bg-background/20 p-5">
-                <p className="text-[10px] font-black uppercase tracking-[0.22em] text-primary">Ipucu {index + 1}</p>
+                <p className="text-[10px] font-black uppercase tracking-[0.22em] text-primary">İpucu {index + 1}</p>
                 <p className="mt-3 text-sm leading-7 text-on-surface-variant">{tip}</p>
               </article>
             ))}
@@ -160,13 +160,13 @@ export default function ContentPage({ page }: ContentPageProps) {
         <section className="mt-10 rounded-[1.8rem] border border-white/10 bg-surface-container-low/75 p-6 md:p-8">
           <div className="flex flex-col gap-3 md:flex-row md:items-end md:justify-between">
             <div>
-              <p className="text-xs font-black uppercase tracking-[0.24em] text-primary">Secilmis Sorular</p>
+              <p className="text-xs font-black uppercase tracking-[0.24em] text-primary">Seçilmiş Sorular</p>
               <h2 className="mt-2 text-3xl font-black tracking-tight text-on-surface md:text-4xl">
-                Gorunur soru, dogru cevap ve kisa aciklama
+                Görünür soru, doğru cevap ve kısa açıklama
               </h2>
             </div>
             <p className="max-w-2xl text-sm leading-7 text-on-surface-variant">
-              Bu bolum, quiz akisini degistirmeden once icerik katmanini okunur hale getirir.
+              Bu bölüm, quiz akışını değiştirmeden önce içerik katmanını okunur hale getirir.
             </p>
           </div>
 
@@ -176,7 +176,7 @@ export default function ContentPage({ page }: ContentPageProps) {
                 <p className="text-[10px] font-black uppercase tracking-[0.22em] text-primary">Soru {index + 1}</p>
                 <h3 className="mt-3 text-lg font-black leading-7 text-on-surface md:text-xl">{item.question}</h3>
                 <div className="mt-4 rounded-[1rem] border border-primary/20 bg-primary/10 px-4 py-3 text-sm font-bold text-primary md:text-base">
-                  Dogru cevap: {item.answer}
+                  Doğru cevap: {item.answer}
                 </div>
                 <p className="mt-4 text-sm leading-7 text-on-surface-variant md:text-base md:leading-8">{item.explanation}</p>
               </article>
@@ -186,7 +186,7 @@ export default function ContentPage({ page }: ContentPageProps) {
 
         <section className="mt-10 grid gap-6 lg:grid-cols-[1.1fr_0.9fr]">
           <article className="rounded-[1.8rem] border border-white/10 bg-surface-container-low/75 p-6 md:p-8">
-            <p className="text-xs font-black uppercase tracking-[0.24em] text-primary">Sik Sorulanlar</p>
+            <p className="text-xs font-black uppercase tracking-[0.24em] text-primary">Sık Sorulanlar</p>
             <div className="mt-5 space-y-4">
               {page.faqs.map((faq) => (
                 <div key={faq.question} className="rounded-[1.25rem] border border-white/10 bg-background/20 p-5">
@@ -198,10 +198,10 @@ export default function ContentPage({ page }: ContentPageProps) {
           </article>
 
           <aside className="rounded-[1.8rem] border border-white/10 bg-[linear-gradient(180deg,rgba(18,35,62,0.92),rgba(8,20,38,0.96))] p-6 md:p-8">
-            <p className="text-xs font-black uppercase tracking-[0.24em] text-primary">Sonraki Adim</p>
-            <h2 className="mt-3 text-3xl font-black tracking-tight text-on-surface">Hazirsan quiz akisina gec.</h2>
+            <p className="text-xs font-black uppercase tracking-[0.24em] text-primary">Sonraki Adım</p>
+            <h2 className="mt-3 text-3xl font-black tracking-tight text-on-surface">Hazırsan quiz akışına geç.</h2>
             <p className="mt-4 text-sm leading-7 text-on-surface-variant">
-              Buradaki aciklamali icerik sayfasi sadece hazirlik katmanidir. Hedef, ana deneyimi bozmak degil; ona daha guclu bir giris sunmaktir.
+              Buradaki açıklamalı içerik sayfası sadece hazırlık katmanıdır. Hedef, ana deneyimi bozmak değil; ona daha güçlü bir giriş sunmaktır.
             </p>
 
             <div className="mt-8 flex flex-col gap-3">
@@ -216,7 +216,7 @@ export default function ContentPage({ page }: ContentPageProps) {
                 to={ROUTES.categories}
                 className="inline-flex items-center justify-center gap-2 rounded-[1.2rem] border border-white/10 bg-surface-container-low/70 px-5 py-4 text-base font-bold text-on-surface transition-all duration-300 hover:-translate-y-1 hover:border-primary/30"
               >
-                Kategorileri Gor
+                Kategorileri Gör
               </Link>
             </div>
           </aside>
@@ -242,7 +242,7 @@ export default function ContentPage({ page }: ContentPageProps) {
           </article>
 
           <article className="rounded-[1.8rem] border border-white/10 bg-surface-container-low/75 p-6 md:p-8">
-            <p className="text-xs font-black uppercase tracking-[0.24em] text-primary">Benzer Icerikler</p>
+            <p className="text-xs font-black uppercase tracking-[0.24em] text-primary">Benzer İçerikler</p>
             <div className="mt-5 space-y-3">
               {relatedPages.map((item) => (
                 <Link

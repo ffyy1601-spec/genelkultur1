@@ -221,7 +221,7 @@ const QUESTIONS_LIST = [
     desc: "Amerikan Bağımsızlık Savaşı'nda kurucu ordunun başkomutanlığını yapmış, 1789-1797 yılları arasında ülkenin ilk başkanı olarak görev almıştır."
   },
   {
-    q: "İlk kez 1896 yılında Atina'da başlatılan ve HTML sporları için dört yılda bir düzenlenen çok sporlu küresel etkinliğin adı nedir?",
+    q: "İlk kez 1896 yılında Atina'da başlatılan ve dört yılda bir düzenlenen çok sporlu küresel etkinliğin adı nedir?",
     a: "Modern Olimpiyat Oyunları",
     desc: "Antik Yunan olimpiyatlarından esinlenerek Pierre de Coubertin'in öncülüğünde kurulan uluslararası en büyük spor organizasyonudur."
   },
@@ -305,9 +305,9 @@ export default function GenelKulturSorulari() {
     ? `"${searchQuery}" İle İlgili Genel Kültür Soruları | GenelKultur.com.tr` 
     : "50+ Genel Kültür Soruları ve Cevapları 2026 (Zor-Kolay) | GenelKultur.com.tr";
 
-  const seoDescription = searchQuery 
-    ? `GenelKültür.com.tr üzerinde "${searchQuery}" terimi ile ilgili arama sonuçları. En popüler genel kültür sorularını inceleyin ve test edin.` 
-    : "Özenle seçilmiş 50'den fazla genel kültür sorusu ve detaylı cevap açıklamaları. Tarih, bilim, sanat ve coğrafya dikeyinde bilgini hemen sına, yeni şeyler öğren!";
+  const seoDescription = searchQuery
+    ? `GenelKültür.com.tr üzerinde "${searchQuery}" terimi ile ilgili arama sonuçları. En popüler genel kültür sorularını inceleyin ve test edin.`
+    : "Şıklı (çoktan seçmeli) ve cevaplı 50'den fazla güncel genel kültür sorusu ve detaylı açıklamalar. Tarih, bilim, sanat ve coğrafyadan sorularla bilgini hemen sına, yeni şeyler öğren!";
 
   return (
     <PageLayout>
@@ -337,7 +337,7 @@ export default function GenelKulturSorulari() {
             Genel Kültür Soruları <span className="text-primary">& Cevapları</span>
           </h1>
           <p className="mt-4 text-sm leading-7 text-on-surface-variant md:text-base md:leading-8 max-w-3xl">
-            Tarih, coğrafya, bilim, sanat ve edebiyat gibi farklı dallardan derlenen en popüler ve merak edilen genel kültür sorularını aşağıda inceleyebilirsiniz. Soruların cevaplarını ve detaylı açıklamalarını görmek için kutuların üzerine tıklayın.
+            Tarih, coğrafya, bilim, sanat ve edebiyat gibi farklı dallardan derlenen en popüler ve merak edilen, <strong>şıklı (çoktan seçmeli) ve cevaplı güncel genel kültür sorularını</strong> aşağıda inceleyebilirsiniz. Soruların cevaplarını ve detaylı açıklamalarını görmek için kutuların üzerine tıklayın; hazır hissettiğinde testi çözerek kendini sınayabilirsin.
           </p>
         </section>
 
@@ -491,11 +491,25 @@ export default function GenelKulturSorulari() {
               <span className="material-symbols-outlined text-sm">play_arrow</span>
             </Link>
             <Link
+              to={ROUTES.test50}
+              className="inline-flex items-center gap-2 rounded-xl border border-white/10 bg-surface-container-low/70 px-6 py-3.5 text-xs font-bold uppercase tracking-wider text-on-surface hover:border-primary/40 transition-all"
+            >
+              50 Soruluk Test
+            </Link>
+            <Link
               to={ROUTES.categories}
               className="inline-flex items-center gap-2 rounded-xl border border-white/10 bg-surface-container-low/70 px-6 py-3.5 text-xs font-bold uppercase tracking-wider text-on-surface hover:border-primary/40 transition-all"
             >
               Kategorileri Gör
             </Link>
+          </div>
+
+          {/* İç linkleme — ilgili sayfalar */}
+          <div className="mt-6 flex flex-wrap justify-center gap-2 text-[11px]">
+            <Link to={ROUTES.test100} className="rounded-lg border border-white/10 px-3 py-1.5 text-on-surface-variant hover:text-primary hover:border-primary/30 transition-colors">100 Soruluk Genel Kültür Testi</Link>
+            <Link to={ROUTES.genelKulturBilgileri} className="rounded-lg border border-white/10 px-3 py-1.5 text-on-surface-variant hover:text-primary hover:border-primary/30 transition-colors">Genel Kültür Bilgileri</Link>
+            <Link to={ROUTES.genelKulturBilgiYarismasi} className="rounded-lg border border-white/10 px-3 py-1.5 text-on-surface-variant hover:text-primary hover:border-primary/30 transition-colors">Bilgi Yarışması</Link>
+            <Link to={ROUTES.zorGenelKulturSorulari} className="rounded-lg border border-white/10 px-3 py-1.5 text-on-surface-variant hover:text-primary hover:border-primary/30 transition-colors">Zor Genel Kültür Soruları</Link>
           </div>
         </section>
 

@@ -16,6 +16,8 @@ export interface DailyQuiz {
   intro: string;
   article: string;
   category: string;
+  sourceName?: string;
+  sourceUrl?: string;
   imageUrl?: string;
   questions?: DailyQuestion[];
 }
@@ -24,7 +26,7 @@ export const dailyQuizzes: DailyQuiz[] = [
   {
     "slug": "turkiyenin-yapay-zeka-vizyonu-aciklaniyor-tarihi-yol-haritasi-bugun-belli-oluyor",
     "dateId": "2026-06-13T02:00:00+03:00",
-    "imageUrl": "/images/news/turkiyenin-yapay-zeka-vizyonu-aciklaniyor-tarihi-yol-haritasi-bugun-belli-oluyor.png",
+    "imageUrl": "/images/news/turkiyenin-yapay-zeka-vizyonu-aciklaniyor-tarihi-yol-haritasi-bugun-belli-oluyor.webp",
     "title": "Türkiye'nin Yapay Zeka Vizyonu ve Yol Haritası Açıklanıyor | GK Haber",
     "description": "Türkiye'nin teknolojik geleceğini şekillendirecek Yapay Zeka Eylem Planı ve Ulusal Yapay Zeka Vizyonu bugün İstanbul'da düzenlenen zirvede kamuoyuna duyuruluyor.",
     "keywords": [
@@ -42,7 +44,7 @@ export const dailyQuizzes: DailyQuiz[] = [
   {
     "slug": "futbolda-yeni-cag-basladi-2026-dunya-kupasinda-akilalmaz-teknoloji-devrimi",
     "dateId": "2026-06-13T02:00:00+03:00",
-    "imageUrl": "/images/news/futbolda-yeni-cag-basladi-2026-dunya-kupasinda-akilalmaz-teknoloji-devrimi.png",
+    "imageUrl": "/images/news/futbolda-yeni-cag-basladi-2026-dunya-kupasinda-akilalmaz-teknoloji-devrimi.webp",
     "title": "2026 Dünya Kupası'nda Teknoloji Devrimi | Haber Portalı",
     "description": "Kanada, Meksika ve ABD'nin ev sahipliğinde başlayan 2026 FIFA Dünya Kupası, şarj edilebilir topları, yapay zeka destekli ofsayt sistemi ve hakem kameralarıyla tarihin en teknolojik turnuvası oluyor.",
     "keywords": [
@@ -61,7 +63,7 @@ export const dailyQuizzes: DailyQuiz[] = [
   {
     "slug": "tarihi-gece-a-milli-takimimiz-2026-fifa-dunya-kupasi-arenasinda-sahaya-cikiyor",
     "dateId": "2026-06-13T02:00:00+03:00",
-    "imageUrl": "/images/news/tarihi-gece-a-milli-takimimiz-2026-fifa-dunya-kupasi-arenasinda-sahaya-cikiyor.png",
+    "imageUrl": "/images/news/tarihi-gece-a-milli-takimimiz-2026-fifa-dunya-kupasi-arenasinda-sahaya-cikiyor.webp",
     "title": "A Millî Takım Kanada'da Sahaya Çıkıyor! 2026 Dünya Kupası Heyecanı Başladı | GK Haber",
     "description": "2026 FIFA Dünya Kupası D Grubu ilk maçında A Millî Takımımız, Avustralya karşısında sahaya çıkıyor. İşte dev karşılaşmanın detayları, taraftar buluşması ve heyecan verici tüm gelişmeler.",
     "keywords": [
@@ -81,7 +83,7 @@ export const dailyQuizzes: DailyQuiz[] = [
   {
     "slug": "ekranlar-kapaniyor-sahne-aciliyor-canli-muzikte-yeni-akim-telefonsuz-konser-nedir",
     "dateId": "2026-06-13T02:00:00+03:00",
-    "imageUrl": "/images/news/ekranlar-kapaniyor-sahne-aciliyor-canli-muzikte-yeni-akim-telefonsuz-konser-nedir.png",
+    "imageUrl": "/images/news/ekranlar-kapaniyor-sahne-aciliyor-canli-muzikte-yeni-akim-telefonsuz-konser-nedir.webp",
     "title": "Konserlerde Telefon Yasaklanıyor mu? İşte Yeni 'Telefonsuz Konser' Trendi | GK Haber",
     "description": "Müzik dünyasında yeni bir dönem başlıyor. Bob Dylan ve Jack White'ın ardından popüler kültürde hızla yayılan 'telefonsuz konser' akımı, izleyicileri ekranlardan uzaklaştırıp müziğe odaklamayı hedefliyor.",
     "keywords": [
@@ -100,7 +102,7 @@ export const dailyQuizzes: DailyQuiz[] = [
   {
     "slug": "yesilcam-esintisi-geri-donuyor-ask-tesadufleri-sever-3-basrolleri-belli-oldu",
     "dateId": "2026-06-13T03:00:00+03:00",
-    "imageUrl": "/images/news/yesilcam-esintisi-geri-donuyor-ask-tesadufleri-sever-3-basrolleri-belli-oldu.png",
+    "imageUrl": "/images/news/yesilcam-esintisi-geri-donuyor-ask-tesadufleri-sever-3-basrolleri-belli-oldu.webp",
     "title": "Aşk Tesadüfleri Sever 3 Geliyor! Mehmet Günsür ve Devrim Özkan Başrolde | GK Haber",
     "description": "Sinema dünyasında büyük heyecan! Aşk Tesadüfleri Sever serisinin üçüncü filminin başrolleri Mehmet Günsür ve Devrim Özkan oldu. Çekimler temmuz ayında başlıyor.",
     "keywords": [
@@ -120,7 +122,7 @@ export const dailyQuizzes: DailyQuiz[] = [
   {
     "slug": "futbolun-kaderi-algoritmalara-emanet-2026-dunya-kupasinda-akilli-teknoloji-devrimi",
     "dateId": "2026-06-13T03:00:00+03:00",
-    "imageUrl": "/images/news/futbolun-kaderi-algoritmalara-emanet-2026-dunya-kupasinda-akilli-teknoloji-devrimi.png",
+    "imageUrl": "/images/news/futbolun-kaderi-algoritmalara-emanet-2026-dunya-kupasinda-akilli-teknoloji-devrimi.webp",
     "title": "Futbolda Teknoloji Devrimi: 2026 Dünya Kupası'nda 'Akıllı Top' Dönemi",
     "description": "2026 FIFA Dünya Kupası, şarj edilebilir toplardan yarı otomatik ofsayt sistemine kadar sporda teknolojik bir devrim başlattı. İşte futbolda yeni dönem.",
     "keywords": [
@@ -138,7 +140,7 @@ export const dailyQuizzes: DailyQuiz[] = [
   {
     "slug": "turkiye-24-yil-sonra-dunya-kupasi-arenasinda-85-milyonun-gozu-kanadadaki-dev-macta",
     "dateId": "2026-06-13T07:00:00+03:00",
-    "imageUrl": "/images/news/turkiye-24-yil-sonra-dunya-kupasi-arenasinda-85-milyonun-gozu-kanadadaki-dev-macta.png",
+    "imageUrl": "/images/news/turkiye-24-yil-sonra-dunya-kupasi-arenasinda-85-milyonun-gozu-kanadadaki-dev-macta.webp",
     "title": "24 Yıllık Dünya Kupası Hasreti Bitiyor! İşte Millilerin Avustralya Sınavı",
     "description": "2026 FIFA Dünya Kupası'nda Türkiye, 24 yıl aradan sonra sahneye çıkıyor. Avustralya ile oynanacak kritik D Grubu karşılaşması öncesi tüm Türkiye kilitlendi. İşte dev maçın detayları ve milli heyecan.",
     "keywords": [
@@ -158,7 +160,7 @@ export const dailyQuizzes: DailyQuiz[] = [
   {
     "slug": "turkiyenin-dijital-gelecegi-sekilleniyor-yapay-zeka-eylem-plani-aciklandi",
     "dateId": "2026-06-13T14:00:00+03:00",
-    "imageUrl": "/images/news/turkiyenin-dijital-gelecegi-sekilleniyor-yapay-zeka-eylem-plani-aciklandi.png",
+    "imageUrl": "/images/news/turkiyenin-dijital-gelecegi-sekilleniyor-yapay-zeka-eylem-plani-aciklandi.webp",
     "title": "Türkiye Yapay Zeka Eylem Planı Açıklandı | GK Haber",
     "description": "Cumhurbaşkanı Erdoğan'ın katılımıyla düzenlenen Türkiye Yapay Zeka Zirvesi'nde merakla beklenen Yapay Zeka Eylem Planı kamuoyuyla paylaşıldı. İşte detaylar.",
     "keywords": [
@@ -175,30 +177,9 @@ export const dailyQuizzes: DailyQuiz[] = [
     "category": "teknoloji"
   },
   {
-    "slug": "kuresel-ekonomide-devrim-elon-musk-dunyanin-ilk-dolar-trilyoneri-olarak-kayitlara-gecti",
-    "dateId": "2026-06-13T19:00:00+03:00",
-    "imageUrl": "/images/news/kuresel-ekonomide-devrim-elon-musk-dunyanin-ilk-dolar-trilyoneri-olarak-kayitlara-gecti.png",
-    "title": "Elon Musk Tarihe Geçti: Dünyanın İlk Dolar Trilyoneri Oldu",
-    "description": "Teknoloji dünyasının en büyük ismi Elon Musk, ulaştığı 1 trilyon dolarlık kişisel servetiyle ekonomi tarihinde yeni bir dönemi başlattı. İşte detaylar.",
-    "keywords": [
-      "Elon Musk",
-      "trilyoner",
-      "ekonomi",
-      "teknoloji",
-      "servet",
-      "Tesla",
-      "SpaceX",
-      "finans"
-    ],
-    "heading": "Küresel Ekonomide Devrim: Elon Musk Dünyanın İlk Dolar Trilyoneri Olarak Kayıtlara Geçti",
-    "intro": "Teknoloji ve inovasyon dünyasının en tartışmalı aynı zamanda en başarılı ismi olan Elon Musk, kişisel servetinde 1 trilyon dolar barajını aşarak modern ekonomi tarihinin ulaştığı en yüksek bireysel finansal eşiğe imza attı.",
-    "article": "<p>13 Haziran 2026 itibarıyla küresel finans piyasalarından gelen veriler, ekonomi dünyasında daha önce eşi benzeri görülmemiş bir gelişmeyi doğruladı. Tesla, SpaceX, Neuralink ve xAI gibi şirketlerin sahibi olan <strong>Elon Musk</strong>, kişisel servetini <strong>1 trilyon dolar</strong> seviyesinin üzerine taşıyarak dünya tarihinde bu unvana erişen ilk birey olarak kayıtlara geçti. Wall Street analistlerine göre, bu çarpıcı yükselişin arkasında özellikle yapay zeka entegreli otonom araç teknolojileri ve uzay lojistiğindeki devrimsel atılımlar yer alıyor.</p><h3>Ekonomik Büyümenin Arkasındaki İtici Güç</h3><p>Musk’ın servetindeki bu hızlı artışın temelinde, sahip olduğu şirketlerin 2026 yılının ilk iki çeyreğinde gösterdiği performans yatıyor. Uzmanlar, bu finansal patlamayı şu faktörlerle açıklıyor:</p><ul><li><strong>Otonom Sürüş Teknolojileri:</strong> Tesla’nın 2026 model yılı için duyurduğu tam otonom yapay zeka sürüş paketi, dünya genelinde satış rekorları kırdı.</li><li><strong>Yapay Zeka Yatırımları:</strong> xAI şirketi, kurumsal düzeydeki veri işleme kapasitesini üç katına çıkararak küresel teknoloji pazarında domine edici bir konum elde etti.</li><li><strong>Uzay Ekonomisi:</strong> SpaceX’in Ay ve Mars kolonizasyon projeleri için gerçekleştirdiği ticari yük taşıma operasyonları, şirketin piyasa değerini astronomik düzeylere taşıdı.</li></ul><h3>Yeni Bir Finansal Çağ mı Başlıyor?</h3><p>Ekonomistler, Musk’ın ulaştığı bu rakamın sadece kişisel bir başarı olmadığını, aynı zamanda <strong>küresel ekonomi</strong> dinamiklerinin teknoloji lehine ne kadar keskin bir şekilde değiştiğinin bir göstergesi olduğunu savunuyor. 1 trilyon dolarlık servet, birçok orta ölçekli ülkenin yıllık gayrisafi yurtiçi hasılasını (GSYH) geride bırakırken, Musk'ın bu kaynağı insanlığın geleceğine yönelik projelerde nasıl kullanacağı merak konusu oldu.</p><p><strong>New York Borsası</strong> uzmanları, 12 Haziran 2026 akşamı kapanış verileriyle netleşen bu gelişmenin ardından, teknoloji hisselerinde bir 'Musk Etkisi' dalgası yaşanabileceğini belirtiyor. Yatırımcılar, Musk'ın sahip olduğu şirketlerin gelecek dönemdeki stratejilerini ve bu servetin yaratacağı yeni iş kollarını yakından takip etmeye başladı.</p><h3>Eleştiriler ve Gelecek Projeksiyonu</h3><p>Büyük bir finansal başarının yanı sıra, bu kadar devasa bir servetin tek bir elde toplanması, dünya genelinde 'gelir adaletsizliği' ve 'şirketlerin devlet gücüyle yarışması' konularındaki tartışmaları da yeniden alevlendirdi. Sosyologlar, 2026 yılının sonuna doğru bu ekonomik dengenin, regülasyonlar ve yeni vergi düzenlemeleri ile nasıl bir şekil alacağını tartışmaya devam ediyor.</p><p>Elon Musk ise konuyla ilgili kısa bir değerlendirmesinde, servetin kendisi için bir amaç değil, 'insanlığı çok gezegenli bir tür yapma' vizyonunun sadece bir yan ürünü olduğunu ifade ederek, önümüzdeki ay Mars projeleriyle ilgili yeni bir açıklama yapacağının sinyallerini verdi.</p>",
-    "category": "ekonomi"
-  },
-  {
     "slug": "sosyal-medyada-buyuk-panik-instagramda-kuresel-erisim-krizi",
     "dateId": "2026-06-13T23:00:00+03:00",
-    "imageUrl": "/images/news/sosyal-medyada-buyuk-panik-instagramda-kuresel-erisim-krizi.png",
+    "imageUrl": "/images/news/sosyal-medyada-buyuk-panik-instagramda-kuresel-erisim-krizi.webp",
     "title": "Instagram Çöktü mü? 13 Haziran 2026 Erişilemezlik Krizi | GK Haber",
     "description": "13 Haziran 2026 Cumartesi günü Instagram dünya genelinde büyük bir erişim sorunu yaşıyor. Akış yenilenemiyor hatasının perde arkası ve kullanıcıları bekleyen son durum.",
     "keywords": [
@@ -216,7 +197,7 @@ export const dailyQuizzes: DailyQuiz[] = [
   {
     "slug": "ekranlarin-yeni-yildizi-doganin-kanunu-ilk-bolumuyle-sosyal-medyayi-salladi",
     "dateId": "2026-06-14T09:00:00+03:00",
-    "imageUrl": "/images/news/ekranlarin-yeni-yildizi-doganin-kanunu-ilk-bolumuyle-sosyal-medyayi-salladi.png",
+    "imageUrl": "/images/news/ekranlarin-yeni-yildizi-doganin-kanunu-ilk-bolumuyle-sosyal-medyayi-salladi.webp",
     "title": "Doğanın Kanunu Dizisi İlk Bölümüyle Zirveye Yerleşti | GK Haber",
     "description": "Star TV'nin yeni dizisi Doğanın Kanunu, Alperen Duymaz ve Özge Yağız'lı kadrosuyla ekranlarda fırtınalar estiriyor. İşte dizi hakkında tüm detaylar.",
     "keywords": [
@@ -235,7 +216,7 @@ export const dailyQuizzes: DailyQuiz[] = [
   {
     "slug": "dunya-ekonomisinde-yeni-cag-elon-muskin-trilyonerlik-yolculugu-ve-spacex-harekati",
     "dateId": "2026-06-14T14:00:00+03:00",
-    "imageUrl": "/images/news/dunya-ekonomisinde-yeni-cag-elon-muskin-trilyonerlik-yolculugu-ve-spacex-harekati.png",
+    "imageUrl": "/images/news/dunya-ekonomisinde-yeni-cag-elon-muskin-trilyonerlik-yolculugu-ve-spacex-harekati.webp",
     "title": "Elon Musk'ın Trilyonerlik Hikayesi: SpaceX'in Tarihi Halka Arzı Başlıyor",
     "description": "Elon Musk, SpaceX'in dev halka arzı ile dünyanın ilk dolar trilyoneri oldu. Yatırımcıların merakla beklediği talep toplama süreci 17 Haziran'da resmen başlıyor.",
     "keywords": [
@@ -253,29 +234,9 @@ export const dailyQuizzes: DailyQuiz[] = [
     "category": "ekonomi"
   },
   {
-    "slug": "wall-streette-spacex-depremi-dev-sirket-ilk-gununde-21-trilyon-dolara-ulasti",
-    "dateId": "2026-06-14T19:00:00+03:00",
-    "imageUrl": "/images/news/wall-streette-spacex-depremi-dev-sirket-ilk-gununde-21-trilyon-dolara-ulasti.png",
-    "title": "SpaceX Borsada Fırtına Gibi Esti: Piyasa Değeri 2,1 Trilyon Dolara Ulaştı",
-    "description": "Elon Musk'ın havacılık devi SpaceX, Nasdaq'ta gerçekleştirdiği halka arz ile Wall Street'e tarihi bir giriş yaptı. Şirketin piyasa değeri 2,1 trilyon dolara ulaştı.",
-    "keywords": [
-      "SpaceX",
-      "Elon Musk",
-      "Nasdaq",
-      "halka arz",
-      "borsa",
-      "teknoloji haberleri",
-      "2026 teknoloji"
-    ],
-    "heading": "Wall Street’te SpaceX Depremi: Dev Şirket İlk Gününde 2,1 Trilyon Dolara Ulaştı",
-    "intro": "Havacılık ve uzay teknolojileri sektörünün öncüsü SpaceX, uzun süredir merakla beklenen halka arzını gerçekleştirdi. Nasdaq borsasındaki ilk işlem gününde hisselerinde yaşanan yüzde 19'luk artış, şirketin piyasa değerini 2,1 trilyon dolara taşıdı.",
-    "article": "<p>Dünya teknoloji ve finans çevrelerinin gözü, <strong>14 Haziran 2026</strong> tarihinde <strong>Nasdaq</strong> borsasına çevrilmiş durumdaydı. <strong>Elon Musk</strong> tarafından kurulan uzay taşımacılığı devi <strong>SpaceX</strong>, merakla beklenen halka arzını tamamlayarak borsada işlem görmeye başladı. Şirket, ilk gün gösterdiği performansla <strong>Wall Street</strong>'teki dengeleri kökten değiştirdi.</p><h3>Tarihi Başlangıç ve Rekor Değerleme</h3><p>Sabah saatlerinde <strong>150 dolarlık</strong> açılış fiyatıyla borsaya giriş yapan SpaceX hisseleri, yatırımcılardan gelen yoğun talep üzerine gün boyunca istikrarlı bir yükseliş grafiği izledi. İşlem gününün kapanışında <strong>160,95 dolar</strong> seviyesine ulaşan hisseler, şirketin piyasa değerinin <strong>2,1 trilyon dolar</strong> seviyesine çıkmasını sağladı. Bu büyüklük, SpaceX’i ABD borsalarındaki en değerli altıncı şirket konumuna yükseltti.</p><h3>Teknoloji Sektöründe Dengeler Değişiyor</h3><p>Analistler, SpaceX'in bu devasa girişinin teknoloji hisselerine olan bakışı güncellediğini belirtiyor. Özellikle <strong>yapay zeka</strong>, <strong>uzay keşfi</strong> ve <strong>uydu interneti</strong> gibi stratejik alanlardaki yatırımlarıyla dikkat çeken şirket, yatırım fonlarının portföylerini yeniden gözden geçirmesine yol açtı. İşte bu tarihi gelişmenin ardından öne çıkan ana başlıklar:</p><ul><li><strong>Piyasa Değeri:</strong> 2,1 Trilyon Dolar.</li><li><strong>Hisse Değişimi:</strong> İlk gün yüzde 19'luk artış.</li><li><strong>Sıralama:</strong> ABD'nin en değerli 6. şirketi.</li><li><strong>Yatırımcı İlgisi:</strong> Kurumsal ve bireysel yatırımcılardan yoğun talep.</li></ul><h3>Geleceğe Yatırım ve Stratejik Hamleler</h3><p>SpaceX'in sadece bir roket üreticisi değil, aynı zamanda <strong>Starlink</strong> üzerinden küresel çapta internet erişimi sağlayan dev bir altyapı kuruluşu olması, yatırımcıların şirkete olan güvenini artıran en önemli faktör olarak değerlendiriliyor. Uzmanlar, halka arzdan elde edilen gelirin, özellikle <strong>Mars</strong> yolculuğu ve <strong>yeni nesil Starship</strong> teknolojileri için Ar-Ge çalışmalarına aktarılacağını öngörüyor.</p><h3>Wall Street’in Yeni Gözdesi</h3><p><strong>Elon Musk</strong>'ın stratejik vizyonu ve <strong>SpaceX</strong>'in operasyonel başarıları, yatırımcılar tarafından uzun vadeli bir kazanç kapısı olarak görülüyor. Halka arzın ilk gününde yaşanan bu büyük çaplı yükseliş, 2026 yılının en dikkat çekici finansal olaylarından biri olarak tarihe geçti. Önümüzdeki günlerde diğer teknoloji devlerinin SpaceX'in bu başarısına nasıl yanıt vereceği ise merakla bekleniyor.</p>",
-    "category": "ekonomi"
-  },
-  {
     "slug": "turkiyenin-yapay-zeka-vizyonu-aciklandi-81-ilde-dev-seferberlik-basliyor",
     "dateId": "2026-06-15T14:00:00+03:00",
-    "imageUrl": "/images/news/turkiyenin-yapay-zeka-vizyonu-aciklandi-81-ilde-dev-seferberlik-basliyor.png",
+    "imageUrl": "/images/news/turkiyenin-yapay-zeka-vizyonu-aciklandi-81-ilde-dev-seferberlik-basliyor.webp",
     "title": "Türkiye'nin Yapay Zeka Devrimi Başladı: 2 Yılda 5 Milyon Uzman Yetişecek",
     "description": "Cumhurbaşkanı Erdoğan'ın açıkladığı 'Türkiye Yapay Zeka Eylem Planı' ile teknoloji dünyasında yeni bir dönem başlıyor. 81 ilde atölyeler ve dev eğitim seferberliği yolda.",
     "keywords": [
@@ -293,7 +254,7 @@ export const dailyQuizzes: DailyQuiz[] = [
   {
     "slug": "yapay-zeka-icin-yeni-elektrik-cagi-turkiyeden-1-gwlik-dev-yatirim-hedefi",
     "dateId": "2026-06-15T17:00:00+03:00",
-    "imageUrl": "/images/news/yapay-zeka-icin-yeni-elektrik-cagi-turkiyeden-1-gwlik-dev-yatirim-hedefi.png",
+    "imageUrl": "/images/news/yapay-zeka-icin-yeni-elektrik-cagi-turkiyeden-1-gwlik-dev-yatirim-hedefi.webp",
     "title": "Türkiye'nin Yapay Zeka Hamlesi: 1 GW Veri Merkezi Vizyonu Başlıyor",
     "description": "Türkiye, yapay zeka teknolojilerine güç verecek devasa veri merkezi yatırımlarıyla enerji ve dijital altyapıda yeni bir döneme giriyor. İşte 2030 hedefleri ve enerji sektöründeki büyük değişim.",
     "keywords": [
@@ -310,30 +271,9 @@ export const dailyQuizzes: DailyQuiz[] = [
     "category": "teknoloji"
   },
   {
-    "slug": "yapay-zekada-kritik-mudahale-beyaz-saraydan-fable-5-ve-mythos-5-ambargosu",
-    "dateId": "2026-06-15T22:00:00+03:00",
-    "imageUrl": "/images/news/yapay-zekada-kritik-mudahale-beyaz-saraydan-fable-5-ve-mythos-5-ambargosu.png",
-    "title": "Beyaz Saray'dan Anthropic'e Yapay Zeka Ambargosu | GK Haber",
-    "description": "ABD hükümetinin Anthropic'in en yeni yapay zeka modelleri Fable 5 ve Mythos 5'e yönelik erişim kısıtlaması dünyada büyük yankı uyandırdı. Detaylar haberimizde.",
-    "keywords": [
-      "yapay zeka",
-      "Anthropic",
-      "Claude",
-      "Beyaz Saray",
-      "Fable 5",
-      "Mythos 5",
-      "teknoloji haberleri",
-      "yazılım"
-    ],
-    "heading": "Yapay Zekada Kritik Müdahale: Beyaz Saray'dan 'Fable 5' ve 'Mythos 5' Ambargosu",
-    "intro": "ABD yönetimi, teknoloji dünyasında dengeleri değiştirecek bir hamleye imza atarak, yapay zeka şirketi Anthropic'in en gelişmiş iki yeni modeline ülke dışından erişimi askıya aldı.",
-    "article": "<p>Teknoloji dünyası, <strong>12 Haziran 2026</strong> tarihinde gerçekleşen ve etkileri küresel çapta hissedilen bir dijital güvenlik hamlesiyle sarsıldı. <strong>Beyaz Saray</strong>, yapay zeka devi <strong>Anthropic</strong> tarafından geliştirilen ve sektörde 'fazla güçlü' olarak nitelendirilen <strong>Claude Fable 5</strong> ve <strong>Claude Mythos 5</strong> modellerine, ABD vatandaşı olmayan kullanıcılar için erişim kısıtlaması getirdi.</p><h3>Küresel Erişim Kısıtlamasının Perde Arkası</h3><p>Anthropic, piyasaya sürülmesinden sadece günler sonra gelen bu sürpriz talimatla modellerin ülke dışındaki kullanıcılar için kapatıldığını duyurdu. Uzmanlar, hükümetin bu denetleyici tutumunun arkasında yapay zekanın sahip olduğu sarsıcı işlem gücünün ve olası güvenlik risklerinin yattığını belirtiyor. <strong>ABD hükümeti</strong>, bu modellerin kontrolsüz kullanımının ulusal güvenlik dengelerini etkileyebileceği endişesini taşıyor.</p><h3>Teknoloji Dünyasında Büyük Endişe</h3><ul><li><strong>Avrupa'daki yansımalar:</strong> Birçok Avrupa Birliği ülkesi, bu tür bir dijital ambargonun yapay zeka inovasyonunu yavaşlatabileceği konusunda uyarıyor.</li><li><strong>Sektörel etkiler:</strong> Yazılımcılar ve veri bilimciler, bu kısıtlamanın yerel yapay zeka geliştirme süreçlerini nasıl etkileyeceğini tartışıyor.</li><li><strong>Şirketin açıklaması:</strong> Anthropic, hükümetin talebiyle uyumlu olarak erişim kanallarını yeniden yapılandıracağını resmen bildirdi.</li></ul><h3>Dijital Dönüşümde Yeni Bir Evre</h3><p>Yaşanan bu kriz, <strong>15 Haziran 2026</strong> itibarıyla dijital platformlar üzerindeki denetim tartışmalarını da alevlendirdi. Analistler, önümüzdeki dönemde teknoloji şirketleri ile hükümetler arasındaki <strong>yapay zeka</strong> denetim mekanizmalarının çok daha katı bir çerçeveye oturtulacağını öngörüyor. Özellikle <strong>Claude</strong> modellerinin ulaştığı zeka seviyesi, sadece yazılım dünyasında değil, etik ve hukuk platformlarında da merkez bir tartışma konusu haline geldi.</p><p>Öte yandan, <strong>Washington</strong> kaynaklı bilgilere göre, bu kısıtlamanın sadece geçici bir tedbir olup olmadığı henüz netlik kazanmış değil. Sektör temsilcileri, bu kararın küresel dijital ekosistemde yaratacağı boşluğun, yeni ve yerel yapay zeka girişimlerine alan açabileceğini veya tam tersi, dijital dünyada daha keskin bölünmelere yol açabileceğini ifade ediyor.</p>",
-    "category": "teknoloji"
-  },
-  {
     "slug": "teknolojinin-kalbi-pariste-atiyor-turkiye-26-girisimle-dunya-sahnesinde",
     "dateId": "2026-06-16T15:00:00+03:00",
-    "imageUrl": "/images/news/teknolojinin-kalbi-pariste-atiyor-turkiye-26-girisimle-dunya-sahnesinde.png",
+    "imageUrl": "/images/news/teknolojinin-kalbi-pariste-atiyor-turkiye-26-girisimle-dunya-sahnesinde.webp",
     "title": "Türkiye VivaTech 2026'da: 26 Teknoloji Girişimiyle Paris'te Dev Gövde Gösterisi",
     "description": "Türkiye, dünyanın en prestijli teknoloji etkinliklerinden VivaTech 2026'ya 26 yenilikçi girişim ve 135 metrekarelik özel pavyonuyla çıkarma yapıyor. İşte detaylar.",
     "keywords": [
@@ -353,7 +293,7 @@ export const dailyQuizzes: DailyQuiz[] = [
   {
     "slug": "ekranlarin-milyonluk-yildizlarina-indirim-soku-dizi-sektorunde-maliyet-krizi-patlak-verdi",
     "dateId": "2026-06-16T21:00:00+03:00",
-    "imageUrl": "/images/news/ekranlarin-milyonluk-yildizlarina-indirim-soku-dizi-sektorunde-maliyet-krizi-patlak-verdi.png",
+    "imageUrl": "/images/news/ekranlarin-milyonluk-yildizlarina-indirim-soku-dizi-sektorunde-maliyet-krizi-patlak-verdi.webp",
     "title": "Dizi Sektöründe Büyük 'Bütçe' Krizi: Yapımcılardan Yıldız İsimlere 'İndirim' Çağrısı",
     "description": "Ekranlarda maliyet alarmı! Bölüm başı bütçelerin 30 milyon TL'yi bulmasıyla kanallar frene bastı. İşte dizi sektöründeki son gelişmeler.",
     "keywords": [
@@ -372,7 +312,7 @@ export const dailyQuizzes: DailyQuiz[] = [
   {
     "slug": "turkiye-teknoloji-ve-inovasyon-ekosistemini-vivatech-2026da-dunyaya-aciyor",
     "dateId": "2026-06-17T15:00:00+03:00",
-    "imageUrl": "/images/news/turkiye-teknoloji-ve-inovasyon-ekosistemini-vivatech-2026da-dunyaya-aciyor.png",
+    "imageUrl": "/images/news/turkiye-teknoloji-ve-inovasyon-ekosistemini-vivatech-2026da-dunyaya-aciyor.webp",
     "title": "Türkiye Paris'te Teknoloji Şovuna Hazırlanıyor: VivaTech 2026'da Büyük Gövde Gösterisi",
     "description": "Türkiye, Avrupa'nın en büyük teknoloji ve girişimcilik fuarı VivaTech 2026'ya 26 yenilikçi girişimiyle çıkarma yapıyor. Türkiye'nin dijital vizyonu dünya sahnesinde.",
     "keywords": [
@@ -393,7 +333,7 @@ export const dailyQuizzes: DailyQuiz[] = [
   {
     "slug": "los-angelesin-kalbinde-turk-ruzgari-2026-dunya-kupasinda-tarihi-turkish-vibe-zone-basliyor",
     "dateId": "2026-06-17T20:00:00+03:00",
-    "imageUrl": "/images/news/los-angelesin-kalbinde-turk-ruzgari-2026-dunya-kupasinda-tarihi-turkish-vibe-zone-basliyor.png",
+    "imageUrl": "/images/news/los-angelesin-kalbinde-turk-ruzgari-2026-dunya-kupasinda-tarihi-turkish-vibe-zone-basliyor.webp",
     "title": "2026 Dünya Kupası'nda Dev Buluşma: Los Angeles'ta 'Turkish Vibe Zone' Açılıyor",
     "description": "2026 FIFA Dünya Kupası heyecanı tüm dünyayı sararken, Türkiye'nin Los Angeles'ta hayata geçirdiği 'Turkish Vibe Zone' projesi, kültür, spor ve gastronomi tutkunlarını bir araya getiriyor.",
     "keywords": [
@@ -413,7 +353,7 @@ export const dailyQuizzes: DailyQuiz[] = [
   {
     "slug": "yapay-zekada-ajan-devri-insanlar-izliyor-makineler-yonetiyor",
     "dateId": "2026-06-18T15:00:00+03:00",
-    "imageUrl": "/images/news/yapay-zekada-ajan-devri-insanlar-izliyor-makineler-yonetiyor.png",
+    "imageUrl": "/images/news/yapay-zekada-ajan-devri-insanlar-izliyor-makineler-yonetiyor.webp",
     "title": "Dijital İş Dünyasında Devrim: Yapay Zeka Artık Sadece Asistan Değil, İnisiyatif Alıyor",
     "description": "2026 teknoloji dünyasında yeni dönem: Yapay zeka ajanları artık sadece yanıt vermiyor, şirketler adına pazarlık yapıyor, kararlar alıyor ve iş dünyasını dönüştürüyor.",
     "keywords": [
@@ -432,7 +372,7 @@ export const dailyQuizzes: DailyQuiz[] = [
   {
     "slug": "times-meydaninda-ejderha-atesi-snapchat-ve-hbo-maxten-gorkemli-ar-sov",
     "dateId": "2026-06-18T20:00:00+03:00",
-    "imageUrl": "/images/news/times-meydaninda-ejderha-atesi-snapchat-ve-hbo-maxten-gorkemli-ar-sov.png",
+    "imageUrl": "/images/news/times-meydaninda-ejderha-atesi-snapchat-ve-hbo-maxten-gorkemli-ar-sov.webp",
     "title": "Times Meydanı'nda AR Devrimi: House of the Dragon Efsanesi Geri Dönüyor",
     "description": "HBO Max ve Snapchat, House of the Dragon 3. sezon öncesinde Times Meydanı'nda çığır açan bir AR deneyimi başlattı. İşte teknolojinin eğlenceyle buluştuğu o anlar.",
     "keywords": [
@@ -450,29 +390,9 @@ export const dailyQuizzes: DailyQuiz[] = [
     "category": "teknoloji"
   },
   {
-    "slug": "teslimat-sektorunde-devrim-uber-ve-getir-birlesmesi-icin-resmi-onay-cikti",
-    "dateId": "2026-06-19T15:00:00+03:00",
-    "imageUrl": "/images/news/teslimat-sektorunde-devrim-uber-ve-getir-birlesmesi-icin-resmi-onay-cikti.png",
-    "title": "Uber ve Getir Dev Birleşme İçin Onayı Aldı: Teslimat Sektöründe Yeni Dönem",
-    "description": "Türkiye Rekabet Kurumu, Uber'in Getir'in teslimat operasyonlarını satın almasını onayladı. 500 milyon dolarlık yatırım sözüyle gelen bu büyük birleşmenin sektöre etkileri.",
-    "keywords": [
-      "Uber",
-      "Getir",
-      "birleşme",
-      "Rekabet Kurumu",
-      "lojistik",
-      "teslimat",
-      "ekonomi"
-    ],
-    "heading": "Teslimat Sektöründe Devrim: Uber ve Getir Birleşmesi İçin Resmi Onay Çıktı",
-    "intro": "Türkiye lojistik ve teknoloji dünyasında uzun süredir beklenen dev satın alma gerçekleşti. Rekabet Kurumu, Uber'in Getir'in teslimat iş kolunu devralmasına resmen onay verdi.",
-    "article": "<h3>Lojistik Dünyasında Büyük Değişim</h3><p>Türkiye’nin teknoloji ekosisteminde yılın en büyük gelişmesi yaşandı. <strong>Rekabet Kurumu</strong>, küresel ulaşım devi <strong>Uber</strong>’in, Türkiye merkezli hızlı teslimat girişimi <strong>Getir</strong>’in teslimat operasyonlarını devralması için gerekli olan son yasal onayı verdiğini duyurdu. <strong>19 Haziran 2026</strong> tarihli resmi açıklama ile onaylanan bu anlaşma, teslimat sektöründe kartların yeniden dağıtılmasına neden olacak.</p><h3>500 Milyon Dolarlık Stratejik Yatırım Sözü</h3><p>Taraflar arasındaki anlaşmanın en dikkat çekici maddelerinden biri, <strong>Uber</strong> tarafından Türkiye pazarına taahhüt edilen <strong>500 milyon dolarlık</strong> devasa yatırım oldu. Bu yatırımın, mevcut altyapının güçlendirilmesi, operasyonel verimliliğin artırılması ve dijital lojistik ağlarının Türkiye genelinde yaygınlaştırılması için kullanılacağı belirtiliyor. Sektör analistleri, bu hamlenin Türkiye'yi küresel lojistik ağlarında daha merkezi bir konuma taşıyabileceğini öngörüyor.</p><h3>Getir’in Yeni Rotası</h3><p><strong>Getir</strong>, operasyonlarının önemli bir kısmını Uber’in küresel deneyimiyle birleştirerek, hizmet kalitesini ve hızını bir üst seviyeye çıkarmayı hedefliyor. Anlaşma, <strong>Mubadala</strong> gibi büyük yatırımcıların desteğiyle şekillenen süreçte, hem kullanıcılar hem de saha çalışanları için yeni bir dönemin habercisi niteliğinde. Özellikle <strong>İstanbul</strong>, <strong>Ankara</strong> ve <strong>İzmir</strong> gibi büyükşehirlerdeki hizmet ağının, Uber’in geniş veri tabanı ve teknolojik algoritmalarıyla optimize edilmesi bekleniyor.</p><h3>Sektördeki Etkileri Neler Olacak?</h3><p>Bu birleşmenin etkileri sadece Getir ve Uber ile sınırlı kalmayacak. Pazar analistlerinin öngörüleri şu şekilde:</p><ul><li><strong>Dijital Dönüşüm:</strong> Lojistik ağlarında yapay zeka tabanlı rotalama teknolojilerinin kullanımı daha yaygın hale gelecek.</li><li><strong>İstihdam Artışı:</strong> Yeni yatırım bütçesi ile birlikte operasyonel tarafta binlerce kişiye yeni iş olanakları sağlanması bekleniyor.</li><li><strong>Rekabet:</strong> Teslimat sektöründeki rekabetin kızışması, nihai tüketiciler için daha hızlı ve kaliteli hizmet anlamına gelebilir.</li></ul><p>Uzmanlar, <strong>Uber-Getir</strong> birleşmesinin Türkiye'nin dijital ekonomi vizyonu ile tam bir uyum içinde olduğunu vurguluyor. Önümüzdeki günlerde entegrasyon sürecinin detaylarının açıklanması ve kullanıcı deneyimine yansıyan somut yeniliklerin hayata geçirilmesi bekleniyor.</p>",
-    "category": "ekonomi"
-  },
-  {
     "slug": "modern-cagin-en-buyuk-ironisi-insanlar-daha-az-sey-yapan-cihazlarin-pesine-dustu",
     "dateId": "2026-06-19T20:00:00+03:00",
-    "imageUrl": "/images/news/modern-cagin-en-buyuk-ironisi-insanlar-daha-az-sey-yapan-cihazlarin-pesine-dustu.png",
+    "imageUrl": "/images/news/modern-cagin-en-buyuk-ironisi-insanlar-daha-az-sey-yapan-cihazlarin-pesine-dustu.webp",
     "title": "Dijital Yorgunluğa 'Cyberdeck' Çözümü: Yeni Teknoloji Akımı Başladı",
     "description": "Ekran bağımlılığından ve bildirim karmaşasından bunalan dünya, 'Cyberdeck' akımıyla daha sade ve odaklanmış bir teknoloji deneyimine geri dönüyor.",
     "keywords": [
@@ -491,7 +411,7 @@ export const dailyQuizzes: DailyQuiz[] = [
   {
     "slug": "turkiyenin-yapay-zeka-devrimi-10-milyar-dolarlik-stratejik-donusum-basladi",
     "dateId": "2026-06-20T14:00:00+03:00",
-    "imageUrl": "/images/news/turkiyenin-yapay-zeka-devrimi-10-milyar-dolarlik-stratejik-donusum-basladi.png",
+    "imageUrl": "/images/news/turkiyenin-yapay-zeka-devrimi-10-milyar-dolarlik-stratejik-donusum-basladi.webp",
     "title": "Türkiye Yapay Zeka Çağına Giriyor: 10 Milyar Dolarlık Dev Hamle | GK Haber",
     "description": "Türkiye, 2026-2030 Yapay Zeka Eylem Planı ile dijital geleceğine yön veriyor. 10 milyar dolarlık dev yatırım ve yerli teknoloji vizyonunun detayları.",
     "keywords": [
@@ -510,7 +430,7 @@ export const dailyQuizzes: DailyQuiz[] = [
   {
     "slug": "yuzyili-asan-insaatta-final-sagrada-familianin-kuleleri-dunyanin-zirvesine-yerlesti",
     "dateId": "2026-06-20T19:00:00+03:00",
-    "imageUrl": "/images/news/yuzyili-asan-insaatta-final-sagrada-familianin-kuleleri-dunyanin-zirvesine-yerlesti.png",
+    "imageUrl": "/images/news/yuzyili-asan-insaatta-final-sagrada-familianin-kuleleri-dunyanin-zirvesine-yerlesti.webp",
     "title": "Sagrada Familia'da Tarihi Tamamlanma: 144 Yıllık Mühendislik Destanı",
     "description": "Dünyanın en ikonik yapılarından Sagrada Familia, 144 yıl süren inşaat sürecinin ardından ana kulelerinin tamamlanmasıyla yeni bir döneme girdi. Yapay zeka ve ileri mühendisliğin izleri.",
     "keywords": [
@@ -530,7 +450,7 @@ export const dailyQuizzes: DailyQuiz[] = [
   {
     "slug": "turkiyenin-kultur-haritasi-yeniden-ciziliyor-2026da-26-sehri-kucaklayan-dev-sanat-seferberligi",
     "dateId": "2026-06-21T14:00:00+03:00",
-    "imageUrl": "/images/news/turkiyenin-kultur-haritasi-yeniden-ciziliyor-2026da-26-sehri-kucaklayan-dev-sanat-seferberligi.png",
+    "imageUrl": "/images/news/turkiyenin-kultur-haritasi-yeniden-ciziliyor-2026da-26-sehri-kucaklayan-dev-sanat-seferberligi.webp",
     "title": "Kültür Yolu Festivalleri 2026: 26 Şehirde Dev Sanat Şöleni Başladı",
     "description": "Türkiye'nin 26 şehrine yayılan 2026 Kültür Yolu Festivalleri tüm hızıyla devam ediyor. Müziğin, sanatın ve gastronominin kalbi bu yaz Türkiye'de atıyor.",
     "keywords": [
@@ -548,7 +468,7 @@ export const dailyQuizzes: DailyQuiz[] = [
   {
     "slug": "batarya-sektorunde-teslaya-buyuk-rakip-sodyum-iyon-teknolojisi-yollara-iniyor",
     "dateId": "2026-06-21T19:00:00+03:00",
-    "imageUrl": "/images/news/batarya-sektorunde-teslaya-buyuk-rakip-sodyum-iyon-teknolojisi-yollara-iniyor.png",
+    "imageUrl": "/images/news/batarya-sektorunde-teslaya-buyuk-rakip-sodyum-iyon-teknolojisi-yollara-iniyor.webp",
     "title": "Batarya Teknolojisinde Devrim: Sodyum İyon Dönemi Başlıyor",
     "description": "Lityum-iyona rakip olarak geliştirilen Çin menşeli sodyum-iyon bataryalar, Tesla standartlarına ulaşarak elektrikli araçlarda uygun fiyatlı yeni bir dönem başlatıyor.",
     "keywords": [
@@ -567,7 +487,7 @@ export const dailyQuizzes: DailyQuiz[] = [
   {
     "slug": "yapay-zeka-ile-yeni-bir-donem-turkiyenin-parlayan-gencleri-teknolojiyi-sanatla-bulusturuyor",
     "dateId": "2026-06-22T17:00:00+03:00",
-    "imageUrl": "/images/news/yapay-zeka-ile-yeni-bir-donem-turkiyenin-parlayan-gencleri-teknolojiyi-sanatla-bulusturuyor.png",
+    "imageUrl": "/images/news/yapay-zeka-ile-yeni-bir-donem-turkiyenin-parlayan-gencleri-teknolojiyi-sanatla-bulusturuyor.webp",
     "title": "Bilim ve Sanatta Yapay Zeka Devrimi: Türkiye'nin Geleceği Güngören'de Şekilleniyor",
     "description": "TÜBİTAK öncülüğünde 22-27 Haziran 2026 tarihleri arasında gerçekleşen 'Yapay Zeka Işığında Bilim ve Sanat' projesi, geleceğin teknolojilerini genç yeteneklerle buluşturuyor.",
     "keywords": [
@@ -587,7 +507,7 @@ export const dailyQuizzes: DailyQuiz[] = [
   {
     "slug": "bilim-dunyasinda-kuantum-etkisi-nvidianin-yeni-super-bilgisayari-vera-rubin-tanitildi",
     "dateId": "2026-06-22T21:00:00+03:00",
-    "imageUrl": "/images/news/bilim-dunyasinda-kuantum-etkisi-nvidianin-yeni-super-bilgisayari-vera-rubin-tanitildi.png",
+    "imageUrl": "/images/news/bilim-dunyasinda-kuantum-etkisi-nvidianin-yeni-super-bilgisayari-vera-rubin-tanitildi.webp",
     "title": "NVIDIA Vera Rubin Devrimi: Bilim Dünyasında 7 Exaflops'luk Dev sıçrama",
     "description": "NVIDIA, bilimsel araştırmalar için geliştirdiği yeni Vera Rubin platformunu tanıttı. 7 Exaflops'luk devasa yapay zeka gücüyle bilimsel keşiflerde yeni bir çağ başlıyor.",
     "keywords": [
@@ -607,7 +527,7 @@ export const dailyQuizzes: DailyQuiz[] = [
   {
     "slug": "teknoloji-devinden-yapay-zeka-depremi-21-bin-calisana-veda",
     "dateId": "2026-06-23T14:00:00+03:00",
-    "imageUrl": "/images/news/teknoloji-devinden-yapay-zeka-depremi-21-bin-calisana-veda.png",
+    "imageUrl": "/images/news/teknoloji-devinden-yapay-zeka-depremi-21-bin-calisana-veda.webp",
     "title": "Teknoloji Sektöründe Dev İşten Çıkarma Dalgası: 21 Bin Kişilik Yapay Zeka Hamlesi",
     "description": "Teknoloji dünyasında yapay zeka yatırımları hız kesmiyor. Dev şirket, yapay zeka odaklı operasyonel değişim kapsamında 21 bin çalışanını işten çıkardı.",
     "keywords": [
@@ -626,7 +546,7 @@ export const dailyQuizzes: DailyQuiz[] = [
   {
     "slug": "uzayda-kuantum-devrimi-maddenin-en-garip-hali-kesfedildi",
     "dateId": "2026-06-23T20:00:00+03:00",
-    "imageUrl": "/images/news/uzayda-kuantum-devrimi-maddenin-en-garip-hali-kesfedildi.png",
+    "imageUrl": "/images/news/uzayda-kuantum-devrimi-maddenin-en-garip-hali-kesfedildi.webp",
     "title": "Kuantum Çağı Başladı: NASA'dan Uzayda Devrim Yaratan Gelişme | GK Haber",
     "description": "NASA'nın yükseltilmiş Soğuk Atom Laboratuvarı, Uluslararası Uzay İstasyonu'nda maddeyi mutlak sıfıra yaklaştırarak kuantum dünyasının kapılarını araladı.",
     "keywords": [
@@ -646,7 +566,7 @@ export const dailyQuizzes: DailyQuiz[] = [
   {
     "slug": "dijital-gocebeler-icin-yolun-sonu-mu-avrupanin-iki-devinden-yeni-vize-duzenlemesi",
     "dateId": "2026-06-24T14:00:00+03:00",
-    "imageUrl": "/images/news/dijital-gocebeler-icin-yolun-sonu-mu-avrupanin-iki-devinden-yeni-vize-duzenlemesi.png",
+    "imageUrl": "/images/news/dijital-gocebeler-icin-yolun-sonu-mu-avrupanin-iki-devinden-yeni-vize-duzenlemesi.webp",
     "title": "Dijital Göçebe Vizelerinde Büyük Değişim: İspanya ve Portekiz'den Yeni Kurallar",
     "description": "Avrupa'nın popüler dijital göçebe vizelerinde köklü değişiklikler yolda. İspanya ve Portekiz'in yeni düzenlemeleri, uzaktan çalışanları nasıl etkileyecek? İşte tüm detaylar.",
     "keywords": [
@@ -664,28 +584,9 @@ export const dailyQuizzes: DailyQuiz[] = [
     "category": "dunya"
   },
   {
-    "slug": "trafik-tarihe-karisiyor-istanbulun-ilk-surucusuz-ucan-taksi-agi-havalaniyor",
-    "dateId": "2026-06-24T19:00:00+03:00",
-    "imageUrl": "/images/news/trafik-tarihe-karisiyor-istanbulun-ilk-surucusuz-ucan-taksi-agi-havalaniyor.png",
-    "title": "Dijital Gökyüzü Devrimi: İlk Sürücüsüz Uçan Taksi Ağı İstanbul'da Başlıyor",
-    "description": "İstanbul'da ulaşım anlayışını kökten değiştirecek sürücüsüz uçan taksi dönemi resmen başlıyor. İlk test uçuşları ve devrim niteliğindeki ulaşım projesinin detayları haberimizde.",
-    "keywords": [
-      "uçan taksi",
-      "İstanbul ulaşım",
-      "teknoloji haberleri",
-      "elektrikli hava araçları",
-      "geleceğin şehirleri",
-      "kentsel mobilite"
-    ],
-    "heading": "Trafik Tarihe Karışıyor: İstanbul'un İlk Sürücüsüz Uçan Taksi Ağı Havalanıyor",
-    "intro": "Megakent İstanbul, ulaşımda yeni bir çağa adım atıyor. Ulaştırma ve Altyapı Bakanlığı ile teknoloji devi SkyWay ortaklığında geliştirilen sürücüsüz uçan taksi ağı, şehrin trafik sorununa gökyüzünden çözüm getirmeye hazırlanıyor.",
-    "article": "<p>2026 yılının en heyecan verici teknolojik atılımlarından biri olarak gösterilen <strong>'Sky-Istanbul'</strong> projesi, bugün gerçekleştirilen basın lansmanı ile resmen tanıtıldı. Şehir içi ulaşımı <strong>dakikalarla</strong> ifade edilecek bir hıza düşürmeyi hedefleyen bu otonom hava aracı ağı, başlangıç aşamasında İstanbul'un <strong>üç ana bölgesi</strong> arasında hizmet verecek.</p><h3>Geleceğin Teknolojisi Gökyüzünde</h3><p>Projenin merkezinde, tamamen <strong>yapay zeka</strong> ile yönetilen ve <strong>dikey kalkış-iniş (VTOL)</strong> yeteneğine sahip <strong>elektrikli hava taksileri</strong> yer alıyor. İlk etapta <strong>Beşiktaş</strong>, <strong>Maslak</strong> ve <strong>Sabiha Gökçen Havalimanı</strong> noktalarında konumlandırılacak olan özel vertiportlar, uçuş güvenliğini sağlamak amacıyla <strong>kuantum şifreleme</strong> teknolojisiyle donatıldı.</p><h3>Ulaşımda 85 Milyonun Beklediği Değişim</h3><p>Konuyla ilgili açıklamalarda bulunan <strong>Ulaştırma ve Altyapı Bakanlığı</strong> yetkilileri, sistemin tamamen sürücüsüz olmasının yanı sıra, karbon emisyonunu sıfıra indiren çevreci yapısına dikkat çekti. Yapılan teknik analizlere göre, kara yoluyla <strong>90 dakika süren</strong> bir mesafe, bu yeni ağ sayesinde yalnızca <strong>12 dakikaya</strong> inebilecek.</p><h3>Projenin Öne Çıkan Teknik Özellikleri</h3><ul><li><strong>Maksimum Hız:</strong> Saatte 280 km.</li><li><strong>Kapasite:</strong> Tek seferde 4 yolcu taşınabilir.</li><li><strong>Enerji:</strong> 30 dakikalık hızlı şarj ile 250 km menzil.</li><li><strong>Güvenlik:</strong> 7/24 merkezi yapay zeka kontrolü ve acil durum balistik paraşüt sistemleri.</li></ul><p>Sistemin güvenliği için <strong>İstanbul Teknik Üniversitesi (İTÜ)</strong> ile yapılan iş birliği çerçevesinde, olumsuz hava koşullarında bile uçuş yapabilen <strong>gelişmiş sensör füzyonu</strong> testleri başarıyla tamamlandı. Ticari uçuşların ise <strong>Eylül 2026</strong> itibarıyla kısıtlı bir kullanıcı kitlesiyle başlayacağı duyuruldu.</p><h3>Ekonomik Etki ve Yeni İstihdam Alanları</h3><p>Proje sadece ulaşımı değil, yerli havacılık endüstrisini de harekete geçirdi. <strong>SkyWay</strong> şirketinin Türkiye'deki fabrikasında, yerli mühendislerle üretilen parçaların toplam yerlilik oranı %65 olarak açıklandı. Bu durum, Türkiye'nin <strong>kentsel hava mobilitesi (UAM)</strong> pazarında bölgesel bir üs olma yolunda ilerlediğini gösteriyor.</p>",
-    "category": "teknoloji"
-  },
-  {
     "slug": "dunyayi-degistirecek-10-bulus-2026nin-teknoloji-yol-haritasi-sekilleniyor",
     "dateId": "2026-06-25T14:00:00+03:00",
-    "imageUrl": "/images/news/dunyayi-degistirecek-10-bulus-2026nin-teknoloji-yol-haritasi-sekilleniyor.png",
+    "imageUrl": "/images/news/dunyayi-degistirecek-10-bulus-2026nin-teknoloji-yol-haritasi-sekilleniyor.webp",
     "title": "Dünya Ekonomisinde Devrim: 2026'nın En Kritik 10 Teknolojisi Açıklandı | GK Haber",
     "description": "Dünya Ekonomik Forumu, 2026'nın dünyayı kökten değiştirecek 10 kritik teknolojisini duyurdu. Enerjiden sağlığa devrim niteliğindeki yenilikleri keşfedin.",
     "keywords": [
@@ -705,7 +606,7 @@ export const dailyQuizzes: DailyQuiz[] = [
   {
     "slug": "marketlerde-yeni-donem-laboratuvarda-uretilen-surdurulebilir-et-raflara-indi",
     "dateId": "2026-06-25T19:00:00+03:00",
-    "imageUrl": "/images/news/marketlerde-yeni-donem-laboratuvarda-uretilen-surdurulebilir-et-raflara-indi.png",
+    "imageUrl": "/images/news/marketlerde-yeni-donem-laboratuvarda-uretilen-surdurulebilir-et-raflara-indi.webp",
     "title": "Gıda Sektöründe Devrim: İlk Laboratuvar Ortamında Üretilen 'Doğal' Et Raflara Giriyor",
     "description": "Gıda teknolojisinde tarihi bir dönüm noktası: Laboratuvarda üretilen sürdürülebilir et ürünleri, 25 Haziran 2026 itibarıyla market raflarındaki yerini almaya başladı. İşte detaylar.",
     "keywords": [
@@ -719,45 +620,6 @@ export const dailyQuizzes: DailyQuiz[] = [
     "heading": "Marketlerde Yeni Dönem: Laboratuvarda Üretilen 'Sürdürülebilir' Et Raflara İndi",
     "intro": "Gıda teknolojisinde uzun süredir beklenen büyük atılım gerçekleşti. Hücresel tarım yöntemiyle laboratuvar ortamında üretilen gerçek et, dünya genelinde büyük market zincirlerinde satışa sunularak sofralarda yeni bir dönemin kapılarını araladı.",
     "article": "<h3>Tarihi Bir Dönüm Noktası</h3><p>Dünya genelinde artan nüfus ve iklim değişikliği ile birlikte gıda güvenliği konusu küresel gündemin ilk sıralarına yerleşmiş durumda. <strong>25 Haziran 2026</strong> tarihi, gıda teknolojisi tarihindeki en önemli kırılma noktalarından biri olarak kayıtlara geçti. Yıllardır süren çalışmaların ardından, <strong>'Hücresel Tarım'</strong> (Cellular Agriculture) teknolojisiyle üretilen ilk ticari et ürünleri, Avrupa ve Kuzey Amerika'daki seçkin market zincirlerinde tüketiciyle buluştu.</p><h3>Hücresel Tarım Teknolojisi Nasıl Çalışıyor?</h3><p>Bu devrim niteliğindeki süreç, bir hayvana zarar vermeden, sadece küçük bir doku örneği alınarak başlıyor. Laboratuvar ortamındaki biyoreaktörlerde, kök hücrelerin doğal büyüme faktörleriyle beslenmesiyle kas dokusu geliştiriliyor. Uzmanlar, bu yöntemin sunduğu avantajları şöyle sıralıyor:</p><ul><li><strong>Sürdürülebilirlik:</strong> Geleneksel hayvancılığa göre %90 daha az su ve %95 daha az arazi kullanımı.</li><li><strong>Etik Üretim:</strong> Seri üretim süreçlerinde hiçbir canlıya zarar verilmemesi.</li><li><strong>İzlenebilirlik:</strong> Laboratuvar ortamı sayesinde tamamen steril ve hastalık riski bulunmayan protein kaynağı.</li></ul><h3>Ekonomik ve Çevresel Etkiler</h3><p><strong>Dünya Gıda Örgütü</strong> raporlarına göre, bu yeni sektörün <strong>2030 yılına kadar</strong> gıda piyasasında <strong>500 milyar dolarlık</strong> bir hacme ulaşması bekleniyor. Yatırımcılar, teknoloji devlerinin de sektöre girmesiyle birlikte maliyetlerin hızla düşeceğini öngörüyor. Özellikle <strong>yüksek protein</strong> ihtiyacını karşılamak isteyen genç nesil tüketiciler, bu yeni ürünlere şimdiden büyük ilgi gösteriyor.</p><h3>Gelecekte Bizi Ne Bekliyor?</h3><p>Sektörün öncü şirketi <strong>BioMeat Tech</strong> tarafından yapılan açıklamaya göre, yıl sonuna kadar ürün yelpazesine tavuk ve balık türevlerinin de eklenmesi hedefleniyor. Gıda bilimcileri, laboratuvarda üretilen etin, geleneksel et ile tat ve doku açısından birebir aynı olduğunu, hatta besin değerlerinin laboratuvar ortamında optimize edilebildiğini vurguluyor. Modern dünyanın yeni mutfak kültürü, artık yüksek teknolojinin ve sürdürülebilirlik ilkelerinin birleştiği bir noktada şekilleniyor.</p>",
-    "category": "teknoloji"
-  },
-  {
-    "slug": "dijital-hayatiniz-artik-dijital-miras-kapsaminda-yeni-donem-basliyor",
-    "dateId": "2026-06-26T14:00:00+03:00",
-    "imageUrl": "/images/news/dijital-hayatiniz-artik-dijital-miras-kapsaminda-yeni-donem-basliyor.png",
-    "title": "Kişisel Verilerde Yeni Milat: 'Dijital Miras' Yasası Resmen Yürürlüğe Girdi",
-    "description": "Dijital miras dönemi başlıyor! Artık vefat edenlerin sosyal medya hesapları, kripto varlıkları ve bulut verileri yasal güvence altında. İşte yeni düzenlemenin detayları.",
-    "keywords": [
-      "dijital miras",
-      "kişisel veriler",
-      "sosyal medya",
-      "kripto varlıklar",
-      "yasal düzenleme",
-      "dijital haklar"
-    ],
-    "heading": "Dijital Hayatınız Artık 'Dijital Miras' Kapsamında: Yeni Dönem Başlıyor",
-    "intro": "26 Haziran 2026 itibarıyla Türkiye'de dijitalleşen yaşamın yasal karşılığı olan 'Dijital Miras' yasası yürürlüğe girdi. Artık sosyal medya hesaplarından dijital varlıklara kadar tüm verileriniz, vefatınız durumunda varislerinize yasal bir zeminde devredilebilecek.",
-    "article": "<p>Teknolojinin hayatımızın ayrılmaz bir parçası haline geldiği günümüzde, ardımızda bıraktığımız dijital izlerin akıbeti uzun süredir tartışma konusuydu. <strong>Türkiye Büyük Millet Meclisi</strong> tarafından kabul edilen ve bugün itibarıyla <strong>Resmi Gazete</strong>'de yayımlanarak yürürlüğe giren yeni <strong>Dijital Miras Kanunu</strong>, bu belirsizliği ortadan kaldırıyor. Artık dijital kimlikler, finansal veriler ve anılar yasal koruma altında.</p><h3>Dijital Miras Nedir ve Neleri Kapsıyor?</h3><p>Yeni düzenleme ile birlikte, bireylerin internet üzerindeki tüm varlıkları 'Dijital Tereke' olarak tanımlanıyor. Bu kapsamda, bireyler vefat ettiklerinde geride bıraktıkları şu unsurlar üzerinde yasal tasarruf hakkı doğuyor:</p><ul><li><strong>Sosyal Medya Hesapları:</strong> Instagram, X, LinkedIn gibi platformlardaki profillerin kapatılması veya anıt sayfaya dönüştürülmesi.</li><li><strong>Kripto Varlıklar:</strong> Merkeziyetsiz borsalarda veya soğuk cüzdanlarda bulunan kripto para birimleri.</li><li><strong>Bulut Verileri:</strong> Dijital fotoğraf albümleri, belgeler ve kişisel e-posta arşivleri.</li><li><strong>Dijital Abonelikler:</strong> Ödeme bilgileri kayıtlı olan platform üyeliklerinin sonlandırılması veya yönetimi.</li></ul><h3>Varisler İçin Yeni Süreç</h3><p><strong>Adalet Bakanlığı</strong> tarafından koordine edilen sürece göre, varisler artık mahkeme kararıyla veya noter onaylı <strong>Dijital Vasiyet</strong> belgeleriyle teknoloji şirketlerine başvurabilecek. <strong>Kişisel Verileri Koruma Kurumu (KVKK)</strong>, bu süreçte mahremiyetin ihlal edilmemesi için özel bir dijital denetim mekanizması oluşturdu. Şirketler, yasaya uyum sağlamak adına <strong>3 aylık</strong> bir adaptasyon süresine sahip olacak.</p><h3>Kullanıcılar İçin 'Dijital Vasiyet' Zorunluluğu</h3><p>Uzmanlar, bireylerin kendi dijital geleceklerini belirlemeleri için <strong>'Dijital Vasiyet'</strong> sistemini kullanmalarını öneriyor. Bu sistem sayesinde, hangi verilerin silineceği, hangilerinin varislere aktarılacağı önceden belirlenebiliyor. <strong>E-Devlet Kapısı</strong> üzerinden bugün itibarıyla erişime açılan <strong>'Dijital Vasiyet Oluşturma'</strong> modülü, vatandaşlara verilerini önceden sınıflandırma imkanı tanıyor.</p><h3>Ekonomi ve Güvenlik Dengesi</h3><p>Düzenleme, özellikle kripto varlıkların mirasa konu olması noktasında Türkiye'yi dünyada bu konuda en kapsamlı yasaya sahip ülkelerden biri haline getirdi. <strong>Ekonomi uzmanları</strong>, bu düzenlemenin dijital varlıkların ekonomi içindeki kayıt altına alınma sürecini hızlandıracağını belirtirken, <strong>siber güvenlik</strong> otoriteleri ise hesap çalınma risklerine karşı <strong>iki faktörlü doğrulama</strong> kullanımının önemine dikkat çekiyor.</p><p>Dijital dünyada artık hiçbir şey sahipsiz kalmayacak. Yeni yasayla birlikte, teknoloji devlerinin veriler üzerindeki tek taraflı tasarruf hakkı sona ererken, bireylerin dijital dünyadaki 'mülkiyet hakları' güvence altına alınmış oldu.</p>",
-    "category": "teknoloji"
-  },
-  {
-    "slug": "zihin-gucuyle-dijital-dunya-turkiyede-ilk-nexus-1-beyin-arayuzu-basariyla-uygulandi",
-    "dateId": "2026-06-26T19:00:00+03:00",
-    "imageUrl": "/images/news/zihin-gucuyle-dijital-dunya-turkiyede-ilk-nexus-1-beyin-arayuzu-basariyla-uygulandi.png",
-    "title": "Nöro-Teknolojide Devrim: İlk Zihin-Bilgisayar Arayüzü 'Nexus-1' Türkiye'de Kullanıma Girdi",
-    "description": "Beyin dalgalarını dijital komutlara dönüştüren 'Nexus-1' teknolojisi Türkiye'de ilk kez bir hastanede başarıyla uygulandı. İşte nöro-teknolojinin yeni çağına dair detaylar.",
-    "keywords": [
-      "nöroteknoloji",
-      "Nexus-1",
-      "beyin bilgisayar arayüzü",
-      "sağlık teknolojileri",
-      "yapay zeka",
-      "Türkiye teknoloji haberleri",
-      "nörobilim"
-    ],
-    "heading": "Zihin Gücüyle Dijital Dünya: Türkiye'de İlk 'Nexus-1' Beyin Arayüzü Başarıyla Uygulandı",
-    "intro": "Modern tıbbın ve teknolojinin sınırları bir kez daha zorlandı. İstanbul'daki bir araştırma hastanesinde, beyin sinyallerini doğrudan dijital cihazlara aktarabilen 'Nexus-1' adlı devrimsel cihaz, Türkiye'de ilk kez bir hasta üzerinde başarıyla test edildi.",
-    "article": "<h3>Nöro-Teknolojide Yeni Bir Sayfa Açılıyor</h3><p>Dünya genelinde uzun süredir üzerinde çalışılan <strong>Beyin-Bilgisayar Arayüzü (BCI)</strong> teknolojisi, nihayet klinik bir gerçeğe dönüştü. İstanbul'da gerçekleştirilen operasyonla, <strong>Nexus-1</strong> ismi verilen mikro-çip sistemi, hareket kabiliyetini yitirmiş bir hastanın korteks bölgesine yerleştirildi. Bu teknolojik adım, insan beyni ile dijital dünya arasındaki engelleri kaldırmayı hedefleyen <strong>NeuroPulse Systems</strong> tarafından geliştirildi.</p><h3>Nexus-1 Nedir ve Nasıl Çalışır?</h3><p><strong>Nexus-1</strong>, temel olarak beyindeki nöron ateşlemelerini yüksek çözünürlüklü verilerle anlık olarak dijital sinyallere dönüştüren gelişmiş bir sinirsel arayüzdür. Sistemin çalışma prensibi şu şekilde özetleniyor:</p><ul><li><strong>Sinyal Algılama:</strong> Beyindeki motor komutlar, cihazın mikro sensörleri aracılığıyla yakalanır.</li><li><strong>Yapay Zeka İşleme:</strong> Gelen ham veriler, <strong>NeuroAI</strong> çekirdeği sayesinde saniyenin binde biri hızında işlenerek komut dosyalarına çevrilir.</li><li><strong>Kablosuz Aktarım:</strong> İşlenen veriler dışarıdaki bir alıcı üniteye veya doğrudan bir bilgisayar arayüzüne iletilir.</li></ul><h3>Tıbbi Alanda Büyük Umut</h3><p>Projenin yürütücüsü olan <strong>Dr. Selin Aras</strong>, yapılan başarılı operasyonun ardından şunları söyledi: \"Bu, sadece bir mühendislik başarısı değil, aynı zamanda yaşam kalitesini artıracak bir umut kapısıdır. Nexus-1 sayesinde, omurilik felci yaşayan veya ciddi nörolojik kısıtlamaları olan hastalarımız, yalnızca düşünce gücüyle bilgisayar kullanabiliyor, yazı yazabiliyor ve hatta robotik protezlerini yönetebiliyor.\" <strong>Türkiye</strong>, bu teknolojik atılım ile dünya çapında <strong>BCI</strong> teknolojilerini klinik seviyede uygulayan ilk 5 ülke arasına adını yazdırdı.</p><h3>Gelecekte Bizi Neler Bekliyor?</h3><p>Uzmanlar, bu teknolojinin önümüzdeki <strong>5 yıl</strong> içinde sadece sağlık sektörüyle sınırlı kalmayacağını öngörüyor. İş dünyası, oyun teknolojileri ve iletişim kanallarında <strong>Nexus-1</strong> gibi arayüzlerin kullanılması, insan-makine etkileşimini tamamen değiştirebilir. Ancak etik kurul üyeleri ve veri güvenliği uzmanları, beyin sinyallerinin korunması konusunda şimdiden küresel çapta bir yasal düzenleme çağrısı yapmaya başladı.</p><h3>Ekonomik ve Teknolojik Yansımalar</h3><p>Teknoloji analistlerine göre, bu alandaki yatırımlar <strong>2026</strong> yılı sonuna kadar küresel pazarda <strong>15 milyar dolarlık</strong> bir hacme ulaşacak. Türkiye'nin bu teknolojiyi yerel imkanlarla geliştirme hedefi, ülkenin teknoloji ihracatındaki stratejik konumunu da güçlendiriyor. Önümüzdeki günlerde, <strong>Sağlık Bakanlığı</strong> ile ortak yürütülen geniş kapsamlı klinik deneme sürecinin ikinci aşamasına geçilmesi bekleniyor.</p>",
     "category": "teknoloji"
   }
 ];

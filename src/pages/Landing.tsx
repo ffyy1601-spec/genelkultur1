@@ -13,7 +13,7 @@ const schema = [
     name: "GenelKultur.com.tr",
     url: SITE_URL,
     inLanguage: "tr-TR",
-    description: "Genel kultur sorulari, genel kultur testi ve bilgi yarismasi deneyimi sunan modern quiz platformu.",
+    description: "Genel kültür soruları, genel kültür testi ve bilgi yarışması deneyimi sunan modern quiz platformu.",
   },
   {
     "@context": "https://schema.org",
@@ -26,20 +26,20 @@ const schema = [
 
 const featuredCategories = [
   {
-    title: "Genel Kultur",
-    subtitle: "Genis kapsama sahip hizli quiz turlari",
+    title: "Genel Kültür",
+    subtitle: "Geniş kapsama sahip hızlı quiz turları",
     image:
       "https://lh3.googleusercontent.com/aida-public/AB6AXuDdnK_XqjfbSatkYNHYb2sfF1a4K-F64geRJT5FG55s0G5KucVVZuooNh01SHJocF2ZwQi5R_s1IDf6Enqxxl30VAwBPISwh2UA9ufdlcWQSzmPcWdOK3nMKltU9EywtMxN8zzXjhNXtbkW452DI8cRuEJAY0Vtv02p5_fHj9AscVgrCA5J2HyppDAfLhWWQc_8owWDBkx4JSPV0dJ16FxmDFUqn_-qhimF4SdXVyOEWoazhYwhtaUbOa6acdB1YI_9OlkkwHdmsiod",
   },
   {
     title: "Tarih",
-    subtitle: "Imparatorluklar, savaslar ve donum noktalari",
+    subtitle: "İmparatorluklar, savaşlar ve dönüm noktaları",
     image:
       "https://lh3.googleusercontent.com/aida-public/AB6AXuBXquEfwDXcMwEPe3vkeJIjec0rhqgHiNIvECygM3_D95kxStQ-hroYtPEwVW_KCEiwd3fQkXCaSdfD34wEwFJeLOIfRHeOeH_r8xkk-ePRlU6ZaU_hzDnsn8sAcRZHwBTjR1X8KVOswT9eMMQaPs5r0IBAhhX6OHS4VkyMBUTi_qPjPIatY8X3ftaptOGs3tXoT79pdaLlR0lYkOfoH0yLy12OiMdi7wbEU-DQvVyRxPXZiNngn-EupoVKdHeQzi7DaMlKQRfDAX9c",
   },
   {
     title: "Bilim",
-    subtitle: "Evren, teknoloji ve merak uyandiran bilgiler",
+    subtitle: "Evren, teknoloji ve merak uyandıran bilgiler",
     image:
       "https://lh3.googleusercontent.com/aida-public/AB6AXuBp8Ad3dg2wbQh1CO95msXso0lgnT0x2u2O1U8olNbrI070hhLBBNouzM288C5AlhyvvHhjhXliLPyH4vx2JlmqA-cNOtUYE3Fo68bUyqlDO5xcrZmeIVpxDFcLYxA3KnQ_ASxJ_nhEGJ7fD3_6Xqq8fuzgsTOZdQZQducWfu5lIF53xmaCFOhhr627xVi3ocADRLvpY3ZhNpk3i32IpGiSSKCtQ9P1l-pQ6pFNtQqvDEcaoUXE_f62dZ1DJUF0Klitjb2PuPEtwjCF",
   },
@@ -49,8 +49,8 @@ export default function Landing() {
   return (
     <PageLayout>
       <Seo
-        title="Genel Kultur Testi, Sorulari ve Bilgi Yarismasi | GenelKultur.com.tr"
-        description="Genel kultur sorulari, genel kultur testi ve bilgi yarismasi deneyimi. Hemen oyna, kategorini sec ve bilgini guclendir."
+        title="Genel Kültür Testi, Soruları ve Bilgi Yarışması | GenelKultur.com.tr"
+        description="Genel kültür soruları, genel kültür testi ve bilgi yarışması deneyimi. Hemen oynayın, kategorinizi seçin ve bilginizi güçlendirin."
         path={ROUTES.home}
         keywords={[
           "genel kultur",
@@ -82,7 +82,7 @@ export default function Landing() {
           <div className="mx-auto grid w-full max-w-7xl gap-10 lg:grid-cols-[1.15fr_0.85fr] lg:items-center">
             <div className="max-w-4xl">
               <div className="inline-flex items-center gap-2 rounded-full border border-primary/20 bg-primary/10 px-4 py-2 text-xs font-bold uppercase tracking-[0.26em] text-primary">
-                Genel Kultur Platformu
+                Genel Kültür Platformu
               </div>
 
               <div className="mt-5 flex flex-wrap items-center gap-3 text-sm text-on-surface-variant">
@@ -93,7 +93,7 @@ export default function Landing() {
                   5 kategori
                 </span>
                 <span className="rounded-full border border-white/10 bg-surface-container-low/75 px-4 py-2">
-                  15 soruluk hizli tur
+                  15 soruluk hızlı tur
                 </span>
               </div>
 
@@ -111,13 +111,13 @@ export default function Landing() {
 
                   <div className="relative pr-4 text-left">
                     <div className="text-[10px] font-black uppercase tracking-[0.24em] text-[#6C4A00]/80">
-                      En Hizli Baslangic
+                      En Hızlı Başlangıç
                     </div>
                     <div className="mt-1 bg-gradient-to-r from-[#fffaf0] via-white to-[#fff1c7] bg-clip-text text-xl font-black leading-tight text-transparent sm:text-[1.6rem]">
-                      Genel Kultur Testine Hemen Basla
+                      Genel Kültür Testine Hemen Başla
                     </div>
                     <div className="mt-1.5 text-sm font-medium leading-6 text-[#fff3cf]/92 sm:text-[0.95rem]">
-                      Kategori sec, ilk soruyu saniyeler icinde gormeye basla.
+                      Kategori seçin, ilk soruyu saniyeler içinde görmeye başlayın.
                     </div>
                   </div>
 
@@ -130,15 +130,15 @@ export default function Landing() {
               </div>
 
               <h1 className="mt-7 text-4xl font-black leading-[0.95] tracking-tight text-on-surface sm:text-5xl md:text-7xl">
-                Bilgini sahneye cikar.
+                Bilgini sahneye çıkar.
                 <span className="mt-3 block bg-gradient-to-r from-primary via-[#ffe28a] to-white bg-clip-text text-transparent">
-                  Genel kultur testine basla.
+                  Genel kültür testine başla.
                 </span>
               </h1>
 
               <p className="mt-6 max-w-2xl text-base leading-8 text-on-surface-variant md:text-xl">
-                Genel kultur, tarih, bilim ve sanat kategorilerinde hazirlanan soru turlariyla
-                hizli, temiz ve keyifli bir bilgi yarismasi deneyimi yasatir.
+                Genel kültür, tarih, bilim ve sanat kategorilerinde hazırlanan soru turlarıyla
+                hızlı, temiz ve keyifli bir bilgi yarışması deneyimi yaşatır.
               </p>
 
               <div className="mt-8 flex flex-wrap gap-3 text-sm text-on-surface-variant">
@@ -178,8 +178,8 @@ export default function Landing() {
               <div className="mt-5 rounded-[1.8rem] border border-white/10 bg-[#12233e]/80 p-5">
                 <div className="flex items-center justify-between">
                   <div>
-                    <p className="text-xs font-bold uppercase tracking-[0.22em] text-primary">Bugun ne oynayacaksin?</p>
-                    <h2 className="mt-2 text-2xl font-black text-on-surface">Hemen bir kategori sec.</h2>
+                    <p className="text-xs font-bold uppercase tracking-[0.22em] text-primary">Bugün ne oynayacaksınız?</p>
+                    <h2 className="mt-2 text-2xl font-black text-on-surface">Hemen bir kategori seçin.</h2>
                   </div>
                   <div className="flex h-14 w-14 items-center justify-center rounded-2xl bg-primary/12 text-primary">
                     <span className="material-symbols-outlined text-3xl">workspace_premium</span>
@@ -267,6 +267,10 @@ export default function Landing() {
                           <img
                             src={item.imageUrl}
                             alt={item.heading}
+                            width={1280}
+                            height={720}
+                            loading="lazy"
+                            decoding="async"
                             className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
                           />
                         </div>
@@ -329,16 +333,16 @@ export default function Landing() {
         <section className="mx-auto w-full max-w-7xl px-4 pb-20 md:px-10 md:pb-24">
           <div className="flex flex-col gap-3 md:flex-row md:items-end md:justify-between">
             <div>
-              <p className="text-sm font-semibold uppercase tracking-[0.24em] text-primary">Populer Icerikler</p>
+              <p className="text-sm font-semibold uppercase tracking-[0.24em] text-primary">Popüler İçerikler</p>
               <h2 className="mt-3 text-3xl font-black tracking-tight text-on-surface md:text-4xl">
-                Quiz'e gecmeden once aciklamali soru-cevap sayfalarina goz at.
+                Quiz'e geçmeden önce açıklamalı soru-cevap sayfalarına göz atın.
               </h2>
             </div>
             <Link
               to={ROUTES.contentHub}
               className="inline-flex items-center gap-2 self-start rounded-full border border-white/10 bg-surface-container-low/70 px-5 py-3 text-sm font-bold text-on-surface transition-all hover:-translate-y-0.5 hover:border-primary/30"
             >
-              Tumunu Gor
+              Tümünü Gör
               <span className="material-symbols-outlined text-base">arrow_forward</span>
             </Link>
           </div>
@@ -350,11 +354,11 @@ export default function Landing() {
                 to={item.to}
                 className="group rounded-[1.6rem] border border-white/10 bg-surface-container-low/80 p-5 transition-all duration-300 hover:-translate-y-1 hover:border-primary/30"
               >
-                <p className="text-[10px] font-black uppercase tracking-[0.22em] text-primary">Aciklamali Sayfa</p>
+                <p className="text-[10px] font-black uppercase tracking-[0.22em] text-primary">Açıklamalı Sayfa</p>
                 <h3 className="mt-3 text-xl font-black text-on-surface">{item.title}</h3>
                 <p className="mt-3 text-sm leading-7 text-on-surface-variant">{item.description}</p>
                 <div className="mt-5 inline-flex items-center gap-2 text-sm font-black text-primary">
-                  Sayfayi Ac
+                  Sayfayı Aç
                   <span className="material-symbols-outlined text-base transition-transform duration-300 group-hover:translate-x-1">
                     arrow_forward
                   </span>

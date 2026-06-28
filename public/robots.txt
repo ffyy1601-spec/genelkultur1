@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://genelkultur.com.tr/sitemap.xml
+Sitemap: https://genelkultur.com.tr/news-sitemap.xml

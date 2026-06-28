@@ -51,10 +51,10 @@ export default function SeoLandingPage({
         },
         {
           "@type": "Question",
-          name: `${heading} icin en iyi baslangic nasil yapilir?`,
+          name: `${heading} için en iyi başlangıç nasıl yapılır?`,
           acceptedAnswer: {
             "@type": "Answer",
-            text: "Sayfadaki aciklamalari inceleyip kategori seciminden ilgili oyuna gecerek hemen test cozmeye baslayabilirsin.",
+            text: "Sayfadaki açıklamaları inceleyip kategori seçiminden ilgili oyuna geçerek hemen test çözmeye başlayabilirsiniz.",
           },
         },
       ],
@@ -83,7 +83,7 @@ export default function SeoLandingPage({
               to={ROUTES.categories}
               className="inline-flex items-center justify-center gap-2 rounded-[1.4rem] border border-white/10 bg-surface-container-low/75 px-7 py-4 text-base font-bold text-on-surface transition-all duration-300 hover:-translate-y-1 hover:border-primary/30"
             >
-              Tum Kategorileri Gor
+              Tüm Kategorileri Gör
             </Link>
           </div>
         </section>
@@ -93,18 +93,18 @@ export default function SeoLandingPage({
             <article key={bullet} className="rounded-[1.6rem] border border-white/10 bg-surface-container-low/75 p-6">
               <h2 className="text-xl font-black text-on-surface">{bullet}</h2>
               <p className="mt-3 text-sm leading-7 text-on-surface-variant">
-                Bu alan, aradigin konuya odakli quiz deneyimi sunar ve duzenli cozum icin net bir baslangic noktasi verir.
+                Bu alan, aradığınız konuya odaklı quiz deneyimi sunar ve düzenli çözüm için net bir başlangıç noktası verir.
               </p>
             </article>
           ))}
         </section>
 
         <section className="mt-10 rounded-[1.8rem] border border-white/10 bg-surface-container-low/75 p-6 md:p-8">
-          <h2 className="text-3xl font-black tracking-tight text-on-surface md:text-4xl">Ornek Sorular</h2>
+          <h2 className="text-3xl font-black tracking-tight text-on-surface md:text-4xl">Örnek Sorular</h2>
           <div className="mt-6 grid gap-4 md:grid-cols-2">
             {sampleQuestions.map((question, index) => (
               <article key={question} className="rounded-[1.3rem] border border-white/10 bg-background/25 p-5">
-                <p className="text-[10px] font-black uppercase tracking-[0.22em] text-primary">Ornek {index + 1}</p>
+                <p className="text-[10px] font-black uppercase tracking-[0.22em] text-primary">Örnek {index + 1}</p>
                 <p className="mt-3 text-base font-bold leading-7 text-on-surface">{question}</p>
               </article>
             ))}
@@ -115,13 +115,13 @@ export default function SeoLandingPage({
           <article className="rounded-[1.6rem] border border-white/10 bg-surface-container-low/75 p-6">
             <h2 className="text-2xl font-black text-on-surface">Neden bu sayfa var?</h2>
             <p className="mt-3 text-sm leading-7 text-on-surface-variant">
-              Bu sayfa, aradigin konuya odakli bilgiye hizli ulasmani saglar. Ana uygulamaya gecmeden once ne cozecegini ve nasil bir deneyim bekleyecegini netlestirir.
+              Bu sayfa, aradığınız konuya odaklı bilgiye hızlı ulaşmanızı sağlar. Ana uygulamaya geçmeden önce ne çözeceğinizi ve nasıl bir deneyim bekleyeceğinizi netleştirir.
             </p>
           </article>
           <article className="rounded-[1.6rem] border border-white/10 bg-surface-container-low/75 p-6">
-            <h2 className="text-2xl font-black text-on-surface">Sonraki adim</h2>
+            <h2 className="text-2xl font-black text-on-surface">Sonraki adım</h2>
             <p className="mt-3 text-sm leading-7 text-on-surface-variant">
-              Hazirsan ilgili kategoriye gecip oyuna baslayabilir ya da kategori merkezinden farkli alanlari da kesfedebilirsin.
+              Hazırsanız ilgili kategoriye geçip oyuna başlayabilir ya da kategori merkezinden farklı alanları da keşfedebilirsiniz.
             </p>
           </article>
         </section>
@@ -129,16 +129,16 @@ export default function SeoLandingPage({
         <section className="mt-10 grid gap-6 md:grid-cols-3">
           {[
             {
-              title: "Bu alanda ne olculur?",
-              text: "Sorular; temel kavramlari, ad-eser eslestirmelerini, kronolojiyi veya genel mantik akislarini ne kadar hizli kurabildigini gosterir.",
+              title: "Bu alanda ne ölçülür?",
+              text: "Sorular; temel kavramları, ad-eser eşleştirmelerini, kronolojiyi veya genel mantık akışlarını ne kadar hızlı kurabildiğinizi gösterir.",
             },
             {
-              title: "Kimler icin uygun?",
-              text: "Kisa tekrar yapmak isteyenler, quiz'e girmeden once goz gezdirmek isteyenler ve konuya sade bir giris arayanlar icin uygundur.",
+              title: "Kimler için uygun?",
+              text: "Kısa tekrar yapmak isteyenler, quiz'e girmeden önce göz gezdirmek isteyenler ve konuya sade bir giriş arayanlar için uygundur.",
             },
             {
-              title: "En iyi kullanim sekli",
-              text: "Once ornek sorulari tara, sonra basliklari zihninde toparla ve hemen ardindan kategori quizine gecerek ritmi koru.",
+              title: "En iyi kullanım şekli",
+              text: "Önce örnek soruları tarayın, sonra başlıkları zihninizde toparlayın ve hemen ardından kategori quizine geçerek ritmi koruyun.",
             },
           ].map((item) => (
             <article key={item.title} className="rounded-[1.6rem] border border-white/10 bg-surface-container-low/75 p-6">
@@ -149,12 +149,12 @@ export default function SeoLandingPage({
         </section>
 
         <section className="mt-10 rounded-[1.8rem] border border-white/10 bg-surface-container-low/75 p-6 md:p-8">
-          <h2 className="text-3xl font-black tracking-tight text-on-surface md:text-4xl">Hizli hazirlik notlari</h2>
+          <h2 className="text-3xl font-black tracking-tight text-on-surface md:text-4xl">Hızlı hazırlık notları</h2>
           <div className="mt-6 grid gap-4 md:grid-cols-3">
             {[
-              "Sik cikan isimleri, kavramlari veya tarihleri gozden gecir.",
-              "Ornek sorularin hangi mantikla kurulduguna dikkat et.",
-              "Hazirsan beklemeden quiz akisini baslat ve tempoyu dusurme.",
+              "Sık çıkan isimleri, kavramları veya tarihleri gözden geçirin.",
+              "Örnek soruların hangi mantıkla kurulduğuna dikkat edin.",
+              "Hazırsanız beklemeden quiz akışını başlatın ve tempoyu düşürmeyin.",
             ].map((item, index) => (
               <article key={item} className="rounded-[1.3rem] border border-white/10 bg-background/20 p-5">
                 <p className="text-[10px] font-black uppercase tracking-[0.22em] text-primary">Not {index + 1}</p>

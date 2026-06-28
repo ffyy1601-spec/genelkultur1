@@ -4,18 +4,17 @@ import { ROUTES } from "../lib/routes";
 export default function SanatSorulari() {
   return (
     <SeoLandingPage
-      title="Sanat Sorulari | GenelKultur.com.tr"
-      description="Sanat sorulari ile resim, muzik, edebiyat ve sinema bilgisini test et."
+      title="Sanat Soruları | GenelKultur.com.tr"
+      description="Sanat soruları ile resim, müzik, edebiyat ve sinema bilginizi test edin."
       path={ROUTES.sanatSorulari}
       keywords={["sanat sorulari", "sanat testi", "muzik sorulari", "edebiyat quiz"]}
-      eyebrow="Sanat Sorulari"
-      heading="Sanat Sorulari ile kultur birikimini ve estetik hafizani test et."
-      intro="Sanat sorulari; resimden muzige, edebiyattan sinemaya kadar farkli disiplinlerdeki temel isimleri ve eserleri hatirlamayi olcer."
-      bullets={["Resim ve heykel", "Muzik ve edebiyat", "Sinema ve kultur tarihi"]}
-      sampleQuestions={["Guernica tablosu hangi ressama aittir?", "Suclu ve Ceza romaninin yazari kimdir?", "Dort Mevsim eseriyle bilinen besteci kimdir?", "Oscar odullerini duzenleyen kurumun tam adi nedir?"]}
-      ctaLabel="Sanat Sorularini Coz"
+      eyebrow="Sanat Soruları"
+      heading="Sanat Soruları ile kültür birikiminizi ve estetik hafızanızı test edin."
+      intro="Sanat soruları; resimden müziğe, edebiyattan sinemaya kadar farklı disiplinlerdeki temel isimleri ve eserleri hatırlamayı ölçer."
+      bullets={["Resim ve heykel", "Müzik ve edebiyat", "Sinema ve kültür tarihi"]}
+      sampleQuestions={["Guernica tablosu hangi ressama aittir?", "Suç ve Ceza romanının yazarı kimdir?", "Dört Mevsim eseriyle bilinen besteci kimdir?", "Oscar ödüllerini düzenleyen kurumun tam adı nedir?"]}
+      ctaLabel="Sanat Sorularını Çöz"
       ctaHref={`${ROUTES.game}?category=sanat`}
     />
   );
 }
-

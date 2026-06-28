@@ -1,36 +1,13 @@
-import { useState } from "react";
 import { Link, useParams, Navigate } from "react-router-dom";
 import PageLayout from "../components/PageLayout";
 import Seo from "../components/Seo";
 import { dailyQuizzes } from "../data/dailyContent";
 import { ROUTES } from "../lib/routes";
 import { SITE_URL } from "../lib/seo";
-import { getSimulatedViews, formatViews, getSimulatedReactions, getUserReaction, saveUserReaction, REACTION_KEYS, REACTION_DETAILS } from "../lib/viewCounter";
-import type { NewsReactions } from "../lib/viewCounter";
 
 export default function DailyLanding() {
   const { slug } = useParams<{ slug: string }>();
   const quiz = dailyQuizzes.find((item) => item.slug === slug);
-
-  const viewCount = useState(() => {
-    return quiz ? getSimulatedViews(quiz.slug, true) : 0;
-  })[0];
-
-  const [reactions, setReactions] = useState<NewsReactions>(() => {
-    return quiz ? getSimulatedReactions(quiz.slug) : { like: 0, wow: 0, clap: 0, fire: 0, sad: 0 };
-  });
-
-  const [activeReaction, setActiveReaction] = useState<keyof NewsReactions | null>(() => {
-    return quiz ? getUserReaction(quiz.slug) : null;
-  });
-
-  const handleReactionClick = (key: keyof NewsReactions) => {
-    if (!quiz) return;
-    const newActive = activeReaction === key ? null : key;
-    const updatedReactions = saveUserReaction(quiz.slug, newActive);
-    setReactions(updatedReactions);
-    setActiveReaction(newActive);
-  };
 
   if (!quiz) return <Navigate replace to={ROUTES.dailyList} />;
 
@@ -55,6 +32,7 @@ export default function DailyLanding() {
       datePublished: quiz.dateId,
       dateModified: quiz.dateId,
       articleBody: quiz.article.replace(/<[^>]*>/g, ""),
+      ...(quiz.sourceUrl ? { isBasedOn: quiz.sourceUrl, citation: quiz.sourceName || quiz.sourceUrl } : {}),
     }
   ];
 
@@ -566,10 +544,6 @@ export default function DailyLanding() {
               {readingMinutes} dk okuma
             </span>
             <span>
-              <span className="material-symbols-outlined text-sm" style={{ verticalAlign: "middle" }}>visibility</span>
-              {formatViews(viewCount)} okuma
-            </span>
-            <span>
               <span className="material-symbols-outlined text-sm" style={{ verticalAlign: "middle" }}>edit</span>
               GK Haber Editör Masası
             </span>
@@ -588,6 +562,10 @@ export default function DailyLanding() {
                 src={quiz.imageUrl}
                 alt={quiz.heading}
                 className="hero-image-img"
+                width={1280}
+                height={720}
+                fetchPriority="high"
+                decoding="async"
               />
               <p className="image-caption">
                 {quiz.heading} · GK Haber Özel Fotoğrafı
@@ -597,6 +575,21 @@ export default function DailyLanding() {
 
           {/* Haber Metni */}
           <div className="article-body" dangerouslySetInnerHTML={{ __html: htmlContent }} />
+
+          {/* Kaynak ve Editör Notu */}
+          <div style={{ marginTop: "24px", paddingTop: "16px", borderTop: "1px solid #e5e7eb", fontSize: "13px", lineHeight: 1.6, color: "#4b5563" }}>
+            {quiz.sourceUrl && (
+              <p style={{ margin: "0 0 8px" }}>
+                <strong>Kaynak:</strong>{" "}
+                <a href={quiz.sourceUrl} target="_blank" rel="noopener nofollow" style={{ color: "#B91C1C", textDecoration: "underline" }}>
+                  {quiz.sourceName || quiz.sourceUrl}
+                </a>
+              </p>
+            )}
+            <p style={{ margin: 0, fontStyle: "italic" }}>
+              Bu içerik, güncel kaynaklardan derlenip yapay zeka destekli hazırlanmış ve GK Haber editör masası tarafından gözden geçirilmiştir. Bir hata fark ederseniz lütfen bizimle iletişime geçin.
+            </p>
+          </div>
 
           {/* Quiz CTA (Eğer haberde test varsa gösterilir) */}
           {hasQuiz && (
@@ -617,29 +610,6 @@ export default function DailyLanding() {
               </Link>
             </div>
           )}
-
-          {/* Tepki Verme Bölümü */}
-          <div className="reactions-container">
-            <h3 className="reactions-title">Bu habere tepkiniz ne?</h3>
-            <div className="reactions-grid">
-              {REACTION_KEYS.map((key) => {
-                const isSelected = activeReaction === key;
-                const details = REACTION_DETAILS[key];
-                const count = reactions[key];
-                return (
-                  <button
-                    key={key}
-                    onClick={() => handleReactionClick(key)}
-                    className={`reaction-btn ${isSelected ? "selected" : ""}`}
-                  >
-                    <span className="reaction-emoji">{details.emoji}</span>
-                    <span className="reaction-label">{details.label}</span>
-                    <span className="reaction-count">{formatViews(count)}</span>
-                  </button>
-                );
-              })}
-            </div>
-          </div>
 
           {/* Paylaş Row */}
           <div className="share-row">

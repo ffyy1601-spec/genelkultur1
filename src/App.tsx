@@ -26,6 +26,11 @@ import Terms from "./pages/Terms";
 import DailyList from "./pages/DailyList";
 import DailyLanding from "./pages/DailyLanding";
 import KpssList from "./pages/KpssList";
+import GuideList from "./pages/GuideList";
+import GuideDetail from "./pages/GuideDetail";
+import Test50 from "./pages/Test50";
+import Test100 from "./pages/Test100";
+import GenelKulturBilgileri from "./pages/GenelKulturBilgileri";
 
 // Dynamic pages can remain lazy-loaded
 const Game = lazy(() => import("./pages/Game"));
@@ -54,7 +59,7 @@ export function AppContent({ includeRouteEffects = true }: AppContentProps) {
         <Suspense
           fallback={
             <div className="flex min-h-[60vh] items-center justify-center px-6 text-center text-sm font-semibold text-on-surface-variant">
-              Icerik yukleniyor...
+              İçerik yükleniyor...
             </div>
           }
         >
@@ -86,6 +91,11 @@ export function AppContent({ includeRouteEffects = true }: AppContentProps) {
             <Route path={ROUTES.dailyLanding} element={<DailyLanding />} />
             <Route path={ROUTES.dailyGame} element={<DailyGame />} />
             <Route path={ROUTES.kpssList} element={<KpssList />} />
+            <Route path={ROUTES.guides} element={<GuideList />} />
+            <Route path={ROUTES.guideDetail} element={<GuideDetail />} />
+            <Route path={ROUTES.test50} element={<Test50 />} />
+            <Route path={ROUTES.test100} element={<Test100 />} />
+            <Route path={ROUTES.genelKulturBilgileri} element={<GenelKulturBilgileri />} />
             <Route path={ROUTES.profile} element={<Profile />} />
 
              <Route path="/yapay-zeka-testleri" element={<Navigate replace to={ROUTES.dailyList} />} />

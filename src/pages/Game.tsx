@@ -18,15 +18,20 @@ export default function Game() {
   const searchParams = new URLSearchParams(location.search);
   const categoryParam = (searchParams.get("category") as CategoryType) || "genel";
   const topicParam = searchParams.get("topic");
+  const countParam = parseInt(searchParams.get("count") || "", 10);
+  const hasCustomCount = Number.isFinite(countParam) && countParam > 0;
 
-  const [selectedMode, setSelectedMode] = useState<"quick" | "classic" | "marathon" | null>(null);
+  const [selectedMode, setSelectedMode] = useState<"quick" | "classic" | "marathon" | "custom" | null>(
+    hasCustomCount ? "custom" : null,
+  );
 
   const questionCount = useMemo(() => {
+    if (selectedMode === "custom" && hasCustomCount) return countParam;
     if (selectedMode === "quick") return 10;
     if (selectedMode === "classic") return 15;
     if (selectedMode === "marathon") return 25;
     return 15; // default
-  }, [selectedMode]);
+  }, [selectedMode, hasCustomCount, countParam]);
 
   const questions = useMemo(() => {
     if (!selectedMode) return [];
@@ -326,7 +331,7 @@ export default function Game() {
     <>
       <Seo
         title={`${topicTitle} Oyunu | GenelKultur.com.tr`}
-        description={`${topicTitle} kategorisinde secilmis sorular seni bekliyor. Hemen oyuna katil ve skorunu gor.`}
+        description={`${topicTitle} kategorisinde seçilmiş sorular sizi bekliyor. Hemen oyuna katılın ve skorunuzu görün.`}
         path={ROUTES.game}
         noindex
       />

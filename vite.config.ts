@@ -105,6 +105,8 @@ export default defineConfig({
         navigateFallbackDenylist: [
           /^\/robots\.txt$/,
           /^\/sitemap\.xml$/,
+          /^\/news-sitemap\.xml$/,
+          /^\/rss\.xml$/,
           /^\/ads\.txt$/,
         ],
       },
