@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 29 Jun 2026 08:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 12:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Ağaçlar Neden Yaprak Döker? Bir &apos;Ekonomik&apos; Hayatta Kalma Sanatı</title>
+      <link>https://genelkultur.com.tr/test/agaclar-neden-yaprak-doker-bir-ekonomik-hayatta-kalma-sanati</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/agaclar-neden-yaprak-doker-bir-ekonomik-hayatta-kalma-sanati</guid>
+      <pubDate>Mon, 29 Jun 2026 12:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Doğanın her sonbahar sunduğu o büyüleyici kızıl ve sarı renk şöleni, aslında ağaçların yaklaşan zorlu kış şartlarına karşı aldığı ciddi bir önlemin dışa vurumudur. Bu süreç, sadece bir güzellik değil, bitkilerin enerji tasarrufu yapmak ve hayatta kalmak için başvurduğu stratejik bir &apos;kapatma&apos; operasyonudur.</description>
+    </item>
     <item>
       <title>Ağaçlar Neden Yaşlanmıyor? Binlerce Yıllık Yaşamın Şaşırtıcı Sırrı</title>
       <link>https://genelkultur.com.tr/test/agaclar-neden-yaslanmiyor-binlerce-yillik-yasamin-sasirtici-sirri</link>
@@ -158,14 +166,6 @@
       <pubDate>Sat, 20 Jun 2026 16:00:00 GMT</pubDate>
       <category>dunya</category>
       <description>Barcelona&apos;nın kalbi Sagrada Familia, 144 yıllık yapım sürecinin en kritik aşamasını tamamladı. Antoni Gaudi&apos;nin yarım kalan vizyonu, 2026 teknolojisiyle hayata döndü.</description>
-    </item>
-    <item>
-      <title>Türkiye&apos;nin Yapay Zeka Devrimi: 10 Milyar Dolarlık Stratejik Dönüşüm Başladı</title>
-      <link>https://genelkultur.com.tr/test/turkiyenin-yapay-zeka-devrimi-10-milyar-dolarlik-stratejik-donusum-basladi</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/turkiyenin-yapay-zeka-devrimi-10-milyar-dolarlik-stratejik-donusum-basladi</guid>
-      <pubDate>Sat, 20 Jun 2026 11:00:00 GMT</pubDate>
-      <category>teknoloji</category>
-      <description>Cumhurbaşkanı Erdoğan tarafından duyurulan 2026-2030 Yapay Zeka Eylem Planı, Türkiye&apos;yi küresel bir teknoloji üssü yapma hedefiyle 10 milyar dolarlık devasa bir yatırım sürecini başlatıyor.</description>
     </item>
   </channel>
 </rss>

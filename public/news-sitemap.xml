@@ -1,39 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://genelkultur.com.tr/test/tarihin-kilitli-kapilari-aciliyor-4000-yillik-tabletler-kirilmadan-okunuyor/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenelKültür Haber</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-27T09:00:00.000Z</news:publication_date>
-      <news:title>Tarihin Kilitli Kapıları Açılıyor: 4.000 Yıllık Tabletler Kırılmadan Okunuyor!</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://genelkultur.com.tr/test/islemcilerde-atomik-donem-ibmden-dunyanin-ilk-sub-1-nanometre-cipi/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenelKültür Haber</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-27T09:00:00.000Z</news:publication_date>
-      <news:title>İşlemcilerde Atomik Dönem: IBM&apos;den Dünyanın İlk Sub-1 Nanometre Çipi!</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://genelkultur.com.tr/test/uzay-ekonomisinde-yeni-cag-asteroidden-gelen-ilk-hasat-dunyaya-indi/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenelKültür Haber</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-27T10:00:00.000Z</news:publication_date>
-      <news:title>Uzay Ekonomisinde Yeni Çağ: Asteroidden Gelen İlk Hasat Dünyaya İndi</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://genelkultur.com.tr/test/betonun-yerini-doga-aliyor-istanbulun-ilk-otonom-dikey-orman-kuleleri-yukseliyor/</loc>
     <news:news>
       <news:publication>
@@ -75,6 +42,17 @@
       </news:publication>
       <news:publication_date>2026-06-29T08:00:00.000Z</news:publication_date>
       <news:title>Ağaçlar Neden Yaşlanmıyor? Binlerce Yıllık Yaşamın Şaşırtıcı Sırrı</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/agaclar-neden-yaprak-doker-bir-ekonomik-hayatta-kalma-sanati/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-29T12:00:00.000Z</news:publication_date>
+      <news:title>Ağaçlar Neden Yaprak Döker? Bir &apos;Ekonomik&apos; Hayatta Kalma Sanatı</news:title>
     </news:news>
   </url>
 </urlset>

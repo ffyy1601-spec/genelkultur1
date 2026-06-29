@@ -851,5 +851,75 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Araştırmalar, bu ağaçların daha uzun telomerlere sahip olduğunu ve bunun daha yavaş bir hücresel yaşlanma süreciyle ilişkili olabileceğini göstermektedir."
       }
     ]
+  },
+  {
+    "slug": "agaclar-neden-yaprak-doker-bir-ekonomik-hayatta-kalma-sanati",
+    "dateId": "2026-06-29T15:00:00+03:00",
+    "imageUrl": "/images/news/agaclar-neden-yaprak-doker-bir-ekonomik-hayatta-kalma-sanati.webp",
+    "title": "Ağaçlar Neden Yaprak Döker? Doğa Mühendisliğinin Gizli Stratejisi | Bilim",
+    "description": "Ağaçların sonbaharda yapraklarını dökmesi sadece bir mevsimsel değişim değil, hayatta kalma odaklı karmaşık bir enerji yönetimidir. İşte absisyon sürecinin sırları.",
+    "keywords": [
+      "ağaçlar neden yaprak döker",
+      "absisyon süreci",
+      "doğa bilimleri",
+      "bitki fizyolojisi",
+      "sonbahar mevsimi"
+    ],
+    "heading": "Ağaçlar Neden Yaprak Döker? Bir 'Ekonomik' Hayatta Kalma Sanatı",
+    "intro": "Doğanın her sonbahar sunduğu o büyüleyici kızıl ve sarı renk şöleni, aslında ağaçların yaklaşan zorlu kış şartlarına karşı aldığı ciddi bir önlemin dışa vurumudur. Bu süreç, sadece bir güzellik değil, bitkilerin enerji tasarrufu yapmak ve hayatta kalmak için başvurduğu stratejik bir 'kapatma' operasyonudur.",
+    "article": "<p>Ağaçlar için yapraklar, güneş ışığını enerjiye dönüştüren devasa fabrikalar gibidir. Ancak kış aylarında güneş ışığının azalması ve hava sıcaklıklarının düşmesi, bu fabrikaların işletme maliyetini, getirisinden çok daha yüksek hale getirir. Ağaç, bu dengeyi kurmak için hayati bir karar vererek yapraklarını dökmeyi seçer.</p><h3>Su Tasarrufu ve Donma Riski</h3><p>Kışın en büyük düşman, suyun donmasıdır. Ağaç yaprakları, sahip oldukları küçük gözenekler (stoma) sayesinde sürekli su kaybederler. Ancak toprak donduğunda, köklerin su emme yeteneği kısıtlanır. Eğer ağaç yapraklarını dökmeseydi, terleme yoluyla kaybettiği suyu geri alamayacak ve susuzluktan kuruyacaktı. Ayrıca yaprakların içindeki suyun donması, bitki hücrelerine fiziksel zarar verebilir; yapraklardan vazgeçmek, ağacın hayati dokularını korumasına yardımcı olur.</p><h3>Absisyon Süreci: Bir Hücre Mühendisliği Harikası</h3><p>Yaprak dökümü rastgele bir kopma değildir; bu, bitkinin biyolojik olarak yönettiği <strong>absisyon</strong> sürecidir. Ağaç, yaprak sapı ile dalın birleştiği noktada özel bir hücre tabakası oluşturur. Bu süreçte:</p><ul><li><strong>Oksin hormonu</strong> seviyeleri azalır.</li><li>Kopma bölgesindeki hücrelerin çeperleri zayıflar.</li><li>Yaprağın ağaçla olan iletim bağı koparılır.</li><li>Ağaç, yaprak düşmeden önce klorofili parçalayarak değerli besinleri gövdeye geri emer.</li></ul><h3>Ağırlık Kontrolü ve Güvenlik</h3><p>Yaprak dökmeyen geniş yapraklı bir ağaç, kışın yağan karla birlikte ağır bir yük altında kalır. Yaprakların üzerinde biriken kar, dalların kırılmasına yol açabilir. Yaprakların önceden dökülmesi, ağacın yüzey alanını küçülterek olası mekanik hasarları engeller. Bu sayede ağaç, sert kış rüzgarlarına ve kar yüküne karşı çok daha dirençli hale gelir.</p>",
+    "category": "bilim",
+    "sourceName": "TÜBİTAK Bilim Genç",
+    "sourceUrl": "https://bilimgenc.tubitak.gov.tr/makale/neden-bazi-agaclar-yapraklarini-dokerken-bazilari-dokmez",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Ağaçların yaprak dökme sürecine verilen bilimsel isim nedir?",
+        "options": [
+          "Fotosentez",
+          "Absisyon",
+          "Kloroz",
+          "Transpirasyon"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Yaprak sapı ile dalın birleştiği noktada gerçekleşen ve yaprağın kopmasını sağlayan biyolojik sürece absisyon denir."
+      },
+      {
+        "id": 2,
+        "text": "Ağaçlar kışın neden yaprak dökme ihtiyacı duyarlar?",
+        "options": [
+          "Dalların uzamasını hızlandırmak için",
+          "Daha fazla oksijen üretmek için",
+          "Su kaybını önlemek ve kışın enerji tasarrufu sağlamak için",
+          "Böceklerin yuva yapmasını engellemek için"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Yapraklar terleme yoluyla su kaybına neden olur; kışın su bulmak zorlaştığı için ağaçlar su kaybını önlemek adına yapraklarını döker."
+      },
+      {
+        "id": 3,
+        "text": "Ağaçlar yapraklarını dökmeden önce yapraktan neyi geri çekerler?",
+        "options": [
+          "Karbondioksit",
+          "Klorofil ve değerli besinleri",
+          "Sadece suyu",
+          "Oksijeni"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Ağaçlar, yapraklarını dökmeden önce enerji üretimi için kullandıkları klorofili ve diğer değerli besinleri gövdeye geri emerek koruma altına alırlar."
+      },
+      {
+        "id": 4,
+        "text": "Yaprak dökümü sürecini geciktiren hormon aşağıdakilerden hangisidir?",
+        "options": [
+          "Oksin",
+          "Adrenalin",
+          "İnsülin",
+          "Kortizol"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Oksin hormonu, kopma bölgesinin oluşumunu geciktirerek yaprağın ağaç üzerinde daha uzun süre kalmasını sağlar."
+      }
+    ]
   }
 ];
