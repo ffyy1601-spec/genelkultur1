@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 28 Jun 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 08:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Ağaçlar Neden Yaşlanmıyor? Binlerce Yıllık Yaşamın Şaşırtıcı Sırrı</title>
+      <link>https://genelkultur.com.tr/test/agaclar-neden-yaslanmiyor-binlerce-yillik-yasamin-sasirtici-sirri</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/agaclar-neden-yaslanmiyor-binlerce-yillik-yasamin-sasirtici-sirri</guid>
+      <pubDate>Mon, 29 Jun 2026 08:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Bazı ağaç türleri, insan medeniyetlerinden bile daha uzun süre hayatta kalarak 5.000 yılı aşkın bir ömre ulaşıyor. Peki bu canlılar, biyolojik yaşlanma sürecini nasıl devre dışı bırakıyor ve gerçekten &apos;ölümsüz&apos; sayılabilirler mi?</description>
+    </item>
     <item>
       <title>Trafik Yerde Kaldı: Kişisel Uçan Kanat Teknolojisi &apos;AeroWing&apos; Türkiye Semalarında</title>
       <link>https://genelkultur.com.tr/test/trafik-yerde-kaldi-kisisel-ucan-kanat-teknolojisi-aerowing-turkiye-semalarinda</link>
@@ -158,14 +166,6 @@
       <pubDate>Sat, 20 Jun 2026 11:00:00 GMT</pubDate>
       <category>teknoloji</category>
       <description>Cumhurbaşkanı Erdoğan tarafından duyurulan 2026-2030 Yapay Zeka Eylem Planı, Türkiye&apos;yi küresel bir teknoloji üssü yapma hedefiyle 10 milyar dolarlık devasa bir yatırım sürecini başlatıyor.</description>
-    </item>
-    <item>
-      <title>Modern Çağın En Büyük İronisi: İnsanlar &apos;Daha Az Şey Yapan&apos; Cihazların Peşine Düştü</title>
-      <link>https://genelkultur.com.tr/test/modern-cagin-en-buyuk-ironisi-insanlar-daha-az-sey-yapan-cihazlarin-pesine-dustu</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/modern-cagin-en-buyuk-ironisi-insanlar-daha-az-sey-yapan-cihazlarin-pesine-dustu</guid>
-      <pubDate>Fri, 19 Jun 2026 17:00:00 GMT</pubDate>
-      <category>teknoloji</category>
-      <description>Sürekli bildirimler, sınırsız akışlar ve dikkat dağıtıcı dijital dünyadan yorulan kullanıcılar, 2026 yılında radikal bir dönüşe imza atıyor. Teknoloji dünyasını kasıp kavuran &apos;Cyberdeck&apos; akımı, karmaşadan uzak, odaklanmış ve işlevsel cihazlara olan özlemi gözler önüne seriyor.</description>
     </item>
   </channel>
 </rss>

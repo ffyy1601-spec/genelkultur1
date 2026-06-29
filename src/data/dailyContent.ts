@@ -779,5 +779,77 @@ export const dailyQuizzes: DailyQuiz[] = [
     "intro": "Havacılık dünyasında bilim kurgu filmlerini aratmayan bir devrim yaşanıyor. Türkiye merkezli mühendislik girişimi tarafından geliştirilen kişisel uçan kanat sistemi AeroWing, ilk test uçuşlarını başarıyla tamamladı.",
     "article": "<p>21. yüzyılın ulaşım vizyonu, artık sadece otonom araçlar veya drone teknolojileriyle sınırlı kalmıyor. Türkiye'nin teknoloji ekosisteminden çıkan <strong>AeroWing</strong> projesi, bireysel ulaşımda yeni bir çığır açmaya hazırlanıyor. Yaklaşık <strong>beş yıllık</strong> bir Ar-Ge sürecinin ardından, karbon fiber gövdesi ve elektrikli itki sistemleriyle donatılmış bu giyilebilir hava aracı, bugün ilk kapsamlı saha testlerini başarıyla gerçekleştirdi.</p><h3>Geleceğin Ulaşımı: AeroWing Nedir?</h3><p><strong>AeroWing</strong>, pilotun vücut hareketleriyle yönetilen, dünyanın en kompakt kişisel uçan kanat sistemlerinden biri olarak dikkat çekiyor. Sistem, toplamda <strong>25 kilogramlık</strong> hafif yapısıyla dikkat çekerken, bünyesinde barındırdığı <strong>yüksek yoğunluklu bataryalar</strong> sayesinde <strong>45 dakikaya kadar</strong> kesintisiz uçuş imkanı sunuyor. Projenin Baş Mühendisi <strong>Dr. Selin Aras</strong>, bu teknolojinin geleneksel hava araçlarından farkını şu şekilde açıklıyor: \"Biz sadece uçmuyoruz, gökyüzünde adeta bir kuş gibi süzülmeyi ve tam manevra kabiliyeti sağlamayı hedefliyoruz.\"</p><h3>Teknik Özellikler ve Güvenlik Protokolleri</h3><p>Geliştirici firma, güvenlik endişelerini ortadan kaldırmak adına havacılık otoriteleriyle yakın iş birliği içinde çalışıyor. Sistem şu temel donanımları içeriyor:</p><ul><li><strong>Akıllı Dengeleme Sistemi:</strong> Yapay zeka tabanlı stabilizasyon, rüzgarlı havalarda bile dengede kalmayı sağlıyor.</li><li><strong>Otomatik Paraşüt Açılımı:</strong> Olası bir güç kaybında, sistem saniyeler içinde devreye girerek pilotun güvenle yere inmesini sağlayan entegre bir paraşüt ünitesine sahip.</li><li><strong>Engel Algılama Radarları:</strong> 360 derece görüş açısı ile nesne çarpışmalarını önleyen LiDAR teknolojisi.</li></ul><h3>Ekonomik ve Sosyal Etkiler</h3><p>Projenin ticarileşme süreci hakkında konuşan sektör uzmanları, bu tür cihazların lojistikten arama-kurtarma çalışmalarına kadar pek çok alanda kullanılabileceğini öngörüyor. <strong>2027</strong> yılında seri üretime geçilmesi hedeflenen <strong>AeroWing</strong> için şimdiden dünya çapında ön siparişler alınmaya başlandı. Türkiye, bu stratejik yatırım ile küresel havacılık pazarında <strong>ilk 5 ülke</strong> arasına girmeyi hedefliyor. Uzmanlar, bu girişimin sadece bir ulaşım aracı değil, aynı zamanda <strong>milyarlarca dolarlık</strong> yeni bir kişisel hava aracı pazarının da öncüsü olduğunu belirtiyor.</p><h3>Sırada Ne Var?</h3><p>Şirket, önümüzdeki ay İstanbul-Boğazı üzerinde gerçekleştirilecek <strong>ilk halka açık gösteri uçuşu</strong> için hazırlıklarına hız verdi. Yerli yazılımlarla güçlendirilen bu sistem, havacılık tutkunlarını ve yatırımcıları heyecanlandırmaya devam ediyor. Türkiye'nin bu alandaki öncülüğü, gökyüzünün sadece kuşlara veya büyük uçaklara ait olduğu dönemi geride bırakmaya hazırlanıyor.</p>",
     "category": "teknoloji"
+  },
+  {
+    "slug": "agaclar-neden-yaslanmiyor-binlerce-yillik-yasamin-sasirtici-sirri",
+    "dateId": "2026-06-29T11:00:00+03:00",
+    "imageUrl": "/images/news/agaclar-neden-yaslanmiyor-binlerce-yillik-yasamin-sasirtici-sirri.webp",
+    "title": "Ağaçlar Ölümsüz mü? Doğanın Bin Yıllık Sırrı",
+    "description": "Binlerce yıl yaşayan ağaçlar gerçekten ölümsüz mü? Bilimin ışığında yaşlılık, genetik ve ağaçların hayatta kalma mekanizmalarını keşfedin.",
+    "keywords": [
+      "ölümsüz ağaçlar",
+      "bristlecone çamı",
+      "ginkgo biloba",
+      "ağaç ömrü",
+      "biyolojik yaşlanma",
+      "genetik",
+      "bilimsel gerçekler"
+    ],
+    "heading": "Ağaçlar Neden Yaşlanmıyor? Binlerce Yıllık Yaşamın Şaşırtıcı Sırrı",
+    "intro": "Bazı ağaç türleri, insan medeniyetlerinden bile daha uzun süre hayatta kalarak 5.000 yılı aşkın bir ömre ulaşıyor. Peki bu canlılar, biyolojik yaşlanma sürecini nasıl devre dışı bırakıyor ve gerçekten 'ölümsüz' sayılabilirler mi?",
+    "article": "<h3>Yaşlanmayan Hücrelerin Sırrı</h3>\n<p>İnsanlar ve hayvanlar yaşlandıkça dokularımızda biriken hasarlar, hücre yenilenmesinin yavaşlamasına ve nihayetinde organ yetmezliğine neden olur. Ancak ağaçlar, özellikle <strong>Ginkgo biloba</strong> gibi türler, bu klasik yaşlanma belirtilerini göstermez. Bilim insanları, bu ağaçların gövdelerindeki <strong>kambiyum</strong> tabakasında—yani yeni odun ve kabuk üreten hücre tabakasında—genç ve yaşlı örnekler arasında biyolojik açıdan neredeyse hiçbir fark bulamamıştır.</p>\n\n<h3>Kısıtlı Kaynaklar, Uzun Ömür</h3>\n<p>Dünyanın en yaşlı bireyine ev sahipliği yapan <strong>Great Basin Bristlecone çamı</strong> (Pinus longaeva), adeta 'barren' veya verimsiz olarak adlandırılabilecek en zorlu koşullarda yaşar. Bu ağaçlar; besin açısından fakir topraklar, aşırı soğuklar ve şiddetli rüzgarlarla dolu yüksek irtifalarda büyürler. Şaşırtıcı olan ise, bu zorlu çevrenin bir dezavantaj değil, aksine <strong>evrimsel bir avantaj</strong> olmasıdır. Yavaş büyüme hızı ve yoğun odun yapısı; ağacı zararlılardan, mantarlardan ve çevresel stres faktörlerinden koruyan doğal bir zırh görevi görür.</p>\n\n<h3>Ölümsüzlük mü, Yoksa Dayanıklılık mı?</h3>\n<p>Bitki biyologlarına göre, ağaçların 'ölümsüz' olduğu fikri biyolojik açıdan bir yanılgıdır. Ağaçlar genetik olarak yaşlanmaya programlanmamış olsalar da <strong>fiziksel ve mekanik kısıtlamalara</strong> tabidirler. Kendi ağırlıklarını taşıyamaz hale gelmeleri, şiddetli fırtınalar, hastalıklar veya orman yangınları gibi dış etkenler, bu kadim organizmaların yaşamını bir gün mutlaka sonlandırır. Özetle, ağaçlar yaşlılıktan ölmek yerine, genellikle dış dünyanın acımasız müdahaleleriyle hayata veda ederler.</p>\n\n<h3>Genetik Bir Miras</h3>\n<p>Yakın zamanda gerçekleştirilen çalışmalar, bu ağaçların genetik yapısında <strong>uzun telomerler</strong> ve üstün hastalık direnci sağlayan özel protein kodlayıcı genler olduğunu ortaya koymuştur. Bu ağaçlar, çevresel değişimleri yüzyıllar boyunca kaydeden birer 'yaşayan arşiv' niteliğindedir. Onların hayatta kalma stratejileri, sadece bireysel bir başarı değil, içinde bulundukları ekosistemin genetik çeşitliliğini korumak adına atılmış kritik bir adımdır.</p>",
+    "category": "bilim",
+    "sourceName": "Britannica",
+    "sourceUrl": "https://www.britannica.com/science/tree",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Ağaçların biyolojik yaşlanmaya karşı dirençli olmasında hangi doku tabakası anahtar rol oynar?",
+        "options": [
+          "Ksilem",
+          "Kambiyum",
+          "Floem",
+          "Epidermis"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Kambiyum, ağaç gövdesinde yeni hücrelerin üretildiği ve yaşlanma belirtilerinin gözlemlenmediği kritik büyüme tabakasıdır."
+      },
+      {
+        "id": 2,
+        "text": "Bristlecone çamlarının aşırı uzun ömürlü olmasının temel nedenlerinden biri nedir?",
+        "options": [
+          "Çok hızlı fotosentez yapmaları",
+          "Diğer bitkilerin olmadığı ormanlarda yaşamaları",
+          "Zorlu çevre koşullarında yavaş büyüyüp yoğun odun dokusu oluşturmaları",
+          "Sürekli olarak yeni gövde kopyaları üretmeleri"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Zorlu çevrede yavaş büyüme, ağacın daha yoğun ve dayanıklı bir yapı kazanmasını sağlayarak dış streslere karşı koruma sağlar."
+      },
+      {
+        "id": 3,
+        "text": "Bilim insanlarına göre çok yaşlı ağaçların 'ölümsüz' olarak adlandırılmamasının ana sebebi nedir?",
+        "options": [
+          "Genetik yapılarının belirli bir süreden sonra bozulması",
+          "Dış etkenler (hastalık, yangın, fiziksel hasar) sonucu ölmeleri",
+          "Fotosentez yeteneklerini zamanla kaybetmeleri",
+          "Sadece nemli bölgelerde yaşayabilmeleri"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Ağaçlar içsel bir yaşlanma saati yerine, dış çevresel faktörler (kaza, fırtına, hastalık) nedeniyle yaşamlarını yitirirler."
+      },
+      {
+        "id": 4,
+        "text": "Bristlecone çamı genome araştırmaları, bu ağaçların ömrüyle ilgili neyi ortaya çıkarmıştır?",
+        "options": [
+          "Daha kısa telomerlere sahip olduklarını",
+          "Hücrelerin yaşlandıkça daha hızlı bölündüğünü",
+          "Daha uzun telomerlere ve hastalık dirençli genlere sahip olduklarını",
+          "DNA'larının diğer ağaçlardan tamamen farklı olduğunu"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Araştırmalar, bu ağaçların daha uzun telomerlere sahip olduğunu ve bunun daha yavaş bir hücresel yaşlanma süreciyle ilişkili olabileceğini göstermektedir."
+      }
+    ]
   }
 ];
