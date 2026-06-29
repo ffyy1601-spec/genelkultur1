@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://genelkultur.com.tr/test/betonun-yerini-doga-aliyor-istanbulun-ilk-otonom-dikey-orman-kuleleri-yukseliyor/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenelKültür Haber</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-27T15:00:00.000Z</news:publication_date>
-      <news:title>Betonun Yerini Doğa Alıyor: İstanbul&apos;un İlk Otonom &apos;Dikey Orman&apos; Kuleleri Yükseliyor</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://genelkultur.com.tr/test/toprak-yok-gunes-sinirli-turkiyenin-ilk-otonom-dikey-tarim-kuleleri-kapilarini-aciyor/</loc>
     <news:news>
       <news:publication>
@@ -53,6 +42,17 @@
       </news:publication>
       <news:publication_date>2026-06-29T12:00:00.000Z</news:publication_date>
       <news:title>Ağaçlar Neden Yaprak Döker? Bir &apos;Ekonomik&apos; Hayatta Kalma Sanatı</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/vombatlar-neden-kup-seklinde-diskilar-doganin-mimari-dehasi/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-29T17:00:00.000Z</news:publication_date>
+      <news:title>Vombatlar Neden Küp Şeklinde Dışkılar? Doğanın Mimari Dehası</news:title>
     </news:news>
   </url>
 </urlset>

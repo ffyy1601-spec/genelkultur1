@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 29 Jun 2026 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 17:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Vombatlar Neden Küp Şeklinde Dışkılar? Doğanın Mimari Dehası</title>
+      <link>https://genelkultur.com.tr/test/vombatlar-neden-kup-seklinde-diskilar-doganin-mimari-dehasi</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/vombatlar-neden-kup-seklinde-diskilar-doganin-mimari-dehasi</guid>
+      <pubDate>Mon, 29 Jun 2026 17:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Doğa dünyasında genellikle yuvarlak formlarla karşılaşmaya alışkınızdır; ancak Avustralya’nın yerli keseli memelisi vombatlar, biyolojik bir mucizeye imza atarak mükemmel küp şeklinde dışkı üretirler. Bu ilginç durum, uzun süre bir efsane gibi görülse de bilim insanları bu sıra dışı yeteneğin arkasındaki mekanizmayı çözmeyi başardı.</description>
+    </item>
     <item>
       <title>Ağaçlar Neden Yaprak Döker? Bir &apos;Ekonomik&apos; Hayatta Kalma Sanatı</title>
       <link>https://genelkultur.com.tr/test/agaclar-neden-yaprak-doker-bir-ekonomik-hayatta-kalma-sanati</link>
@@ -158,14 +166,6 @@
       <pubDate>Sun, 21 Jun 2026 11:00:00 GMT</pubDate>
       <category>sanat</category>
       <description>Türkiye’nin kültürel mirasını global bir sahneye taşıyan ve bu yıl 26 farklı şehre yayılan &apos;Kültür Yolu Festivalleri&apos;, yaz sezonunun en büyük sanat ve eğlence hareketliliği olarak dikkat çekiyor.</description>
-    </item>
-    <item>
-      <title>Yüzyılı Aşan İnşaatta Final: Sagrada Familia&apos;nın Kuleleri Dünyanın Zirvesine Yerleşti</title>
-      <link>https://genelkultur.com.tr/test/yuzyili-asan-insaatta-final-sagrada-familianin-kuleleri-dunyanin-zirvesine-yerlesti</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/yuzyili-asan-insaatta-final-sagrada-familianin-kuleleri-dunyanin-zirvesine-yerlesti</guid>
-      <pubDate>Sat, 20 Jun 2026 16:00:00 GMT</pubDate>
-      <category>dunya</category>
-      <description>Barcelona&apos;nın kalbi Sagrada Familia, 144 yıllık yapım sürecinin en kritik aşamasını tamamladı. Antoni Gaudi&apos;nin yarım kalan vizyonu, 2026 teknolojisiyle hayata döndü.</description>
     </item>
   </channel>
 </rss>

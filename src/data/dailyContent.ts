@@ -921,5 +921,75 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Oksin hormonu, kopma bölgesinin oluşumunu geciktirerek yaprağın ağaç üzerinde daha uzun süre kalmasını sağlar."
       }
     ]
+  },
+  {
+    "slug": "vombatlar-neden-kup-seklinde-diskilar-doganin-mimari-dehasi",
+    "dateId": "2026-06-29T20:00:00+03:00",
+    "imageUrl": "/images/news/vombatlar-neden-kup-seklinde-diskilar-doganin-mimari-dehasi.webp",
+    "title": "Vombatlar Neden Küp Şeklinde Dışkılar? Doğanın En İlginç Sırrı",
+    "description": "Avustralyalı vombatların dışkılarının neden küp şeklinde olduğunu ve bu biyolojik mucizenin arkasındaki bilimsel gerçekleri keşfedin.",
+    "keywords": [
+      "vombat",
+      "vombat dışkısı",
+      "doğa bilimleri",
+      "biyoloji",
+      "ilginç bilgiler"
+    ],
+    "heading": "Vombatlar Neden Küp Şeklinde Dışkılar? Doğanın Mimari Dehası",
+    "intro": "Doğa dünyasında genellikle yuvarlak formlarla karşılaşmaya alışkınızdır; ancak Avustralya’nın yerli keseli memelisi vombatlar, biyolojik bir mucizeye imza atarak mükemmel küp şeklinde dışkı üretirler. Bu ilginç durum, uzun süre bir efsane gibi görülse de bilim insanları bu sıra dışı yeteneğin arkasındaki mekanizmayı çözmeyi başardı.",
+    "article": "<p>Vombatlar, gece yaşayan ve toprak altında tüneller kazan oldukça içine kapanık canlılardır. Bu hayvanların en şaşırtıcı özelliği, geceleri yaklaşık <strong>100 adet</strong> küp şeklinde dışkı üretmeleridir. Yıllar boyunca bu dışkıların neden küp şeklinde olduğu bir merak konusu olmuş, hatta bazılarının vombatların kare şeklinde bir anüse sahip olduğunu düşünmesine neden olmuştur. Ancak 2018 yılında yapılan bilimsel araştırmalar, gerçeğin çok daha ilginç ve karmaşık olduğunu ortaya koymuştur.</p><h3>Küp Şeklinin Biyolojik Mekanizması</h3><p>Yapılan çalışmalar, vombatların anüslerinin diğer tüm memeliler gibi dairesel olduğunu kanıtlamıştır. Peki, yuvarlak bir çıkıştan nasıl küp formunda dışkı çıkabiliyor? Bilim insanları, vombatların <strong>kalın bağırsaklarının son %17’lik kısmının</strong> farklı bir esneklik yapısına sahip olduğunu keşfetti. Bağırsak duvarında bulunan değişken sertlikteki bölgeler, dışkının son aşamada sıkıştırılmasına ve karakteristik keskin köşeli bir şekil almasına olanak tanır.</p><h3>Neden Küp Şekli?</h3><p>Vombatların dışkılarını bu şekilde üretmelerinin çok pratik bir evrimsel nedeni bulunmaktadır. Vombatlar, toprak üzerindeki kayalar veya kütükler gibi yüksek noktaları kendi bölgelerini işaretlemek (iletişim kurmak) için kullanırlar. Küp şeklindeki dışkılar, silindirik dışkılara kıyasla <strong>yuvarlanmadan</strong> yerleştirildikleri yüzeyde kalabilirler. Bu durum, hayvanın sosyal mesajlarını çok daha etkili bir şekilde iletmesine olanak tanır.</p><ul><li>Vombatların dışkısı, sindirim sürecinin son aşamasında bağırsak içindeki suyun emilmesiyle kurumaya başlar ve sertleşir.</li><li>Bağırsağın içindeki iki farklı sertlikteki kanal, dışkıya 90 derecelik açıları kazandıran bir kalıp görevi görür.</li><li>Bu keşif, yumuşak maddelerin geometrik şekillere dönüştürülmesi konusunda mühendislik dünyasına da ilham kaynağı olmuştur.</li></ul><p>2019 yılında, vombatların dışkılama mekanizmasını açıklayan bu çalışma, <strong>Ig Nobel Fizik Ödülü</strong> ile ödüllendirilmiştir. Bu ödül, öncelikle güldüren ancak ardından derinlemesine düşündüren bilimsel çalışmalara verilmektedir. Doğanın bu küçük mimarı, kendi kendine bir şekillendirme sanatı geliştirerek hayatta kalma başarısını bir üst seviyeye taşımıştır.</p>",
+    "category": "bilim",
+    "sourceName": "Wikipedia",
+    "sourceUrl": "https://tr.wikipedia.org/wiki/Vombat",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Vombatların dışkısının küp şeklinde olmasının temel sebebi nedir?",
+        "options": [
+          "Kare şeklinde bir anüse sahip olmaları",
+          "Bağırsak sonundaki değişken esneklik ve sertlik oranları",
+          "Beslendikleri bitkilerin kristal yapısı",
+          "Kuyruk kemiklerinin dışkıyı dışarı çıkarken sıkıştırması"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Araştırmalar, bağırsak duvarındaki farklı esneklik seviyelerinin dışkıya bu benzersiz formu verdiğini kanıtlamıştır."
+      },
+      {
+        "id": 2,
+        "text": "Vombatlar neden küp şeklinde dışkı üretirler?",
+        "options": [
+          "Daha hızlı sindirim sağlamak için",
+          "Vücutlarındaki su kaybını dengelemek için",
+          "Dışkının kayalar üzerinde yuvarlanmadan durmasını sağlamak için",
+          "Daha az enerji tüketmek için"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Küp şekli, dışkının bulunduğu yüzeyden kolayca yuvarlanıp düşmesini engeller, bu da vombatların işaretleme davranışlarını kolaylaştırır."
+      },
+      {
+        "id": 3,
+        "text": "Vombatların dışkılama mekanizmasını açıklayan bilimsel çalışma hangi ödülü almıştır?",
+        "options": [
+          "Nobel Tıp Ödülü",
+          "Pulitzer Bilim Ödülü",
+          "Ig Nobel Ödülü",
+          "Doğa ve Çevre Onur Ödülü"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bu keşif, insanları önce güldüren sonra düşündüren bilimsel araştırmalara verilen Ig Nobel Fizik Ödülü'nü kazanmıştır."
+      },
+      {
+        "id": 4,
+        "text": "Vombatların dışkısı bağırsak içinde ne zaman küp şeklini almaya başlar?",
+        "options": [
+          "Sindirim sürecinin hemen başında",
+          "Sindirim sürecinin son %17'lik kısmında",
+          "Dışkı vücuttan tamamen atıldıktan sonra",
+          "Mide aşamasında"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Bilimsel veriler, dışkının sindirim sisteminin son %17'lik kısmında kuruyup sertleşerek küp formuna dönüştüğünü göstermektedir."
+      }
+    ]
   }
 ];
