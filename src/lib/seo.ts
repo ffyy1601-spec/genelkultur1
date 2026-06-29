@@ -13,7 +13,15 @@ export const CATEGORY_LABELS: Record<CategoryType, string> = {
   kpss: "KPSS Tarih",
 };
 
-export const buildCanonicalUrl = (path: string) => `${SITE_URL}${path === "/" ? "" : path}`;
+// GitHub Pages, klasör tabanlı sayfaları her zaman sonunda "/" olacak şekilde
+// servis eder (örn. /genel-kultur-testi -> 301 -> /genel-kultur-testi/).
+// Bu yüzden canonical URL'ler de slash'lı üretilir; aksi halde Google aynı
+// sayfayı iki ayrı URL sanır ve sıralama gücü bölünür.
+export const buildCanonicalUrl = (path: string) => {
+  if (path === "/" || path === "") return `${SITE_URL}/`;
+  const normalized = path.endsWith("/") ? path : `${path}/`;
+  return `${SITE_URL}${normalized}`;
+};
 
 export const SITE_LINKS = [
   { label: "Ana Sayfa", to: ROUTES.home },

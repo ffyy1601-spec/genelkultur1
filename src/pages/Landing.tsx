@@ -5,6 +5,7 @@ import { ROUTES } from "../lib/routes";
 import { SITE_URL } from "../lib/seo";
 import { contentLibraryCards } from "../data/contentLibrary";
 import { dailyQuizzes } from "../data/dailyContent";
+import { featuredQuestions } from "../data/featuredQuestions";
 
 const schema = [
   {
@@ -21,6 +22,18 @@ const schema = [
     name: "GenelKultur.com.tr",
     url: SITE_URL,
     logo: `${SITE_URL}/favicon-512.png`,
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: featuredQuestions.map((q) => ({
+      "@type": "Question",
+      name: q.question,
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: `${q.options[q.correctIndex]}. ${q.explanation}`,
+      },
+    })),
   },
 ];
 
@@ -52,8 +65,8 @@ export default function Landing() {
   return (
     <PageLayout>
       <Seo
-        title="Genel Kültür Testi, Soruları ve Bilgi Yarışması | GenelKultur.com.tr"
-        description="Genel kültür soruları, genel kültür testi ve bilgi yarışması deneyimi. Hemen oynayın, kategorinizi seçin ve bilginizi güçlendirin."
+        title="Genel Kültür Soruları ve Testi 2026 – Cevaplı, Ücretsiz Çöz | GenelKültür"
+        description="5000+ güncel genel kültür sorusu ve cevabı! Tarih, bilim ve sanattan şıklı, açıklamalı sorularla ücretsiz online genel kültür testi çöz, puanını anında gör."
         path={ROUTES.home}
         keywords={[
           "genel kultur",
@@ -215,7 +228,75 @@ export default function Landing() {
           </div>
         </section>
 
+        {/* ── GENEL KÜLTÜR SORULARI VE CEVAPLARI (SEO içerik bölümü) ── */}
+        <section className="mx-auto w-full max-w-7xl px-4 pb-20 md:px-10 md:pb-24">
+          <div className="mb-8">
+            <p className="text-sm font-semibold uppercase tracking-[0.24em] text-primary">Açıklamalı Soru-Cevap</p>
+            <h2 className="mt-3 text-3xl font-black tracking-tight text-on-surface md:text-4xl">
+              Genel Kültür Soruları ve Cevapları
+            </h2>
+            <p className="mt-3 max-w-3xl text-base leading-8 text-on-surface-variant">
+              En sık karşılaşılan genel kültür sorularını; cevapları ve kısa açıklamalarıyla bir araya getirdik.
+              Soruları okuyun, <strong className="text-on-surface">“Cevabı Gör”</strong> butonuna dokunarak doğru
+              yanıtı ve açıklamasını inceleyin. Hazır olduğunuzda 5000’den fazla soruluk genel kültür testlerine geçin.
+            </p>
+          </div>
 
+          <div className="grid gap-4 md:grid-cols-2">
+            {featuredQuestions.map((q, i) => {
+              const letters = ["A", "B", "C", "D"];
+              return (
+                <article
+                  key={i}
+                  className="rounded-[1.4rem] border border-white/10 bg-surface-container-low/80 p-5"
+                >
+                  <h3 className="text-base font-bold leading-7 text-on-surface">
+                    <span className="text-primary">{i + 1}.</span> {q.question}
+                  </h3>
+                  <ul className="mt-3 space-y-1.5">
+                    {q.options.map((opt, oi) => (
+                      <li key={oi} className="flex items-start gap-2 text-sm text-on-surface-variant">
+                        <span className="font-black text-primary">{letters[oi]})</span>
+                        <span>{opt}</span>
+                      </li>
+                    ))}
+                  </ul>
+                  <details className="group mt-3 rounded-xl border border-white/10 bg-background/25 p-3">
+                    <summary className="flex cursor-pointer list-none items-center gap-2 text-sm font-bold text-primary">
+                      <span className="material-symbols-outlined text-base transition-transform group-open:rotate-180">
+                        expand_more
+                      </span>
+                      Cevabı Gör
+                    </summary>
+                    <div className="mt-3 text-sm leading-7">
+                      <p className="font-bold text-tertiary">
+                        Doğru cevap: {letters[q.correctIndex]}) {q.options[q.correctIndex]}
+                      </p>
+                      <p className="mt-1.5 text-on-surface-variant">{q.explanation}</p>
+                    </div>
+                  </details>
+                </article>
+              );
+            })}
+          </div>
+
+          <div className="mt-8 flex flex-wrap gap-3">
+            <Link
+              to={ROUTES.categories}
+              className="inline-flex items-center gap-2 rounded-full bg-primary px-6 py-3.5 text-base font-black text-on-primary shadow-[0_18px_50px_rgba(242,202,80,0.24)] transition-all hover:-translate-y-0.5 hover:bg-primary/90"
+            >
+              Genel Kültür Testine Başla
+              <span className="material-symbols-outlined text-base">play_arrow</span>
+            </Link>
+            <Link
+              to={ROUTES.genelKulturSorulariCevaplari}
+              className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-surface-container-low/80 px-6 py-3.5 text-base font-bold text-on-surface transition-all hover:-translate-y-0.5 hover:border-primary/30"
+            >
+              Tüm Soru ve Cevaplar
+              <span className="material-symbols-outlined text-base">arrow_forward</span>
+            </Link>
+          </div>
+        </section>
 
         {/* ── BUGÜN NE OLDU (GK HABER) ── */}
         {dailyQuizzes.length > 0 && (() => {

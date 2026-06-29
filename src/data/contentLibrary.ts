@@ -65,8 +65,8 @@ export const contentLibraryCards = [
 
 export const contentPages: ContentPageData[] = [
   {
-    title: "Genel Kültür Soruları ve Cevapları | GenelKultur.com.tr",
-    description: "Genel kültür soruları ve cevapları ile farklı konulardan seçilen açıklamalı sorulara göz atın, sonra quiz'e geçin.",
+    title: "Genel Kültür Soruları ve Cevapları 2026 – Şıklı, Açıklamalı | GenelKültür",
+    description: "Farklı konulardan seçilmiş genel kültür soruları ve cevapları; her soru şıklı ve kısa açıklamalı. Ücretsiz oku-öğren, sonra teste geçip puanını anında gör.",
     path: ROUTES.genelKulturSorulariCevaplari,
     keywords: ["genel kültür soruları ve cevapları", "genel kültür soruları", "açıklamalı genel kültür soruları"],
     eyebrow: "Açıklamalı İçerik",
@@ -235,8 +235,8 @@ export const contentPages: ContentPageData[] = [
     ],
   },
   {
-    title: "Tarih Soruları ve Cevapları | GenelKultur.com.tr",
-    description: "Tarih soruları ve cevapları ile medeniyetler, savaşlar ve dönüm noktalarına dair açıklamalı bir tekrar yapın.",
+    title: "Tarih Soruları ve Cevapları 2026 – Şıklı, Açıklamalı | GenelKültür",
+    description: "Medeniyetler, savaşlar ve dönüm noktalarından şıklı, açıklamalı tarih soruları ve cevapları. Ücretsiz oku-öğren, sonra tarih testine geçip puanını gör.",
     path: ROUTES.tarihSorulariCevaplari,
     keywords: ["tarih soruları ve cevapları", "açıklamalı tarih soruları", "tarih quiz soruları"],
     eyebrow: "Açıklamalı Tarih",
@@ -405,8 +405,8 @@ export const contentPages: ContentPageData[] = [
     ],
   },
   {
-    title: "Bilim Soruları ve Cevapları | GenelKultur.com.tr",
-    description: "Bilim soruları ve cevapları ile temel kavramlar, gezegenler, buluşlar ve bilim insanları hakkında açıklamalı tekrar yapın.",
+    title: "Bilim Soruları ve Cevapları 2026 – Şıklı, Açıklamalı | GenelKültür",
+    description: "Temel kavramlar, gezegenler, buluşlar ve bilim insanlarından şıklı, açıklamalı bilim soruları ve cevapları. Ücretsiz oku-öğren, sonra bilim testine geç.",
     path: ROUTES.bilimSorulariCevaplari,
     keywords: ["bilim soruları ve cevapları", "açıklamalı bilim soruları", "bilim quiz soruları"],
     eyebrow: "Açıklamalı Bilim",
@@ -575,8 +575,8 @@ export const contentPages: ContentPageData[] = [
     ],
   },
   {
-    title: "Sanat Soruları ve Cevapları | GenelKultur.com.tr",
-    description: "Sanat soruları ve cevapları ile ressamlar, akımlar, eserler ve müzik dünyasından seçilen açıklamalı sorulara göz atın.",
+    title: "Sanat Soruları ve Cevapları 2026 – Şıklı, Açıklamalı | GenelKültür",
+    description: "Ressamlar, akımlar, eserler ve müzik dünyasından şıklı, açıklamalı sanat soruları ve cevapları. Ücretsiz oku-öğren, sonra sanat testine geçip puanını gör.",
     path: ROUTES.sanatSorulariCevaplari,
     keywords: ["sanat soruları ve cevapları", "açıklamalı sanat soruları", "sanat quiz soruları"],
     eyebrow: "Açıklamalı Sanat",

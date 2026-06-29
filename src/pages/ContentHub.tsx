@@ -8,10 +8,10 @@ export default function ContentHub() {
   return (
     <PageLayout>
       <Seo
-        title="Sorular ve Cevaplar | GenelKultur.com.tr"
-        description="Genel kültür, tarih, bilim ve sanat için hazırlanan açıklamalı soru-cevap sayfalarını keşfedin."
+        title="Genel Kültür Soruları ve Cevapları – Açıklamalı Soru Bankası | GenelKültür"
+        description="Genel kültür, tarih, bilim ve sanattan şıklı, cevaplı ve açıklamalı sorular tek sayfada. Önce oku-öğren, sonra ücretsiz teste geç ve bilgini sına."
         path={ROUTES.contentHub}
-        keywords={["sorular ve cevaplar", "aciklamali genel kultur", "kategori bazli soru cevap"]}
+        keywords={["genel kültür soruları ve cevapları", "açıklamalı genel kültür soruları", "cevaplı genel kültür soruları", "genel kültür soru bankası"]}
       />
 
       <main className="mx-auto flex w-full max-w-7xl flex-1 flex-col px-4 py-10 md:px-10 md:py-16">
