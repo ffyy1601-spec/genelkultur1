@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://genelkultur.com.tr/test/toprak-yok-gunes-sinirli-turkiyenin-ilk-otonom-dikey-tarim-kuleleri-kapilarini-aciyor/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenelKültür Haber</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-28T10:00:00.000Z</news:publication_date>
-      <news:title>Toprak Yok, Güneş Sınırlı: Türkiye&apos;nin İlk Otonom &apos;Dikey Tarım&apos; Kuleleri Kapılarını Açıyor</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://genelkultur.com.tr/test/trafik-yerde-kaldi-kisisel-ucan-kanat-teknolojisi-aerowing-turkiye-semalarinda/</loc>
     <news:news>
       <news:publication>
@@ -53,6 +42,17 @@
       </news:publication>
       <news:publication_date>2026-06-29T17:00:00.000Z</news:publication_date>
       <news:title>Vombatlar Neden Küp Şeklinde Dışkılar? Doğanın Mimari Dehası</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/kendi-isigini-ureten-canlilar-doganin-en-buyuk-kimyasal-sirri/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-30T11:00:00.000Z</news:publication_date>
+      <news:title>Kendi Işığını Üreten Canlılar: Doğanın En Büyük Kimyasal Sırrı</news:title>
     </news:news>
   </url>
 </urlset>

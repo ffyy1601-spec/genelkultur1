@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 29 Jun 2026 17:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 11:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Kendi Işığını Üreten Canlılar: Doğanın En Büyük Kimyasal Sırrı</title>
+      <link>https://genelkultur.com.tr/test/kendi-isigini-ureten-canlilar-doganin-en-buyuk-kimyasal-sirri</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/kendi-isigini-ureten-canlilar-doganin-en-buyuk-kimyasal-sirri</guid>
+      <pubDate>Tue, 30 Jun 2026 11:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Karanlık bir gecede deniz kıyısında yürürken suyun içinde parlayan mavi ışıltılara hiç denk geldiniz mi? Bu büyüleyici doğa olayı, canlıların kimyasal enerjiyi ısı açığa çıkarmadan doğrudan ışığa dönüştürdüğü &quot;biyolüminesans&quot; fenomeninden başka bir şey değil.</description>
+    </item>
     <item>
       <title>Vombatlar Neden Küp Şeklinde Dışkılar? Doğanın Mimari Dehası</title>
       <link>https://genelkultur.com.tr/test/vombatlar-neden-kup-seklinde-diskilar-doganin-mimari-dehasi</link>
@@ -158,14 +166,6 @@
       <pubDate>Sun, 21 Jun 2026 16:00:00 GMT</pubDate>
       <category>teknoloji</category>
       <description>Elektrikli araç dünyasında batarya maliyetlerini düşürecek tarihi bir dönüm noktasına gelindi. Çinli üreticiler tarafından geliştirilen yeni nesil sodyum-iyon bataryalar, performans ve üretim kalitesi açısından lityum-iyon devi Tesla ile kafa kafaya yarışarak sektörün çehresini değiştirmeye hazırlanıyor.</description>
-    </item>
-    <item>
-      <title>Türkiye&apos;nin Kültür Haritası Yeniden Çiziliyor: 2026&apos;da 26 Şehri Kucaklayan Dev Sanat Seferberliği</title>
-      <link>https://genelkultur.com.tr/test/turkiyenin-kultur-haritasi-yeniden-ciziliyor-2026da-26-sehri-kucaklayan-dev-sanat-seferberligi</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/turkiyenin-kultur-haritasi-yeniden-ciziliyor-2026da-26-sehri-kucaklayan-dev-sanat-seferberligi</guid>
-      <pubDate>Sun, 21 Jun 2026 11:00:00 GMT</pubDate>
-      <category>sanat</category>
-      <description>Türkiye’nin kültürel mirasını global bir sahneye taşıyan ve bu yıl 26 farklı şehre yayılan &apos;Kültür Yolu Festivalleri&apos;, yaz sezonunun en büyük sanat ve eğlence hareketliliği olarak dikkat çekiyor.</description>
     </item>
   </channel>
 </rss>
