@@ -1062,5 +1062,76 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Yakamoz, Noctiluca scintillans gibi canlıların hareket veya temas gibi uyarıcılar karşısında savunma mekanizması olarak ışık üretmesidir."
       }
     ]
+  },
+  {
+    "slug": "ordekler-suda-neden-asla-islanmaz-doganin-muhendislik-harikasi",
+    "dateId": "2026-06-30T19:00:00+03:00",
+    "imageUrl": "/images/news/ordekler-suda-neden-asla-islanmaz-doganin-muhendislik-harikasi.webp",
+    "title": "Ördekler Nasıl Islanmaz? Su Geçirmezlik Sırrı",
+    "description": "Ördeklerin saatlerce suyun üzerinde kalıp neden ıslanmadığını ve tüylerinin nasıl bir mühendislik harikası olduğunu keşfedin. Doğa, fizik ve biyoloji bir arada.",
+    "keywords": [
+      "ördek",
+      "tüy yapısı",
+      "preen gland",
+      "doğa bilimleri",
+      "su geçirmezlik",
+      "biyomimikri"
+    ],
+    "heading": "Ördekler Suda Neden Asla Islanmaz? Doğanın Mühendislik Harikası",
+    "intro": "Pek çoğumuz ördeklerin suyun üzerinde saatlerce yüzmesine rağmen neden ıslanmadıklarını ve kuru kaldıklarını merak etmişizdir. Bu durumun arkasında sadece yağlı tüyler değil, oldukça gelişmiş bir fiziksel yapı yatar.",
+    "article": "<p>Ördeklerin su üzerinde zahmetsizce yüzebilmeleri, halk arasında yaygın olarak sadece kuyruklarının üstündeki bir bezden salgılanan yağla ilişkilendirilir. Ancak modern biyolojik araştırmalar, su geçirmezliğin çok daha karmaşık ve büyüleyici bir mekanizmaya dayandığını ortaya koymaktadır. Asıl sır, tüylerin kendi <strong>mikroskobik yapısında</strong> gizlidir.</p><h3>Yağın Ötesinde: Fiziksel Bariyer</h3><p>Ördeklerin kuyruklarının hemen üzerinde bulunan <strong>uropygial bez</strong> (preen gland), yağlı bir madde salgılar. Ördekler, gagalarını kullanarak bu salgıyı tüylerine özenle sürerler. Ancak bu yağ, tek başına bir şemsiye görevi görmez. Asıl görev, tüylerin tüy dalları (barb) ve tüy dalcıkları (barbule) arasındaki kilitli yapıdır. Bir kuşun tüyleri, tıpkı bir fermuar gibi birbirine kenetlenerek suyun geçemeyeceği kadar sıkı bir ağ oluşturur.</p><h3>GORE-TEX Benzetmesi</h3><p>Uzmanlar, ördek tüylerinin yapısını modern sentetik kumaşlara, özellikle de <strong>GORE-TEX™</strong> teknolojisine benzetmektedir. Tüyler, suyun yüzey gerilimi nedeniyle içeri sızamayacağı kadar küçük gözeneklere sahiptir. Bu fiziksel yapı, dışarıdaki suyun içeri girmesini engellerken, içerideki ısının korunmasına yardımcı olan hava ceplerini hapseder.</p><ul><li><strong>Esneklik:</strong> Preen yağı, tüylerin kırılmasını önleyerek esnek kalmasını sağlar.</li><li><strong>Yalıtım:</strong> Tüy yapısı, soğuk sularda kuşun vücut ısısını koruyan bir hava katmanı oluşturur.</li><li><strong>Bakım:</strong> Ördekler, tüylerindeki bu kilitli yapıyı korumak için günün büyük bir kısmını temizlenerek (preening) geçirirler.</li></ul><h3>Neden Bazı Kuşlar Islanır?</h3><p>Bazı su kuşları, örneğin karabataklar (anhinga), avlanmak için daha derinlere dalmaları gerektiğinden, tüylerinin suyu emmesine izin verirler. Bu, tüylerin arasındaki hava ceplerini boşaltarak onların daha hızlı batmalarını ve su altında daha çevik hareket etmelerini sağlar. Bu kuşlar, sudan çıktıktan sonra kanatlarını güneşin altında açıp kurutarak tüylerinin bakımını yeniden yaparlar.</p>",
+    "category": "bilim",
+    "sourceName": "International Bird Rescue",
+    "sourceUrl": "https://bird-rescue.org/blog/clearing-up-misconceptions-about-feather-waterproofing/",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Ördeklerde su geçirmezliği sağlayan asıl faktör nedir?",
+        "options": [
+          "Sadece kuyruk üstündeki yağ bezi",
+          "Tüylerin mikroskobik kilitli yapısı ve yağın birleşimi",
+          "Tüylerin tamamının plastik benzeri bir maddeyle kaplı olması",
+          "Sadece suyun yüzey gerilimi"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Su geçirmezlik hem preen yağının koruyucu etkisi hem de tüylerin birbirine kenetlenen mikroskobik yapısı sayesinde gerçekleşir."
+      },
+      {
+        "id": 2,
+        "text": "Kuyruk üstünde bulunan ve yağ salgılayan bezin adı nedir?",
+        "options": [
+          "Uropygial bez",
+          "Dermal bez",
+          "Tüy folikülü",
+          "Keratin bezi"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Ördeklerin yağ salgılayan bezine uropygial bez veya preen gland denir."
+      },
+      {
+        "id": 3,
+        "text": "Karabatak gibi bazı kuşların tüylerinin suyu emmesine izin vermesinin sebebi nedir?",
+        "options": [
+          "Tüylerinin daha az gelişmiş olması",
+          "Daha hızlı yüzebilmek ve daha kolay dalabilmek",
+          "Güneşten daha iyi korunmak",
+          "Daha renkli görünmek"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Tüylerin suyu emmesi, su altındaki kaldırma kuvvetini azaltarak kuşun daha verimli dalış yapmasına yardımcı olur."
+      },
+      {
+        "id": 4,
+        "text": "Ördek tüyleri ile sentetik GORE-TEX malzemesi arasındaki benzerlik nedir?",
+        "options": [
+          "İkisinin de aynı kimyasal maddeyle üretilmesi",
+          "İkisinin de çok ağır olması",
+          "İkisinin de gözenekli yapısı sayesinde suyun geçişini engellemesi",
+          "İkisinin de ısıyı tamamen dışarı atması"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Tüylerin mikroskobik yapısı, suyun geçemeyeceği kadar küçük gözeneklere sahip olması bakımından GORE-TEX ile benzer fiziksel özelliklere sahiptir."
+      }
+    ]
   }
 ];

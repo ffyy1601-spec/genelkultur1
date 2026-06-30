@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 30 Jun 2026 11:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 16:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Ördekler Suda Neden Asla Islanmaz? Doğanın Mühendislik Harikası</title>
+      <link>https://genelkultur.com.tr/test/ordekler-suda-neden-asla-islanmaz-doganin-muhendislik-harikasi</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/ordekler-suda-neden-asla-islanmaz-doganin-muhendislik-harikasi</guid>
+      <pubDate>Tue, 30 Jun 2026 16:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Pek çoğumuz ördeklerin suyun üzerinde saatlerce yüzmesine rağmen neden ıslanmadıklarını ve kuru kaldıklarını merak etmişizdir. Bu durumun arkasında sadece yağlı tüyler değil, oldukça gelişmiş bir fiziksel yapı yatar.</description>
+    </item>
     <item>
       <title>Kendi Işığını Üreten Canlılar: Doğanın En Büyük Kimyasal Sırrı</title>
       <link>https://genelkultur.com.tr/test/kendi-isigini-ureten-canlilar-doganin-en-buyuk-kimyasal-sirri</link>
@@ -158,14 +166,6 @@
       <pubDate>Mon, 22 Jun 2026 14:00:00 GMT</pubDate>
       <category>teknoloji</category>
       <description>Türkiye’nin bilim ve teknoloji vizyonu doğrultusunda, özel yetenekli öğrencileri yapay zeka ile buluşturan dev proje başladı. 22 Haziran 2026 itibarıyla İstanbul’da start alan etkinlik, yapay zekanın sadece bir kod dizini değil, sanat ve bilimi dönüştüren bir anahtar olduğunu kanıtlıyor.</description>
-    </item>
-    <item>
-      <title>Batarya Sektöründe Tesla&apos;ya Büyük Rakip: Sodyum-İyon Teknolojisi Yollara İniyor</title>
-      <link>https://genelkultur.com.tr/test/batarya-sektorunde-teslaya-buyuk-rakip-sodyum-iyon-teknolojisi-yollara-iniyor</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/batarya-sektorunde-teslaya-buyuk-rakip-sodyum-iyon-teknolojisi-yollara-iniyor</guid>
-      <pubDate>Sun, 21 Jun 2026 16:00:00 GMT</pubDate>
-      <category>teknoloji</category>
-      <description>Elektrikli araç dünyasında batarya maliyetlerini düşürecek tarihi bir dönüm noktasına gelindi. Çinli üreticiler tarafından geliştirilen yeni nesil sodyum-iyon bataryalar, performans ve üretim kalitesi açısından lityum-iyon devi Tesla ile kafa kafaya yarışarak sektörün çehresini değiştirmeye hazırlanıyor.</description>
     </item>
   </channel>
 </rss>

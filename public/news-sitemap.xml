@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://genelkultur.com.tr/test/trafik-yerde-kaldi-kisisel-ucan-kanat-teknolojisi-aerowing-turkiye-semalarinda/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenelKültür Haber</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-28T15:00:00.000Z</news:publication_date>
-      <news:title>Trafik Yerde Kaldı: Kişisel Uçan Kanat Teknolojisi &apos;AeroWing&apos; Türkiye Semalarında</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://genelkultur.com.tr/test/agaclar-neden-yaslanmiyor-binlerce-yillik-yasamin-sasirtici-sirri/</loc>
     <news:news>
       <news:publication>
@@ -53,6 +42,17 @@
       </news:publication>
       <news:publication_date>2026-06-30T11:00:00.000Z</news:publication_date>
       <news:title>Kendi Işığını Üreten Canlılar: Doğanın En Büyük Kimyasal Sırrı</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/ordekler-suda-neden-asla-islanmaz-doganin-muhendislik-harikasi/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-30T16:00:00.000Z</news:publication_date>
+      <news:title>Ördekler Suda Neden Asla Islanmaz? Doğanın Mühendislik Harikası</news:title>
     </news:news>
   </url>
 </urlset>
