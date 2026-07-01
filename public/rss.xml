@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 01 Jul 2026 11:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 16:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Denizlerin Uzaylısı mı? Ahtapotların Üç Kalbi ve Mavi Kanının Sırrı</title>
+      <link>https://genelkultur.com.tr/test/denizlerin-uzaylisi-mi-ahtapotlarin-uc-kalbi-ve-mavi-kaninin-sirri</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/denizlerin-uzaylisi-mi-ahtapotlarin-uc-kalbi-ve-mavi-kaninin-sirri</guid>
+      <pubDate>Wed, 01 Jul 2026 16:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Ahtapotlar, adeta bir bilimkurgu filminden fırlamış gibi görünen biyolojik özellikleriyle okyanusların en ilginç canlılarından biridir. Bu zeki yumuşakçaların neden üç kalbi olduğunu ve kanlarının neden masmavi aktığını hiç düşündünüz mü?</description>
+    </item>
     <item>
       <title>Kış Uykusu Bir &quot;Uyku&quot; Değil, Bir Hayatta Kalma Stratejisidir</title>
       <link>https://genelkultur.com.tr/test/kis-uykusu-bir-uyku-degil-bir-hayatta-kalma-stratejisidir</link>
@@ -158,14 +166,6 @@
       <pubDate>Tue, 23 Jun 2026 11:00:00 GMT</pubDate>
       <category>ekonomi</category>
       <description>Küresel teknoloji sektöründe yapay zeka tabanlı operasyonel dönüşüm, iş dünyasında büyük bir sarsıntıya yol açtı. Önde gelen bir yazılım ve bulut bilişim devi, verimliliği artırmak ve yapay zeka altyapısına odaklanmak amacıyla 21 bin çalışanının işine son verdiğini açıkladı.</description>
-    </item>
-    <item>
-      <title>Bilim Dünyasında Kuantum Etkisi: NVIDIA&apos;nın Yeni Süper Bilgisayarı Vera Rubin Tanıtıldı</title>
-      <link>https://genelkultur.com.tr/test/bilim-dunyasinda-kuantum-etkisi-nvidianin-yeni-super-bilgisayari-vera-rubin-tanitildi</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/bilim-dunyasinda-kuantum-etkisi-nvidianin-yeni-super-bilgisayari-vera-rubin-tanitildi</guid>
-      <pubDate>Mon, 22 Jun 2026 18:00:00 GMT</pubDate>
-      <category>teknoloji</category>
-      <description>Yapay zeka ve yüksek başarımlı hesaplama dünyasında kartlar yeniden dağıtılıyor. NVIDIA, bilimsel araştırmaların sınırlarını zorlayacak olan Vera Rubin platformunu resmen duyurdu.</description>
     </item>
   </channel>
 </rss>

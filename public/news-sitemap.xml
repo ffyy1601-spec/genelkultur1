@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://genelkultur.com.tr/test/agaclar-neden-yaprak-doker-bir-ekonomik-hayatta-kalma-sanati/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenelKültür Haber</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-29T12:00:00.000Z</news:publication_date>
-      <news:title>Ağaçlar Neden Yaprak Döker? Bir &apos;Ekonomik&apos; Hayatta Kalma Sanatı</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://genelkultur.com.tr/test/vombatlar-neden-kup-seklinde-diskilar-doganin-mimari-dehasi/</loc>
     <news:news>
       <news:publication>
@@ -53,6 +42,17 @@
       </news:publication>
       <news:publication_date>2026-07-01T11:00:00.000Z</news:publication_date>
       <news:title>Kış Uykusu Bir &quot;Uyku&quot; Değil, Bir Hayatta Kalma Stratejisidir</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/denizlerin-uzaylisi-mi-ahtapotlarin-uc-kalbi-ve-mavi-kaninin-sirri/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-01T16:00:00.000Z</news:publication_date>
+      <news:title>Denizlerin Uzaylısı mı? Ahtapotların Üç Kalbi ve Mavi Kanının Sırrı</news:title>
     </news:news>
   </url>
 </urlset>

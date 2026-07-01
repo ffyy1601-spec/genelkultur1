@@ -1203,5 +1203,76 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Hibernasyon, kalp atışının dakikada 5'in altına düşebileceği kadar ciddi bir metabolik yavaşlama dönemidir."
       }
     ]
+  },
+  {
+    "slug": "denizlerin-uzaylisi-mi-ahtapotlarin-uc-kalbi-ve-mavi-kaninin-sirri",
+    "dateId": "2026-07-01T19:00:00+03:00",
+    "imageUrl": "/images/news/denizlerin-uzaylisi-mi-ahtapotlarin-uc-kalbi-ve-mavi-kaninin-sirri.webp",
+    "title": "Ahtapotlar Neden Üç Kalbe ve Mavi Kana Sahiptir? | Bilim",
+    "description": "Doğanın mühendislik harikası ahtapotların neden üç kalbi olduğunu ve kanlarının neden mavi aktığını hiç merak ettiniz mi? İşte bu gizemli canlıların hayatta kalma sırları.",
+    "keywords": [
+      "ahtapot",
+      "biyoloji",
+      "mavi kan",
+      "hemosiyanin",
+      "doğa",
+      "ilginç bilgiler"
+    ],
+    "heading": "Denizlerin Uzaylısı mı? Ahtapotların Üç Kalbi ve Mavi Kanının Sırrı",
+    "intro": "Ahtapotlar, adeta bir bilimkurgu filminden fırlamış gibi görünen biyolojik özellikleriyle okyanusların en ilginç canlılarından biridir. Bu zeki yumuşakçaların neden üç kalbi olduğunu ve kanlarının neden masmavi aktığını hiç düşündünüz mü?",
+    "article": "<p>Denizlerin en gizemli sakinlerinden olan ahtapotlar, evrimin sunduğu en ilginç adaptasyon örneklerinden birine sahiptir. Birçok hayvanın aksine, ahtapotların vücudunda tam <strong>üç kalp</strong> bulunur. Bu karmaşık sistemin merkezinde, tıpkı insanlardaki gibi oksijen açısından zengin kanı tüm vücuda pompalayan bir ana kalp yer alır. Diğer <strong>iki kalp</strong> ise 'solungaç kalpleri' olarak adlandırılır ve görevleri, oksijensiz kalmış kanı solungaçlara pompalayarak temizlenmesini sağlamaktır.</p><h3>Neden Üç Kalp?</h3><p>Ahtapotların üç kalbe sahip olmasının temel sebebi, kanlarının verimliliğiyle doğrudan ilişkilidir. Ahtapot kanı, oksijen taşıma konusunda oldukça zorlayıcı bir yapıya sahiptir. Bu yüzden kalplerden ikisi sadece solunum sistemini desteklemek için özelleşmiştir. İlginç bir bilgi olarak; bir ahtapot yüzmeye başladığında, ana kalbi geçici olarak durabilir. Bu durum yüzmeyi onlar için yorucu kıldığı için, genellikle deniz tabanında sürünerek ilerlemeyi tercih ederler.</p><h3>Mavi Kanın Kimyası: Hemosiyanin</h3><p>İnsan kanının kırmızı olmasının sebebi, oksijen taşıyıcısı olan hemoglobinin içinde demir bulunmasıdır. Ahtapotlarda ise durum tamamen farklıdır. Onların kanında demir yerine <strong>bakır</strong> içeren <strong>hemosiyanin</strong> adlı bir protein bulunur. Bakır atomları oksijenle birleştiğinde ortaya mavi bir renk çıkar. Bu mavi kanın tek özelliği renk değildir; hemosiyanin, düşük oksijenli ve soğuk derin deniz ortamlarında hayatta kalmayı mümkün kılan oldukça verimli bir oksijen taşıyıcıdır.</p><h3>Evrimsel Bir Başarı</h3><ul><li><strong>Adaptasyon:</strong> Bakır bazlı kan, zorlu çevre koşullarına karşı ahtapotlara büyük avantaj sağlar.</li><li><strong>Zeka:</strong> Bu karmaşık fizyolojik yapı, ahtapotların problem çözme, kavanoz açma ve stratejik davranma gibi yüksek zekâ göstergelerini destekleyen bir enerji sistemi sunar.</li><li><strong>Dayanıklılık:</strong> Üç kalp sistemi, okyanusun derinliklerinde ihtiyaç duyulan yüksek basınçlı dolaşımı sağlayarak onları hayatta tutar.</li></ul><p>Kısacası ahtapotlar, sadece sekiz kolları veya renk değiştirebilen derileriyle değil, kendi içlerindeki muazzam mühendislik ile de doğanın en büyük mucizelerinden biridir.</p>",
+    "category": "bilim",
+    "sourceName": "TÜBİTAK Bilim Genç",
+    "sourceUrl": "https://bilimgenc.tubitak.gov.tr/makale/bir-hayvanin-birden-fazla-kalbi-olabilir-mi",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Ahtapotların kanının mavi olmasının temel nedeni nedir?",
+        "options": [
+          "Deniz suyunun renginden etkilenmesi",
+          "İçerisinde demir yerine bakır içeren hemosiyanin proteini bulunması",
+          "Çok soğuk sularda yaşamaları",
+          "Oksijen taşıyıcılarının olmaması"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Ahtapotların kanında bakır bazlı bir protein olan hemosiyanin bulunur; bu protein oksijenle birleştiğinde kana mavi renk verir."
+      },
+      {
+        "id": 2,
+        "text": "Ahtapotların üç kalbi hangi işlevle görevlidir?",
+        "options": [
+          "Hepsi vücuda kan pompalar",
+          "İkisi solungaçlara, biri vücuda kan pompalar",
+          "Üçü de sadece beyne kan pompalar",
+          "Biri sindirime, ikisi nefes almaya yardımcı olur"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Ahtapotlarda iki kalp solungaçlara kan pompalarken, ana kalp vücudun geri kalanına oksijenli kanı iletir."
+      },
+      {
+        "id": 3,
+        "text": "Ahtapotlar neden genellikle yüzmek yerine sürünerek ilerler?",
+        "options": [
+          "Yüzmek onlar için çok enerji maliyetli ve yorucudur",
+          "Sürünerek daha hızlı avlanırlar",
+          "Kolları yüzmeye uygun değildir",
+          "Deniz tabanında daha iyi gizlenirler"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Yüzmek sırasında ana kalbin durabilmesi ve hareketin enerji maliyetinin yüksek olması nedeniyle ahtapotlar sürünmeyi tercih eder."
+      },
+      {
+        "id": 4,
+        "text": "Ahtapot kanındaki hemosiyanin proteininin avantajı nedir?",
+        "options": [
+          "Sadece kırmızı renkte kan üretilmesini sağlar",
+          "Düşük oksijenli ve soğuk sularda hayatta kalmayı kolaylaştırır",
+          "Vücut ısısını sabit tutar",
+          "Daha fazla demir depolanmasını sağlar"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Hemosiyanin, demir bazlı hemoglobine göre düşük oksijenli ve soğuk çevrelerde oksijen taşıma konusunda daha etkili bir adaptasyon sunar."
+      }
+    ]
   }
 ];
