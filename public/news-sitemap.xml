@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://genelkultur.com.tr/test/agaclar-neden-yaslanmiyor-binlerce-yillik-yasamin-sasirtici-sirri/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenelKültür Haber</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-29T08:00:00.000Z</news:publication_date>
-      <news:title>Ağaçlar Neden Yaşlanmıyor? Binlerce Yıllık Yaşamın Şaşırtıcı Sırrı</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://genelkultur.com.tr/test/agaclar-neden-yaprak-doker-bir-ekonomik-hayatta-kalma-sanati/</loc>
     <news:news>
       <news:publication>
@@ -53,6 +42,17 @@
       </news:publication>
       <news:publication_date>2026-06-30T16:00:00.000Z</news:publication_date>
       <news:title>Ördekler Suda Neden Asla Islanmaz? Doğanın Mühendislik Harikası</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/kis-uykusu-bir-uyku-degil-bir-hayatta-kalma-stratejisidir/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-01T11:00:00.000Z</news:publication_date>
+      <news:title>Kış Uykusu Bir &quot;Uyku&quot; Değil, Bir Hayatta Kalma Stratejisidir</news:title>
     </news:news>
   </url>
 </urlset>

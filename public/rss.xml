@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 30 Jun 2026 16:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 11:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Kış Uykusu Bir &quot;Uyku&quot; Değil, Bir Hayatta Kalma Stratejisidir</title>
+      <link>https://genelkultur.com.tr/test/kis-uykusu-bir-uyku-degil-bir-hayatta-kalma-stratejisidir</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/kis-uykusu-bir-uyku-degil-bir-hayatta-kalma-stratejisidir</guid>
+      <pubDate>Wed, 01 Jul 2026 11:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Kışın dondurucu soğuklarında yiyecek bulamayan hayvanların aylarca inlerinde sakince beklediğini düşünürüz; ancak bu süreç bildiğimiz bir uykudan çok daha fazlasıdır. Hibernasyon, aslında metabolizmanın adeta bir &quot;düşük güç moduna&quot; alınmasıyla gerçekleşen biyolojik bir mucizedir.</description>
+    </item>
     <item>
       <title>Ördekler Suda Neden Asla Islanmaz? Doğanın Mühendislik Harikası</title>
       <link>https://genelkultur.com.tr/test/ordekler-suda-neden-asla-islanmaz-doganin-muhendislik-harikasi</link>
@@ -158,14 +166,6 @@
       <pubDate>Mon, 22 Jun 2026 18:00:00 GMT</pubDate>
       <category>teknoloji</category>
       <description>Yapay zeka ve yüksek başarımlı hesaplama dünyasında kartlar yeniden dağıtılıyor. NVIDIA, bilimsel araştırmaların sınırlarını zorlayacak olan Vera Rubin platformunu resmen duyurdu.</description>
-    </item>
-    <item>
-      <title>Yapay Zeka İle Yeni Bir Dönem: Türkiye&apos;nin Parlayan Gençleri Teknolojiyi Sanatla Buluşturuyor</title>
-      <link>https://genelkultur.com.tr/test/yapay-zeka-ile-yeni-bir-donem-turkiyenin-parlayan-gencleri-teknolojiyi-sanatla-bulusturuyor</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/yapay-zeka-ile-yeni-bir-donem-turkiyenin-parlayan-gencleri-teknolojiyi-sanatla-bulusturuyor</guid>
-      <pubDate>Mon, 22 Jun 2026 14:00:00 GMT</pubDate>
-      <category>teknoloji</category>
-      <description>Türkiye’nin bilim ve teknoloji vizyonu doğrultusunda, özel yetenekli öğrencileri yapay zeka ile buluşturan dev proje başladı. 22 Haziran 2026 itibarıyla İstanbul’da start alan etkinlik, yapay zekanın sadece bir kod dizini değil, sanat ve bilimi dönüştüren bir anahtar olduğunu kanıtlıyor.</description>
     </item>
   </channel>
 </rss>

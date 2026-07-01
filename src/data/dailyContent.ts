@@ -1133,5 +1133,75 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Tüylerin mikroskobik yapısı, suyun geçemeyeceği kadar küçük gözeneklere sahip olması bakımından GORE-TEX ile benzer fiziksel özelliklere sahiptir."
       }
     ]
+  },
+  {
+    "slug": "kis-uykusu-bir-uyku-degil-bir-hayatta-kalma-stratejisidir",
+    "dateId": "2026-07-01T14:00:00+03:00",
+    "imageUrl": "/images/news/kis-uykusu-bir-uyku-degil-bir-hayatta-kalma-stratejisidir.webp",
+    "title": "Hayvanlar Neden Kış Uykusuna Yatar? | Doğa Bilimleri",
+    "description": "Bazı hayvanların aylarca yemek yemeden nasıl hayatta kaldığını hiç merak ettiniz mi? Kış uykusunun (hibernasyon) şaşırtıcı bilimsel gerçekleri burada.",
+    "keywords": [
+      "kış uykusu",
+      "hibernasyon",
+      "hayvanlar dünyası",
+      "metabolizma",
+      "doğa bilimi"
+    ],
+    "heading": "Kış Uykusu Bir \"Uyku\" Değil, Bir Hayatta Kalma Stratejisidir",
+    "intro": "Kışın dondurucu soğuklarında yiyecek bulamayan hayvanların aylarca inlerinde sakince beklediğini düşünürüz; ancak bu süreç bildiğimiz bir uykudan çok daha fazlasıdır. Hibernasyon, aslında metabolizmanın adeta bir \"düşük güç moduna\" alınmasıyla gerçekleşen biyolojik bir mucizedir.",
+    "article": "<p>Kış uykusu veya bilimsel adıyla <strong>hibernasyon</strong>, doğanın en etkileyici hayatta kalma stratejilerinden biridir. Birçok canlı için kış ayları, yiyecek kaynaklarının tükendiği ve hava şartlarının yaşamsal faaliyetleri sürdürmeyi zorlaştırdığı kritik dönemlerdir. Bu zorlu süreci atlatmak isteyen hayvanlar, biyolojik bir \"bekleme moduna\" geçerler.</p><h3>Vücudunuz Neden Kış Uykusuna Yatamıyor?</h3><p>Hibernasyon süresince bir canlının vücut sıcaklığı, kalp atış hızı ve nefes alışverişi dramatik şekilde düşer. Örneğin, gerçek kış uykusuna yatan türlerde normalde 37°C civarında olan vücut ısısı, türüne göre 0°C'ye kadar inebilir. Kalp atış hızı ise dakikada 300'lerden 5'in altına düşebilir. Bu süreçte hayvanlar, yaz aylarından itibaren vücutlarında depoladıkları <strong>yağ rezervlerini</strong> yakarak hayatta kalırlar.</p><h3>Gerçek Kış Uykusu vs. Derin Uyku</h3><p>Yaygın bir yanılgı olarak ayılar, gerçek anlamda hibernasyon yapmazlar. Ayıların kış uykusu daha çok \"derin uyku\" olarak sınıflandırılır. Ayıların vücut sıcaklıkları hibernasyon yapan küçük memeliler kadar düşmez ve tehlike anında nispeten kolayca uyanabilirler. Buna karşın, sincaplar, yediuyurlar ve kirpiler gibi gerçek kış uykusu yapan türler, bu dönemde çevrelerinden neredeyse tamamen habersizdir.</p><ul><li><strong>Metabolik Yavaşlama:</strong> Bazı canlıların metabolizma hızı, bazal seviyenin %5'ine, hatta ekstrem durumlarda %1'in altına düşer.</li><li><strong>Enerji Verimliliği:</strong> Vücut, birikmiş yağları son derece yavaş yakarak bahara kadar hayatta kalmayı hedefler.</li><li><strong>Biyolojik Saat:</strong> Hayvanlar kış uykusuna yatacakları zamanı, değişen hava koşulları, gün uzunluğu ve hormonal sinyaller aracılığıyla anlarlar.</li></ul><p>Kış uykusu sadece soğuk bölgelere has bir özellik de değildir. Besin kıtlığına karşı geliştirilmiş bir adaptasyon olduğu için, farklı iklimlerde yaşayan bazı canlılar da benzer süreçlere girebilirler. Bu biyolojik mekanizma, evrimin milyonlarca yılda geliştirdiği en karmaşık enerji tasarrufu sistemlerinden biridir.</p>",
+    "category": "bilim",
+    "sourceName": "TÜBİTAK Bilim Genç",
+    "sourceUrl": "https://bilimgenc.tubitak.gov.tr/makale/hayvanlar-kis-uykusuna-neden-yatar",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Gerçek bir hibernasyon sürecinde hayvanın vücut sıcaklığı yaklaşık olarak hangi seviyeye kadar düşebilir?",
+        "options": [
+          "Sadece 30 dereceye",
+          "0 dereceye kadar",
+          "37 derece sabit kalır",
+          "Sadece 25 dereceye"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Hibernasyon yapan bazı hayvanlarda vücut ısısı donma noktasına kadar düşebilir."
+      },
+      {
+        "id": 2,
+        "text": "Aşağıdakilerden hangisi ayıların kış uykusu için kullanılan daha doğru bir bilimsel terimdir?",
+        "options": [
+          "Diyapoz",
+          "Brumasyon",
+          "Derin uyku",
+          "Gerçek hibernasyon"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Ayılar tam bir hibernasyon yapmazlar; vücut sıcaklıkları çok düşmediği için süreç \"derin uyku\" olarak adlandırılır."
+      },
+      {
+        "id": 3,
+        "text": "Kış uykusuna yatan hayvanlar uzun süre yemek yemeden enerjilerini nereden sağlarlar?",
+        "options": [
+          "Metabolizmalarını durdurarak",
+          "Su içerek",
+          "Depoladıkları yağ rezervlerini yakarak",
+          "Sadece uyuyarak enerji harcamayarak"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Hayvanlar kışa girmeden önce depoladıkları yağları yakarak hayatta kalmak için gereken minimum enerjiyi üretirler."
+      },
+      {
+        "id": 4,
+        "text": "Hibernasyon sırasında kalp atış hızında nasıl bir değişim gözlenir?",
+        "options": [
+          "Hızlanır",
+          "Hiç değişmez",
+          "Çok az artar",
+          "Dramatik şekilde yavaşlar"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Hibernasyon, kalp atışının dakikada 5'in altına düşebileceği kadar ciddi bir metabolik yavaşlama dönemidir."
+      }
+    ]
   }
 ];
