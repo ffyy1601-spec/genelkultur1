@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 02 Jul 2026 11:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 16:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Çıplak Ayakla Buzun Üzerinde: Penguenler Nasıl Donmadan Durabiliyor?</title>
+      <link>https://genelkultur.com.tr/test/ciplak-ayakla-buzun-uzerinde-penguenler-nasil-donmadan-durabiliyor</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/ciplak-ayakla-buzun-uzerinde-penguenler-nasil-donmadan-durabiliyor</guid>
+      <pubDate>Thu, 02 Jul 2026 16:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Antarktika&apos;nın -50°C&apos;yi bulan dondurucu rüzgarlarında yaşayan penguenlerin çıplak ayakları, hiçbir yalıtım olmaksızın buzla temas halindedir. Ancak bu sevimli canlılar, biyolojik bir mühendislik harikası sayesinde ayaklarını dondurmadan yaşamlarını sürdürürler.</description>
+    </item>
     <item>
       <title>Dokunduğunuzda &apos;Küsen&apos; Bitki: Mimosa Pudica&apos;nın Gizli Mekanizması</title>
       <link>https://genelkultur.com.tr/test/dokundugunuzda-kusen-bitki-mimosa-pudicanin-gizli-mekanizmasi</link>
@@ -158,14 +166,6 @@
       <pubDate>Wed, 24 Jun 2026 11:00:00 GMT</pubDate>
       <category>dunya</category>
       <description>Avrupa&apos;da uzaktan çalışma hayali kuran milyonlarca profesyonel için dengeler değişiyor. İspanya ve Portekiz, popüler dijital göçebe vizelerinde vergi avantajlarını yeniden yapılandırarak daha sıkı şartlar getirme kararı aldı.</description>
-    </item>
-    <item>
-      <title>Uzayda Kuantum Devrimi: Maddenin En Garip Hali Keşfedildi</title>
-      <link>https://genelkultur.com.tr/test/uzayda-kuantum-devrimi-maddenin-en-garip-hali-kesfedildi</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/uzayda-kuantum-devrimi-maddenin-en-garip-hali-kesfedildi</guid>
-      <pubDate>Tue, 23 Jun 2026 17:00:00 GMT</pubDate>
-      <category>bilim</category>
-      <description>NASA&apos;nın Uluslararası Uzay İstasyonu&apos;nda bulunan güncellenmiş Soğuk Atom Laboratuvarı, maddenin temel doğasını kökten değiştirecek bir başarıya imza atarak uzayın derinliklerinde kuantum dünyasının kapılarını ardına kadar açtı.</description>
     </item>
   </channel>
 </rss>

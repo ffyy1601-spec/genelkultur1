@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://genelkultur.com.tr/test/ordekler-suda-neden-asla-islanmaz-doganin-muhendislik-harikasi/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenelKültür Haber</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-30T16:00:00.000Z</news:publication_date>
-      <news:title>Ördekler Suda Neden Asla Islanmaz? Doğanın Mühendislik Harikası</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://genelkultur.com.tr/test/kis-uykusu-bir-uyku-degil-bir-hayatta-kalma-stratejisidir/</loc>
     <news:news>
       <news:publication>
@@ -42,6 +31,17 @@
       </news:publication>
       <news:publication_date>2026-07-02T11:00:00.000Z</news:publication_date>
       <news:title>Dokunduğunuzda &apos;Küsen&apos; Bitki: Mimosa Pudica&apos;nın Gizli Mekanizması</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/ciplak-ayakla-buzun-uzerinde-penguenler-nasil-donmadan-durabiliyor/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-02T16:00:00.000Z</news:publication_date>
+      <news:title>Çıplak Ayakla Buzun Üzerinde: Penguenler Nasıl Donmadan Durabiliyor?</news:title>
     </news:news>
   </url>
 </urlset>

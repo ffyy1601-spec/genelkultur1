@@ -1345,5 +1345,76 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Bitki, yapraklarını kapatarak kendisini daha az lezzetli veya tehlikeli gösterip otoburlardan korunmayı hedefler."
       }
     ]
+  },
+  {
+    "slug": "ciplak-ayakla-buzun-uzerinde-penguenler-nasil-donmadan-durabiliyor",
+    "dateId": "2026-07-02T19:00:00+03:00",
+    "imageUrl": "/images/news/ciplak-ayakla-buzun-uzerinde-penguenler-nasil-donmadan-durabiliyor.webp",
+    "title": "Penguenlerin Ayakları Neden Buzda Donmaz? | Bilim Genç",
+    "description": "Antarktika'nın dondurucu soğuğunda penguenler çıplak ayakla nasıl hayatta kalıyor? Doğanın mühendislik harikası 'karşı akım ısı değişimi' sistemini keşfedin.",
+    "keywords": [
+      "penguen",
+      "doğa",
+      "bilim",
+      "biyoloji",
+      "hayvanlar alemi",
+      "ısı eşanjörü"
+    ],
+    "heading": "Çıplak Ayakla Buzun Üzerinde: Penguenler Nasıl Donmadan Durabiliyor?",
+    "intro": "Antarktika'nın -50°C'yi bulan dondurucu rüzgarlarında yaşayan penguenlerin çıplak ayakları, hiçbir yalıtım olmaksızın buzla temas halindedir. Ancak bu sevimli canlılar, biyolojik bir mühendislik harikası sayesinde ayaklarını dondurmadan yaşamlarını sürdürürler.",
+    "article": "<p>Penguenlerin dondurucu soğuklarda ayaklarının donmamasının arkasında yatan sır, vücutlarında bulunan <strong>karşı akım ısı değişimi</strong> (counter-current heat exchange) adı verilen olağanüstü bir dolaşım sistemidir. Bu sistem, temelinde ısı kaybını en aza indiren ve enerjiyi koruyan fiziksel bir prensibe dayanır.</p><h3>Karşı Akım Isı Değişimi Nedir?</h3><p>Penguenlerin bacaklarındaki atardamarlar, ayaklara sıcak kan taşırken, ayaklardan dönen soğuk kanı taşıyan toplardamarlar atardamarları bir ağ gibi sarar. Bu yakın temas sayesinde, gövdeden gelen sıcak kan, ayaklardan dönen soğuk kanı ısıtır. Sonuç olarak, ayaklara giden kanın sıcaklığı bir miktar düşerken, vücuda geri dönen kan ısınır. Bu durum, gövdedeki hayati vücut ısısının ayaklardan dışarı kaçmasını engeller ve ayakları donma noktasının sadece birkaç derece üzerinde tutarak enerji tasarrufu sağlar.</p><h3>Isı Düzenleme Mekanizması</h3><p>Penguenler, sadece dolaşım sistemlerine güvenmezler; aynı zamanda <strong>davranışsal stratejiler</strong> de geliştirmişlerdir. Özellikle imparator penguenler gibi türler, buzla temas eden yüzey alanını azaltmak için topuklarının üzerinde geriye doğru sallanabilir veya ağırlıklarını kuyruklarına vererek ayaklarını tamamen buzdan kaldırabilirler. Bu hareketler, zeminden kaynaklı ısı kaybını ciddi oranda azaltır.</p><ul><li><strong>Vazokonstrüksiyon:</strong> Soğuk havalarda damarlar daralır, ayaklara giden kan akışı kısıtlanır.</li><li><strong>Yağ Yalıtımı:</strong> Vücutlarını saran kalın yağ tabakası, merkezi vücut ısısını korumada anahtar rol oynar.</li><li><strong>Sosyal Isınma:</strong> Şiddetli fırtınalarda penguenler, dev bir daire oluşturarak birbirlerine sokulur ve merkezdeki ısıyı korurlar.</li></ul><p>Sonuç olarak penguenler, ayaklarını soğuğa karşı birer <strong>ısıtıcı</strong> gibi değil, ısı kaybını kontrol eden birer dengeleyici araç olarak kullanırlar. Bu adaptasyon, onları dünyanın en zorlu coğrafyalarından birinde hayatta tutan en önemli biyolojik özelliklerden biridir.</p>",
+    "category": "bilim",
+    "sourceName": "TÜBİTAK Bilim Genç",
+    "sourceUrl": "https://bilimgenc.tubitak.gov.tr/",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Penguenlerin ayaklarının donmasını engelleyen temel biyolojik mekanizma nedir?",
+        "options": [
+          "Sürekli titreme yoluyla ısı üretimi",
+          "Karşı akım ısı değişimi sistemi",
+          "Ayak derisinde bulunan kalın yağ tabakası",
+          "Sürekli hareket etme zorunluluğu"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Penguenler, atardamar ve toplardamarların birbirine yakın konumlandığı 'karşı akım ısı değişimi' sistemi sayesinde ısı kaybını minimize ederler."
+      },
+      {
+        "id": 2,
+        "text": "Karşı akım ısı değişimi sisteminde ayaklara giden kanın sıcaklığına ne olur?",
+        "options": [
+          "Vücut sıcaklığından daha fazla artar",
+          "Vücut sıcaklığıyla aynı kalır",
+          "Bir miktar düşer",
+          "Tamamen donar"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Sıcak kan, ayaklardan dönen soğuk kanı ısıtırken kendisi de bir miktar soğur; bu sayede ayaklar donma noktasının hemen üzerinde tutulur."
+      },
+      {
+        "id": 3,
+        "text": "Penguenler şiddetli fırtınalarda ısıyı korumak için hangi sosyal davranışı sergilerler?",
+        "options": [
+          "Birbirlerine sokulup dev bir daire oluştururlar",
+          "Buzun içine gömülürler",
+          "Kanatlarını çırparak sıcak hava üretirler",
+          "Daha sıcak olan kuzeye göç ederler"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Penguenler, ısıyı korumak ve fırtınanın etkisini azaltmak için grup halinde bir araya gelerek birbirlerini ısıtırlar."
+      },
+      {
+        "id": 4,
+        "text": "Penguenlerin buz üzerinde temas süresini azaltmak için sergilediği davranış nedir?",
+        "options": [
+          "Sürekli zıplamak",
+          "Ayaklarını tamamen tüylerle kaplamak",
+          "Topukları üzerinde geriye doğru sallanmak",
+          "Sürekli koşmak"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Penguenler buzla teması en aza indirmek için topuklarının üzerinde sallanarak veya kuyruklarını destek olarak kullanarak ayaklarını havaya kaldırabilirler."
+      }
+    ]
   }
 ];
