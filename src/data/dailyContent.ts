@@ -1274,5 +1274,76 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Hemosiyanin, demir bazlı hemoglobine göre düşük oksijenli ve soğuk çevrelerde oksijen taşıma konusunda daha etkili bir adaptasyon sunar."
       }
     ]
+  },
+  {
+    "slug": "dokundugunuzda-kusen-bitki-mimosa-pudicanin-gizli-mekanizmasi",
+    "dateId": "2026-07-02T14:00:00+03:00",
+    "imageUrl": "/images/news/dokundugunuzda-kusen-bitki-mimosa-pudicanin-gizli-mekanizmasi.webp",
+    "title": "Küsen Çiçek Mimosa Pudica: Bitkiler Neden Hareket Eder?",
+    "description": "Dokunduğunuzda anında kapanan 'küstüm çiçeği' Mimosa pudica'nın sırrını keşfedin. Bitkiler nasıl hareket eder ve bu savunma mekanizması neden evrimleşti?",
+    "keywords": [
+      "mimosa pudica",
+      "küstüm çiçeği",
+      "bitki hareketleri",
+      "turgor basıncı",
+      "nasti hareketi",
+      "thigmonasty"
+    ],
+    "heading": "Dokunduğunuzda 'Küsen' Bitki: Mimosa Pudica'nın Gizli Mekanizması",
+    "intro": "Doğada çoğu canlıdan farklı olarak hareketsiz gördüğümüz bitkiler, aslında bazen hayret verici hızlarda hareket edebilirler. Özellikle 'küstüm çiçeği' olarak bilinen Mimosa pudica, dokunulduğu anda yapraklarını kapatarak adeta dış dünyaya küser.",
+    "article": "<p>Bitkilerin çoğu, yaşam döngüleri boyunca kök saldıkları yerde sabit kalırlar. Ancak <strong>Mimosa pudica</strong>, dokunma veya sarsıntı gibi mekanik uyaranlara karşı verdiği hızlı tepkiyle botanik dünyasının en ilginç canlılarından biri olarak kabul edilir. Latince adı 'utangaç' veya 'mahcup' anlamına gelen bu bitki, yapraklarına dokunulduğu anda hızla içe doğru katlanır ve sarkar. Bu ilginç davranış, bilim literatüründe <strong>thigmonasty</strong> (dokunma kaynaklı hareket) olarak adlandırılır.</p><h3>Hızlı Hareketin Arkasındaki Mühendislik: Turgor Basıncı</h3><p>Bitkilerin hayvanlar gibi kasları veya sinir sistemleri yoktur, peki bu hareket nasıl bu kadar hızlı gerçekleşir? Sır, bitkinin hücrelerindeki <strong>turgor basıncı</strong> değişiminde yatmaktadır. Yaprakların sap kısmında, <strong>pulvinus</strong> adı verilen şişkin, eklem benzeri yapılar bulunur. Bir dış uyarı gerçekleştiğinde, bitki hücreleri içindeki suyu aniden hücreler arası boşluklara pompalar. Su kaybeden hücreler büzülür ve bu da yaprağın destek kaybıyla anında aşağı sarkmasına neden olur.</p><h3>Neden 'Küser'? Evrimsel Bir Savunma Mekanizması</h3><p>Mimosa pudica'nın bu hareketi, sadece bir 'tepki' değil, aynı zamanda hayatta kalmak için geliştirilmiş bir <strong>savunma adaptasyonu</strong>dur. Araştırmalar, bu hızlı kapanma hareketinin otobur hayvanları şaşırttığını ve bitkinin 'ölü' veya 'yenmeyecek kadar ilginç' görünmesini sağlayarak onları caydırdığını göstermektedir. Bitki, bir tehdit algıladığında kendisini daha küçük, daha az lezzetli ve dikenli göstererek hayatta kalma şansını artırır.</p><h3>Bitkilerin Hafızası Var mı?</h3><p>Son yıllarda yapılan çalışmalar, bu bitkilerin çevresel uyaranları 'hatırlama' konusunda şaşırtıcı yetenekleri olabileceğini düşündürmektedir. Bilim insanları, bitkilerin tekrarlayan zararsız sarsıntılara karşı bir süre sonra tepki vermeyi bırakabildiğini, yani deneyimlerinden öğrenerek enerji tasarrufu sağladıklarını gözlemlemiştir. Bu, bitkilerin basit birer biyolojik makineden daha karmaşık süreçlere sahip olabileceğine dair heyecan verici bir kanıttır.</p><ul><li><strong>Hızlı tepki:</strong> Milisaniyeler içinde gerçekleşen yaprak hareketi.</li><li><strong>Turgor basıncı:</strong> Su dengesi ile sağlanan mekanik hareket.</li><li><strong>Evrimsel avantaj:</strong> Otoburlardan korunma ve caydırıcılık.</li><li><strong>Esneklik:</strong> Tehdit geçtikten sonra yaprakların tekrar açılması.</li></ul>",
+    "category": "bilim",
+    "sourceName": "Britannica",
+    "sourceUrl": "https://www.britannica.com/plant/sensitive-plant",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Mimosa pudica'nın dokunulduğunda yapraklarını kapatması hangi bilimsel kavramla adlandırılır?",
+        "options": [
+          "Fototropizma",
+          "Thigmonasty",
+          "Geotropizma",
+          "Fotosentez"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Dokunmaya karşı verilen bu hızlı harekete thigmonasty denir."
+      },
+      {
+        "id": 2,
+        "text": "Bitkinin yapraklarını hareket ettirmesini sağlayan temel mekanik güç nedir?",
+        "options": [
+          "Kas dokusu kasılması",
+          "Sinirsel iletim",
+          "Turgor basıncı değişimi",
+          "Hormonal büyüme"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Hücrelerdeki suyun yer değiştirmesiyle oluşan turgor basıncı kaybı yaprakların kapanmasını sağlar."
+      },
+      {
+        "id": 3,
+        "text": "Yaprakların sap kısmında bulunan ve hareketten sorumlu olan şişkin bölgeye ne ad verilir?",
+        "options": [
+          "Pulvinus",
+          "Stoma",
+          "Kloroplast",
+          "Kütikula"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Yaprak saplarının dibindeki eklem benzeri şişkin yapıya pulvinus denir."
+      },
+      {
+        "id": 4,
+        "text": "Mimosa pudica'nın bu savunma mekanizmasını evrimleştirmesinin temel nedeni nedir?",
+        "options": [
+          "Daha iyi güneş ışığı almak",
+          "Otobur hayvanları caydırmak",
+          "Daha hızlı büyümesini sağlamak",
+          "Toprak nemini korumak"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Bitki, yapraklarını kapatarak kendisini daha az lezzetli veya tehlikeli gösterip otoburlardan korunmayı hedefler."
+      }
+    ]
   }
 ];
