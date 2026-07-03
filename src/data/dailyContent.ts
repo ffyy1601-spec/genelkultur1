@@ -1416,5 +1416,75 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Penguenler buzla teması en aza indirmek için topuklarının üzerinde sallanarak veya kuyruklarını destek olarak kullanarak ayaklarını havaya kaldırabilirler."
       }
     ]
+  },
+  {
+    "slug": "deniz-su-samurlari-neden-el-ele-tutusur-doganin-muhendislik-harikasi-bir-hayatta-kalma-stratejisi",
+    "dateId": "2026-07-03T14:00:00+03:00",
+    "imageUrl": "/images/news/deniz-su-samurlari-neden-el-ele-tutusur-doganin-muhendislik-harikasi-bir-hayatta-kalma-stratejisi.webp",
+    "title": "Deniz Su samurları Neden El Ele Tutuşur? | Doğa Bilimleri",
+    "description": "Deniz su samurlarının uyurken el ele tutuşması sadece sevimli bir görüntü mü? Bu büyüleyici davranışın arkasındaki şaşırtıcı hayatta kalma stratejisini keşfedin.",
+    "keywords": [
+      "deniz su samuru",
+      "doğa gerçekleri",
+      "hayvan davranışları",
+      "rafting",
+      "su samuru el ele"
+    ],
+    "heading": "Deniz Su Samurları Neden El Ele Tutuşur? Doğanın Mühendislik Harikası Bir Hayatta Kalma Stratejisi",
+    "intro": "Deniz su samurlarını sırtüstü yatıp el ele tutuşarak uyurken görmek, doğadaki en sempatik görüntülerden biri olarak kabul edilir. Ancak bu davranış, romantik bir bağdan ziyade, okyanusun acımasız koşullarında hayatta kalmak için geliştirilmiş zekice bir yöntemdir.",
+    "article": "<p>Deniz su samurlarının bu karakteristik davranışına bilim dünyasında <strong>\"rafting\"</strong> adı verilir. Okyanus akıntıları, uyuyan bir su samurunu sürükleyerek sürüsünden ve güvenli yaşam alanından uzaklaştırabilir. El ele tutuşmak, bu küçük canlıların bir arada kalarak akıntıya kapılmalarını önleyen fiziksel bir güvenlik ağı oluşturur.</p><h3>Neden Yalnız Uyumazlar?</h3><p>Su samurları için okyanus, oldukça riskli bir ortamdır. Tek başına uyuyan bir samur, köpekbalıkları veya katil balinalar gibi yırtıcılar için kolay bir hedef haline gelebilir. <strong>Rafting</strong> sayesinde samurlar büyük bir grup olarak görünürler, bu da onları potansiyel yırtıcılar için daha caydırıcı ve savunulması zor bir hedef yapar. Ayrıca bu toplu uyuma stratejisi, sosyal bağları güçlendirerek grubun birliğini korumaya yardımcı olur.</p><h3>Kelp Ormanlarının Rolü</h3><p>Deniz su samurları sadece el ele tutuşmazlar; bazen kendilerini <strong>yosun (kelp) ormanlarına</strong> sararlar. Vücutlarını dev yosun yığınlarına dolayan samurlar, böylece doğal bir çapa oluşturarak okyanusun ortasında sürüklenmeden, huzurla uyuyabilirler. Bu, onların enerjilerini korumaları için kritik bir önem taşır.</p><h3>Vücut Isısını Korumak</h3><p>Diğer deniz memelilerinin aksine, deniz su samurlarının vücutlarında onları sıcak tutacak kalın bir <strong>yağ tabakası (blubber)</strong> bulunmaz. Bunun yerine, yoğun kürklerine ve yüksek metabolizmalarına güvenirler. Gruplar halinde (raftlar oluşturarak) uyumak, birbirlerine yakın kalarak vücut ısılarını daha iyi korumalarına da olanak tanır. Bu, özellikle soğuk sularda hayatta kalmak için geliştirilmiş çok katmanlı bir adaptasyondur.</p><ul><li><strong>Sosyal Yapı:</strong> Raftlar genellikle cinsiyete göre ayrılır; erkekler ve dişiler genellikle ayrı gruplar oluşturur.</li><li><strong>Yavru Güvenliği:</strong> Anneler, yavrularını suyun üzerinde güvende tutmak için onları göğüslerinin üzerinde taşırlar ve gerekirse yosunlarla sabitlerler.</li><li><strong>Büyük Gruplar:</strong> Küçük gruplar halinde başlasalar da, bir raft bazen yüzlerce hatta binlerce bireyden oluşabilir.</li></ul>",
+    "category": "bilim",
+    "sourceName": "U.S. Department of the Interior",
+    "sourceUrl": "https://www.doi.gov/blog/12-facts-about-otters-sea-otter-awareness-week",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Deniz su samurlarının el ele tutuşarak grup halinde uyumalarına ne ad verilir?",
+        "options": [
+          "Sürüklenme",
+          "Rafting",
+          "Kelp Dansı",
+          "Isınma Bağlantısı"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Deniz su samurlarının okyanus akıntılarından korunmak ve bir arada kalmak için sergiledikleri bu davranışa 'rafting' denir."
+      },
+      {
+        "id": 2,
+        "text": "Deniz su samurlarının vücut ısılarını korumak için hangi fiziksel özelliğe sahip olmadıkları bilinir?",
+        "options": [
+          "Yoğun kürk",
+          "Yüksek metabolizma",
+          "Yağ tabakası (blubber)",
+          "Deri altı kasları"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Diğer birçok deniz memelisinin aksine deniz su samurlarında onları sıcak tutacak kalın bir yağ tabakası bulunmaz."
+      },
+      {
+        "id": 3,
+        "text": "Deniz su samurları akıntıya kapılmamak için el ele tutuşmanın dışında neyi 'çapa' olarak kullanırlar?",
+        "options": [
+          "Okyanus tabanındaki kayaları",
+          "Diğer deniz canlılarını",
+          "Kelp (yosun) ormanlarını",
+          "Mercan kayalıklarını"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Samurlar bazen kendilerini yosun (kelp) yığınlarına sararak okyanusun ortasında sürüklenmeden durabilirler."
+      },
+      {
+        "id": 4,
+        "text": "Deniz su samurlarının raftlar oluşturmasının temel amaçlarından biri aşağıdakilerden hangisidir?",
+        "options": [
+          "Yırtıcılara karşı daha caydırıcı görünmek",
+          "Daha kolay yemek bulmak",
+          "Hızla yüzmek için organize olmak",
+          "Sadece oyun oynamak"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Grup halinde olmak, tek bir samura göre yırtıcılar için daha zorlu ve caydırıcı bir hedef oluşturur."
+      }
+    ]
   }
 ];

@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 02 Jul 2026 16:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 11:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Deniz Su Samurları Neden El Ele Tutuşur? Doğanın Mühendislik Harikası Bir Hayatta Kalma Stratejisi</title>
+      <link>https://genelkultur.com.tr/test/deniz-su-samurlari-neden-el-ele-tutusur-doganin-muhendislik-harikasi-bir-hayatta-kalma-stratejisi</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/deniz-su-samurlari-neden-el-ele-tutusur-doganin-muhendislik-harikasi-bir-hayatta-kalma-stratejisi</guid>
+      <pubDate>Fri, 03 Jul 2026 11:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Deniz su samurlarını sırtüstü yatıp el ele tutuşarak uyurken görmek, doğadaki en sempatik görüntülerden biri olarak kabul edilir. Ancak bu davranış, romantik bir bağdan ziyade, okyanusun acımasız koşullarında hayatta kalmak için geliştirilmiş zekice bir yöntemdir.</description>
+    </item>
     <item>
       <title>Çıplak Ayakla Buzun Üzerinde: Penguenler Nasıl Donmadan Durabiliyor?</title>
       <link>https://genelkultur.com.tr/test/ciplak-ayakla-buzun-uzerinde-penguenler-nasil-donmadan-durabiliyor</link>
@@ -158,14 +166,6 @@
       <pubDate>Thu, 25 Jun 2026 11:00:00 GMT</pubDate>
       <category>teknoloji</category>
       <description>Çin&apos;in Dalian kentinde düzenlenen &apos;Yaz Davos&apos;u&apos; etkinliğinde, Dünya Ekonomik Forumu tarafından hazırlanan 2026 yılının en kritik 10 gelişen teknolojisi raporu dünyaya duyuruldu. Artık sadece yazılım dünyasında kalmayan yapay zekanın, fiziksel sistemlere entegre olarak enerji, tıp ve endüstriyel üretimde başlattığı sessiz devrim resmen onaylandı.</description>
-    </item>
-    <item>
-      <title>Dijital Göçebeler İçin Yolun Sonu mu? Avrupa’nın İki Devinden Yeni Vize Düzenlemesi</title>
-      <link>https://genelkultur.com.tr/test/dijital-gocebeler-icin-yolun-sonu-mu-avrupanin-iki-devinden-yeni-vize-duzenlemesi</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/dijital-gocebeler-icin-yolun-sonu-mu-avrupanin-iki-devinden-yeni-vize-duzenlemesi</guid>
-      <pubDate>Wed, 24 Jun 2026 11:00:00 GMT</pubDate>
-      <category>dunya</category>
-      <description>Avrupa&apos;da uzaktan çalışma hayali kuran milyonlarca profesyonel için dengeler değişiyor. İspanya ve Portekiz, popüler dijital göçebe vizelerinde vergi avantajlarını yeniden yapılandırarak daha sıkı şartlar getirme kararı aldı.</description>
     </item>
   </channel>
 </rss>
