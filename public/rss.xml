@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 03 Jul 2026 11:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 16:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Okyanusun Ortasında Susuzluktan Ölmek: Deniz Suyu Neden İçilemez?</title>
+      <link>https://genelkultur.com.tr/test/okyanusun-ortasinda-susuzluktan-olmek-deniz-suyu-neden-icilemez</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/okyanusun-ortasinda-susuzluktan-olmek-deniz-suyu-neden-icilemez</guid>
+      <pubDate>Fri, 03 Jul 2026 16:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Dünyamızın %70&apos;inden fazlası suyla kaplı olsa da, okyanuslardaki bu devasa kaynak insanlar için doğrudan bir yaşam kaynağı değildir. Aksine, susuz kaldığınız bir durumda deniz suyu içmek, vücudunuzdaki su kaybını hızlandırarak sizi ölüme bir adım daha yaklaştırır.</description>
+    </item>
     <item>
       <title>Deniz Su Samurları Neden El Ele Tutuşur? Doğanın Mühendislik Harikası Bir Hayatta Kalma Stratejisi</title>
       <link>https://genelkultur.com.tr/test/deniz-su-samurlari-neden-el-ele-tutusur-doganin-muhendislik-harikasi-bir-hayatta-kalma-stratejisi</link>
@@ -158,14 +166,6 @@
       <pubDate>Thu, 25 Jun 2026 16:00:00 GMT</pubDate>
       <category>teknoloji</category>
       <description>Gıda teknolojisinde uzun süredir beklenen büyük atılım gerçekleşti. Hücresel tarım yöntemiyle laboratuvar ortamında üretilen gerçek et, dünya genelinde büyük market zincirlerinde satışa sunularak sofralarda yeni bir dönemin kapılarını araladı.</description>
-    </item>
-    <item>
-      <title>Dünyayı Değiştirecek 10 Buluş: 2026&apos;nın Teknoloji Yol Haritası Şekilleniyor</title>
-      <link>https://genelkultur.com.tr/test/dunyayi-degistirecek-10-bulus-2026nin-teknoloji-yol-haritasi-sekilleniyor</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/dunyayi-degistirecek-10-bulus-2026nin-teknoloji-yol-haritasi-sekilleniyor</guid>
-      <pubDate>Thu, 25 Jun 2026 11:00:00 GMT</pubDate>
-      <category>teknoloji</category>
-      <description>Çin&apos;in Dalian kentinde düzenlenen &apos;Yaz Davos&apos;u&apos; etkinliğinde, Dünya Ekonomik Forumu tarafından hazırlanan 2026 yılının en kritik 10 gelişen teknolojisi raporu dünyaya duyuruldu. Artık sadece yazılım dünyasında kalmayan yapay zekanın, fiziksel sistemlere entegre olarak enerji, tıp ve endüstriyel üretimde başlattığı sessiz devrim resmen onaylandı.</description>
     </item>
   </channel>
 </rss>

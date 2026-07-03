@@ -1486,5 +1486,76 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Grup halinde olmak, tek bir samura göre yırtıcılar için daha zorlu ve caydırıcı bir hedef oluşturur."
       }
     ]
+  },
+  {
+    "slug": "okyanusun-ortasinda-susuzluktan-olmek-deniz-suyu-neden-icilemez",
+    "dateId": "2026-07-03T19:00:00+03:00",
+    "imageUrl": "/images/news/okyanusun-ortasinda-susuzluktan-olmek-deniz-suyu-neden-icilemez.webp",
+    "title": "Deniz Suyu Neden İçilmez? Vücudunuzdaki Ölümcül Döngü | Genel Kültür",
+    "description": "Etrafımız sularla çevrili olmasına rağmen neden deniz suyu içemiyoruz? Deniz suyu içmenin vücutta yarattığı şaşırtıcı ve tehlikeli dehidrasyon sürecini keşfedin.",
+    "keywords": [
+      "deniz suyu",
+      "dehidrasyon",
+      "insan fizyolojisi",
+      "böbrek fonksiyonları",
+      "bilimsel gerçekler",
+      "tuz dengesi"
+    ],
+    "heading": "Okyanusun Ortasında Susuzluktan Ölmek: Deniz Suyu Neden İçilemez?",
+    "intro": "Dünyamızın %70'inden fazlası suyla kaplı olsa da, okyanuslardaki bu devasa kaynak insanlar için doğrudan bir yaşam kaynağı değildir. Aksine, susuz kaldığınız bir durumda deniz suyu içmek, vücudunuzdaki su kaybını hızlandırarak sizi ölüme bir adım daha yaklaştırır.",
+    "article": "<p>İnsan vücudu, hayati fonksiyonlarını sürdürebilmek için kandaki tuz oranını oldukça hassas bir dengede tutmak zorundadır. Deniz suyundaki tuz oranı, insan kanındaki tuz oranının yaklaşık <strong>üç ila dört katı</strong> kadardır. Bir kişi deniz suyu içtiğinde, vücuduna giren bu yoğun tuz miktarı, kanın kimyasını aniden değiştirir ve vücudun su dengesini altüst eder.</p><h3>Böbreklerin İmkansız Görevi</h3><p>Böbreklerimizin temel görevi, kanı filtreleyerek vücuttaki atıkları ve fazla tuzu idrar yoluyla dışarı atmaktır. Ancak böbrekler, kanımızdan daha tuzlu bir sıvı üretemezler. Bu biyolojik sınırlama nedeniyle, deniz suyundan aldığınız yüksek miktardaki tuzu vücudunuzdan atabilmek için böbreklerinizin, içtiğiniz deniz suyundan <strong>daha fazla</strong> tatlı suya ihtiyacı vardır. Sonuç olarak, deniz suyu içmek sizi nemlendirmek yerine, hücrelerinizdeki mevcut suyu çekerek vücudunuzdan daha fazla su kaybına neden olur.</p><h3>Hücresel Seviyede Kuruma</h3><p>Deniz suyundaki yüksek tuz derişimi, ozmoz prensibi gereği hücrelerinizdeki suyun dışarı çıkmasına neden olur. Hücre dışındaki sıvı yoğunluğu arttıkça, vücudunuz dengeyi kurmak için hücre içindeki suyu kan dolaşımına çeker. Bu süreç, hücrelerin büzüşmesine ve hayati organların işlevlerini yitirmesine yol açar. Dehidrasyon (sıvı kaybı) süreci hızlanırken, kişi kendini daha şiddetli bir susuzluk hissi içinde bulur ve bu durum ölümcül bir döngüye dönüşür.</p><ul><li><strong>Tuz Zehirlenmesi:</strong> Kanda biriken aşırı tuz, ciddi sağlık sorunlarına ve bilinç kaybına yol açar.</li><li><strong>İdrar Üretimi:</strong> Vücut, tuzu atmak için daha fazla su harcadığından şiddetli dehidrasyon baş gösterir.</li><li><strong>Organ Yetmezliği:</strong> Uzun süreli su kaybı ve tuz yükü böbrek yetmezliğine davetiye çıkarır.</li></ul><p>Sonuç olarak, deniz memelileri veya deniz kuşları gibi özel biyolojik adaptasyonlara (örneğin burnundaki özel bezler sayesinde tuzu ayrıştıran kuşlar) sahip olmayan insanlar, deniz suyunu içilebilir bir kaynak olarak kullanamazlar. Bu yüzden, susuzlukla mücadelede en güvenli yol, her zaman tatlı su kaynaklarına erişim sağlamaktır.</p>",
+    "category": "bilim",
+    "sourceName": "TÜBİTAK Bilim Genç",
+    "sourceUrl": "https://bilimgenc.tubitak.gov.tr/makale/deniz-suyundan-icme-suyu-elde-edilirken-cevre-nasil-etkilenir",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Deniz suyunun insan vücudu için içilemez olmasının temel nedeni nedir?",
+        "options": [
+          "Deniz suyunun çok soğuk olması",
+          "İçindeki yüksek tuz oranının vücudun su dengesini bozması",
+          "Deniz suyunun içerisinde oksijen bulunmaması",
+          "Deniz suyunun midede sindirilememesi"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Deniz suyu, kanımızdan çok daha tuzlu olduğu için vücut bu tuzu atmak adına mevcut tatlı suyunu da harcar ve şiddetli dehidrasyona neden olur."
+      },
+      {
+        "id": 2,
+        "text": "Böbreklerimiz neden deniz suyundaki tuzu kolayca atamaz?",
+        "options": [
+          "Böbrekler sadece şekerli sıvıları süzebilir",
+          "Böbrekler kanımızdan daha tuzlu bir idrar üretemez",
+          "Böbreklerimiz deniz suyunu filtreleyecek kadar hızlı çalışamaz",
+          "Deniz suyundaki tuz böbrek kanallarını anında tıkar"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Böbrekler tuzu süzmek için su kullanır; ancak deniz suyundaki tuz yoğunluğu o kadar yüksektir ki, onu atmak için harcanan su, içilen deniz suyunun hacminden fazladır."
+      },
+      {
+        "id": 3,
+        "text": "Deniz suyu içmek hücrelerimizi nasıl etkiler?",
+        "options": [
+          "Hücrelerin su çekerek şişmesine neden olur",
+          "Hücrelerin içerisindeki suyun dışarı çıkmasına ve büzüşmesine neden olur",
+          "Hücre zarını tamamen yok eder",
+          "Hücrelerin bölünmesini hızlandırır"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Ozmoz prensibi gereği, hücre dışındaki aşırı tuzlu ortam, hücre içindeki suyun dışarı çıkmasına ve hücrenin büzüşmesine neden olur."
+      },
+      {
+        "id": 4,
+        "text": "Bazı deniz kuşlarının deniz suyu içebilmesinin nedeni nedir?",
+        "options": [
+          "İnsanlardan farklı, tuzu ayrıştıran özel biyolojik bezlere sahip olmaları",
+          "Onların vücutlarının tuz oranının okyanusla aynı olması",
+          "Deniz suyunu içmeden önce özel bir salgıyla arıtmaları",
+          "Daha fazla su içmeye ihtiyaç duymamaları"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Deniz kuşları ve bazı deniz memelileri, tuz dengesini korumak için burunlarında veya vücutlarında fazla tuzu atan özel mekanizmalara sahiptir."
+      }
+    ]
   }
 ];
