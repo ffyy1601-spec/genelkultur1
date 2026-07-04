@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 03 Jul 2026 16:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 10:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Gözleriniz Sizi Kandırıyor mu? Göz Renginin Hiç Duymadığınız Sırları</title>
+      <link>https://genelkultur.com.tr/test/gozleriniz-sizi-kandiriyor-mu-goz-renginin-hic-duymadiginiz-sirlari</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/gozleriniz-sizi-kandiriyor-mu-goz-renginin-hic-duymadiginiz-sirlari</guid>
+      <pubDate>Sat, 04 Jul 2026 10:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Göz renginizin hayatınız boyunca sabit kaldığını düşünüyorsanız yanılıyorsunuz; aslında bu renk, yaşam boyu değişebilen dinamik bir yapıya sahip. Melanin pigmentinin vücudumuzdaki dansı, sadece tenimizi değil, dünyaya açılan pencerelerimiz olan gözlerimizi de sürekli dönüştürüyor.</description>
+    </item>
     <item>
       <title>Okyanusun Ortasında Susuzluktan Ölmek: Deniz Suyu Neden İçilemez?</title>
       <link>https://genelkultur.com.tr/test/okyanusun-ortasinda-susuzluktan-olmek-deniz-suyu-neden-icilemez</link>
@@ -158,14 +166,6 @@
       <pubDate>Fri, 26 Jun 2026 11:00:00 GMT</pubDate>
       <category>teknoloji</category>
       <description>26 Haziran 2026 itibarıyla Türkiye&apos;de dijitalleşen yaşamın yasal karşılığı olan &apos;Dijital Miras&apos; yasası yürürlüğe girdi. Artık sosyal medya hesaplarından dijital varlıklara kadar tüm verileriniz, vefatınız durumunda varislerinize yasal bir zeminde devredilebilecek.</description>
-    </item>
-    <item>
-      <title>Marketlerde Yeni Dönem: Laboratuvarda Üretilen &apos;Sürdürülebilir&apos; Et Raflara İndi</title>
-      <link>https://genelkultur.com.tr/test/marketlerde-yeni-donem-laboratuvarda-uretilen-surdurulebilir-et-raflara-indi</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/marketlerde-yeni-donem-laboratuvarda-uretilen-surdurulebilir-et-raflara-indi</guid>
-      <pubDate>Thu, 25 Jun 2026 16:00:00 GMT</pubDate>
-      <category>teknoloji</category>
-      <description>Gıda teknolojisinde uzun süredir beklenen büyük atılım gerçekleşti. Hücresel tarım yöntemiyle laboratuvar ortamında üretilen gerçek et, dünya genelinde büyük market zincirlerinde satışa sunularak sofralarda yeni bir dönemin kapılarını araladı.</description>
     </item>
   </channel>
 </rss>

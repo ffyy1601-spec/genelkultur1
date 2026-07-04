@@ -44,4 +44,15 @@
       <news:title>Okyanusun Ortasında Susuzluktan Ölmek: Deniz Suyu Neden İçilemez?</news:title>
     </news:news>
   </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/gozleriniz-sizi-kandiriyor-mu-goz-renginin-hic-duymadiginiz-sirlari/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-04T10:00:00.000Z</news:publication_date>
+      <news:title>Gözleriniz Sizi Kandırıyor mu? Göz Renginin Hiç Duymadığınız Sırları</news:title>
+    </news:news>
+  </url>
 </urlset>

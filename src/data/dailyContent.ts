@@ -1557,5 +1557,76 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Deniz kuşları ve bazı deniz memelileri, tuz dengesini korumak için burunlarında veya vücutlarında fazla tuzu atan özel mekanizmalara sahiptir."
       }
     ]
+  },
+  {
+    "slug": "gozleriniz-sizi-kandiriyor-mu-goz-renginin-hic-duymadiginiz-sirlari",
+    "dateId": "2026-07-04T13:00:00+03:00",
+    "imageUrl": "/images/news/gozleriniz-sizi-kandiriyor-mu-goz-renginin-hic-duymadiginiz-sirlari.webp",
+    "title": "Göz Renginiz Gerçekten Değişebilir mi? | Bilimsel Gerçekler",
+    "description": "Göz renginin sadece genetik olduğu sanılır ancak bilim aksini söylüyor. Göz renginin zamanla neden değişebileceğini ve bu değişimin ardındaki şaşırtıcı sebepleri keşfedin.",
+    "keywords": [
+      "göz rengi",
+      "melanin",
+      "iris",
+      "göz rengi değişimi",
+      "heterokromi",
+      "bilimsel gerçekler"
+    ],
+    "heading": "Gözleriniz Sizi Kandırıyor mu? Göz Renginin Hiç Duymadığınız Sırları",
+    "intro": "Göz renginizin hayatınız boyunca sabit kaldığını düşünüyorsanız yanılıyorsunuz; aslında bu renk, yaşam boyu değişebilen dinamik bir yapıya sahip. Melanin pigmentinin vücudumuzdaki dansı, sadece tenimizi değil, dünyaya açılan pencerelerimiz olan gözlerimizi de sürekli dönüştürüyor.",
+    "article": "<p>İnsan gözünün rengi, temelde irisin içinde bulunan <strong>melanin</strong> adlı pigmentin miktarına ve dağılımına bağlıdır. Kahverengi gözlerde melanin yoğunluğu oldukça yüksekken, mavi veya yeşil gözlerde bu pigment çok daha az bulunur. Genetik kodlarımızla başlayan bu süreç, aslında yaşam boyu süren aktif bir biyolojik etkileşimin sonucudur.</p><h3>Bebeklikten Yetişkinliğe Renk Dönüşümü</h3><p>Birçok bebek dünyaya açık renkli gözlerle gelir. Bunun nedeni, doğum anında iris dokusundaki melanin üretiminin henüz tamamlanmamış olmasıdır. Bebeklikten itibaren geçen ilk birkaç yıl içinde, vücut melanin üretmeye devam ettikçe gözler genellikle daha koyu tonlara bürünür. Bu, genetik programın bir parçası olan doğal bir olgunlaşma sürecidir.</p><h3>Göz Rengi Neden Anlık Değişiyormuş Gibi Görünür?</h3><p>Birçok kişi heyecanlandığında, öfkelendiğinde veya üzüldüğünde gözlerinin renk değiştirdiğini iddia eder. Aslında bu durum gerçek bir renk değişiminden ziyade, <strong>göz bebeği genişlemesi</strong> ile ilgilidir. Duygusal yoğunluk sırasında göz bebekleri büyür veya küçülür; bu durum iristeki pigmentlerin birbirine sıkışmasına veya yayılmasına neden olarak göz renginin farklı algılanmasına yol açar. Ayrıca ortamdaki ışık miktarı ve giydiğiniz kıyafetlerin yansıması da göz renginizi olduğundan daha farklı görmenize neden olan dışsal faktörlerdir.</p><h3>Tıbbi Nedenler ve Heterokromi</h3><p>Göz rengindeki değişimler bazen doğal süreçlerin ötesine geçebilir. Bazı bireylerde iki gözün farklı renkte olması veya tek bir göz içinde farklı renk alanlarının bulunması durumu <strong>heterokromi</strong> olarak adlandırılır. Bu durum doğuştan gelebileceği gibi, ilerleyen yaşlarda geçirilen göz travmaları, bazı glokom ilaçları veya çeşitli iris hastalıkları sonucunda da ortaya çıkabilir. Eğer göz renginizde aniden belirgin ve kalıcı bir değişim fark ederseniz, bu durum göz sağlığınızla ilgili bir uyarı işareti olabilir.</p><ul><li><strong>Melanin:</strong> Göz rengini belirleyen temel pigment.</li><li><strong>Işık Kırılması:</strong> Pigmentin az olduğu gözlerde ışığın saçılması mavi tonları yaratır.</li><li><strong>Yaşlanma:</strong> Bazı yetişkinlerde yaşla birlikte melanin kaybına bağlı olarak göz renginde açılmalar görülebilir.</li></ul>",
+    "category": "bilim",
+    "sourceName": "TÜBİTAK Bilim Genç",
+    "sourceUrl": "https://bilimgenc.tubitak.gov.tr/makale/iki-gozun-farkli-renkte-olmasinin-sebebi-nedir",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Göz rengini belirleyen ve iriste bulunan ana pigment hangisidir?",
+        "options": [
+          "Keratin",
+          "Melanin",
+          "Hemoglobin",
+          "Klorofil"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Göz rengini belirleyen temel pigment melanindir; iriste melanin miktarı arttıkça göz rengi koyulaşır."
+      },
+      {
+        "id": 2,
+        "text": "Bebeklerin gözlerinin genellikle mavi doğup sonradan koyulaşmasının temel nedeni nedir?",
+        "options": [
+          "Işık yansıması",
+          "Göz bebeği büyümesi",
+          "Melanin üretiminin zamanla artması",
+          "Beslenme alışkanlıkları"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bebeklerde melanin üretimi doğumdan sonra zamanla geliştiği için göz rengi genellikle ilerleyen aylarda koyulaşır."
+      },
+      {
+        "id": 3,
+        "text": "Duygusal değişimler sırasında göz renginin geçici olarak değişiyormuş gibi görünmesinin temel sebebi nedir?",
+        "options": [
+          "İrisin kendini boyaması",
+          "Göz bebeğinin boyut değiştirmesi",
+          "Gözyaşı kanallarının değişimi",
+          "Retinanın renginin değişmesi"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Duygusal tepkilerle göz bebeği büyüyüp küçülür, bu da iristeki pigmentlerin sıkışıp yayılmasına ve farklı görünmesine yol açar."
+      },
+      {
+        "id": 4,
+        "text": "Heterokromi nedir?",
+        "options": [
+          "Gözlerin çok keskin görmesi",
+          "Göz renginin sürekli değişmesi",
+          "Gözlerin farklı renklerde olması veya aynı gözde renk farkı",
+          "Görme kaybı hastalığı"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Heterokromi, iki gözün birbirinden farklı renkte olması veya aynı iris içerisinde birden fazla renk tonunun bulunmasıdır."
+      }
+    ]
   }
 ];
