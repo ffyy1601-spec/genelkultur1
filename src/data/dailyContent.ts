@@ -1628,5 +1628,76 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Heterokromi, iki gözün birbirinden farklı renkte olması veya aynı iris içerisinde birden fazla renk tonunun bulunmasıdır."
       }
     ]
+  },
+  {
+    "slug": "uykuda-konusmak-beynimiz-gece-mesaisinde-neler-fisildiyor",
+    "dateId": "2026-07-04T18:00:00+03:00",
+    "imageUrl": "/images/news/uykuda-konusmak-beynimiz-gece-mesaisinde-neler-fisildiyor.webp",
+    "title": "Uykuda Konuşmanın Sırrı: Neden Sayıklıyoruz? | Genel Kültür",
+    "description": "Somniloquy yani uykuda konuşma hakkında merak edilenler: Neden uykumuzda konuşuruz, bu durum bir hastalık mıdır ve bilimsel gerçekler nelerdir?",
+    "keywords": [
+      "uykuda konuşmak",
+      "somniloquy",
+      "uyku bozuklukları",
+      "parasomnia",
+      "bilim",
+      "uyku bilimi"
+    ],
+    "heading": "Uykuda Konuşmak: Beynimiz Gece Mesaisinde Neler Fısıldıyor?",
+    "intro": "Pek çoğumuz hayatımızın bir döneminde uykusunda konuşan biriyle karşılaşmış veya kendimiz de bu ilginç deneyimi yaşamışızdır. Tıpta <strong>somniloquy</strong> olarak adlandırılan bu olgu, aslında beynin rüyalar ve anılar arasında sürdürdüğü karmaşık gece mesaisinin bir yan ürünü olabilir.",
+    "article": "<p>Uykuda konuşmak, tıp literatüründe bir <strong>parasomni</strong> türü olarak tanımlanır. Parasomniler, uyku esnasında ortaya çıkan anormal davranışları kapsayan bir gruptur. Bilimsel verilere göre, insanların büyük bir çoğunluğu hayatlarının bir evresinde uykularında en az bir kez konuşmuşlardır. Özellikle çocukluk döneminde daha sık rastlanan bu durum, yaş ilerledikçe genellikle azalma eğilimi gösterir.</p><h3>Uyku Evreleri ve Konuşma İlişkisi</h3><p>Uykuda konuşmanın gerçekleştiği evre, konuşmanın içeriğini ve anlaşılabilirliğini doğrudan etkiler. Uyku döngüsü boyunca beyin farklı evrelerden geçer. <strong>NREM</strong> (REM dışı) uykusunun 2. ve 3. evrelerinde beyin dalgaları yavaş ve ritmiktir. Bu evrelerde beynin bazı bölgeleri dinlenme halindeyken, konuşma ve ses üretimiyle ilgili motor merkezlerin kısa süreliğine uyarılması, uykuda konuşmaya yol açabilir. Araştırmacılar bu durumu, beynin konuşma motor korteksindeki kısa süreli bir <em>sızıntı</em> olarak nitelendirir.</p><h3>Neden Konuşuyoruz?</h3><p>Uykuda konuşmanın kesin ve tek bir nedeni olmasa da, bilim insanları bu durumun ardında yatan birkaç temel faktöre dikkat çeker:</p><ul><li><strong>Stres ve Kaygı:</strong> Gün içindeki yoğun duygusal yük, zihinsel aktiviteyi gece uykusuna taşıyabilir.</li><li><strong>Uyku Yoksunluğu:</strong> Düzensiz uyku alışkanlıkları ve aşırı yorgunluk, parasomnilerin görülme sıklığını artırır.</li><li><strong>Genetik Yatkınlık:</strong> Aile üyelerinde uykuda konuşma öyküsü olan bireylerde bu durumun görülme ihtimali daha yüksektir.</li><li><strong>İlaçlar ve Sağlık Durumu:</strong> Bazı ilaç kullanımları, ateşli hastalıklar veya diğer uyku bozuklukları (uyku apnesi gibi) bu davranışı tetikleyebilir.</li></ul><h3>Bilimsel Analizler Ne Diyor?</h3><p>Yapılan dilbilimsel analizler, uykuda konuşan kişilerin en çok kullandığı kelimenin <strong>“hayır”</strong> olduğunu ortaya koymuştur. İlginç bir şekilde, uykuda konuşan bireylerin cümle kurma yapıları, uyanıkken kullandıkları dile benzerlik gösterse de, uyanıkken söylemeye çekindikleri bazı ifadeleri veya küfürleri uykularında daha sık dile getirebildikleri gözlemlenmiştir. Genellikle zararsız bir durum olan somniloquy, kişinin günlük yaşamını veya partnerinin uyku kalitesini ciddi şekilde bozmadığı sürece tıbbi bir müdahale gerektirmez.</p>",
+    "category": "bilim",
+    "sourceName": "T24",
+    "sourceUrl": "https://t24.com.tr/haber/insanlar-neden-uykularinda-konusur,1273393",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Tıbbi literatürde uykuda konuşma eylemi nasıl adlandırılır?",
+        "options": [
+          "Somniloquy",
+          "Parasomni",
+          "Katatrene",
+          "REM davranışı"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Uykuda konuşmanın tıbbi karşılığı somniloquy'dir; parasomni ise uykuda görülen anormal davranışların genel adıdır."
+      },
+      {
+        "id": 2,
+        "text": "Uykuda konuşma en çok hangi yaş grubunda yaygındır?",
+        "options": [
+          "Yaşlılar",
+          "Yetişkinler",
+          "Çocuklar",
+          "Ergenler"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Uykuda konuşma çocuklarda çok daha yaygındır ve genellikle yaş ilerledikçe azalır."
+      },
+      {
+        "id": 3,
+        "text": "Uykuda konuşan insanların en sık telaffuz ettiği kelime hangisidir?",
+        "options": [
+          "Evet",
+          "Neden",
+          "Hayır",
+          "Merhaba"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Yapılan dilbilimsel çalışmalar, uykuda konuşma esnasında en sık kullanılan kelimenin 'hayır' olduğunu göstermiştir."
+      },
+      {
+        "id": 4,
+        "text": "Uykuda konuşma genellikle hangi uyku sürecinin bir parçası olarak değerlendirilir?",
+        "options": [
+          "Sadece derin uyku",
+          "Sadece REM uykusu",
+          "Parasomnia",
+          "Uyanıklık"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Uykuda konuşma, uyku sırasında gerçekleşen anormal davranışlar grubu olan parasomnilerin bir türüdür."
+      }
+    ]
   }
 ];
