@@ -1769,5 +1769,75 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Atmosferdeki gaz molekülleri, güneş ışığının kısa dalga boylu mavi kısmını her yöne saçtığı için gökyüzü mavi görünür."
       }
     ]
+  },
+  {
+    "slug": "gunese-bakinca-hapsirmak-neden-bazi-insanlar-isiga-karsi-alerjik-tepki-verir",
+    "dateId": "2026-07-05T18:00:00+03:00",
+    "imageUrl": "/images/news/gunese-bakinca-hapsirmak-neden-bazi-insanlar-isiga-karsi-alerjik-tepki-verir.webp",
+    "title": "Güneşe Bakınca Neden Hapşırırsınız? | Bilim ve İlginç Gerçekler",
+    "description": "Güneşe baktığınızda hapşırıyor musunuz? ACHOO sendromu ve fotik hapşırma refleksi nedir? İşte bu ilginç genetik durumun arkasındaki bilimsel gerçekler.",
+    "keywords": [
+      "fotik hapşırma refleksi",
+      "ACHOO sendromu",
+      "güneşe bakınca hapşırmak",
+      "genetik refleks",
+      "trigeminal sinir"
+    ],
+    "heading": "Güneşe Bakınca Hapşırmak: Neden Bazı İnsanlar Işığa Karşı 'Alerjik' Tepki Verir?",
+    "intro": "Karanlık bir odadan çıkıp parlak güneş ışığına baktığınızda kendinizi bir anda hapşırırken mi buluyorsunuz? Bu durum sadece bir tesadüf değil; bilim dünyasında 'fotik hapşırma refleksi' olarak bilinen, toplumun önemli bir kesimini etkileyen oldukça şaşırtıcı bir genetik fenomendir.",
+    "article": "<p>Birçok insan parlak ışığa maruz kaldığında hapşırma isteği duymaz, ancak dünya nüfusunun yaklaşık <strong>%18 ile %35 arasındaki</strong> bir kısmı için bu durum gündelik hayatın bir parçasıdır. Bilimsel literatürde <strong>fotik hapşırma refleksi</strong> olarak adlandırılan bu olay, halk arasında bazen <em>ACHOO sendromu</em> (Autosomal dominant Compelling Helio-Ophthalmic Outburst) olarak da anılmaktadır.</p><h3>Bu Refleksin Arkasındaki Nörolojik Bağlantı</h3><p>Hapşırma genellikle burun mukozasının tahriş olmasıyla tetiklenen koruyucu bir reflekstir. Ancak fotik hapşırmada süreç burundan değil, gözlerden başlar. Bilim insanları, gözdeki görme sinirlerinin parlak ışığı algıladığında beyne gönderdiği sinyallerin, yüzümüzdeki hislerden sorumlu olan <strong>trigeminal siniri</strong> gereğinden fazla uyarabildiğini düşünmektedir. Beyin bu sinyal karmaşasını, burunda bir tahriş varmış gibi yorumlayarak hapşırma mekanizmasını yanlışlıkla aktive eder.</p><h3>Genetik Bir Miras: ACHOO Sendromu</h3><p>Araştırmalar, bu refleksin büyük ölçüde kalıtsal olduğunu göstermektedir. <strong>Otozomal dominant</strong> bir yolla aktarıldığı düşünülen bu özellik, ebeveynlerden sadece birinde bile bulunsa, çocukta görülme ihtimali yaklaşık <strong>%50</strong> civarındadır. İsimdeki \"ACHOO\" kısaltması, bu durumun genetik bir fenomenden geldiğini vurgulayan zekice bir akademik kısaltmadır.</p><h3>Tarihin İlk \"Işıksal\" Gözlemi</h3><p>Güneşe bakınca hapşırma üzerine yapılan ilk kayıtlar oldukça eskiye dayanır. Antik Yunan filozofu <strong>Aristoteles</strong>, M.Ö. 350 civarında kaleme aldığı \"Problemler\" adlı eserinde bu durumu fark etmiş ve \"Güneşin ısısı neden hapşırığı tetikler?\" sorusunu sormuştur. Tabii ki o dönemde Aristoteles bu durumu nem ve buharlaşma ile açıklamaya çalışsa da, günümüzde olayın tamamen nörolojik bir kablolama farkından kaynaklandığını biliyoruz.</p><ul><li><strong>Kimleri etkiler?</strong> Toplumun yaklaşık üçte biri.</li><li><strong>Tetikleyici nedir?</strong> Sadece güneş ışığı değil, flaş veya parlak yapay ışıklar da tetikleyebilir.</li><li><strong>Tehlikeli mi?</strong> Genel olarak zararsızdır, ancak pilotlar veya hassas iş yapanlar için dikkat dağıtıcı olabilir.</li></ul>",
+    "category": "bilim",
+    "sourceName": "TÜBİTAK Bilim Genç",
+    "sourceUrl": "https://bilimgenc.tubitak.gov.tr/makale/gunese-baktigimizda-neden-hapsiririz",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Fotik hapşırma refleksi hangi sinirlerin beyindeki 'çapraz etkileşimi' ile ilişkilendirilir?",
+        "options": [
+          "İşitme ve koku sinirleri",
+          "Görme ve trigeminal sinirler",
+          "Dil ve tat sinirleri",
+          "Motor ve duyu sinirleri"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Fotik hapşırma refleksi, görme sinirlerinden gelen parlak ışık sinyallerinin trigeminal siniri yanlışlıkla uyarması sonucu gerçekleşir."
+      },
+      {
+        "id": 2,
+        "text": "Fotik hapşırma refleksine sahip bir ebeveynin çocuğunda bu özelliğin görülme olasılığı yaklaşık nedir?",
+        "options": [
+          "%10",
+          "%25",
+          "%50",
+          "%100"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bu refleks otozomal dominant (baskın) yolla aktarılır; bu nedenle ebeveynlerden birinde varsa, çocukta görülme ihtimali %50'dir."
+      },
+      {
+        "id": 3,
+        "text": "ACHOO sendromu ismindeki kısaltma neyi ifade eder?",
+        "options": [
+          "Sadece güneş ışığını ifade eder",
+          "Tıbbi ve genetik bir tanımlamayı ifade eder",
+          "Hapşırma sesini taklit eden bir şakadır",
+          "Acil müdahale gerektiren bir durumdur"
+        ],
+        "correctAnswer": 1,
+        "explanation": "ACHOO, 'Autosomal dominant Compelling Helio-Ophthalmic Outburst' ifadesinin kısaltmasıdır ve bilimsel bir terimdir."
+      },
+      {
+        "id": 4,
+        "text": "Fotik hapşırma refleksi üzerine tarihte bilinen ilk soruyu soran kişi kimdir?",
+        "options": [
+          "Francis Bacon",
+          "Sedan",
+          "Aristoteles",
+          "Nicholas Langer"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Antik Yunan filozofu Aristoteles, M.Ö. 350 yıllarında güneşin hapşırığı nasıl tetiklediğini sorgulayan ilk kişidir."
+      }
+    ]
   }
 ];

@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 05 Jul 2026 10:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 15:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Güneşe Bakınca Hapşırmak: Neden Bazı İnsanlar Işığa Karşı &apos;Alerjik&apos; Tepki Verir?</title>
+      <link>https://genelkultur.com.tr/test/gunese-bakinca-hapsirmak-neden-bazi-insanlar-isiga-karsi-alerjik-tepki-verir</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/gunese-bakinca-hapsirmak-neden-bazi-insanlar-isiga-karsi-alerjik-tepki-verir</guid>
+      <pubDate>Sun, 05 Jul 2026 15:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Karanlık bir odadan çıkıp parlak güneş ışığına baktığınızda kendinizi bir anda hapşırırken mi buluyorsunuz? Bu durum sadece bir tesadüf değil; bilim dünyasında &apos;fotik hapşırma refleksi&apos; olarak bilinen, toplumun önemli bir kesimini etkileyen oldukça şaşırtıcı bir genetik fenomendir.</description>
+    </item>
     <item>
       <title>Gözlerimiz Bizi Kandırıyor mu? Doğadaki &apos;Gerçek Mavi&apos;nin Şaşırtıcı Sırrı</title>
       <link>https://genelkultur.com.tr/test/gozlerimiz-bizi-kandiriyor-mu-dogadaki-gercek-mavinin-sasirtici-sirri</link>
@@ -158,14 +166,6 @@
       <pubDate>Sat, 27 Jun 2026 09:00:00 GMT</pubDate>
       <category>bilim</category>
       <description>Arkeoloji dünyasında çığır açan bir gelişme yaşandı. Bugüne kadar içindeki metni okumak için fiziksel olarak parçalanması gereken mühürlü kil zarflar, yeni geliştirilen ENCI teknolojisi sayesinde zarar görmeden çözümleniyor.</description>
-    </item>
-    <item>
-      <title>İşlemcilerde Atomik Dönem: IBM&apos;den Dünyanın İlk Sub-1 Nanometre Çipi!</title>
-      <link>https://genelkultur.com.tr/test/islemcilerde-atomik-donem-ibmden-dunyanin-ilk-sub-1-nanometre-cipi</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/islemcilerde-atomik-donem-ibmden-dunyanin-ilk-sub-1-nanometre-cipi</guid>
-      <pubDate>Sat, 27 Jun 2026 09:00:00 GMT</pubDate>
-      <category>teknoloji</category>
-      <description>Teknoloji dünyası, IBM&apos;in dün açıkladığı ve sınırları zorlayan &apos;sub-1 nanometre&apos; çip teknolojisi ile adeta sarsıldı. Geleneksel silikon sınırlarını aşan bu buluş, bilgisayarlarımızın geleceğini yeniden yazmaya hazırlanıyor.</description>
     </item>
   </channel>
 </rss>

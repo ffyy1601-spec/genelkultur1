@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://genelkultur.com.tr/test/deniz-su-samurlari-neden-el-ele-tutusur-doganin-muhendislik-harikasi-bir-hayatta-kalma-stratejisi/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenelKültür Haber</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-03T11:00:00.000Z</news:publication_date>
-      <news:title>Deniz Su Samurları Neden El Ele Tutuşur? Doğanın Mühendislik Harikası Bir Hayatta Kalma Stratejisi</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://genelkultur.com.tr/test/okyanusun-ortasinda-susuzluktan-olmek-deniz-suyu-neden-icilemez/</loc>
     <news:news>
       <news:publication>
@@ -53,6 +42,17 @@
       </news:publication>
       <news:publication_date>2026-07-05T10:00:00.000Z</news:publication_date>
       <news:title>Gözlerimiz Bizi Kandırıyor mu? Doğadaki &apos;Gerçek Mavi&apos;nin Şaşırtıcı Sırrı</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/gunese-bakinca-hapsirmak-neden-bazi-insanlar-isiga-karsi-alerjik-tepki-verir/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-05T15:00:00.000Z</news:publication_date>
+      <news:title>Güneşe Bakınca Hapşırmak: Neden Bazı İnsanlar Işığa Karşı &apos;Alerjik&apos; Tepki Verir?</news:title>
     </news:news>
   </url>
 </urlset>
