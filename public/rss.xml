@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 04 Jul 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 10:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Gözlerimiz Bizi Kandırıyor mu? Doğadaki &apos;Gerçek Mavi&apos;nin Şaşırtıcı Sırrı</title>
+      <link>https://genelkultur.com.tr/test/gozlerimiz-bizi-kandiriyor-mu-dogadaki-gercek-mavinin-sasirtici-sirri</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/gozlerimiz-bizi-kandiriyor-mu-dogadaki-gercek-mavinin-sasirtici-sirri</guid>
+      <pubDate>Sun, 05 Jul 2026 10:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Doğaya baktığınızda yeşil yapraklar, kahverengi topraklar ve sarı çiçekler her yerdedir ancak &apos;gerçek&apos; mavi renk neredeyse bir hayalet gibidir. Birçok kişi mavi bir kuş ya da çiçek gördüğünü sanır, ancak aslında doğada gerçek bir mavi pigment neredeyse hiç bulunmaz.</description>
+    </item>
     <item>
       <title>Uykuda Konuşmak: Beynimiz Gece Mesaisinde Neler Fısıldıyor?</title>
       <link>https://genelkultur.com.tr/test/uykuda-konusmak-beynimiz-gece-mesaisinde-neler-fisildiyor</link>
@@ -158,14 +166,6 @@
       <pubDate>Sat, 27 Jun 2026 09:00:00 GMT</pubDate>
       <category>teknoloji</category>
       <description>Teknoloji dünyası, IBM&apos;in dün açıkladığı ve sınırları zorlayan &apos;sub-1 nanometre&apos; çip teknolojisi ile adeta sarsıldı. Geleneksel silikon sınırlarını aşan bu buluş, bilgisayarlarımızın geleceğini yeniden yazmaya hazırlanıyor.</description>
-    </item>
-    <item>
-      <title>Zihin Gücüyle Dijital Dünya: Türkiye&apos;de İlk &apos;Nexus-1&apos; Beyin Arayüzü Başarıyla Uygulandı</title>
-      <link>https://genelkultur.com.tr/test/zihin-gucuyle-dijital-dunya-turkiyede-ilk-nexus-1-beyin-arayuzu-basariyla-uygulandi</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/zihin-gucuyle-dijital-dunya-turkiyede-ilk-nexus-1-beyin-arayuzu-basariyla-uygulandi</guid>
-      <pubDate>Fri, 26 Jun 2026 16:00:00 GMT</pubDate>
-      <category>teknoloji</category>
-      <description>Modern tıbbın ve teknolojinin sınırları bir kez daha zorlandı. İstanbul&apos;daki bir araştırma hastanesinde, beyin sinyallerini doğrudan dijital cihazlara aktarabilen &apos;Nexus-1&apos; adlı devrimsel cihaz, Türkiye&apos;de ilk kez bir hasta üzerinde başarıyla test edildi.</description>
     </item>
   </channel>
 </rss>
