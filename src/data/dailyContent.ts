@@ -1909,5 +1909,76 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Refleks genellikle karanlık bir yerden parlak bir ortama çıkmak gibi ışık şiddetindeki ani değişimlerde tetiklenir."
       }
     ]
+  },
+  {
+    "slug": "muzlarin-gizli-sirri-neden-radyoaktif-meyveler-olarak-bilinirler",
+    "dateId": "2026-07-06T20:00:00+03:00",
+    "imageUrl": "/images/news/muzlarin-gizli-sirri-neden-radyoaktif-meyveler-olarak-bilinirler.webp",
+    "title": "Muzlar Neden Radyoaktiftir? Şaşırtıcı Bilimsel Gerçek | Genel Kültür",
+    "description": "Günlük hayatımızın vazgeçilmezi muzların aslında radyoaktif olduğunu biliyor muydunuz? Muzdaki radyasyonun gizemini ve bilim dünyasındaki yerini keşfedin.",
+    "keywords": [
+      "muz",
+      "radyoaktivite",
+      "potasyum-40",
+      "bilimsel gerçekler",
+      "muz eşdeğer dozu",
+      "doğal radyasyon"
+    ],
+    "heading": "Muzların Gizli Sırrı: Neden 'Radyoaktif' Meyveler Olarak Bilinirler?",
+    "intro": "Mutfaklarımızın en sevilen meyvelerinden biri olan muz, şaşırtıcı bir bilimsel özelliğe sahiptir: Doğal olarak radyoaktiftir. Ancak endişelenmeyin; bu durum, sağlıklı bir besin olmasının önüne geçmediği gibi, aslında doğadaki radyasyonun her yerde olduğunun en somut kanıtlarından biridir.",
+    "article": "<p>Muzun radyoaktif olmasının temel nedeni, içerisinde bol miktarda bulunan <strong>potasyum</strong> mineralidir. Potasyum, insan vücudu için sinir iletimi, kas kasılması ve kalp fonksiyonlarının düzenlenmesi adına vazgeçilmez bir elementtir. Doğada bulunan potasyumun çok küçük bir kısmı, yaklaşık %0,0117'si, <strong>Potasyum-40</strong> adı verilen radyoaktif bir izotoptur. İşte muzun \"radyoaktif\" olarak nitelendirilmesinin sebebi de bu izotopun kararsız yapısıdır.</p><h3>Radyoaktivite Neden Tehlikeli Değildir?</h3><p>Radyasyon denildiğinde akla genellikle tehlikeli nükleer sızıntılar gelse de, muzdan yayılan radyasyon miktarı son derece ihmal edilebilir düzeydedir. Bilimsel kaynaklara göre, ortalama bir muz yaklaşık 0,1 mikrosievert (μSv) radyasyon içerir. Bu miktar, günlük hayatta maruz kaldığımız doğal arka plan radyasyonunun veya bir uçak yolculuğu sırasında alınan radyasyonun çok altında kalmaktadır.</p><h3>Muz Eşdeğer Dozu Nedir?</h3><p>Bilim insanları, radyasyon dozlarını daha anlaşılır hale getirmek için <strong>\"Muz Eşdeğer Dozu\" (Banana Equivalent Dose - BED)</strong> adında gayri resmi bir birim kullanırlar. Bu, bir muz tüketildiğinde alınan radyasyon miktarı baz alınarak yapılan bir karşılaştırmadır. Örneğin, bir göğüs röntgeni çekildiğinde maruz kalınan radyasyon, yaklaşık 1.000 adet muzun yaydığı radyasyona eşdeğerdir. Bu ölçek, halkın radyasyon seviyelerini kıyaslarken güvenli doz kavramını daha iyi anlamasına yardımcı olur.</p><h3>İnsan Vücudu da Radyoaktif midir?</h3><p>Şaşırtıcı bir diğer gerçek ise sadece muzların değil, <strong>insan vücudunun da radyoaktif olmasıdır</strong>. İnsan organizması yaşamını sürdürmek için potasyuma ihtiyaç duyduğundan ve doğadaki potasyumun içinde radyoaktif izotoplar bulunduğundan, bizler de doğal olarak küçük miktarlarda radyasyon yayarız. Yani vücudumuzdaki potasyum seviyesi, tıpkı muzlarda olduğu gibi hafif bir radyasyon kaynağıdır. Özetle, muz tüketimi radyasyon riski oluşturmaz; aksine, vücudumuzun ihtiyacı olan mineralleri sağlayan sağlıklı bir besindir.</p>",
+    "category": "bilim",
+    "sourceName": "Evrim Ağacı",
+    "sourceUrl": "https://evrimagaci.org/muzlar-gercekten-radyoaktif-meyveler-mi-muz-yemek-sizi-oldurebilir-mi-12628",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Muzların radyoaktif özellik göstermesinin ana nedeni hangisidir?",
+        "options": [
+          "Muzun içine dışarıdan enjekte edilen maddeler",
+          "Muzun içerdiği Potasyum-40 izotopu",
+          "Muzun yetiştiği toprağın kirliliği",
+          "Muzun kabuğundaki kimyasal koruyucular"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Muzlar, vücut için hayati öneme sahip potasyumun radyoaktif bir izotopu olan Potasyum-40 içerdikleri için hafif radyoaktiftirler."
+      },
+      {
+        "id": 2,
+        "text": "Bilim insanlarının radyasyon dozlarını karşılaştırmak için kullandığı gayri resmi birim nedir?",
+        "options": [
+          "Sievert Eşdeğer Birimi",
+          "Atomik Muz Ölçeği",
+          "Muz Eşdeğer Dozu",
+          "Potasyum Radyasyon Katsayısı"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bilim dünyasında radyasyon miktarlarını kıyaslamak için 'Muz Eşdeğer Dozu' (Banana Equivalent Dose) kavramı kullanılır."
+      },
+      {
+        "id": 3,
+        "text": "Bir adet muzun yaydığı yaklaşık radyasyon miktarı ne kadardır?",
+        "options": [
+          "0,1 mikrosievert",
+          "10 milisievert",
+          "100 mikrosievert",
+          "1 sievert"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Bir muz, yaklaşık 0,1 mikrosievert düzeyinde radyasyon içerir ve bu miktar sağlık için tamamen güvenlidir."
+      },
+      {
+        "id": 4,
+        "text": "İnsan vücudunun radyoaktif olmasıyla ilgili hangisi doğrudur?",
+        "options": [
+          "Sadece radyasyona maruz kalan kişiler radyoaktiftir.",
+          "İnsan vücudu potasyum barındırdığı için doğal olarak radyasyon yayar.",
+          "İnsan vücudu muzdan daha az potasyum içerdiği için radyoaktif değildir.",
+          "Vücudun radyoaktif olması ölümcül bir sağlık sorununa işarettir."
+        ],
+        "correctAnswer": 1,
+        "explanation": "İnsan vücudu hayati fonksiyonlar için potasyuma ihtiyaç duyar ve bu potasyumun içindeki doğal radyoaktif izotoplar nedeniyle vücudumuz da hafif radyoaktif özellik gösterir."
+      }
+    ]
   }
 ];

@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 06 Jul 2026 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 17:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Muzların Gizli Sırrı: Neden &apos;Radyoaktif&apos; Meyveler Olarak Bilinirler?</title>
+      <link>https://genelkultur.com.tr/test/muzlarin-gizli-sirri-neden-radyoaktif-meyveler-olarak-bilinirler</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/muzlarin-gizli-sirri-neden-radyoaktif-meyveler-olarak-bilinirler</guid>
+      <pubDate>Mon, 06 Jul 2026 17:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Mutfaklarımızın en sevilen meyvelerinden biri olan muz, şaşırtıcı bir bilimsel özelliğe sahiptir: Doğal olarak radyoaktiftir. Ancak endişelenmeyin; bu durum, sağlıklı bir besin olmasının önüne geçmediği gibi, aslında doğadaki radyasyonun her yerde olduğunun en somut kanıtlarından biridir.</description>
+    </item>
     <item>
       <title>Güneşe Bakınca Hapşıranlardan mısınız? Doğanın İlginç &apos;Yanlış Alarm&apos; Mekanizması</title>
       <link>https://genelkultur.com.tr/test/gunese-bakinca-hapsiranlardan-misiniz-doganin-ilginc-yanlis-alarm-mekanizmasi</link>
@@ -158,14 +166,6 @@
       <pubDate>Sat, 27 Jun 2026 15:00:00 GMT</pubDate>
       <category>teknoloji</category>
       <description>İstanbul, sadece mimari bir değil, ekolojik bir dönüşümün merkez üssü haline geliyor. Şehrin hızla artan karbon salınımına karşı geliştirilen &apos;Otonom Dikey Orman&apos; projesi, yapay zeka ile kendi kendine yeten biyofilik gökdelenleri hayata geçiriyor.</description>
-    </item>
-    <item>
-      <title>Uzay Ekonomisinde Yeni Çağ: Asteroidden Gelen İlk Hasat Dünyaya İndi</title>
-      <link>https://genelkultur.com.tr/test/uzay-ekonomisinde-yeni-cag-asteroidden-gelen-ilk-hasat-dunyaya-indi</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/uzay-ekonomisinde-yeni-cag-asteroidden-gelen-ilk-hasat-dunyaya-indi</guid>
-      <pubDate>Sat, 27 Jun 2026 10:00:00 GMT</pubDate>
-      <category>teknoloji</category>
-      <description>İnsanlık, kaynak arayışında gökyüzünün ötesine geçti. Tarihte ilk kez, devasa bir asteroidden çıkarılan saf metal örnekleri başarılı bir operasyonla Dünya&apos;ya getirildi.</description>
     </item>
   </channel>
 </rss>

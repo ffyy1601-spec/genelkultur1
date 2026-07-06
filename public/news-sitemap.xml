@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://genelkultur.com.tr/test/uykuda-konusmak-beynimiz-gece-mesaisinde-neler-fisildiyor/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenelKültür Haber</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-04T15:00:00.000Z</news:publication_date>
-      <news:title>Uykuda Konuşmak: Beynimiz Gece Mesaisinde Neler Fısıldıyor?</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://genelkultur.com.tr/test/gozlerimiz-bizi-kandiriyor-mu-dogadaki-gercek-mavinin-sasirtici-sirri/</loc>
     <news:news>
       <news:publication>
@@ -42,6 +31,17 @@
       </news:publication>
       <news:publication_date>2026-07-06T12:00:00.000Z</news:publication_date>
       <news:title>Güneşe Bakınca Hapşıranlardan mısınız? Doğanın İlginç &apos;Yanlış Alarm&apos; Mekanizması</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/muzlarin-gizli-sirri-neden-radyoaktif-meyveler-olarak-bilinirler/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-06T17:00:00.000Z</news:publication_date>
+      <news:title>Muzların Gizli Sırrı: Neden &apos;Radyoaktif&apos; Meyveler Olarak Bilinirler?</news:title>
     </news:news>
   </url>
 </urlset>
