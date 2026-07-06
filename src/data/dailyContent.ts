@@ -1839,5 +1839,75 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Antik Yunan filozofu Aristoteles, M.Ö. 350 yıllarında güneşin hapşırığı nasıl tetiklediğini sorgulayan ilk kişidir."
       }
     ]
+  },
+  {
+    "slug": "gunese-bakinca-hapsiranlardan-misiniz-doganin-ilginc-yanlis-alarm-mekanizmasi",
+    "dateId": "2026-07-06T15:00:00+03:00",
+    "imageUrl": "/images/news/gunese-bakinca-hapsiranlardan-misiniz-doganin-ilginc-yanlis-alarm-mekanizmasi.webp",
+    "title": "Güneşe Bakınca Neden Hapşırırsınız? | Bilim Dünyası",
+    "description": "Güneşe veya parlak ışığa bakınca hapşırmanın bilimsel bir nedeni var mı? 'Fotik hapşırma refleksi' ya da diğer adıyla ACHOO sendromunun gizemini keşfedin.",
+    "keywords": [
+      "fotik hapşırma refleksi",
+      "ACHOO sendromu",
+      "güneşe bakınca hapşırmak",
+      "genetik",
+      "sinir sistemi"
+    ],
+    "heading": "Güneşe Bakınca Hapşıranlardan mısınız? Doğanın İlginç 'Yanlış Alarm' Mekanizması",
+    "intro": "Karanlık bir ortamdan çıkıp aniden parlak güneş ışığına baktığınızda kendinizi bir hapşırık krizinin ortasında buluyor musunuz? Bu durum sadece size özel değil; dünya nüfusunun yaklaşık %18 ila %35'ini etkileyen 'fotik hapşırma refleksi' adlı oldukça yaygın bir fenomen.",
+    "article": "<p>Güneş ışığına maruz kaldığınızda vücudunuzun verdiği bu tepki, tıp dünyasında <strong>'fotik hapşırma refleksi'</strong> veya tıp literatüründeki adıyla <strong>'ACHOO sendromu'</strong> (Autosomal Dominant Compelling Helio-Ophthalmic Outburst) olarak bilinir. Birçok kişi bunun sadece parlak ışığın burnu tahriş etmesinden kaynaklandığını düşünse de, mekanizma aslında çok daha karmaşık ve beyin içindeki 'çapraz sinir trafiği' ile ilgilidir.</p><h3>Neden Hapşırıyoruz?</h3><p>Hapşırma normalde vücudun burnu yabancı maddelerden, tozdan veya enfeksiyonlardan temizleme yöntemidir. Ancak fotik hapşırmada süreç burnunuzla değil, doğrudan beyninizdeki sinirsel bağlantılarla tetiklenir. Bilim insanları, gözdeki ışık hassasiyetini yöneten optik sinirlerin, yüz ve burun bölgesindeki duyulardan sorumlu olan <strong>trigeminal sinire</strong> çok yakın konumlandığını belirtmektedir. Parlak ışık göze girdiğinde, beyin bu ani yoğunluğu yanlış bir şekilde burun içindeki bir tahriş edici olarak yorumlayabilir ve hapşırık refleksini tetikleyebilir.</p><h3>Tarih Boyunca Merak Konusu Oldu</h3><p>Bu fenomen yüzyıllardır filozofların ve bilim insanlarının ilgisini çekmiştir. Antik Yunan filozofu <strong>Aristoteles</strong>, M.Ö. 350 civarında 'Problemler' adlı eserinde güneş ısısının burnu nemlendirerek hapşırmaya neden olduğunu öne sürmüştü. 17. yüzyılda ise <strong>Francis Bacon</strong>, güneş ışığının gözleri sulandırdığını ve bu nemin burna sızarak hapşırmaya yol açtığını savunarak Aristoteles'in görüşünü düzeltmeye çalışmıştır. Günümüzde ise bu durumun, ışığın kendisinden ziyade ışık şiddetindeki ani değişimle (örneğin bir tünelden çıkarken) tetiklendiği bilimsel olarak kabul edilmektedir.</p><h3>Genetik Bir Miras</h3><p>Araştırmalar, bu refleksin %50 ihtimalle ebeveynlerden çocuklara geçen <strong>otozomal baskın</strong> bir kalıtım özelliğine sahip olduğunu göstermektedir. Yani ailenizde bu reflekse sahip bir birey varsa, sizin de bu duruma sahip olma ihtimaliniz oldukça yüksektir. Bilim dünyası bu sendromun kökeninde tek bir gen olmadığını, birden fazla genetik varyasyonun etkili olabileceğini düşünmektedir. Zararsız kabul edilse de; uçak pilotları, yüksekte çalışan akrobatlar veya araç sürücüleri gibi anlık hapşırmanın risk yaratabileceği meslek gruplarında dikkat edilmesi gereken bir durumdur.</p>",
+    "category": "bilim",
+    "sourceName": "TÜBİTAK Bilim Genç",
+    "sourceUrl": "https://bilimgenc.tubitak.gov.tr/makale/gunese-baktigimizda-neden-hapsiririz",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Fotik hapşırma refleksi hangi sinirlerin 'çapraz sinyaller' göndermesiyle ilişkilendirilir?",
+        "options": [
+          "Optik sinir ve trigeminal sinir",
+          "İşitme siniri ve koku siniri",
+          "Motor sinirler ve kas sinirleri",
+          "Sempatik sinir ve otonom sinir"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Parlak ışık göze vurduğunda, optik sinir ile yüz ve burun duyularını kontrol eden trigeminal sinir arasındaki yakınlık nedeniyle beyin yanlışlıkla hapşırma komutu verir."
+      },
+      {
+        "id": 2,
+        "text": "Fotik hapşırma refleksi hangi kalıtım türüyle ilişkilidir?",
+        "options": [
+          "Resesif (çekinik)",
+          "Otozomal baskın",
+          "X kromozomuna bağlı",
+          "Kalıtsal değildir"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Bu refleks otozomal baskın bir kalıtım modelini izler, bu nedenle bir ebeveynde varsa çocukta görülme ihtimali %50'dir."
+      },
+      {
+        "id": 3,
+        "text": "Antik Yunan'da 'Güneşin ısısı niçin hapşırığı tetikler?' sorusunu soran ilk filozof kimdir?",
+        "options": [
+          "Platon",
+          "Sokrates",
+          "Aristoteles",
+          "Pisagor"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Aristoteles M.Ö. 350 civarında kaleme aldığı 'Problemler' kitabında bu konu üzerine kafa yoran ilk isimlerden biridir."
+      },
+      {
+        "id": 4,
+        "text": "Fotik hapşırma refleksi genellikle ne zaman ortaya çıkar?",
+        "options": [
+          "Sadece kapalı ortamlarda",
+          "Işık şiddetinde ani bir değişim olduğunda",
+          "Sadece akşam saatlerinde",
+          "Sadece burun mukozası tahriş olduğunda"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Refleks genellikle karanlık bir yerden parlak bir ortama çıkmak gibi ışık şiddetindeki ani değişimlerde tetiklenir."
+      }
+    ]
   }
 ];

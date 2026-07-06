@@ -1,28 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://genelkultur.com.tr/test/okyanusun-ortasinda-susuzluktan-olmek-deniz-suyu-neden-icilemez/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenelKültür Haber</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-03T16:00:00.000Z</news:publication_date>
-      <news:title>Okyanusun Ortasında Susuzluktan Ölmek: Deniz Suyu Neden İçilemez?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://genelkultur.com.tr/test/gozleriniz-sizi-kandiriyor-mu-goz-renginin-hic-duymadiginiz-sirlari/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenelKültür Haber</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-04T10:00:00.000Z</news:publication_date>
-      <news:title>Gözleriniz Sizi Kandırıyor mu? Göz Renginin Hiç Duymadığınız Sırları</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://genelkultur.com.tr/test/uykuda-konusmak-beynimiz-gece-mesaisinde-neler-fisildiyor/</loc>
     <news:news>
       <news:publication>
@@ -53,6 +31,17 @@
       </news:publication>
       <news:publication_date>2026-07-05T15:00:00.000Z</news:publication_date>
       <news:title>Güneşe Bakınca Hapşırmak: Neden Bazı İnsanlar Işığa Karşı &apos;Alerjik&apos; Tepki Verir?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/gunese-bakinca-hapsiranlardan-misiniz-doganin-ilginc-yanlis-alarm-mekanizmasi/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-06T12:00:00.000Z</news:publication_date>
+      <news:title>Güneşe Bakınca Hapşıranlardan mısınız? Doğanın İlginç &apos;Yanlış Alarm&apos; Mekanizması</news:title>
     </news:news>
   </url>
 </urlset>
