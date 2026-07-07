@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 07 Jul 2026 11:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 16:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Güneşe Bakınca Hapşıranlardan mısınız? İşte &apos;ACHOO Sendromu&apos;nun Bilimsel Nedeni</title>
+      <link>https://genelkultur.com.tr/test/gunese-bakinca-hapsiranlardan-misiniz-iste-achoo-sendromunun-bilimsel-nedeni</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/gunese-bakinca-hapsiranlardan-misiniz-iste-achoo-sendromunun-bilimsel-nedeni</guid>
+      <pubDate>Tue, 07 Jul 2026 16:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Karanlık bir sinema salonundan çıkıp aniden parlak gün ışığına maruz kaldığınızda kendinizi kontrolsüz bir hapşırık krizinde buluyor musunuz? Bu durum sadece size özel değil; dünya nüfusunun yaklaşık %18 ila %35&apos;ini etkileyen ve bilim dünyasında oldukça şaşırtıcı teorilere konu olan bir biyolojik fenomen.</description>
+    </item>
     <item>
       <title>Acı Bir &apos;Tat&apos; Değildir: Neden Bazı İnsanlar Yanma Hissine Bayılır?</title>
       <link>https://genelkultur.com.tr/test/aci-bir-tat-degildir-neden-bazi-insanlar-yanma-hissine-bayilir</link>
@@ -158,14 +166,6 @@
       <pubDate>Sun, 28 Jun 2026 15:00:00 GMT</pubDate>
       <category>teknoloji</category>
       <description>Havacılık dünyasında bilim kurgu filmlerini aratmayan bir devrim yaşanıyor. Türkiye merkezli mühendislik girişimi tarafından geliştirilen kişisel uçan kanat sistemi AeroWing, ilk test uçuşlarını başarıyla tamamladı.</description>
-    </item>
-    <item>
-      <title>Toprak Yok, Güneş Sınırlı: Türkiye&apos;nin İlk Otonom &apos;Dikey Tarım&apos; Kuleleri Kapılarını Açıyor</title>
-      <link>https://genelkultur.com.tr/test/toprak-yok-gunes-sinirli-turkiyenin-ilk-otonom-dikey-tarim-kuleleri-kapilarini-aciyor</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/toprak-yok-gunes-sinirli-turkiyenin-ilk-otonom-dikey-tarim-kuleleri-kapilarini-aciyor</guid>
-      <pubDate>Sun, 28 Jun 2026 10:00:00 GMT</pubDate>
-      <category>teknoloji</category>
-      <description>Geleneksel tarımın su ve arazi kısıtlamalarına karşı geliştirilen otonom dikey tarım kuleleri, İstanbul ve Ankara&apos;da ilk meyvelerini vermeye başladı. 2026 yılı itibarıyla Türkiye, gıda lojistiğinde dışa bağımlılığı azaltacak dev bir teknolojik hamleye imza atıyor.</description>
     </item>
   </channel>
 </rss>

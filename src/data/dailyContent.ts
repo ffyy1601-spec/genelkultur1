@@ -2052,5 +2052,75 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Düzenli maruziyet sonucunda insanlar acı hissiyle daha iyi başa çıkabilir veya tolerans geliştirebilir."
       }
     ]
+  },
+  {
+    "slug": "gunese-bakinca-hapsiranlardan-misiniz-iste-achoo-sendromunun-bilimsel-nedeni",
+    "dateId": "2026-07-07T19:00:00+03:00",
+    "imageUrl": "/images/news/gunese-bakinca-hapsiranlardan-misiniz-iste-achoo-sendromunun-bilimsel-nedeni.webp",
+    "title": "Güneşe Bakınca Neden Hapşırırsınız? | Fotik Hapşırma Refleksi",
+    "description": "Karanlık bir odadan çıkıp gün ışığına baktığınızda kontrolsüzce hapşırıyor musunuz? İşte bilim dünyasının 'ACHOO Sendromu' dediği ilginç refleksin sırrı.",
+    "keywords": [
+      "fotik hapşırma refleksi",
+      "ACHOO sendromu",
+      "güneşe bakınca hapşırma",
+      "genetik refleksler",
+      "trigeminal sinir"
+    ],
+    "heading": "Güneşe Bakınca Hapşıranlardan mısınız? İşte 'ACHOO Sendromu'nun Bilimsel Nedeni",
+    "intro": "Karanlık bir sinema salonundan çıkıp aniden parlak gün ışığına maruz kaldığınızda kendinizi kontrolsüz bir hapşırık krizinde buluyor musunuz? Bu durum sadece size özel değil; dünya nüfusunun yaklaşık %18 ila %35'ini etkileyen ve bilim dünyasında oldukça şaşırtıcı teorilere konu olan bir biyolojik fenomen.",
+    "article": "<p>Tıp literatüründe <strong>'Fotik Hapşırma Refleksi'</strong> olarak bilinen bu durum, halk arasında yaygın olarak 'güneş hapşırması' veya tıp dünyasının eğlenceli kısaltmasıyla <strong>ACHOO sendromu</strong> (Autosomal Dominant Compelling Helio-Ophthalmic Outburst) olarak adlandırılır. İlk kez antik çağlarda Aristoteles tarafından gözlemlenen bu durum, günümüzde modern nörolojinin araştırma konularından biri olmaya devam etmektedir.</p><h3>Neden Hapşırırız? Beynimizdeki 'Kısa Devre'</h3><p>Normal şartlarda hapşırma, burnumuza kaçan yabancı maddeleri uzaklaştırmak için geliştirdiğimiz bir savunma mekanizmasıdır. Ancak fotik hapşırma refleksinde burnumuzda fiziksel bir tahriş edici yoktur. Bilim insanlarının en güçlü teorisi, <strong>trigeminal sinir</strong> ile optik sinirin beyin sapındaki yakın komşuluğuna dayanır. Gözlerimiz parlak ışıkla ani bir şekilde uyarıldığında, optik sinirden gelen yoğun sinyallerin hemen yanındaki trigeminal sinire 'sızabileceği' tahmin edilmektedir. Beyin, bu sinyal karmaşasını burun bölgesinde bir gıdıklanma veya tahriş olarak algılayıp hapşırma komutu verir.</p><h3>Genetik Bir Miras mı?</h3><p>Araştırmalar, bu refleksin öğrenilen bir davranış olmadığını, aksine <strong>kalıtsal</strong> bir özellik olduğunu göstermektedir. Yapılan çalışmalar, ebeveynlerinden birinde bu özellik bulunan bireylerin %50 olasılıkla aynı refleksi taşıdığını ortaya koymuştur. Bu nedenle, aile üyelerinizin birçoğu parlak ışığa bakınca hapşırıyorsa, bu genetik bir miras taşıyor olabilirsiniz.</p><ul><li><strong>Işık Yoğunluğu:</strong> Tetikleyici, ışığın dalga boyundan ziyade ışık yoğunluğundaki ani değişimdir.</li><li><strong>Kapsam:</strong> Sadece güneş değil; flaş patlamaları veya ultraviyole ışıklar da benzer tepkileri tetikleyebilir.</li><li><strong>Zararsızlık:</strong> Tıbbi olarak bir hastalık kabul edilmez; ancak araba sürme gibi dikkat gerektiren anlarda anlık hapşırma krizleri güvenlik riski oluşturabilir.</li></ul><p>Uzun yıllar süren araştırmalara rağmen, beyindeki bu 'çapraz konuşmanın' (cross-talk) kesin mekanizması tam olarak çözülememiştir. Yine de bildiğimiz bir şey var ki, doğa bazen en basit biyolojik süreçlerimizde bile karmaşık ve şaşırtıcı bir 'kısa devre' mekanizması saklıyor.</p>",
+    "category": "bilim",
+    "sourceName": "Evrim Ağacı",
+    "sourceUrl": "https://evrimagaci.org/gunese-bakilinca-hapsirma-refleksi-neden-evrimlesti-soru-cevap-11234",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Fotik hapşırma refleksi için kullanılan 'ACHOO' kısaltmasının açılımı ne anlama gelir?",
+        "options": [
+          "Sadece ışığa karşı verilen bir alerjik reaksiyon",
+          "Kalıtsal ve baskın olan, ışık kaynaklı hapşırma durumu",
+          "Sadece burun mukozasının kurumasından kaynaklanan bir durum",
+          "Gözyaşı kanallarının tıkanmasıyla oluşan bir refleks"
+        ],
+        "correctAnswer": 1,
+        "explanation": "ACHOO, 'Autosomal Dominant Compelling Helio-Ophthalmic Outburst' ifadesinin kısaltmasıdır ve bu refleksin genetik, kalıtsal ve ışık kaynaklı doğasını tanımlar."
+      },
+      {
+        "id": 2,
+        "text": "Fotik hapşırma refleksinin temelinde yattığı düşünülen en popüler teorilerden biri hangisidir?",
+        "options": [
+          "Optik sinir ve trigeminal sinir arasındaki sinyal etkileşimi",
+          "Burun içindeki kılcal damarların ışıkla aşırı ısınması",
+          "Gözyaşlarının burun boşluğuna akarak yarattığı sıvı basıncı",
+          "Beyin kabuğunun ışığı tehdit olarak algılayıp oksijen almayı azaltması"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Bilim insanları, gözden gelen sinyallerin beyin sapında burnun duyusundan sorumlu olan trigeminal siniri uyarmasıyla bu refleksin oluştuğunu tahmin etmektedir."
+      },
+      {
+        "id": 3,
+        "text": "Fotik hapşırma refleksi hakkında aşağıdakilerden hangisi yanlıştır?",
+        "options": [
+          "Genetik yollarla aktarılabilir.",
+          "Öğrenilmiş veya sonradan kazanılan bir davranış değildir.",
+          "Sadece güneş ışığında gerçekleşir, yapay ışıkta görülmez.",
+          "Dünya nüfusunun belirli bir kısmında gözlemlenen yaygın bir durumdur."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Fotik hapşırma refleksi sadece güneş ışığıyla değil, fotoğraf flaşı gibi parlak yapay ışık kaynaklarıyla da tetiklenebilir."
+      },
+      {
+        "id": 4,
+        "text": "Bu refleksin genetik geçiş biçimi ile ilgili ne söylenebilir?",
+        "options": [
+          "Çekinik genlerle aktarılır, nadir görülür.",
+          "Otozomal dominant (baskın) bir şekilde aktarılır.",
+          "Sadece anneden kız çocuklarına geçer.",
+          "Genetikle ilgisi yoktur, çevresel bir etkidir."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Yapılan araştırmalar, bu özelliğin otozomal dominant (baskın) bir özellik olduğunu ve çocuklara geçme ihtimalinin oldukça yüksek olduğunu göstermektedir."
+      }
+    ]
   }
 ];
