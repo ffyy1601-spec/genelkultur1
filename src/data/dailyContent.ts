@@ -1980,5 +1980,77 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "İnsan vücudu hayati fonksiyonlar için potasyuma ihtiyaç duyar ve bu potasyumun içindeki doğal radyoaktif izotoplar nedeniyle vücudumuz da hafif radyoaktif özellik gösterir."
       }
     ]
+  },
+  {
+    "slug": "aci-bir-tat-degildir-neden-bazi-insanlar-yanma-hissine-bayilir",
+    "dateId": "2026-07-07T14:00:00+03:00",
+    "imageUrl": "/images/news/aci-bir-tat-degildir-neden-bazi-insanlar-yanma-hissine-bayilir.webp",
+    "title": "Neden Acı Yerken Yanarız? | Bilim ve Gastronomi",
+    "description": "Acı yemek aslında bir tat değil, vücudun verdiği bir ağrı tepkisidir. Peki neden bu hissi seviyoruz? Bilimsel gerçeklerle acının perde arkası.",
+    "keywords": [
+      "acı yemek",
+      "kapsaisin",
+      "TRPV1",
+      "gastronomi bilimi",
+      "acı toleransı",
+      "yeme bozuklukları",
+      "beyin kimyası"
+    ],
+    "heading": "Acı Bir 'Tat' Değildir: Neden Bazı İnsanlar Yanma Hissine Bayılır?",
+    "intro": "Pek çok insan için acı biber yemek büyük bir keyifken, bazıları için küçük bir parça bile tahammül edilemez bir işkenceye dönüşür. Aslında acı bir tat değil, vücudumuzun beynimizi kandırarak hissettiği bir 'ağrı' sinyalidir.",
+    "article": "<p>Acı yediğinizde hissettiğiniz o meşhur yanma hissi, aslında dilinizdeki tat tomurcuklarından değil, vücudunuzun acıyı algılama mekanizmasından gelir. Biberlerde bulunan <strong>kapsaisin</strong> adlı kimyasal bileşik, ağızdaki <strong>TRPV1</strong> adı verilen reseptörlere bağlanır. Bu reseptörler normalde vücudu aşırı sıcaklık veya ısı hasarı konusunda uyarmakla görevlidir. Ancak kapsaisin, beyninize gerçek bir ısı artışı olmamasına rağmen <em>'burası yanıyor'</em> şeklinde yanlış bir sinyal gönderir.</p><h3>Beyin Neden Acıdan Keyif Alır?</h3><p>Vücudunuzun 'yanıyormuşsunuz' gibi tepki vermesi, aslında evrimsel bir korunma mekanizmasıdır. Ağızda hissettiğiniz bu tehdit karşısında beyin, acıyı hafifletmek ve stresi azaltmak için doğal ağrı kesiciler olan <strong>endorfin</strong> hormonunu serbest bırakır. Bazı araştırmacılar, insanların acı yiyeceklerden aldığı zevki, hız trenine binmek veya korku filmi izlemek gibi <em>'güvenli tehlike'</em> arayışıyla ilişkilendirir. Bilinen bir tehlike olmadığını bildiğimizde, vücudun verdiği bu heyecan verici tepki bir tür hazza dönüşür.</p><h3>Kültürün ve Genetiğin Rolü</h3><p>Acı toleransı sadece biyolojik bir durum değil, aynı zamanda kültürel bir öğrenmedir. Meksika, Tayland veya Hindistan gibi bölgelerde acı biberin günlük beslenmenin bir parçası olması, çocukların çok erken yaşlardan itibaren bu hisse maruz kalmalarını sağlar. Düzenli maruziyet, TRPV1 reseptörlerinin duyarlılığını zamanla azaltabilir veya kişiyi bu histen psikolojik olarak keyif alır hale getirebilir.</p><ul><li><strong>Kapsaisin nedir:</strong> Biberin acılığını sağlayan temel kimyasal bileşiktir.</li><li><strong>TRPV1 reseptörleri:</strong> Isı ve ağrı algılamasından sorumlu proteinlerdir.</li><li><strong>Antimikrobiyal özellik:</strong> Sıcak iklimlerde acı biberin bozulmayı önleyici etkisi, geleneksel mutfakların baharatlı gelişmesinde büyük rol oynamıştır.</li></ul><p>Sonuç olarak acı yemek, bazılarımız için lezzeti artıran bir macera, bazılarımız içinse sadece kaçınılması gereken bir acı kaynağıdır. Ancak unutulmamalıdır ki acı aslında dilinizin değil, beyninizin bir yorumudur.</p>",
+    "category": "bilim",
+    "sourceName": "The Scientist",
+    "sourceUrl": "https://www.the-scientist.com/why-do-some-people-like-spicy-food-71644",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Acı yemek yerken hissettiğimiz yanma duygusunun temel nedeni nedir?",
+        "options": [
+          "Dilimizdeki tat tomurcuklarının doğrudan acıyı algılaması",
+          "Kapsaisin maddesinin TRPV1 reseptörlerini aktive etmesi",
+          "Baharatların ağız içindeki nemi tamamen kurutması",
+          "Acı maddelerin diş minesiyle kimyasal reaksiyona girmesi"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Acı bir tat değil, kapsaisinin TRPV1 reseptörlerini uyararak beyni sıcaklık olduğuna dair kandırmasıdır."
+      },
+      {
+        "id": 2,
+        "text": "İnsanların acı yemekten keyif almasında rol oynayan hormon hangisidir?",
+        "options": [
+          "Adrenalin",
+          "İnsülin",
+          "Endorfin",
+          "Melatonin"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Beyin, acıdan kaynaklanan 'tehdit' hissini bastırmak için doğal ağrı kesiciler olan endorfinleri serbest bırakır."
+      },
+      {
+        "id": 3,
+        "text": "Sıcak iklimlerde acı biberin geleneksel mutfaklarda popüler olmasının evrimsel/tarihsel nedenlerinden biri nedir?",
+        "options": [
+          "Sadece bölgede daha çok yetişmesi",
+          "Kapsaisinin antimikrobiyal özelliklerinin gıdaları koruması",
+          "İnsanların daha hızlı doymasını sağlaması",
+          "Terlemeyi azaltarak su kaybını önlemesi"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Acı biberdeki kimyasallar, buzdolabı öncesi dönemlerde yiyeceklerin bozulmasını yavaşlatan doğal bir koruyucu görevi görüyordu."
+      },
+      {
+        "id": 4,
+        "text": "Acı yemek ile ilgili aşağıdakilerden hangisi bilimsel olarak doğrudur?",
+        "options": [
+          "Acı yemek tat tomurcuklarını kalıcı olarak öldürür.",
+          "Acı yemek sadece 5 temel tattan biridir.",
+          "Düzenli acı tüketimi zamanla acı algısını değiştirebilir.",
+          "Acı biber sadece Amerika kıtasında yetişir."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Düzenli maruziyet sonucunda insanlar acı hissiyle daha iyi başa çıkabilir veya tolerans geliştirebilir."
+      }
+    ]
   }
 ];

@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 06 Jul 2026 17:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 11:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Acı Bir &apos;Tat&apos; Değildir: Neden Bazı İnsanlar Yanma Hissine Bayılır?</title>
+      <link>https://genelkultur.com.tr/test/aci-bir-tat-degildir-neden-bazi-insanlar-yanma-hissine-bayilir</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/aci-bir-tat-degildir-neden-bazi-insanlar-yanma-hissine-bayilir</guid>
+      <pubDate>Tue, 07 Jul 2026 11:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Pek çok insan için acı biber yemek büyük bir keyifken, bazıları için küçük bir parça bile tahammül edilemez bir işkenceye dönüşür. Aslında acı bir tat değil, vücudumuzun beynimizi kandırarak hissettiği bir &apos;ağrı&apos; sinyalidir.</description>
+    </item>
     <item>
       <title>Muzların Gizli Sırrı: Neden &apos;Radyoaktif&apos; Meyveler Olarak Bilinirler?</title>
       <link>https://genelkultur.com.tr/test/muzlarin-gizli-sirri-neden-radyoaktif-meyveler-olarak-bilinirler</link>
@@ -158,14 +166,6 @@
       <pubDate>Sun, 28 Jun 2026 10:00:00 GMT</pubDate>
       <category>teknoloji</category>
       <description>Geleneksel tarımın su ve arazi kısıtlamalarına karşı geliştirilen otonom dikey tarım kuleleri, İstanbul ve Ankara&apos;da ilk meyvelerini vermeye başladı. 2026 yılı itibarıyla Türkiye, gıda lojistiğinde dışa bağımlılığı azaltacak dev bir teknolojik hamleye imza atıyor.</description>
-    </item>
-    <item>
-      <title>Betonun Yerini Doğa Alıyor: İstanbul&apos;un İlk Otonom &apos;Dikey Orman&apos; Kuleleri Yükseliyor</title>
-      <link>https://genelkultur.com.tr/test/betonun-yerini-doga-aliyor-istanbulun-ilk-otonom-dikey-orman-kuleleri-yukseliyor</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/betonun-yerini-doga-aliyor-istanbulun-ilk-otonom-dikey-orman-kuleleri-yukseliyor</guid>
-      <pubDate>Sat, 27 Jun 2026 15:00:00 GMT</pubDate>
-      <category>teknoloji</category>
-      <description>İstanbul, sadece mimari bir değil, ekolojik bir dönüşümün merkez üssü haline geliyor. Şehrin hızla artan karbon salınımına karşı geliştirilen &apos;Otonom Dikey Orman&apos; projesi, yapay zeka ile kendi kendine yeten biyofilik gökdelenleri hayata geçiriyor.</description>
     </item>
   </channel>
 </rss>
