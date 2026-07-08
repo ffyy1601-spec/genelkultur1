@@ -2122,5 +2122,77 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Yapılan araştırmalar, bu özelliğin otozomal dominant (baskın) bir özellik olduğunu ve çocuklara geçme ihtimalinin oldukça yüksek olduğunu göstermektedir."
       }
     ]
+  },
+  {
+    "slug": "tek-yumurta-ikizlerinin-bile-parmak-izleri-neden-farklidir",
+    "dateId": "2026-07-08T13:00:00+03:00",
+    "imageUrl": "/images/news/tek-yumurta-ikizlerinin-bile-parmak-izleri-neden-farklidir.webp",
+    "title": "Parmak İzleri Neden Herkeste Farklıdır? | Genel Kültür",
+    "description": "Tek yumurta ikizlerinin bile parmak izleri neden aynı değildir? Parmak izlerinin biyolojik amacı ve oluşum sürecindeki şaşırtıcı detaylar.",
+    "keywords": [
+      "parmak izi",
+      "biyoloji",
+      "genetik",
+      "tek yumurta ikizleri",
+      "dermatoglif",
+      "insan vücudu",
+      "adli bilim"
+    ],
+    "heading": "Tek Yumurta İkizlerinin Bile Parmak İzleri Neden Farklıdır?",
+    "intro": "Parmak izlerimiz, yaşam boyu değişmeyen ve sadece bize özel olan biyolojik imzalarımızdır. Ancak bu desenlerin oluşumu sadece genetik koda bağlı değildir; rahim içindeki kaotik ve rastlantısal süreçler, tek yumurta ikizlerinin bile farklı parmak izlerine sahip olmasını sağlar.",
+    "article": "<p>Parmak uçlarımızdaki o karmaşık kıvrımlar, ilmekler ve sarmallar topluluğu <strong>dermatoglif</strong> olarak adlandırılır. Bu desenler, gebeliğin yaklaşık 10. haftasında oluşmaya başlar ve 17-18. haftalarda son şeklini alır. Birçok kişi, aynı DNA'yı taşıyan tek yumurta ikizlerinin parmak izlerinin de aynı olması gerektiğini düşünse de, biyolojik gerçeklik çok daha ilginçtir.</p><h3>Desenlerin Arkasındaki Rastlantısal Mimari</h3><p>Parmak izlerinin oluşumu genetik bir talimatla başlar, ancak bu talimat tek başına yeterli değildir. Derinin en dış katmanı olan <strong>epidermis</strong> ile altındaki <strong>dermis</strong> katmanının birleştiği bölgede yaşanan fiziksel etkileşimler, desenin kaderini belirler. Bu süreçte fetüsün rahim içindeki pozisyonu, kan basıncı, kandaki oksijen seviyesi ve amniyotik sıvının hareketleri gibi sayısız çevresel değişken devreye girer. Bu değişkenler her bebek için farklı olduğundan, genetik olarak aynı olan bireyler bile eşsiz parmak izleriyle doğarlar.</p><h3>Parmak İzi Neden Var?</h3><p>Parmak izleri sadece bir kimlik aracı değildir; evrimsel bir amaca da hizmet ederler. Araştırmalar, bu girinti ve çıkıntıların iki temel faydası olduğunu göstermektedir:</p><ul><li><strong>Daha İyi Kavrama:</strong> Sürtünme sırtları, nesneleri tutarken kaymayı azaltarak daha güvenli bir kavrama sağlar.</li><li><strong>Dokunma Hassasiyeti:</strong> Bu desenler, parmak uçlarımızın dokunduğu yüzeylerdeki mikro titreşimleri yükselterek, nesnelerin dokusunu algılama kapasitemizi artırır.</li></ul><h3>Dayanıklılık ve Kimlik</h3><p>Parmak izinin en büyüleyici yanlarından biri de kalıcılığıdır. Derinin en üst katmanı hasar görse veya dökülse bile, alt tabakadaki desenler aynı yapıyı korur ve deri kendini yenilediğinde orijinal desen tekrar ortaya çıkar. Bu özelliği sayesinde parmak izi, binlerce yıl öncesinin kil tabletlerinden günümüzün gelişmiş biyometrik dijital kilitlerine kadar en güvenilir kimlik doğrulama yöntemi olmaya devam etmektedir.</p>",
+    "category": "bilim",
+    "sourceName": "TÜBİTAK Bilim Genç",
+    "sourceUrl": "https://bilimgenc.tubitak.gov.tr/makale/insanlarin-parmak-izleri-neden-farklidir",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Tek yumurta ikizlerinin parmak izleri neden aynı değildir?",
+        "options": [
+          "DNA yapıları farklı olduğu için",
+          "Rahim içindeki çevresel faktörler ve rastlantısal gelişim süreçleri nedeniyle",
+          "Parmak izleri doğumdan sonra gelişim gösterdiği için",
+          "İkizlerin parmak boyları farklı olduğu için"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Tek yumurta ikizleri aynı genetik koda sahip olsa da, parmak izi oluşumu rahim içindeki basınç, sıvı hareketleri ve fetüsün konumu gibi çevresel faktörlerden etkilenir."
+      },
+      {
+        "id": 2,
+        "text": "Parmak izlerinin biyolojik olarak dokunma duyusuna katkısı nedir?",
+        "options": [
+          "Parmakların terlemesini engeller",
+          "Dokunulan yüzeydeki mikro titreşimleri artırarak algıyı güçlendirir",
+          "Sıcaklık değişimlerini daha hızlı hissetmemizi sağlar",
+          "Parmak uçlarını enfeksiyonlardan korur"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Parmak izi desenleri, bir yüzeye dokunulduğunda oluşan mikro titreşimleri artırarak nesnelerin dokusunu daha iyi hissetmemizi sağlar."
+      },
+      {
+        "id": 3,
+        "text": "Parmak izi desenleri gebeliğin yaklaşık hangi döneminde oluşmaya başlar?",
+        "options": [
+          "Gebeliğin 10. haftası civarında",
+          "Gebeliğin 25. haftasında",
+          "Doğumdan hemen önce",
+          "Doğumdan sonraki ilk ay"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Parmak izi desenleri, gebeliğin yaklaşık 10. haftasında oluşmaya başlar ve 17-18. haftalarda son şeklini alır."
+      },
+      {
+        "id": 4,
+        "text": "Parmak ucu derisi hasar gördüğünde ne olur?",
+        "options": [
+          "İz tamamen kaybolur",
+          "Yeni bir desen oluşur",
+          "Deri kendini yenilediğinde orijinal desen tekrar ortaya çıkar",
+          "İz kalıcı olarak yara izine dönüşür"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Parmak izi desenleri derinin alt katmanlarında kayıtlıdır, bu nedenle deri kendini yenilediğinde desen aynı şekilde geri gelir."
+      }
+    ]
   }
 ];

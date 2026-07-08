@@ -44,4 +44,15 @@
       <news:title>Güneşe Bakınca Hapşıranlardan mısınız? İşte &apos;ACHOO Sendromu&apos;nun Bilimsel Nedeni</news:title>
     </news:news>
   </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/tek-yumurta-ikizlerinin-bile-parmak-izleri-neden-farklidir/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-08T10:00:00.000Z</news:publication_date>
+      <news:title>Tek Yumurta İkizlerinin Bile Parmak İzleri Neden Farklıdır?</news:title>
+    </news:news>
+  </url>
 </urlset>

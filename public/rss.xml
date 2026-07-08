@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 07 Jul 2026 16:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 10:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Tek Yumurta İkizlerinin Bile Parmak İzleri Neden Farklıdır?</title>
+      <link>https://genelkultur.com.tr/test/tek-yumurta-ikizlerinin-bile-parmak-izleri-neden-farklidir</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/tek-yumurta-ikizlerinin-bile-parmak-izleri-neden-farklidir</guid>
+      <pubDate>Wed, 08 Jul 2026 10:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Parmak izlerimiz, yaşam boyu değişmeyen ve sadece bize özel olan biyolojik imzalarımızdır. Ancak bu desenlerin oluşumu sadece genetik koda bağlı değildir; rahim içindeki kaotik ve rastlantısal süreçler, tek yumurta ikizlerinin bile farklı parmak izlerine sahip olmasını sağlar.</description>
+    </item>
     <item>
       <title>Güneşe Bakınca Hapşıranlardan mısınız? İşte &apos;ACHOO Sendromu&apos;nun Bilimsel Nedeni</title>
       <link>https://genelkultur.com.tr/test/gunese-bakinca-hapsiranlardan-misiniz-iste-achoo-sendromunun-bilimsel-nedeni</link>
@@ -158,14 +166,6 @@
       <pubDate>Mon, 29 Jun 2026 08:00:00 GMT</pubDate>
       <category>bilim</category>
       <description>Bazı ağaç türleri, insan medeniyetlerinden bile daha uzun süre hayatta kalarak 5.000 yılı aşkın bir ömre ulaşıyor. Peki bu canlılar, biyolojik yaşlanma sürecini nasıl devre dışı bırakıyor ve gerçekten &apos;ölümsüz&apos; sayılabilirler mi?</description>
-    </item>
-    <item>
-      <title>Trafik Yerde Kaldı: Kişisel Uçan Kanat Teknolojisi &apos;AeroWing&apos; Türkiye Semalarında</title>
-      <link>https://genelkultur.com.tr/test/trafik-yerde-kaldi-kisisel-ucan-kanat-teknolojisi-aerowing-turkiye-semalarinda</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/trafik-yerde-kaldi-kisisel-ucan-kanat-teknolojisi-aerowing-turkiye-semalarinda</guid>
-      <pubDate>Sun, 28 Jun 2026 15:00:00 GMT</pubDate>
-      <category>teknoloji</category>
-      <description>Havacılık dünyasında bilim kurgu filmlerini aratmayan bir devrim yaşanıyor. Türkiye merkezli mühendislik girişimi tarafından geliştirilen kişisel uçan kanat sistemi AeroWing, ilk test uçuşlarını başarıyla tamamladı.</description>
     </item>
   </channel>
 </rss>
