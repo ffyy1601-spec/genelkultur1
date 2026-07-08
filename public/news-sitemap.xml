@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://genelkultur.com.tr/test/gunese-bakinca-hapsiranlardan-misiniz-doganin-ilginc-yanlis-alarm-mekanizmasi/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenelKültür Haber</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-06T12:00:00.000Z</news:publication_date>
-      <news:title>Güneşe Bakınca Hapşıranlardan mısınız? Doğanın İlginç &apos;Yanlış Alarm&apos; Mekanizması</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://genelkultur.com.tr/test/muzlarin-gizli-sirri-neden-radyoaktif-meyveler-olarak-bilinirler/</loc>
     <news:news>
       <news:publication>
@@ -53,6 +42,17 @@
       </news:publication>
       <news:publication_date>2026-07-08T10:00:00.000Z</news:publication_date>
       <news:title>Tek Yumurta İkizlerinin Bile Parmak İzleri Neden Farklıdır?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/kulaginizin-uzerinde-kucuk-bir-delik-mi-var-iste-sasirtici-nedeni/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-08T16:00:00.000Z</news:publication_date>
+      <news:title>Kulağınızın Üzerinde Küçük Bir Delik mi Var? İşte Şaşırtıcı Nedeni!</news:title>
     </news:news>
   </url>
 </urlset>

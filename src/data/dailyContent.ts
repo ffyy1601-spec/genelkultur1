@@ -2194,5 +2194,75 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Parmak izi desenleri derinin alt katmanlarında kayıtlıdır, bu nedenle deri kendini yenilediğinde desen aynı şekilde geri gelir."
       }
     ]
+  },
+  {
+    "slug": "kulaginizin-uzerinde-kucuk-bir-delik-mi-var-iste-sasirtici-nedeni",
+    "dateId": "2026-07-08T19:00:00+03:00",
+    "imageUrl": "/images/news/kulaginizin-uzerinde-kucuk-bir-delik-mi-var-iste-sasirtici-nedeni.webp",
+    "title": "Kulağınızın Üzerindeki Minik Delik Ne Anlama Geliyor?",
+    "description": "Kulağınızın üzerinde doğuştan gelen o küçük deliğin gizemini merak ettiniz mi? Preauriküler sinüs nedir, neden oluşur ve evrimsel bir kalıntı mı?",
+    "keywords": [
+      "preauriküler sinüs",
+      "kulaktaki delik",
+      "doğumsal anomali",
+      "evrim",
+      "insan anatomisi"
+    ],
+    "heading": "Kulağınızın Üzerinde Küçük Bir Delik mi Var? İşte Şaşırtıcı Nedeni!",
+    "intro": "Bazı insanların kulaklarının tam üzerinde, kıkırdak ve yüzün birleştiği noktada minik bir delik bulunur. İlk bakışta bir piercing izi gibi görünebilen bu yapı, aslında anne karnındaki embriyonik gelişimden kalan oldukça ilginç bir \"tasarım hatasıdır\".",
+    "article": "<p>Tıp dünyasında <strong>preauriküler sinüs</strong> (veya preauriküler çukur) olarak adlandırılan bu küçük delikler, dünya nüfusunun küçük bir kısmında görülen doğuştan gelen bir yapıdır. Genellikle tek bir kulakta veya her iki kulakta birden görülebilen bu yapı, ilk kez 1864 yılında bilim insanı <strong>Van Heusinger</strong> tarafından tanımlanmıştır. Çoğu insan için bu delik estetik bir detaydan öteye gitmez ve ömür boyu herhangi bir sağlık sorunu yaratmaz.</p><h3>Embriyonik Gelişimin Bir İzi</h3><p>Peki, bu delik tam olarak nasıl oluşur? İnsan embriyosu anne karnında yaklaşık 6 haftalıkken, gelişmekte olan kulak kepçesi karmaşık bir dizi doku hareketinden geçer. Bilimsel olarak, kulağı oluşturan altı küçük işitme tepeciğinin tam olarak kaynaşamaması sonucu bu küçük boşluk (fistül) oluşur. Bu durum, dokuların birleşim yerindeki mikroskobik bir \"hatadır\" ve çoğu zaman zararsızdır.</p><h3>Evrimsel Bir Miras mı?</h3><p>Bu konudaki en merak edilen sorulardan biri, bu deliğin bir \"evrimsel kalıntı\" olup olmadığıdır. Evrimsel biyolog <strong>Neil Shubin</strong> gibi bazı uzmanlar, bu yapıların balıklardaki solungaç yarıklarının evrimsel bir kalıntısı olabileceği hipotezini öne sürmüştür. Balıklarda solungaçları destekleyen dokular, memeli gelişiminde kulak ve boyun bölgesindeki yapıların temellerini oluşturur. Bu görüşe göre; preauriküler sinüs, atalarımızdan bizlere kalan biyolojik bir \"hatıra\" olarak kabul edilir.</p><h3>Sağlık Açısından Riskli mi?</h3><p>Genel olarak preauriküler sinüs asemptomatiktir; yani hiçbir belirti vermez ve özel bir bakım gerektirmez. Ancak bazı vakalarda, bu kanalın içinde deri kalıntıları veya salgılar birikerek küçük kistlere veya enfeksiyonlara yol açabilir. Eğer bölgede şişlik, kızarıklık veya kötü kokulu bir akıntı oluşursa, bu durum genellikle antibiyotik tedavisiyle kontrol altına alınır. Tekrarlayan enfeksiyon durumlarında ise cerrahi müdahale ile kanalın tamamen çıkarılması kalıcı çözüm olarak uygulanır.</p>",
+    "category": "bilim",
+    "sourceName": "Evrim Ağacı",
+    "sourceUrl": "https://evrimagaci.org/preaurikuler-sinus-kulaginizin-uzerinde-kucuk-bir-delik-mi-var-bunun-evrimsel-bir-nedeni-olabilir-9430",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Preauriküler sinüs ilk kez hangi yılda bilimsel olarak tanımlanmıştır?",
+        "options": [
+          "1820",
+          "1864",
+          "1905",
+          "1950"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Preauriküler sinüs, ilk kez 1864 yılında Van Heusinger tarafından tanımlanmıştır."
+      },
+      {
+        "id": 2,
+        "text": "Preauriküler sinüs embriyonik gelişimin hangi haftasında oluşur?",
+        "options": [
+          "2. hafta",
+          "6. hafta",
+          "12. hafta",
+          "24. hafta"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Bu yapı, bebeğin anne karnındaki gelişiminin yaklaşık 6. haftasında kulak dokularının tam olarak kaynaşamaması sonucu oluşur."
+      },
+      {
+        "id": 3,
+        "text": "Preauriküler sinüs için hangi ifade doğrudur?",
+        "options": [
+          "Her zaman ameliyatla alınması gerekir.",
+          "Sadece erkeklerde görülür.",
+          "Genellikle belirti vermez ve zararsızdır.",
+          "İşitme kaybına neden olur."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Preauriküler sinüs genellikle asemptomatiktir, yani belirti vermez ve çoğu durumda tedavi gerektirmez."
+      },
+      {
+        "id": 4,
+        "text": "Neil Shubin'in hipotezine göre, bu delik hangi canlıların solungaç yarıklarıyla ilişkilendirilebilir?",
+        "options": [
+          "Kuşlar",
+          "Sürüngenler",
+          "Balıklar",
+          "Memeliler"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Evrimsel biyolog Neil Shubin, bu deliklerin balıklardaki solungaç yapılarının bir kalıntısı olabileceğini öne sürmüştür."
+      }
+    ]
   }
 ];
