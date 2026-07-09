@@ -2335,5 +2335,75 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Hızlı bir savunma yanıtı, virüsün hücre içinde çoğalmasını ve dokulara yayılmasını engelleyerek semptomların hafif kalmasını sağlar."
       }
     ]
+  },
+  {
+    "slug": "kulak-onundeki-o-kucuk-delik-bedenimizdeki-antik-bir-izah",
+    "dateId": "2026-07-09T20:00:00+03:00",
+    "imageUrl": "/images/news/kulak-onundeki-o-kucuk-delik-bedenimizdeki-antik-bir-izah.webp",
+    "title": "Kulağınızdaki Küçük Delik Bir Evrim Kalıntısı mı?",
+    "description": "Kulağınızın önünde yer alan minik deliğin ne olduğunu hiç merak ettiniz mi? Preauriküler sinüs adı verilen bu ilginç anatomik durumun kökeni ve şaşırtıcı detayları.",
+    "keywords": [
+      "preauriküler sinüs",
+      "kulaktaki delik",
+      "evrimsel kalıntı",
+      "genetik anomali",
+      "biyoloji"
+    ],
+    "heading": "Kulak Önündeki O Küçük Delik: Bedenimizdeki Antik Bir İzah?",
+    "intro": "Kulağınızın hemen ön kısmında yer alan, bazen bir piercing izi gibi görünen o küçücük deliğin, aslında anne karnındaki gelişimin altıncı haftasına uzanan bir hikayesi var. Bilim dünyasında 'preauriküler sinüs' olarak adlandırılan bu oluşum, bazı teorilere göre uzak atalarımızdan kalan evrimsel bir iz olabilir.",
+    "article": "<p>Birçok insan, doğuştan gelen bu minik çukuru fark ettiğinde bunun bir yara izi veya piercing olduğunu düşünebilir. Ancak tıbbi literatürde <strong>preauriküler sinüs</strong> veya <strong>preauriküler çukur</strong> olarak bilinen bu oluşum, aslında embriyonik gelişim sürecinde meydana gelen yapısal bir farklılıktır. Kulak kepçesini oluşturan dokuların, anne karnındaki gelişimin yaklaşık <strong>6. haftasında</strong> tam olarak kaynaşamaması sonucu bu küçük tünel yapısı ortaya çıkar.</p><h3>Evrimsel Bir Miras mı?</h3><p>Bazı evrimsel biyologlar, bu küçük oluşumun balıkların solungaç yapılarının evrimsel bir kalıntısı olabileceği hipotezini öne sürmektedir. Memelilerin baş ve boyun yapıları ile balıkların solungaç yarıklarının embriyolojik kökenlerinin benzerliği, bu teoriyi destekleyen ana unsurlardan biridir. Bu görüşe göre, günümüzde gördüğümüz bu delik, milyonlarca yıl önce suda yaşamış uzak atalarımızın biyolojik mimarisinden kalan bir izdir.</p><h3>Yaygınlığı ve Genetik Etkiler</h3><p>Preauriküler sinüs oldukça nadir görülen bir durumdur ancak toplumlara göre değişkenlik gösterebilir. Dünya genelinde ortalama görülme sıklığı <strong>%2 ile %5</strong> arasındadır. Genetik bir geçiş özelliği taşıdığı için ailelerde nesilden nesile aktarılabilir; hatta bazen ebeveynlerde görülmese dahi aile ağacındaki diğer bireylerde rastlanabilir. Genellikle tek bir kulakta gözlemlense de, bazı bireylerin her iki kulağında da bu küçük delik bulunabilir.</p><h3>Sağlık Açısından Bir Risk Taşır mı?</h3><p>Çoğu durumda bu küçük delik tamamen zararsızdır ve kişinin yaşam kalitesini etkilemez. Ancak, cilt altında bir tünel yapısı (traktüs) oluşturduğu için bazen enfeksiyon kapmaya veya kist oluşumuna yatkınlık gösterebilir. <ul><li>Enfeksiyon belirtileri arasında bölgede kızarıklık, şişlik veya ağrı yer alır.</li><li>Enfeksiyon gelişmediği sürece herhangi bir tedavi gerektirmez.</li><li>Tekrarlayan enfeksiyon durumlarında doktorlar, cerrahi müdahale ile bu kanalın tamamen çıkarılmasını önerebilir.</li></ul><p>Sonuç olarak, kulağınızdaki bu küçük delik, vücudunuzun gelişimsel tarihine dair sessiz bir tanık gibidir. Eğer herhangi bir ağrı veya iltihaplanma yaratmıyorsa, bu sadece sizi özel kılan anatomik bir farklılıktan ibarettir.</p>",
+    "category": "bilim",
+    "sourceName": "Evrim Ağacı",
+    "sourceUrl": "https://evrimagaci.org/preaurikuler-sinus-kulaginizin-uzerinde-kucuk-bir-delik-mi-var-bunun-evrimsel-bir-nedeni-olabilir-9426",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Preauriküler sinüs, embriyonik gelişimin kaçıncı haftasında ortaya çıkar?",
+        "options": [
+          "2. hafta",
+          "6. hafta",
+          "12. hafta",
+          "24. hafta"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Preauriküler sinüs, anne karnındaki gelişimin yaklaşık altıncı haftasında kulak dokularının tam kaynaşamaması sonucu oluşur."
+      },
+      {
+        "id": 2,
+        "text": "Evrimsel biyologların bu delik ile ilişkilendirdiği yapı nedir?",
+        "options": [
+          "Sürüngen pulları",
+          "Kuş kanatları",
+          "Balık solungaçları",
+          "Amfibi kuyrukları"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bazı bilim insanları, bu deliğin balıkların solungaç yapılarına ait evrimsel bir kalıntı olabileceğini savunmaktadır."
+      },
+      {
+        "id": 3,
+        "text": "Preauriküler sinüs hakkında hangisi doğrudur?",
+        "options": [
+          "Mutlaka cerrahi operasyonla alınmalıdır.",
+          "Sadece erkeklerde görülür.",
+          "Genetik geçişli bir özelliktir.",
+          "İşitme kaybına doğrudan neden olur."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bu durum genetik yatkınlıkla aile içinde aktarılabilir ve çoğu zaman tedavi gerektirmez."
+      },
+      {
+        "id": 4,
+        "text": "Hangi durumda preauriküler sinüs için tıbbi müdahale (cerrahi) önerilebilir?",
+        "options": [
+          "Görüntüsünden rahatsız olunduğunda",
+          "Tekrarlayan enfeksiyon durumlarında",
+          "Herkesin aldırması gerektiğinde",
+          "Bebeklik döneminde zorunlu olduğu için"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Genellikle zararsızdır, ancak kanal enfeksiyon kapmaya yatkınsa veya sürekli enfeksiyon oluşuyorsa cerrahi çıkarılması önerilebilir."
+      }
+    ]
   }
 ];

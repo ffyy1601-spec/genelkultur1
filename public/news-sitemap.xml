@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://genelkultur.com.tr/test/gunese-bakinca-hapsiranlardan-misiniz-iste-achoo-sendromunun-bilimsel-nedeni/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenelKültür Haber</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-07T16:00:00.000Z</news:publication_date>
-      <news:title>Güneşe Bakınca Hapşıranlardan mısınız? İşte &apos;ACHOO Sendromu&apos;nun Bilimsel Nedeni</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://genelkultur.com.tr/test/tek-yumurta-ikizlerinin-bile-parmak-izleri-neden-farklidir/</loc>
     <news:news>
       <news:publication>
@@ -42,6 +31,17 @@
       </news:publication>
       <news:publication_date>2026-07-09T11:00:00.000Z</news:publication_date>
       <news:title>Çevrenizdeki Herkes Hasta Olurken Sizin &apos;Taş Gibi&apos; Sağlam Kalmanızın Sırrı Ne?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/kulak-onundeki-o-kucuk-delik-bedenimizdeki-antik-bir-izah/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-09T17:00:00.000Z</news:publication_date>
+      <news:title>Kulak Önündeki O Küçük Delik: Bedenimizdeki Antik Bir İzah?</news:title>
     </news:news>
   </url>
 </urlset>

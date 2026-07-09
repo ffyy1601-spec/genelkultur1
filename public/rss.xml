@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 09 Jul 2026 11:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 17:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Kulak Önündeki O Küçük Delik: Bedenimizdeki Antik Bir İzah?</title>
+      <link>https://genelkultur.com.tr/test/kulak-onundeki-o-kucuk-delik-bedenimizdeki-antik-bir-izah</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/kulak-onundeki-o-kucuk-delik-bedenimizdeki-antik-bir-izah</guid>
+      <pubDate>Thu, 09 Jul 2026 17:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Kulağınızın hemen ön kısmında yer alan, bazen bir piercing izi gibi görünen o küçücük deliğin, aslında anne karnındaki gelişimin altıncı haftasına uzanan bir hikayesi var. Bilim dünyasında &apos;preauriküler sinüs&apos; olarak adlandırılan bu oluşum, bazı teorilere göre uzak atalarımızdan kalan evrimsel bir iz olabilir.</description>
+    </item>
     <item>
       <title>Çevrenizdeki Herkes Hasta Olurken Sizin &apos;Taş Gibi&apos; Sağlam Kalmanızın Sırrı Ne?</title>
       <link>https://genelkultur.com.tr/test/cevrenizdeki-herkes-hasta-olurken-sizin-tas-gibi-saglam-kalmanizin-sirri-ne</link>
@@ -158,14 +166,6 @@
       <pubDate>Tue, 30 Jun 2026 11:00:00 GMT</pubDate>
       <category>bilim</category>
       <description>Karanlık bir gecede deniz kıyısında yürürken suyun içinde parlayan mavi ışıltılara hiç denk geldiniz mi? Bu büyüleyici doğa olayı, canlıların kimyasal enerjiyi ısı açığa çıkarmadan doğrudan ışığa dönüştürdüğü &quot;biyolüminesans&quot; fenomeninden başka bir şey değil.</description>
-    </item>
-    <item>
-      <title>Vombatlar Neden Küp Şeklinde Dışkılar? Doğanın Mimari Dehası</title>
-      <link>https://genelkultur.com.tr/test/vombatlar-neden-kup-seklinde-diskilar-doganin-mimari-dehasi</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/vombatlar-neden-kup-seklinde-diskilar-doganin-mimari-dehasi</guid>
-      <pubDate>Mon, 29 Jun 2026 17:00:00 GMT</pubDate>
-      <category>bilim</category>
-      <description>Doğa dünyasında genellikle yuvarlak formlarla karşılaşmaya alışkınızdır; ancak Avustralya’nın yerli keseli memelisi vombatlar, biyolojik bir mucizeye imza atarak mükemmel küp şeklinde dışkı üretirler. Bu ilginç durum, uzun süre bir efsane gibi görülse de bilim insanları bu sıra dışı yeteneğin arkasındaki mekanizmayı çözmeyi başardı.</description>
     </item>
   </channel>
 </rss>
