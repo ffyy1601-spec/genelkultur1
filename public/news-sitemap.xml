@@ -1,28 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://genelkultur.com.tr/test/muzlarin-gizli-sirri-neden-radyoaktif-meyveler-olarak-bilinirler/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenelKültür Haber</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-06T17:00:00.000Z</news:publication_date>
-      <news:title>Muzların Gizli Sırrı: Neden &apos;Radyoaktif&apos; Meyveler Olarak Bilinirler?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://genelkultur.com.tr/test/aci-bir-tat-degildir-neden-bazi-insanlar-yanma-hissine-bayilir/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenelKültür Haber</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-07T11:00:00.000Z</news:publication_date>
-      <news:title>Acı Bir &apos;Tat&apos; Değildir: Neden Bazı İnsanlar Yanma Hissine Bayılır?</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://genelkultur.com.tr/test/gunese-bakinca-hapsiranlardan-misiniz-iste-achoo-sendromunun-bilimsel-nedeni/</loc>
     <news:news>
       <news:publication>
@@ -53,6 +31,17 @@
       </news:publication>
       <news:publication_date>2026-07-08T16:00:00.000Z</news:publication_date>
       <news:title>Kulağınızın Üzerinde Küçük Bir Delik mi Var? İşte Şaşırtıcı Nedeni!</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/cevrenizdeki-herkes-hasta-olurken-sizin-tas-gibi-saglam-kalmanizin-sirri-ne/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-09T11:00:00.000Z</news:publication_date>
+      <news:title>Çevrenizdeki Herkes Hasta Olurken Sizin &apos;Taş Gibi&apos; Sağlam Kalmanızın Sırrı Ne?</news:title>
     </news:news>
   </url>
 </urlset>

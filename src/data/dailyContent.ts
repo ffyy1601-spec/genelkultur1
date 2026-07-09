@@ -2264,5 +2264,76 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Evrimsel biyolog Neil Shubin, bu deliklerin balıklardaki solungaç yapılarının bir kalıntısı olabileceğini öne sürmüştür."
       }
     ]
+  },
+  {
+    "slug": "cevrenizdeki-herkes-hasta-olurken-sizin-tas-gibi-saglam-kalmanizin-sirri-ne",
+    "dateId": "2026-07-09T14:00:00+03:00",
+    "imageUrl": "/images/news/cevrenizdeki-herkes-hasta-olurken-sizin-tas-gibi-saglam-kalmanizin-sirri-ne.webp",
+    "title": "Neden Bazı İnsanlar Asla Soğuk Algınlığına Yakalanmaz? | Bilim Dünyası",
+    "description": "Çevrenizde herkes hastalanırken sizin asla soğuk algınlığına yakalanmamanızın bilimsel bir açıklaması olabilir. Burun hücrelerimizin savunma stratejilerini keşfedin.",
+    "keywords": [
+      "soğuk algınlığı",
+      "bağışıklık sistemi",
+      "rinovirüs",
+      "burun hücreleri",
+      "bilimsel araştırmalar",
+      "hastalık direnci"
+    ],
+    "heading": "Çevrenizdeki Herkes Hasta Olurken Sizin 'Taş Gibi' Sağlam Kalmanızın Sırrı Ne?",
+    "intro": "Hava soğuduğunda etrafınızdaki herkes birer birer aksırmaya ve öksürmeye başlarken sizin hiçbir şey olmamış gibi hayatınıza devam etmeniz tesadüf olmayabilir. Yale Üniversitesi'nden araştırmacılar, bağışıklık sisteminin en kritik savunma hattının burun hücrelerimizde gizli olduğunu keşfetti.",
+    "article": "<p>Soğuk algınlığı, yetişkinlerin her yıl ortalama 2 ila 3 kez yaşadığı en yaygın hastalıklardan biridir. Ancak, aynı ortamlarda bulunduğumuz, aynı havayı soluduğumuz ve aynı virüslere (başta <strong>rinovirüsler</strong> olmak üzere) maruz kaldığımız halde, neden bazı insanlar sürekli hastalanırken diğerleri bu süreci neredeyse semptomsuz atlatır? Uzun yıllar boyunca bunun nedeni tam olarak anlaşılamamıştı; ancak güncel bilimsel çalışmalar bu gizemli direncin anahtarını <strong>burun mukozasındaki hücrelerin</strong> savunma mekanizmalarında buldu.</p><h3>İlk Savunma Hattı: Burun Hücreleri</h3><p>Yeni araştırmalar, soğuk algınlığı virüsleri vücuda girdiğinde vücudun gösterdiği tepkinin, virüsün kendisinden daha belirleyici olduğunu gösteriyor. Burun ve üst solunum yollarındaki hücreler, virüsleri vücudun derinliklerine inmeden yakalamakla görevlidir. Bu hücreler bir virüsle karşılaştıklarında, <strong>interferon</strong> adı verilen özel proteinleri hızla serbest bırakırlar. Bu proteinler, hem enfekte olan hücreyi virüsün çoğalmasından korur hem de çevre hücreleri bir savunma durumuna geçirir.</p><h3>Dirençteki Hız Faktörü</h3><p>Bilim insanlarının laboratuvar ortamında geliştirdikleri insan burun dokusu modelleriyle yaptığı gözlemler, direncin temelinde <strong>hız ve eşgüdümün</strong> yattığını kanıtladı. Bazı insanların burun hücreleri, virüsle temas ettiği anda neredeyse anında interferon salgılayarak süreci kontrol altına alabiliyor. Bu 'hızlı tepki', virüsün çoğalmasını daha başlangıç aşamasında durduruyor. Buna karşılık, savunma sistemi daha yavaş tepki veren bireylerde virüs hücrelere yerleşip çoğalmaya başlıyor ve bu da şiddetli semptomlara, burun tıkanıklığına ve inflamasyona yol açıyor.</p><h3>Stres ve Yaşam Tarzının Etkisi</h3><p>Hücrelerin bu savunma kapasitesi sabit değildir; dış etkenlerden kolayca etkilenebilir. <strong>Sigara dumanı, hava kirliliği ve kronik stres</strong>, burun hücrelerini oksidatif strese sokarak savunma mekanizmalarını zayıflatmaktadır. Araştırmalar, stres seviyeleri yüksek olan kişilerin burun hücrelerinin, virüslere karşı interferon yanıtını daha yavaş verdiğini ortaya koyuyor. Özetle, hastalanmamak sadece şanslı bir genetik yapıyla değil, burun dokusunu koruyan yaşam tarzı alışkanlıklarıyla da yakından ilgilidir.</p><ul><li><strong>Erken Uyarı:</strong> Hızlı interferon yanıtı veren kişiler, virüsü hücre içinde hapsetme konusunda daha başarılıdır.</li><li><strong>İkincil Etkiler:</strong> Savunma başarısız olduğunda vücut, virüsü temizlemek için aşırı mukus üretimi ve inflamasyon gibi yollara başvurur, bu da hastalık semptomlarını artırır.</li><li><strong>Korunma:</strong> Stres yönetimi ve temiz hava, burun hücrelerinin savunma bariyerlerini güçlü tutmak için esastır.</li></ul>",
+    "category": "bilim",
+    "sourceName": "Yale News / Cell Press Blue",
+    "sourceUrl": "https://news.yale.edu/2026/01/27/study-explains-why-some-people-catch-bad-colds-others-dont",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Araştırmalara göre soğuk algınlığı semptomlarının şiddetini belirleyen en temel faktör nedir?",
+        "options": [
+          "Maruz kalınan virüs miktarı",
+          "Kişinin yaşı",
+          "Burun hücrelerinin virüse karşı verdiği erken veya geç tepki",
+          "Kişinin kan grubu"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Araştırmalar, burun hücrelerinin virüsle karşılaştığı anda ne kadar hızlı ve koordineli interferon yanıtı verdiğinin semptom şiddetini belirlediğini göstermektedir."
+      },
+      {
+        "id": 2,
+        "text": "İnterferon nedir ve vücuttaki görevi nedir?",
+        "options": [
+          "Virüslerin hücreye girişini kolaylaştıran bir protein türüdür.",
+          "Hücrelerin virüsle karşılaştığında salgıladığı, virüs çoğalmasını engelleyen savunma proteinidir.",
+          "Burun tıkanıklığına neden olan bir tür mukus yapısıdır.",
+          "Sadece stres anında salgılanan bir hormondur."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Interferon, burun hücrelerinin virüsü algıladığında serbest bıraktığı, virüsün çoğalmasını bloke eden savunma proteinleridir."
+      },
+      {
+        "id": 3,
+        "text": "Aşağıdakilerden hangisi burun hücrelerinin virüslere karşı savunma mekanizmasını zayıflatan stres faktörlerinden biri DEĞİLDİR?",
+        "options": [
+          "Sigara dumanı",
+          "Hava kirliliği",
+          "Kronik stres",
+          "Düzenli uyku"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Düzenli uyku, vücudun genel direncini destekleyen bir faktördür; sigara, hava kirliliği ve stres ise burun hücrelerinin savunmasını zayıflatan faktörlerdir."
+      },
+      {
+        "id": 4,
+        "text": "Neden bazı insanlar soğuk algınlığını neredeyse semptomsuz atlatır?",
+        "options": [
+          "Virüsler onların burun hücrelerini enfekte etmez.",
+          "Hızlı savunma yanıtı sayesinde virüs hücrelere yayılamadan durdurulur.",
+          "Sadece daha fazla vitamin tükettikleri için.",
+          "Kış aylarında dışarı çıkmadıkları için."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Hızlı bir savunma yanıtı, virüsün hücre içinde çoğalmasını ve dokulara yayılmasını engelleyerek semptomların hafif kalmasını sağlar."
+      }
+    ]
   }
 ];

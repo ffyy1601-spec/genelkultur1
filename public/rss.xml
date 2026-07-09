@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 08 Jul 2026 16:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 11:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Çevrenizdeki Herkes Hasta Olurken Sizin &apos;Taş Gibi&apos; Sağlam Kalmanızın Sırrı Ne?</title>
+      <link>https://genelkultur.com.tr/test/cevrenizdeki-herkes-hasta-olurken-sizin-tas-gibi-saglam-kalmanizin-sirri-ne</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/cevrenizdeki-herkes-hasta-olurken-sizin-tas-gibi-saglam-kalmanizin-sirri-ne</guid>
+      <pubDate>Thu, 09 Jul 2026 11:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Hava soğuduğunda etrafınızdaki herkes birer birer aksırmaya ve öksürmeye başlarken sizin hiçbir şey olmamış gibi hayatınıza devam etmeniz tesadüf olmayabilir. Yale Üniversitesi&apos;nden araştırmacılar, bağışıklık sisteminin en kritik savunma hattının burun hücrelerimizde gizli olduğunu keşfetti.</description>
+    </item>
     <item>
       <title>Kulağınızın Üzerinde Küçük Bir Delik mi Var? İşte Şaşırtıcı Nedeni!</title>
       <link>https://genelkultur.com.tr/test/kulaginizin-uzerinde-kucuk-bir-delik-mi-var-iste-sasirtici-nedeni</link>
@@ -158,14 +166,6 @@
       <pubDate>Mon, 29 Jun 2026 17:00:00 GMT</pubDate>
       <category>bilim</category>
       <description>Doğa dünyasında genellikle yuvarlak formlarla karşılaşmaya alışkınızdır; ancak Avustralya’nın yerli keseli memelisi vombatlar, biyolojik bir mucizeye imza atarak mükemmel küp şeklinde dışkı üretirler. Bu ilginç durum, uzun süre bir efsane gibi görülse de bilim insanları bu sıra dışı yeteneğin arkasındaki mekanizmayı çözmeyi başardı.</description>
-    </item>
-    <item>
-      <title>Ağaçlar Neden Yaprak Döker? Bir &apos;Ekonomik&apos; Hayatta Kalma Sanatı</title>
-      <link>https://genelkultur.com.tr/test/agaclar-neden-yaprak-doker-bir-ekonomik-hayatta-kalma-sanati</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/agaclar-neden-yaprak-doker-bir-ekonomik-hayatta-kalma-sanati</guid>
-      <pubDate>Mon, 29 Jun 2026 12:00:00 GMT</pubDate>
-      <category>bilim</category>
-      <description>Doğanın her sonbahar sunduğu o büyüleyici kızıl ve sarı renk şöleni, aslında ağaçların yaklaşan zorlu kış şartlarına karşı aldığı ciddi bir önlemin dışa vurumudur. Bu süreç, sadece bir güzellik değil, bitkilerin enerji tasarrufu yapmak ve hayatta kalmak için başvurduğu stratejik bir &apos;kapatma&apos; operasyonudur.</description>
     </item>
   </channel>
 </rss>
