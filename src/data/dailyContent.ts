@@ -2405,5 +2405,76 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Genellikle zararsızdır, ancak kanal enfeksiyon kapmaya yatkınsa veya sürekli enfeksiyon oluşuyorsa cerrahi çıkarılması önerilebilir."
       }
     ]
+  },
+  {
+    "slug": "aci-biber-yerken-bedenimiz-neden-yaniyor-ve-terliyoruz",
+    "dateId": "2026-07-10T14:00:00+03:00",
+    "imageUrl": "/images/news/aci-biber-yerken-bedenimiz-neden-yaniyor-ve-terliyoruz.webp",
+    "title": "Acı Yiyince Neden Terleriz? | İlginç Genel Kültür",
+    "description": "Acı biber yediğinizde vücudunuzda yaşanan terleme, burun akıntısı ve yanma hissinin ardındaki bilimsel mekanizmayı keşfedin. Bedeniniz aslında sizi korumaya çalışıyor!",
+    "keywords": [
+      "acı yemek",
+      "kapsaisin",
+      "terleme",
+      "TRPV1 reseptörü",
+      "genel kültür",
+      "bilimsel gerçekler"
+    ],
+    "heading": "Acı Biber Yerken Bedenimiz Neden 'Yanıyor' ve Terliyoruz?",
+    "intro": "Acı bir biberin ilk ısırığında ağzınızın içinde yayılan o yoğun yanma hissiyle birlikte aniden terlemeye ve burnunuzun akmaya başladığını fark ettiniz mi? Aslında bu durum, yediğiniz yemeğin sıcaklığıyla değil, vücudunuzun sizi korumak için devreye soktuğu sofistike bir alarm sistemiyle ilgilidir.",
+    "article": "<p>Birçok insan için vazgeçilmez bir lezzet olan acı, aslında bilimsel olarak klasik bir tat türü değildir. Biberlere o meşhur acılığını veren <strong>kapsaisin</strong> adlı kimyasal bileşik, vücudumuzdaki sinir uçlarını doğrudan etkileyen bir tahriş edicidir. Ağzınıza acı bir gıda aldığınızda, dildeki tat tomurcuklarınız değil, <strong>TRPV1</strong> adı verilen özel protein reseptörleri devreye girer.</p><h3>Vücudunuzun 'Yanlış Alarm' Mekanizması</h3><p>TRPV1 reseptörleri, vücudunuzu yüksek sıcaklıklara (genellikle 42°C ve üzeri) karşı korumak için tasarlanmıştır. Kapsaisin molekülü bu reseptörlere bağlandığında, beyne sanki diliniz gerçekten yanıyormuş gibi <strong>acil durum sinyalleri</strong> gönderilir. Beyniniz, vücudunuzun aşırı ısındığını düşünerek sizi serinletmek amacıyla otonom sinir sistemini tetikler. İşte bu noktada terleme başlar, kılcal damarlar genişler ve yüzünüz kızarmaya başlar.</p><h3>Neden Bazı İnsanlar Bu Acıya Bayılıyor?</h3><p>Vücudumuzun \"bunu hemen tükürmelisin\" diyen bu kadar sert bir tepkisine rağmen, milyonlarca insan acı yemeyi bir tutku haline getirmiştir. Uzmanlara göre bunun birkaç temel nedeni vardır:<ul><li><strong>Endorfin Salınımı:</strong> Vücut, algıladığı acıyı dindirmek için doğal ağrı kesiciler olan endorfinleri salgılar. Bu da kişide hafif bir haz ve rahatlama hissi yaratır.</li><li><strong>Duyarsızlaşma (Alışma):</strong> Düzenli acı tüketen bireylerde, TRPV1 reseptörleri zamanla bu uyaranlara karşı daha az tepki vermeye başlar.</li><li><strong>Genetik Farklılıklar:</strong> Her bireyin reseptör yoğunluğu farklıdır; bu yüzden bazı insanlar çok az acıda bile yoğun tepki verirken, bazıları yüksek miktardaki kapsaisine karşı oldukça dirençlidir.</li></ul></p><h3>Bitkilerin Savunma Sanatı</h3><p>İlginç bir detay olarak, biber bitkileri kapsaisini insanlar için değil, aslında memeli hayvanların tohumlarını çiğneyip yok etmesini engellemek için geliştirmiştir. İlginçtir ki, kuşlarda bu reseptörler bulunmaz; dolayısıyla biber tohumlarını acı hissetmeden yiyebilir ve bitkinin tohumlarını geniş alanlara yaymasına yardımcı olurlar.</p>",
+    "category": "bilim",
+    "sourceName": "T24",
+    "sourceUrl": "https://t24.com.tr/haber/aci-yemek-vucudu-nasil-etkiliyor,1292021",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Acı biberin neden olduğu yanma hissini dilde hangi reseptörler algılar?",
+        "options": [
+          "Tat tomurcukları",
+          "TRPV1 reseptörleri",
+          "TRPM8 reseptörleri",
+          "Koku reseptörleri"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Kapsaisin, vücudu yüksek sıcaklıklara karşı korumakla görevli TRPV1 reseptörlerini aktive ederek beynimize yanma sinyali gönderir."
+      },
+      {
+        "id": 2,
+        "text": "Beyin, acı yediğimizde vücudun 'yandığını' düşünerek hangi tepkiyi verir?",
+        "options": [
+          "Metabolizmayı tamamen durdurur",
+          "Vücudu serinletmek için terlemeyi tetikler",
+          "Daha fazla acı yeme isteği uyandırır",
+          "Tüm duyuları geçici olarak kapatır"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Beyin, vücudun aşırı ısındığını düşünerek bizi serinletmek amacıyla otonom sinir sistemi üzerinden terlemeyi başlatır."
+      },
+      {
+        "id": 3,
+        "text": "Acı yemenin bazı insanlar için neden keyif verici olduğu düşünülmektedir?",
+        "options": [
+          "Kapsaisinin bir besin değeri olduğu için",
+          "Mideyi rahatlattığı için",
+          "Vücudun ağrıyı dindirmek için endorfin salgılaması nedeniyle",
+          "Dilin yapısını kalıcı olarak değiştirdiği için"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Vücut, acı hissini dengelemek için endorfin salgılar ve bu da kişide haz ve rahatlama hissi yaratır."
+      },
+      {
+        "id": 4,
+        "text": "Kuşlar neden acı biber yediklerinde acı hissetmezler?",
+        "options": [
+          "Dillerinde tat alıcıları yoktur",
+          "TRPV1 reseptörleri kapsaisine duyarsızdır",
+          "Mide asitleri kapsaisini hemen yok eder",
+          "Acı biberleri görmezler"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Kuşlarda acıyı tetikleyen reseptörler kapsaisine karşı duyarsızdır, bu da onların acı biber tohumlarını sorunsuz tüketmelerini sağlar."
+      }
+    ]
   }
 ];
