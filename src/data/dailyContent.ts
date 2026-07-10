@@ -2476,5 +2476,75 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Kuşlarda acıyı tetikleyen reseptörler kapsaisine karşı duyarsızdır, bu da onların acı biber tohumlarını sorunsuz tüketmelerini sağlar."
       }
     ]
+  },
+  {
+    "slug": "uykuda-konusurken-soylediginiz-o-seylerin-arkasinda-ne-var",
+    "dateId": "2026-07-10T19:00:00+03:00",
+    "imageUrl": "/images/news/uykuda-konusurken-soylediginiz-o-seylerin-arkasinda-ne-var.webp",
+    "title": "Uykuda Konuşmak: Bilim İnsanlarının Gece Mesaisi Hakkında Keşfettikleri",
+    "description": "Uykuda konuşmak (somniloquy) neden olur, ne anlama gelir? Bilim dünyasının en ilginç uyku davranışlarından birini ve şaşırtıcı gerçeklerini keşfedin.",
+    "keywords": [
+      "uykuda konuşmak",
+      "somniloquy",
+      "uyku bozuklukları",
+      "genel kültür",
+      "uyku bilimi"
+    ],
+    "heading": "Uykuda Konuşurken Söylediğiniz O Şeylerin Arkasında Ne Var?",
+    "intro": "Pek çoğumuz hayatımızın bir döneminde en az bir kez uykuda konuştuk ya da yanımızdaki birinin gece yarısı anlamsız cümleler kurduğuna şahit olduk. Tıp dilinde 'somniloquy' olarak bilinen bu fenomen, beynin uyku ile uyanıklık arasındaki karmaşık geçişlerinde gerçekleşen büyüleyici bir süreçtir.",
+    "article": "<p>Uykuda konuşmak, uykunun her aşamasında meydana gelebilen, bilimsel olarak <strong>somniloquy</strong> şeklinde adlandırılan yaygın bir parasomni türüdür. Latince uyku anlamına gelen 'somnus' ve konuşmak anlamına gelen 'loqui' kelimelerinden türetilen bu durum, aslında beynin tamamen uyku moduna geçemediği veya uyku evreleri arasındaki o hassas geçiş anlarında ortaya çıkan bir 'motor dışa vurum' olarak değerlendirilir.</p><h3>Beyin Neden Uykuda Konuşur?</h3><p>Bilim insanları, uykuda konuşmanın nedenlerini henüz tam olarak çözmüş olmasa da en güçlü teorilerden biri 'bellek pekiştirme' hipotezidir. Beyin, gün boyunca edindiği anıları ve bilgileri gece işlerken, zaman zaman bu süreçlerin bir yan ürünü olarak sesli tepkiler ortaya çıkabilir. Araştırmalar, uykuda konuşan kişilerin genellikle stres, uyku yoksunluğu veya düzensiz bir uyku düzenine sahip olduklarında bu durumu daha sık yaşadıklarını göstermektedir.</p><h3>Gece Yarısı Kelime Analizi: En Sık Ne Söylüyoruz?</h3><p>2017 yılında Paris'teki Avrupa Uyku Araştırma Laboratuvarları'nda yapılan kapsamlı bir dilbilimsel analiz, uykuda konuşan insanların aslında ne söylediğini ortaya koydu. Kayıt altına alınan binlerce kelime içerisinde en sık rastlanan ifadenin <strong>'hayır'</strong> olduğu belirlendi. Şaşırtıcı bir şekilde, uykuda konuşan bireylerin uyanık olduklarına kıyasla küfürlü veya olumsuz ifadeleri kullanma oranlarının daha yüksek olduğu gözlemlenmiştir.</p><ul><li><strong>Genetik Yatkınlık:</strong> Yapılan ikiz çalışmaları, uykuda konuşmanın genetik bir bileşeni olduğunu ve aileden miras kalabileceğini desteklemektedir.</li><li><strong>Farklı Diller ve Sesler:</strong> Uykuda konuşan kişi, uyanıkken kullandığı ses tonundan farklı bir tonla veya farklı bir dilde konuşabilir.</li><li><strong>Kısa Süreli Episodlar:</strong> Çoğu uykuda konuşma vakası 30 saniyeden kısa sürer ve kişi uyandığında genellikle bu konuşmalarını hatırlamaz.</li></ul><h3>Ne Zaman Endişelenmeli?</h3><p>Genellikle zararsız bir durum olarak kabul edilen somniloquy, tek başına tıbbi bir tedavi gerektirmez. Ancak ani bir şekilde yetişkinlik döneminde başlayan, çok sık tekrarlayan veya şiddetli bağırmalarla eşlik eden konuşmalar, altında yatan diğer uyku bozukluklarının (uyku apnesi veya REM davranış bozukluğu gibi) bir belirtisi olabilir. Sağlıklı bir uyku hijyeni, düzenli uyku saatleri ve stres yönetimi, bu gece mesaisini azaltmak için atılabilecek en etkili adımlardır.</p>",
+    "category": "bilim",
+    "sourceName": "TÜBİTAK Bilim Genç",
+    "sourceUrl": "https://bilimgenc.tubitak.gov.tr/makale/insanlar-neden-uykularinda-konusur",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Tıp literatüründe uykuda konuşma eylemi için kullanılan terim hangisidir?",
+        "options": [
+          "Parasomni",
+          "Somniloquy",
+          "Uyku Apnesi",
+          "Bellek Pekiştirme"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Uykuda konuşmak tıp dilinde 'somniloquy' olarak adlandırılır."
+      },
+      {
+        "id": 2,
+        "text": "Yapılan dilbilimsel analizlere göre uykuda en sık kullanılan kelime hangisidir?",
+        "options": [
+          "Evet",
+          "Anne",
+          "Hayır",
+          "Su"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Araştırmalar, uykuda en sık telaffuz edilen kelimenin 'hayır' olduğunu ortaya koymuştur."
+      },
+      {
+        "id": 3,
+        "text": "Uykuda konuşma ile ilgili aşağıdakilerden hangisi bilimsel olarak doğrudur?",
+        "options": [
+          "Sadece derin uyku evresinde görülür.",
+          "Kişi genellikle sabah uyandığında ne söylediğini hatırlar.",
+          "Genetik bir yatkınlığı olabilir.",
+          "Sadece stresli insanlarda görülür."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Uykuda konuşmanın genetik bir bileşeni olduğu ve aileden geçebildiği araştırmalarla desteklenmektedir."
+      },
+      {
+        "id": 4,
+        "text": "Uykuda konuşma genellikle hangi durumlarla tetiklenebilir?",
+        "options": [
+          "Uyku yoksunluğu ve stres",
+          "Sadece çok yemek yemek",
+          "Sadece aşırı fiziksel aktivite",
+          "Havanın çok soğuk olması"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Stres, uyku yoksunluğu ve düzensiz uyku düzeni uykuda konuşmayı tetikleyen en önemli faktörlerdendir."
+      }
+    ]
   }
 ];
