@@ -2616,5 +2616,76 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Uyku sırasındaki uzun süreli hareketsizlik, vücut sıvılarının ellerde birikmesine yol açan dolaşım yavaşlamasına neden olur."
       }
     ]
+  },
+  {
+    "slug": "soguk-hava-neden-hapsirtir-vucudunuzun-gizli-koruma-mekanizmasi",
+    "dateId": "2026-07-11T18:00:00+03:00",
+    "imageUrl": "/images/news/soguk-hava-neden-hapsirtir-vucudunuzun-gizli-koruma-mekanizmasi.webp",
+    "title": "Soğuk Havada Neden Hapşırırız? | Vücudun Şaşırtıcı Refleksleri",
+    "description": "Soğuk havaya çıktığınızda neden aniden hapşırdığınızı hiç merak ettiniz mi? İşte soğuk havanın burun mukozası ve sinir sistemi üzerindeki ilginç etkileri.",
+    "keywords": [
+      "hapşırma",
+      "soğuk hava",
+      "burun mukozası",
+      "trigeminal sinir",
+      "genel kültür",
+      "sağlık bilgisi"
+    ],
+    "heading": "Soğuk Hava Neden Hapşırtır? Vücudunuzun Gizli Koruma Mekanizması",
+    "intro": "Dışarıdaki soğuk havaya adım attığınız anda burnunuzun sızlaması ve ardından gelen o kaçınılmaz hapşırık, aslında vücudunuzun sizi korumak için geliştirdiği karmaşık bir savunma stratejisidir. Bu durum sadece üşümenizle ilgili değildir; burnunuzun içinde her saniye çalışan muazzam bir mühendislik sistemi devreye girer.",
+    "article": "<p>Hapşırma, teknik adıyla <strong>sternutasyon</strong>, vücudun burun ve geniz yollarındaki istenmeyen yabancı maddeleri (toz, alerjen veya partiküller) hızlı ve kuvvetli bir şekilde dışarı atma yöntemidir. Ancak soğuk havaya maruz kaldığımızda hapşırmamızın arkasında enfeksiyonlardan çok daha farklı, biyolojik bir tetiklenme yatar.</p><h3>Burun İçindeki Isı Kalkanı</h3><p>Vücudumuz, iç organlarımızın ısısını korumak için çevresel değişikliklere karşı sürekli uyum sağlar. Soğuk hava soluduğumuzda, burnumuzdaki mukoza zarları bu kuru ve soğuk havayı nemlendirmek ve ısıtmak için ekstra mesai yapar. Bu süreçte burun pasajlarındaki damarlar genişleyebilir ve mukoza daha fazla sıvı (mukus) üretmeye başlar. Burun içinde oluşan bu ekstra nem ve mukus yoğunluğu, sinir uçlarının hassasiyetini artırarak hapşırma refleksini tetikleyebilir.</p><h3>Trigeminal Sinirin Rolü</h3><p>Soğuk havanın yarattığı ani ısı değişimi, yüzümüzün ve burnumuzun duyusal verilerini ileten <strong>trigeminal sinirin</strong> uçlarını uyarır. Bu uyarı, doğrudan beyindeki hapşırma merkezine gönderilir. Beyin, bu sinyali bir tür \"burunda tahriş edici madde var\" uyarısı olarak algılayıp sistemi temizleme komutu verir. Yani soğuk hava, aslında burnunuza giren zararsız bir hava akımı olsa bile, sinir sisteminiz tarafından bir \"yabancı istilacı\" gibi yorumlanabilir.</p><ul><li><strong>Termal Hassasiyet:</strong> Burun mukozası ısı değişimlerine karşı son derece duyarlıdır.</li><li><strong>Kuru Hava Etkisi:</strong> Soğuk hava genellikle kuru olduğu için mukoza zarlarını daha çabuk tahriş eder.</li><li><strong>Refleks Döngüsü:</strong> Sinirsel uyarılar, soğuk algınlığı olmasa bile hapşırmayı başlatabilir.</li></ul><p>Sonuç olarak, soğukta hapşırmak genellikle bir hastalık belirtisi değil, vücudun soğuk havaya karşı verdiği fizyolojik bir uyum tepkisidir. Vücudunuz, solunum yollarını korumak için kendi \"ısı kalkanını\" oluşturmaya çalışırken, bu hassas denge bazen hapşırıklar şeklinde dışa vurulur.</p>",
+    "category": "bilim",
+    "sourceName": "Evrim Ağacı",
+    "sourceUrl": "https://evrimagaci.org/usudugumuzde-neden-hapsiririz-26038",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Hapşırmanın tıbbi/teknik adı nedir?",
+        "options": [
+          "Rinit",
+          "Sternutasyon",
+          "Trigeminal refleks",
+          "Mukoza irritasyonu"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Hapşırma, tıp literatüründe sternutasyon olarak adlandırılır."
+      },
+      {
+        "id": 2,
+        "text": "Soğuk hava soluduğumuzda hapşırmamızı tetikleyen temel sinirsel yol hangisidir?",
+        "options": [
+          "Optik sinir",
+          "İşitme siniri",
+          "Trigeminal sinir",
+          "Vagus siniri"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Burun ve yüz bölgesinden gelen duyusal verileri ileten trigeminal sinir, soğuk hava etkisiyle hapşırık refleksini tetikleyebilir."
+      },
+      {
+        "id": 3,
+        "text": "Vücudun soğuk havalarda burun içinde daha fazla mukus üretmesinin temel amacı nedir?",
+        "options": [
+          "Hava kirliliğini artırmak",
+          "Solunan havayı nemlendirmek ve ısıtmak",
+          "Hapşırmayı engellemek",
+          "Alerjenleri çoğaltmak"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Burun, soğuk ve kuru havayı ciğerlere ulaşmadan önce ısıtmak ve nemlendirmek için mukus üretimini artırır."
+      },
+      {
+        "id": 4,
+        "text": "Soğuk havada hapşırmak her zaman bir hastalık belirtisi midir?",
+        "options": [
+          "Evet, mutlaka grip belirtisidir",
+          "Hayır, genellikle vücudun soğuk havaya uyum tepkisidir",
+          "Sadece alerjik rinit hastalarında görülür",
+          "Sadece bağışıklığı zayıf kişilerde görülür"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Soğuk havada hapşırmak çoğu zaman sadece vücudun çevresel değişime verdiği doğal ve fizyolojik bir uyum tepkisidir."
+      }
+    ]
   }
 ];

@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://genelkultur.com.tr/test/cevrenizdeki-herkes-hasta-olurken-sizin-tas-gibi-saglam-kalmanizin-sirri-ne/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenelKültür Haber</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-09T11:00:00.000Z</news:publication_date>
-      <news:title>Çevrenizdeki Herkes Hasta Olurken Sizin &apos;Taş Gibi&apos; Sağlam Kalmanızın Sırrı Ne?</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://genelkultur.com.tr/test/kulak-onundeki-o-kucuk-delik-bedenimizdeki-antik-bir-izah/</loc>
     <news:news>
       <news:publication>
@@ -53,6 +42,17 @@
       </news:publication>
       <news:publication_date>2026-07-11T10:00:00.000Z</news:publication_date>
       <news:title>Sabahları Elleriniz Neden Şişer? İşte Bedeninizin Gizli Mesajı</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/soguk-hava-neden-hapsirtir-vucudunuzun-gizli-koruma-mekanizmasi/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-11T15:00:00.000Z</news:publication_date>
+      <news:title>Soğuk Hava Neden Hapşırtır? Vücudunuzun Gizli Koruma Mekanizması</news:title>
     </news:news>
   </url>
 </urlset>
