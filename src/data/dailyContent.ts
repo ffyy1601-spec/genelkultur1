@@ -2546,5 +2546,75 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Stres, uyku yoksunluğu ve düzensiz uyku düzeni uykuda konuşmayı tetikleyen en önemli faktörlerdendir."
       }
     ]
+  },
+  {
+    "slug": "sabahlari-elleriniz-neden-siser-iste-bedeninizin-gizli-mesaji",
+    "dateId": "2026-07-11T13:00:00+03:00",
+    "imageUrl": "/images/news/sabahlari-elleriniz-neden-siser-iste-bedeninizin-gizli-mesaji.webp",
+    "title": "Sabahları Parmak Şişmesi Neden Olur? | Genel Kültür",
+    "description": "Sabahları ellerinizin neden şişmiş uyandığınızı hiç merak ettiniz mi? İşte vücudun su tutma mekanizması ve parmak şişmesinin bilimsel nedenleri.",
+    "keywords": [
+      "sabah parmak şişmesi",
+      "el şişmesi",
+      "vücutta su tutma",
+      "sağlık bilgileri",
+      "ödem neden olur"
+    ],
+    "heading": "Sabahları Elleriniz Neden Şişer? İşte Bedeninizin Gizli Mesajı",
+    "intro": "Sabah uyandığınızda yüzüklerinizin parmaklarınıza dar geldiğini veya ellerinizin hafif şişmiş olduğunu hiç fark ettiniz mi? Bu durum genellikle vücudunuzun gece boyunca gerçekleştirdiği basit bir fiziksel denge sürecinin sonucudur.",
+    "article": "<p>Sabahları parmaklarda ve ellerde görülen şişlik, tıp dilinde sıklıkla <strong>ödem</strong> olarak adlandırılan, dokularda sıvı birikmesi durumudur. Birçok kişi için bu durum oldukça yaygın ve genellikle zararsız bir süreçtir. Vücudumuz uyku esnasında, gün içindeki aktif hareketliliğimizden farklı bir döngüye girer ve bu durum dolaşım sistemimizde küçük değişimlere yol açar.</p><h3>Vücut Neden Su Tutar?</h3><p>Şişliğin en yaygın nedenlerinden biri, bir gün önceki beslenme tercihleriniz, özellikle de tükettiğiniz <strong>tuz miktarıdır</strong>. Vücudumuz sodyum ve su dengesini korumak üzere tasarlanmıştır; fazla tuz aldığınızda vücut bu tuzu seyreltebilmek için dokular arasında su tutmaya başlar. Özellikle akşam saatlerinde tüketilen işlenmiş gıdalar, tuzlu kuruyemişler veya şarküteri ürünleri, sabah uyandığınızda ellerinizde hissedilebilir bir gerginliğe neden olabilir.</p><h3>Uyku Pozisyonu ve Dolaşım Etkisi</h3><p>Uyku sırasındaki <strong>yatış pozisyonunuz</strong>, kan dolaşımının ve lenfatik sistemin vücuttaki akışını doğrudan etkiler. Uzun süre hareketsiz kalmak, kanın ve diğer vücut sıvılarının el ve ayak gibi uç bölgelerde hafifçe birikmesine sebep olabilir. Genellikle ayağa kalkıp hareket etmeye başladığınızda, vücut içindeki dolaşım normalleşir ve bu birikmiş sıvılar dağılarak şişlik hissi dakikalar içinde kaybolur.</p><h3>Ne Zaman Endişelenmeli?</h3><ul><li><strong>Geçici Şişlik:</strong> Uyandıktan kısa bir süre sonra hareketle geçen şişlikler genellikle fizyolojik süreçlerdir.</li><li><strong>Kalıcı Belirtiler:</strong> Eğer şişliğe ağrı, uyuşma, karıncalanma veya eklemlerde sertlik eşlik ediyorsa ve gün boyu devam ediyorsa, bu durum <strong>romatoid artrit</strong> veya <strong>karpal tünel sendromu</strong> gibi tıbbi bir durumun belirtisi olabilir.</li><li><strong>Uzman Görüşü:</strong> Kalıcı bir şişlik hissediyorsanız, vücudunuzun bu uyarılarını dikkate alarak bir doktora danışmak en sağlıklı yaklaşımdır.</li></ul>",
+    "category": "bilim",
+    "sourceName": "Healthline",
+    "sourceUrl": "https://www.healthline.com/health/swollen-hands-in-morning",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Sabahları ellerde görülen şişliğin en yaygın beslenme nedeni nedir?",
+        "options": [
+          "Aşırı şeker tüketimi",
+          "Fazla tuz tüketimi",
+          "Düşük protein alımı",
+          "Yetersiz su tüketimi"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Fazla tuz tüketimi, vücudun sodyum dengesini korumak için dokularda daha fazla su tutmasına neden olur."
+      },
+      {
+        "id": 2,
+        "text": "Uyandıktan sonra parmak şişliğinin genellikle kendiliğinden geçmesi ne anlama gelir?",
+        "options": [
+          "Ciddi bir böbrek yetmezliği olduğunu",
+          "Vücudun dolaşımının normale döndüğünü",
+          "Alerjik bir reaksiyon olduğunu",
+          "Acil müdahale gerektiğini"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Fiziksel hareketle dolaşımın hızlanması, gece biriken sıvıların dağılmasını ve şişliğin inmesini sağlar."
+      },
+      {
+        "id": 3,
+        "text": "Sabahları el şişmesiyle birlikte hangi belirti görülürse bir uzmana danışılmalıdır?",
+        "options": [
+          "Sadece elin soğuk olması",
+          "Şişliğin birkaç dakika içinde geçmesi",
+          "Ağrı, uyuşma veya eklem sertliği",
+          "Sadece parmak uçlarının hafif kızarması"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Ağrı, uyuşma ve kalıcı sertlik, artrit veya sinir sıkışması gibi tıbbi durumların işareti olabilir."
+      },
+      {
+        "id": 4,
+        "text": "Uyku sırasında ellerde şişlik oluşmasının fiziksel sebebi nedir?",
+        "options": [
+          "Hareketsizlik nedeniyle dolaşımın yavaşlaması",
+          "Gece boyunca el kaslarının fazla çalışması",
+          "Oda sıcaklığının çok düşük olması",
+          "Hücrelerin gece bölünmesi"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Uyku sırasındaki uzun süreli hareketsizlik, vücut sıvılarının ellerde birikmesine yol açan dolaşım yavaşlamasına neden olur."
+      }
+    ]
   }
 ];

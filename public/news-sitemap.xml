@@ -44,4 +44,15 @@
       <news:title>Uykuda Konuşurken Söylediğiniz O Şeylerin Arkasında Ne Var?</news:title>
     </news:news>
   </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/sabahlari-elleriniz-neden-siser-iste-bedeninizin-gizli-mesaji/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-11T10:00:00.000Z</news:publication_date>
+      <news:title>Sabahları Elleriniz Neden Şişer? İşte Bedeninizin Gizli Mesajı</news:title>
+    </news:news>
+  </url>
 </urlset>
