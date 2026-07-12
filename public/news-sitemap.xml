@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://genelkultur.com.tr/test/aci-biber-yerken-bedenimiz-neden-yaniyor-ve-terliyoruz/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenelKültür Haber</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-10T11:00:00.000Z</news:publication_date>
-      <news:title>Acı Biber Yerken Bedenimiz Neden &apos;Yanıyor&apos; ve Terliyoruz?</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://genelkultur.com.tr/test/uykuda-konusurken-soylediginiz-o-seylerin-arkasinda-ne-var/</loc>
     <news:news>
       <news:publication>
@@ -53,6 +42,17 @@
       </news:publication>
       <news:publication_date>2026-07-12T10:00:00.000Z</news:publication_date>
       <news:title>Soğukta Parmaklarınız Neden &apos;Ölü&apos; Gibi Beyazlıyor? Vücudunuzun Şaşırtıcı Tepkisi</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/soguk-hava-hapsirtir-mi-vucudunuzun-gizli-koruma-mekanizmasi/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-12T15:00:00.000Z</news:publication_date>
+      <news:title>Soğuk Hava Hapşırtır mı? Vücudunuzun Gizli Koruma Mekanizması</news:title>
     </news:news>
   </url>
 </urlset>
