@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 11 Jul 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 10:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Soğukta Parmaklarınız Neden &apos;Ölü&apos; Gibi Beyazlıyor? Vücudunuzun Şaşırtıcı Tepkisi</title>
+      <link>https://genelkultur.com.tr/test/sogukta-parmaklariniz-neden-olu-gibi-beyazliyor-vucudunuzun-sasirtici-tepkisi</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/sogukta-parmaklariniz-neden-olu-gibi-beyazliyor-vucudunuzun-sasirtici-tepkisi</guid>
+      <pubDate>Sun, 12 Jul 2026 10:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Soğuk bir bardağa dokunduğunuzda veya kış havasına çıktığınızda parmak uçlarınızın aniden solup kireç gibi beyazladığını, ardından morardığını hiç fark ettiniz mi? Bu durum, vücudun aslında sizi korumak için kullandığı bir savunma mekanizmasının aşırıya kaçtığı &apos;Raynaud Fenomeni&apos; olarak adlandırılan ilginç bir biyolojik süreçtir.</description>
+    </item>
     <item>
       <title>Soğuk Hava Neden Hapşırtır? Vücudunuzun Gizli Koruma Mekanizması</title>
       <link>https://genelkultur.com.tr/test/soguk-hava-neden-hapsirtir-vucudunuzun-gizli-koruma-mekanizmasi</link>
@@ -158,14 +166,6 @@
       <pubDate>Thu, 02 Jul 2026 16:00:00 GMT</pubDate>
       <category>bilim</category>
       <description>Antarktika&apos;nın -50°C&apos;yi bulan dondurucu rüzgarlarında yaşayan penguenlerin çıplak ayakları, hiçbir yalıtım olmaksızın buzla temas halindedir. Ancak bu sevimli canlılar, biyolojik bir mühendislik harikası sayesinde ayaklarını dondurmadan yaşamlarını sürdürürler.</description>
-    </item>
-    <item>
-      <title>Dokunduğunuzda &apos;Küsen&apos; Bitki: Mimosa Pudica&apos;nın Gizli Mekanizması</title>
-      <link>https://genelkultur.com.tr/test/dokundugunuzda-kusen-bitki-mimosa-pudicanin-gizli-mekanizmasi</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/dokundugunuzda-kusen-bitki-mimosa-pudicanin-gizli-mekanizmasi</guid>
-      <pubDate>Thu, 02 Jul 2026 11:00:00 GMT</pubDate>
-      <category>bilim</category>
-      <description>Doğada çoğu canlıdan farklı olarak hareketsiz gördüğümüz bitkiler, aslında bazen hayret verici hızlarda hareket edebilirler. Özellikle &apos;küstüm çiçeği&apos; olarak bilinen Mimosa pudica, dokunulduğu anda yapraklarını kapatarak adeta dış dünyaya küser.</description>
     </item>
   </channel>
 </rss>

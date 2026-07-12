@@ -2687,5 +2687,76 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Soğuk havada hapşırmak çoğu zaman sadece vücudun çevresel değişime verdiği doğal ve fizyolojik bir uyum tepkisidir."
       }
     ]
+  },
+  {
+    "slug": "sogukta-parmaklariniz-neden-olu-gibi-beyazliyor-vucudunuzun-sasirtici-tepkisi",
+    "dateId": "2026-07-12T13:00:00+03:00",
+    "imageUrl": "/images/news/sogukta-parmaklariniz-neden-olu-gibi-beyazliyor-vucudunuzun-sasirtici-tepkisi.webp",
+    "title": "Soğukta Parmaklarınız Neden Beyazlaşır? Raynaud Fenomeni Nedir?",
+    "description": "Soğuk bir ortama girdiğinizde veya stresli anlarda parmak uçlarınızın aniden beyazlayıp morardığını mı fark ediyorsunuz? Bu durumun bilimsel adı Raynaud Fenomeni'dir.",
+    "keywords": [
+      "Raynaud fenomeni",
+      "Raynaud hastalığı",
+      "vazospazm",
+      "parmak beyazlaması",
+      "kan dolaşımı",
+      "sağlık"
+    ],
+    "heading": "Soğukta Parmaklarınız Neden 'Ölü' Gibi Beyazlıyor? Vücudunuzun Şaşırtıcı Tepkisi",
+    "intro": "Soğuk bir bardağa dokunduğunuzda veya kış havasına çıktığınızda parmak uçlarınızın aniden solup kireç gibi beyazladığını, ardından morardığını hiç fark ettiniz mi? Bu durum, vücudun aslında sizi korumak için kullandığı bir savunma mekanizmasının aşırıya kaçtığı 'Raynaud Fenomeni' olarak adlandırılan ilginç bir biyolojik süreçtir.",
+    "article": "<p>Raynaud fenomeni, vücudun ekstremitelerinde, özellikle el ve ayak parmaklarında yer alan küçük kan damarlarının <strong>soğuk veya duygusal stres</strong> gibi uyarıcılara karşı aşırı tepki vermesidir. Normal şartlarda vücudumuz, soğukla karşılaştığında ısı kaybını önlemek için kılcal damarlarını hafifçe daraltır. Ancak Raynaud fenomeni olan kişilerde bu süreç bir tür 'vazospazm'a, yani kontrolsüz ve aşırı bir damar büzülmesine dönüşür.</p><h3>Üç Renkli Atak: Süreç Nasıl İşler?</h3><p>Bu fenomen, genellikle karakteristik bir renk değişim sırasıyla ilerler ve her aşama vücutta farklı bir durumu yansıtır:</p><ul><li><strong>Beyaz Faz:</strong> Damarlar aşırı büzüldüğünde parmaklara giden kan akışı neredeyse tamamen kesilir. Bu, cildin kansız kalarak bembeyaz, hatta bazen soluk bir renk almasına neden olur.</li><li><strong>Mavi (Mor) Faz:</strong> Doku, yeterli oksijeni alamadığı için yavaş yavaş morarmaya veya mavi bir renk almaya başlar. Bu aşamada uyuşma ve his kaybı hissedilebilir.</li><li><strong>Kırmızı Faz:</strong> Damarlar gevşeyip kan akışı normale döndüğünde, bölgeye aniden taze kan hücum eder. Bu durum cildin kızarmasına ve beraberinde zonklama, karıncalanma veya hafif ağrılı bir ısınma hissinin gelmesine yol açar.</li></ul><h3>Primer ve Sekonder Ayrımı</h3><p>Tıp dünyası Raynaud fenomenini iki temel kategoriye ayırır. <strong>Primer Raynaud</strong>, genellikle altta yatan başka bir kronik hastalık olmaksızın, genellikle genç yaşlarda (özellikle 30 yaş öncesi) ve kadınlarda daha sık ortaya çıkan iyi huylu formdur. <strong>Sekonder Raynaud</strong> ise, genellikle bağ dokusu hastalıkları (skleroderma veya lupus gibi), damar tıkanıklıkları veya bazı ilaçların yan etkileriyle ilişkili olarak gelişen daha ciddi bir tablodur. Uzmanlar, belirtilerin tek taraflı olması veya ileri yaşlarda başlaması durumunda altta yatan bir sağlık sorununu ekarte etmek için mutlaka romatoloji uzmanına başvurulmasını önermektedir.</p><h3>Nasıl Korunmalı?</h3><p>Bu durumdan etkilenenler için en etkili yol, tetikleyicilerden kaçınmaktır. Soğuk havalarda eldiven kullanımı, doğrudan soğuk nesnelerle temasın kesilmesi ve stres yönetimi, atakların sıklığını ve şiddetini azaltmada anahtar rol oynar. Eğer parmaklarınızda uzun süreli renk değişimi, iyileşmeyen yaralar veya şiddetli ağrılar fark ederseniz, bu basit bir dolaşım tepkisinden fazlası olabilir ve profesyonel bir tıbbi görüş gerektirir.</p>",
+    "category": "bilim",
+    "sourceName": "Memorial Sağlık Grubu",
+    "sourceUrl": "https://www.memorial.com.tr/hastaliklar/raynaud-hastaligi-raynaud-fenomeni-nedir",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Raynaud fenomeninde parmakların beyazlaşmasının temel nedeni nedir?",
+        "options": [
+          "Kanın pıhtılaşması",
+          "Kılcal damarların aşırı büzülmesi (vazospazm)",
+          "Deri altındaki yağ tabakasının erimesi",
+          "Sinir sistemindeki geçici bir iletim kaybı"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Beyazlaşma, kan damarlarının soğuk veya stresle aşırı kasılıp kan akışını kısıtlaması sonucu dokunun kansız kalmasından kaynaklanır."
+      },
+      {
+        "id": 2,
+        "text": "Raynaud fenomenindeki 'üç renk' değişim sırası hangisinde doğru verilmiştir?",
+        "options": [
+          "Kırmızı - Mavi - Beyaz",
+          "Mavi - Beyaz - Kırmızı",
+          "Beyaz - Mavi - Kırmızı",
+          "Beyaz - Kırmızı - Mavi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Atak sırasında önce kansızlık nedeniyle beyazlaşma, ardından oksijensizlikten morarma/mavileşme ve son olarak kanın geri dönmesiyle kızarma görülür."
+      },
+      {
+        "id": 3,
+        "text": "Primer Raynaud fenomeni ile ilgili hangisi doğrudur?",
+        "options": [
+          "Genellikle ileri yaşta erkeklerde görülür",
+          "Her zaman ciddi bir hastalığın belirtisidir",
+          "Genellikle 30 yaş altı kadınlarda daha sık görülen, iyi huylu bir formdur",
+          "Sadece cerrahi müdahale ile tedavi edilebilir"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Primer (birincil) Raynaud genellikle altta yatan başka bir hastalık olmaksızın, genç yaşta ve kadınlarda daha sık izlenen daha hafif bir formdur."
+      },
+      {
+        "id": 4,
+        "text": "Raynaud atağı sırasında parmaklarda oluşan kızarma ve zonklama hissi neyi temsil eder?",
+        "options": [
+          "Doku ölümünün başladığını",
+          "Damarların gevşeyip kan akışının normale döndüğünü",
+          "Vücudun su kaybettiğini",
+          "Ciltte enfeksiyon oluştuğunu"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Kızarma fazı, büzülen damarların gevşemesi ve kanın tekrar dokulara hücum etmesi sonucunda oluşan reaktif bir durumdur."
+      }
+    ]
   }
 ];
