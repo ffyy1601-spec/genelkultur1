@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 12 Jul 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 11:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Deniz Yıldızları Neden Midelerini Dışarı Çıkarır? Doğanın En Garip Beslenme Stratejisi</title>
+      <link>https://genelkultur.com.tr/test/deniz-yildizlari-neden-midelerini-disari-cikarir-doganin-en-garip-beslenme-stratejisi</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/deniz-yildizlari-neden-midelerini-disari-cikarir-doganin-en-garip-beslenme-stratejisi</guid>
+      <pubDate>Mon, 13 Jul 2026 11:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Bir deniz yıldızının, kendi ağzından daha büyük olan bir avı nasıl yediğini hiç merak ettiniz mi? Cevap, bilim kurgu filmlerini aratmayacak kadar etkileyici: Bu canlılar, midelerini vücutlarının dışına çıkararak avlarını adeta bir paket gibi sarıp dışarıda sindiriyorlar.</description>
+    </item>
     <item>
       <title>Soğuk Hava Hapşırtır mı? Vücudunuzun Gizli Koruma Mekanizması</title>
       <link>https://genelkultur.com.tr/test/soguk-hava-hapsirtir-mi-vucudunuzun-gizli-koruma-mekanizmasi</link>
@@ -158,14 +166,6 @@
       <pubDate>Fri, 03 Jul 2026 16:00:00 GMT</pubDate>
       <category>bilim</category>
       <description>Dünyamızın %70&apos;inden fazlası suyla kaplı olsa da, okyanuslardaki bu devasa kaynak insanlar için doğrudan bir yaşam kaynağı değildir. Aksine, susuz kaldığınız bir durumda deniz suyu içmek, vücudunuzdaki su kaybını hızlandırarak sizi ölüme bir adım daha yaklaştırır.</description>
-    </item>
-    <item>
-      <title>Deniz Su Samurları Neden El Ele Tutuşur? Doğanın Mühendislik Harikası Bir Hayatta Kalma Stratejisi</title>
-      <link>https://genelkultur.com.tr/test/deniz-su-samurlari-neden-el-ele-tutusur-doganin-muhendislik-harikasi-bir-hayatta-kalma-stratejisi</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/deniz-su-samurlari-neden-el-ele-tutusur-doganin-muhendislik-harikasi-bir-hayatta-kalma-stratejisi</guid>
-      <pubDate>Fri, 03 Jul 2026 11:00:00 GMT</pubDate>
-      <category>bilim</category>
-      <description>Deniz su samurlarını sırtüstü yatıp el ele tutuşarak uyurken görmek, doğadaki en sempatik görüntülerden biri olarak kabul edilir. Ancak bu davranış, romantik bir bağdan ziyade, okyanusun acımasız koşullarında hayatta kalmak için geliştirilmiş zekice bir yöntemdir.</description>
     </item>
   </channel>
 </rss>

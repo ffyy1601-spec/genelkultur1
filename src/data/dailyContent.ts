@@ -2829,5 +2829,75 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Soğuk havada hapşırmak çoğunlukla vücudun koruma ve iç dengeyi (homeostaz) koruma çabasıdır, hastalık belirtisi olması gerekmez."
       }
     ]
+  },
+  {
+    "slug": "deniz-yildizlari-neden-midelerini-disari-cikarir-doganin-en-garip-beslenme-stratejisi",
+    "dateId": "2026-07-13T14:00:00+03:00",
+    "imageUrl": "/images/news/deniz-yildizlari-neden-midelerini-disari-cikarir-doganin-en-garip-beslenme-stratejisi.webp",
+    "title": "Deniz Yıldızları Neden Midelerini Dışarı Çıkarır? | Doğa Bilimleri",
+    "description": "Deniz yıldızlarının avlarını vücutlarının dışında sindirmelerini sağlayan şaşırtıcı mide mekanizması ve bu biyolojik mucizenin arkasındaki bilimsel gerçekler.",
+    "keywords": [
+      "deniz yıldızı",
+      "biyoloji",
+      "deniz canlıları",
+      "ekstrakorporeal sindirim",
+      "doğa bilimleri"
+    ],
+    "heading": "Deniz Yıldızları Neden Midelerini Dışarı Çıkarır? Doğanın En Garip Beslenme Stratejisi",
+    "intro": "Bir deniz yıldızının, kendi ağzından daha büyük olan bir avı nasıl yediğini hiç merak ettiniz mi? Cevap, bilim kurgu filmlerini aratmayacak kadar etkileyici: Bu canlılar, midelerini vücutlarının dışına çıkararak avlarını adeta bir paket gibi sarıp dışarıda sindiriyorlar.",
+    "article": "<p>Deniz yıldızları (Asteroidea), deniz ekosisteminin en ilginç ve alışılmadık canlılarından biridir. İnsanların aksine, yiyeceklerini ağızlarından alıp vücut içinde sindirmek yerine, çok daha radikal bir yöntem olan <strong>ekstrakorporeal (vücut dışı) sindirim</strong> yöntemini kullanırlar. Bu teknik, onların kendilerinden çok daha büyük olan midye, istiridye ve salyangoz gibi sert kabuklu canlılarla beslenmesine olanak tanır.</p><h3>İki Aşamalı Mide Sistemi</h3><p>Deniz yıldızlarının sindirim sistemi temel olarak iki farklı mide bölümünden oluşur: <strong>kardiyak mide</strong> ve <strong>pilorik mide</strong>. Avlanma süreci başladığında, genellikle merkezdeki disk kısmında bulunan kardiyak mide, ağız boşluğundan dışarıya doğru itilir. Bir örtü gibi avın üzerine yayılan bu mide, güçlü sindirim enzimleri salgılayarak avın yumuşak dokularını sıvı bir kıvama getirir. Sindirim tamamlandıktan sonra, yarı sindirilmiş besinler emilerek sindirim bezlerine (pilorik çekum) taşınır ve mide tekrar gövdenin içine çekilir.</p><h3>Neden Böyle Bir Yöntem?</h3><ul><li><strong>Ağız Boyutu Sınırı:</strong> Deniz yıldızlarının ağızları oldukça küçüktür. Mideyi dışarı çıkarma yeteneği, ağız genişliğinden çok daha büyük avların tüketilmesini mümkün kılar.</li><li><strong>Sert Kabuklarla Başa Çıkma:</strong> İstiridye veya midye gibi canlıların sert kabuklarını yutmak imkansızdır. Deniz yıldızı, mide zarını bu kabukların arasındaki mikroskobik açıklıklardan içeri sokarak, avı doğrudan kendi kabuğu içinde sindirir.</li><li><strong>Enerji Verimliliği:</strong> Avı bütün olarak yutup iç organların içinde sindirmek, oldukça zor ve enerji tüketici bir işlemdir. Dış sindirim, avın enerji dolu kısımlarına doğrudan erişim sağlar.</li></ul><h3>Bilimsel Bir Mucize: Hormonların Rolü</h3><p>Yapılan bilimsel çalışmalar, bu mide eyleminin tesadüfi olmadığını göstermektedir. Araştırmacılar, memelilerde \"aşk hormonu\" olarak bilinen <strong>oksitosin</strong> benzeri moleküllerin, deniz yıldızlarında mideyi tersyüz eden kasılmaları ve genişlemeleri tetiklediğini keşfetmiştir. Bu da, milyonlarca yıllık bir evrimsel sürecin, karmaşık sinir sistemleri ile beslenme alışkanlıklarını birbirine nasıl bağladığını kanıtlar niteliktedir.</p>",
+    "category": "bilim",
+    "sourceName": "Wikipedia",
+    "sourceUrl": "https://tr.wikipedia.org/wiki/Denizy%C4%B1ld%C4%B1z%C4%B1",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Deniz yıldızlarının vücut dışında sindirim yapmasını sağlayan yönteme ne ad verilir?",
+        "options": [
+          "Endoskopik sindirim",
+          "Ekstrakorporeal sindirim",
+          "Hücre içi sindirim",
+          "Oto-sindirim"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Deniz yıldızları, sindirim sürecini vücutlarının dışında gerçekleştirdikleri için bu yönteme 'vücut dışı' anlamına gelen ekstrakorporeal sindirim denir."
+      },
+      {
+        "id": 2,
+        "text": "Deniz yıldızının avını sarmak için vücudundan dışarı çıkardığı mide kısmının adı nedir?",
+        "options": [
+          "Pilorik mide",
+          "Rektal kese",
+          "Kardiyak mide",
+          "Taş kanalı"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kardiyak mide, avın üzerine yayılarak sindirim enzimlerini salgılayan ve vücut dışına çıkarılabilen mide bölümüdür."
+      },
+      {
+        "id": 3,
+        "text": "Deniz yıldızlarının mide eylemini tetiklediği keşfedilen hormon benzeri molekül hangisidir?",
+        "options": [
+          "Adrenalin",
+          "Oksitosin",
+          "İnsülin",
+          "Melatonin"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Bilim insanları, oksitosin benzeri neuropeptidlerin deniz yıldızlarında midenin tersyüz edilmesini sağladığını keşfetmiştir."
+      },
+      {
+        "id": 4,
+        "text": "Deniz yıldızları neden midelerini dışarı çıkarma yöntemini kullanır?",
+        "options": [
+          "Çok hızlı hareket edebilmek için",
+          "Sadece yosunla beslendikleri için",
+          "Ağızlarından daha büyük avları sindirebilmek için",
+          "Sadece uyumak için"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Ağızlarının küçük olması nedeniyle, büyük avları yiyebilmek adına midelerini dışarı çıkarma adaptasyonunu geliştirmişlerdir."
+      }
+    ]
   }
 ];
