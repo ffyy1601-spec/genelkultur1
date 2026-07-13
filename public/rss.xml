@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 13 Jul 2026 11:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 16:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Uykuya Dalarken Yaşadığınız O &apos;Düşme&apos; Hissinin Şaşırtıcı Nedeni Ne?</title>
+      <link>https://genelkultur.com.tr/test/uykuya-dalarken-yasadiginiz-o-dusme-hissinin-sasirtici-nedeni-ne</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/uykuya-dalarken-yasadiginiz-o-dusme-hissinin-sasirtici-nedeni-ne</guid>
+      <pubDate>Mon, 13 Jul 2026 16:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Tam uykuya dalmak üzereyken aniden boşluğa düşüyormuş gibi hissedip irkilerek uyandınız mı? Milyonlarca insanı şaşkına çeviren bu durumun, vücudunuzun biyolojik bir &apos;yanlış alarm&apos; mekanizması olduğunu biliyor muydunuz?</description>
+    </item>
     <item>
       <title>Deniz Yıldızları Neden Midelerini Dışarı Çıkarır? Doğanın En Garip Beslenme Stratejisi</title>
       <link>https://genelkultur.com.tr/test/deniz-yildizlari-neden-midelerini-disari-cikarir-doganin-en-garip-beslenme-stratejisi</link>
@@ -158,14 +166,6 @@
       <pubDate>Sat, 04 Jul 2026 10:00:00 GMT</pubDate>
       <category>bilim</category>
       <description>Göz renginizin hayatınız boyunca sabit kaldığını düşünüyorsanız yanılıyorsunuz; aslında bu renk, yaşam boyu değişebilen dinamik bir yapıya sahip. Melanin pigmentinin vücudumuzdaki dansı, sadece tenimizi değil, dünyaya açılan pencerelerimiz olan gözlerimizi de sürekli dönüştürüyor.</description>
-    </item>
-    <item>
-      <title>Okyanusun Ortasında Susuzluktan Ölmek: Deniz Suyu Neden İçilemez?</title>
-      <link>https://genelkultur.com.tr/test/okyanusun-ortasinda-susuzluktan-olmek-deniz-suyu-neden-icilemez</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/okyanusun-ortasinda-susuzluktan-olmek-deniz-suyu-neden-icilemez</guid>
-      <pubDate>Fri, 03 Jul 2026 16:00:00 GMT</pubDate>
-      <category>bilim</category>
-      <description>Dünyamızın %70&apos;inden fazlası suyla kaplı olsa da, okyanuslardaki bu devasa kaynak insanlar için doğrudan bir yaşam kaynağı değildir. Aksine, susuz kaldığınız bir durumda deniz suyu içmek, vücudunuzdaki su kaybını hızlandırarak sizi ölüme bir adım daha yaklaştırır.</description>
     </item>
   </channel>
 </rss>

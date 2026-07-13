@@ -2899,5 +2899,76 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Ağızlarının küçük olması nedeniyle, büyük avları yiyebilmek adına midelerini dışarı çıkarma adaptasyonunu geliştirmişlerdir."
       }
     ]
+  },
+  {
+    "slug": "uykuya-dalarken-yasadiginiz-o-dusme-hissinin-sasirtici-nedeni-ne",
+    "dateId": "2026-07-13T19:00:00+03:00",
+    "imageUrl": "/images/news/uykuya-dalarken-yasadiginiz-o-dusme-hissinin-sasirtici-nedeni-ne.webp",
+    "title": "Uykuya Dalarken Neden Düşme Hissi Yaşarız? | Genel Kültür",
+    "description": "Tam uykuya dalacakken aniden boşluğa düşüyormuş gibi hissedip sıçramanızın arkasındaki ilginç bilimsel gerçekleri keşfedin.",
+    "keywords": [
+      "uyku",
+      "hipnik seğirme",
+      "düşme hissi",
+      "uyku bilimi",
+      "genel kültür",
+      "vücut tepkileri"
+    ],
+    "heading": "Uykuya Dalarken Yaşadığınız O 'Düşme' Hissinin Şaşırtıcı Nedeni Ne?",
+    "intro": "Tam uykuya dalmak üzereyken aniden boşluğa düşüyormuş gibi hissedip irkilerek uyandınız mı? Milyonlarca insanı şaşkına çeviren bu durumun, vücudunuzun biyolojik bir 'yanlış alarm' mekanizması olduğunu biliyor muydunuz?",
+    "article": "<p>Gece yatağınıza uzandınız, gözlerinizi kapattınız ve derin bir uykuya dalmanın eşiğindesiniz. Tam o anda, zihninizde boşluğa düşüyormuşsunuz gibi bir görüntü belirdi ve vücudunuz aniden irkilerek uyandınız. Bu oldukça yaygın deneyime bilim dünyasında <strong>hipnik seğirme</strong> (veya halk arasında bilinen adıyla <em>uyku başlangıcı sıçraması</em>) denir.</p><h3>Hipnik Seğirme Nedir?</h3><p>Hipnik seğirme, uyanıklık halinden uyku haline geçiş süreci olan <strong>hipnagojik</strong> evrede gerçekleşen istemsiz bir kas kasılmasıdır. Bu olay, aslında vücudun gevşeme sürecinde sinir sisteminin küçük bir 'misfire' yani hatalı sinyal göndermesidir. Çoğu insan için tamamen zararsız ve doğal bir süreç olan bu durum, dünya nüfusunun yaklaşık <strong>%70</strong>'inde yaşamları boyunca en az bir kez görülür.</p><h3>Evrimsel Bir Miras mı?</h3><p>Bilim insanları, bu fenomenin nedenini tam olarak çözemese de üzerinde durdukları en çarpıcı teori <em>evrimsel kökenler</em> ile ilgilidir. Bazı araştırmacılar, bu ani sıçramaların uzak atalarımızdan kalan bir refleks olduğunu öne sürer. Ağaçlarda uyuyan primat atalarımız için kasların tamamen gevşemesi düşme riskini doğuruyordu. Dolayısıyla beyin, vücudun kas gevşemesini 'ağaçtan düşme' olarak yanlış yorumlayıp, kişiyi korumak amacıyla ani bir kasılma sinyali gönderiyor olabilir.</p><h3>Bu Hissi Ne Tetikler?</h3><p>Hipnik seğirmelerin daha sık görülmesine neden olan çeşitli faktörler bulunmaktadır. Eğer şu durumlardan birini yaşıyorsanız, bu 'düşme' hissini daha fazla deneyimleyebilirsiniz:<ul><li><strong>Yüksek kafein</strong> veya uyarıcı madde tüketimi</li><li>Düzensiz ve yetersiz <strong>uyku düzeni</strong></li><li>Yoğun stres ve <strong>anksiyete</strong> seviyeleri</li><li>Gün içindeki aşırı fiziksel yorgunluk</li></ul><p>Özetle, o ani sarsılma aslında vücudunuzun uyku moduna geçişte yaşadığı küçük bir karışıklıktır. Eğer bu durum uyku kalitenizi ciddi şekilde bozmuyorsa, endişelenecek bir durum yoktur; bu sadece insan olmanın o garip ve büyüleyici yan etkilerinden biridir.</p>",
+    "category": "bilim",
+    "sourceName": "Sleep Foundation",
+    "sourceUrl": "https://www.sleepfoundation.org/how-sleep-works/hypnic-jerks",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Uykuya dalarken yaşanan ani düşme hissi ve irkilme olayına bilimsel literatürde ne ad verilir?",
+        "options": [
+          "Rem sıçraması",
+          "Hipnik seğirme",
+          "Uyku apnesi",
+          "Narkoleptik şok"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Bu durum bilimsel olarak hipnik seğirme veya uyku başlangıcı sıçraması olarak bilinir."
+      },
+      {
+        "id": 2,
+        "text": "Hipnik seğirmelerin nedenine dair en popüler evrimsel teori nedir?",
+        "options": [
+          "Deniz canlılarından kalma bir refleks olması",
+          "Vücudun soğuğa karşı ısınma çabası",
+          "Atalarımızın ağaçta uyurken düşmemek için geliştirdiği bir refleks",
+          "Sindirim sisteminin gece çalışması"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bazı bilim insanları, bu refleksin ağaçta uyuyan primat atalarımızın düşmesini engellemek için geliştiğini öne sürmektedir."
+      },
+      {
+        "id": 3,
+        "text": "Hipnik seğirmelerin tetikleyicileri arasında aşağıdakilerden hangisi yer almaz?",
+        "options": [
+          "Yüksek kafein tüketimi",
+          "Yoğun anksiyete",
+          "Yetersiz uyku düzeni",
+          "Sağlıklı ve düzenli beslenme"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Sağlıklı ve düzenli beslenme bir tetikleyici değildir; aksine kafein, stres ve düzensiz uyku bu durumu tetikleyebilir."
+      },
+      {
+        "id": 4,
+        "text": "Hipnik seğirme ile ilgili hangisi doğrudur?",
+        "options": [
+          "Sadece yaşlılarda görülür.",
+          "Nüfusun yaklaşık %70'inde en az bir kez görülür.",
+          "Ciddi bir nörolojik hastalık belirtisidir.",
+          "Sadece REM uykusu sırasında yaşanır."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Hipnik seğirme oldukça yaygın bir fenomendir ve insanların yaklaşık %70'i hayatlarının bir döneminde bunu deneyimler."
+      }
+    ]
   }
 ];
