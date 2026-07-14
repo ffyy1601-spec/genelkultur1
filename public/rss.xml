@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 13 Jul 2026 16:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 10:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Gözlerinizi Ovuştururken Aslında Vücudunuzda Neler Oluyor?</title>
+      <link>https://genelkultur.com.tr/test/gozlerinizi-ovustururken-aslinda-vucudunuzda-neler-oluyor</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/gozlerinizi-ovustururken-aslinda-vucudunuzda-neler-oluyor</guid>
+      <pubDate>Tue, 14 Jul 2026 10:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Pek çoğumuz farkında olmadan gün içinde, özellikle de sabahları uyandığımızda gözlerimizi ovuştururuz. Bu masum görünen alışkanlığın, vücudun kalp atış hızını düşüren ve stresi azaltan biyolojik bir &quot;rahatlama düğmesi&quot; olduğunu biliyor muydunuz?</description>
+    </item>
     <item>
       <title>Uykuya Dalarken Yaşadığınız O &apos;Düşme&apos; Hissinin Şaşırtıcı Nedeni Ne?</title>
       <link>https://genelkultur.com.tr/test/uykuya-dalarken-yasadiginiz-o-dusme-hissinin-sasirtici-nedeni-ne</link>
@@ -158,14 +166,6 @@
       <pubDate>Sat, 04 Jul 2026 15:00:00 GMT</pubDate>
       <category>bilim</category>
       <description>Pek çoğumuz hayatımızın bir döneminde uykusunda konuşan biriyle karşılaşmış veya kendimiz de bu ilginç deneyimi yaşamışızdır. Tıpta &lt;strong&gt;somniloquy&lt;/strong&gt; olarak adlandırılan bu olgu, aslında beynin rüyalar ve anılar arasında sürdürdüğü karmaşık gece mesaisinin bir yan ürünü olabilir.</description>
-    </item>
-    <item>
-      <title>Gözleriniz Sizi Kandırıyor mu? Göz Renginin Hiç Duymadığınız Sırları</title>
-      <link>https://genelkultur.com.tr/test/gozleriniz-sizi-kandiriyor-mu-goz-renginin-hic-duymadiginiz-sirlari</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/gozleriniz-sizi-kandiriyor-mu-goz-renginin-hic-duymadiginiz-sirlari</guid>
-      <pubDate>Sat, 04 Jul 2026 10:00:00 GMT</pubDate>
-      <category>bilim</category>
-      <description>Göz renginizin hayatınız boyunca sabit kaldığını düşünüyorsanız yanılıyorsunuz; aslında bu renk, yaşam boyu değişebilen dinamik bir yapıya sahip. Melanin pigmentinin vücudumuzdaki dansı, sadece tenimizi değil, dünyaya açılan pencerelerimiz olan gözlerimizi de sürekli dönüştürüyor.</description>
     </item>
   </channel>
 </rss>

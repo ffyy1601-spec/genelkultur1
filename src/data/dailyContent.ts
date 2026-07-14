@@ -2970,5 +2970,75 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Hipnik seğirme oldukça yaygın bir fenomendir ve insanların yaklaşık %70'i hayatlarının bir döneminde bunu deneyimler."
       }
     ]
+  },
+  {
+    "slug": "gozlerinizi-ovustururken-aslinda-vucudunuzda-neler-oluyor",
+    "dateId": "2026-07-14T13:00:00+03:00",
+    "imageUrl": "/images/news/gozlerinizi-ovustururken-aslinda-vucudunuzda-neler-oluyor.webp",
+    "title": "Gözlerinizi Neden Ovuşturuyorsunuz? | Bilimsel Gerçekler",
+    "description": "Sabah uyandığınızda veya yorulduğunuzda gözlerinizi ovuşturmanın arkasındaki biyolojik sırrı ve neden bu alışkanlığın sağlığınız için tehlikeli olabileceğini keşfedin.",
+    "keywords": [
+      "göz ovuşturmak",
+      "keratokonus",
+      "göz sağlığı",
+      "vagus siniri",
+      "bilimsel gerçekler"
+    ],
+    "heading": "Gözlerinizi Ovuştururken Aslında Vücudunuzda Neler Oluyor?",
+    "intro": "Pek çoğumuz farkında olmadan gün içinde, özellikle de sabahları uyandığımızda gözlerimizi ovuştururuz. Bu masum görünen alışkanlığın, vücudun kalp atış hızını düşüren ve stresi azaltan biyolojik bir \"rahatlama düğmesi\" olduğunu biliyor muydunuz?",
+    "article": "<p>Göz ovuşturma eylemi, sadece bir alışkanlık değil, vücudun oldukça karmaşık bir fiziksel ve sinirsel tepkisidir. Yorgun hissettiğimizde veya uzun süre ekrana baktığımızda gözlerimiz kurur. Göz kırpma sayımız azaldığında gözyaşı tabakası bozulur ve göz küresi üzerinde sürtünme başlar. Elimiz istemsizce gözlerimize gittiğinde, aslında gözyaşı bezlerini uyararak gözyaşı üretimini tetikleriz ve gözümüzün üzerindeki nem dengesini geçici olarak düzeltiriz.</p><h3>Vagus Siniri ve Sakinleşme Etkisi</h3><p>Göz ovuşturmanın rahatlatıcı etkisinin arkasında <strong>vagus siniri</strong> yatar. Gözlerimize hafif bir baskı uyguladığımızda, bu basınç oculocardiac refleksini tetikler. Bu refleks, doğrudan beyinle gövdeyi bağlayan vagus siniri üzerinden kalbe sinyaller göndererek kalp atış hızının yaklaşık <strong>%20 oranında azalmasını</strong> sağlar. Bu da kısa süreli de olsa genel bir sakinleşme ve gevşeme hissi yaratır.</p><h3>Neden Tehlikeli Olabilir?</h3><p>Ancak, bu kısa süreli rahatlama ciddi riskleri de beraberinde getirir. Uzmanlar, gözlerin sert veya sürekli ovuşturulmasının korneanın yapısını bozabileceğini vurgular. Özellikle <strong>keratokonus</strong> olarak bilinen hastalık, gözün saydam tabakası olan korneanın zamanla incelip sivrileşmesine ve görme kalitesinin ciddi oranda düşmesine yol açabilir.</p><ul><li><strong>Enfeksiyon Riski:</strong> Ellerimiz gün boyu pek çok bakteri ve virüsle temas eder; gözü ovuşturmak bu patojenleri doğrudan göz yüzeyine taşır.</li><li><strong>Korneal Hasarlar:</strong> Göz çevresindeki mikro tozlar, ovuşturma sırasında korneada çiziklere neden olabilir.</li><li><strong>Estetik Etkiler:</strong> Sürekli göz çevresine baskı yapmak, bölgedeki ince kan damarlarının çatlamasına, göz altı morluklarına ve şişliklerine yol açabilir.</li></ul><p>Sonuç olarak, göz ovuşturmak vücudun kendi kendine geliştirdiği bir \"hızlı çözüm\" yöntemi olsa da, uzun vadede göz sağlığına ciddi zararlar verebilir. Gözlerinizde kuruluk veya kaşıntı hissettiğinizde onları ovalamak yerine, göz doktorlarının önerdiği yapay gözyaşı damlalarını kullanmak veya soğuk kompres uygulamak çok daha güvenli ve sağlıklı bir yöntemdir.</p>",
+    "category": "bilim",
+    "sourceName": "TÜBİTAK Bilim Genç",
+    "sourceUrl": "https://bilimgenc.tubitak.gov.tr/makale/gozlerimizi-ovalamak-neden-rahatlama-hissi-verir",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Gözleri ovuşturmak neden kalp atış hızını düşürür?",
+        "options": [
+          "Vagus sinirini uyararak oculocardiac refleksi tetiklediği için",
+          "Göz kaslarını gevşetip vücudu uykuya hazırladığı için",
+          "Gözyaşı bezlerinden hormon salgılanmasını sağladığı için",
+          "Retinadaki ışık hassasiyetini azalttığı için"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Gözlere uygulanan basınç, vagus siniri aracılığıyla kalp atış hızını yavaşlatan oculocardiac refleksi tetikler."
+      },
+      {
+        "id": 2,
+        "text": "Sürekli ve sert göz ovuşturmanın en ciddi risklerinden biri nedir?",
+        "options": [
+          "Kalıcı renk körlüğü",
+          "Korneanın incelerek sivrileşmesi (Keratokonus)",
+          "Göz renginin kalıcı olarak solması",
+          "Gözyaşı kanallarının tamamen kapanması"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Sürekli baskı, korneanın yapısını bozarak keratokonus denilen ciddi bir görme hastalığına yol açabilir."
+      },
+      {
+        "id": 3,
+        "text": "Göz kırpma sayısı azaldığında ne olur?",
+        "options": [
+          "Gözler daha hızlı uykuya dalar",
+          "Göz yüzeyindeki koruyucu gözyaşı tabakası bozulur ve kuruluk oluşur",
+          "Göz bebeği daha fazla genişler",
+          "Vücut istemsizce daha hızlı nefes almaya başlar"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Göz kırpmak gözü nemli tutar; bu eylem azaldığında gözde kuruluk ve sürtünme hissi oluşur."
+      },
+      {
+        "id": 4,
+        "text": "Gözü ovuşturmanın sağlık açısından en büyük risklerinden biri nedir?",
+        "options": [
+          "Gözün çok hızlı kuruması",
+          "Parmaklardaki mikropların göze taşınmasıyla enfeksiyon riski",
+          "Göz kapaklarının kalıcı olarak kapanması",
+          "Işığa karşı aşırı hassasiyetin aniden kaybolması"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Ellerimiz gün içinde birçok bakteriyle temas eder, bu yüzden ovuşturma hareketi enfeksiyon riskini artırır."
+      }
+    ]
   }
 ];
