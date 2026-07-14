@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 14 Jul 2026 10:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 16:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Denizlerin En Sıra Dışı Babası: Erkek Denizatı Nasıl Doğurur?</title>
+      <link>https://genelkultur.com.tr/test/denizlerin-en-sira-disi-babasi-erkek-denizati-nasil-dogurur</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/denizlerin-en-sira-disi-babasi-erkek-denizati-nasil-dogurur</guid>
+      <pubDate>Tue, 14 Jul 2026 16:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Doğanın tüm kurallarını yıkan denizatları, üreme konusunda bildiğimiz her şeyi sorgulatıyor. Bu eşsiz canlılarda yavruları karnında taşıyıp dünyaya getiren dişi değil, erkek denizatı.</description>
+    </item>
     <item>
       <title>Gözlerinizi Ovuştururken Aslında Vücudunuzda Neler Oluyor?</title>
       <link>https://genelkultur.com.tr/test/gozlerinizi-ovustururken-aslinda-vucudunuzda-neler-oluyor</link>
@@ -158,14 +166,6 @@
       <pubDate>Sun, 05 Jul 2026 10:00:00 GMT</pubDate>
       <category>bilim</category>
       <description>Doğaya baktığınızda yeşil yapraklar, kahverengi topraklar ve sarı çiçekler her yerdedir ancak &apos;gerçek&apos; mavi renk neredeyse bir hayalet gibidir. Birçok kişi mavi bir kuş ya da çiçek gördüğünü sanır, ancak aslında doğada gerçek bir mavi pigment neredeyse hiç bulunmaz.</description>
-    </item>
-    <item>
-      <title>Uykuda Konuşmak: Beynimiz Gece Mesaisinde Neler Fısıldıyor?</title>
-      <link>https://genelkultur.com.tr/test/uykuda-konusmak-beynimiz-gece-mesaisinde-neler-fisildiyor</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/uykuda-konusmak-beynimiz-gece-mesaisinde-neler-fisildiyor</guid>
-      <pubDate>Sat, 04 Jul 2026 15:00:00 GMT</pubDate>
-      <category>bilim</category>
-      <description>Pek çoğumuz hayatımızın bir döneminde uykusunda konuşan biriyle karşılaşmış veya kendimiz de bu ilginç deneyimi yaşamışızdır. Tıpta &lt;strong&gt;somniloquy&lt;/strong&gt; olarak adlandırılan bu olgu, aslında beynin rüyalar ve anılar arasında sürdürdüğü karmaşık gece mesaisinin bir yan ürünü olabilir.</description>
     </item>
   </channel>
 </rss>

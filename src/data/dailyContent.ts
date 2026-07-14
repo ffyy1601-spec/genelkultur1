@@ -3040,5 +3040,76 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Ellerimiz gün içinde birçok bakteriyle temas eder, bu yüzden ovuşturma hareketi enfeksiyon riskini artırır."
       }
     ]
+  },
+  {
+    "slug": "denizlerin-en-sira-disi-babasi-erkek-denizati-nasil-dogurur",
+    "dateId": "2026-07-14T19:00:00+03:00",
+    "imageUrl": "/images/news/denizlerin-en-sira-disi-babasi-erkek-denizati-nasil-dogurur.webp",
+    "title": "Doğanın Şaşırtıcı Sırrı: Erkek Denizatı Neden Doğurur?",
+    "description": "Denizlerin en gizemli canlılarından denizatı, cinsiyet rollerini tersine çeviren biyolojik yapısıyla dikkat çekiyor. Erkek denizatları nasıl hamile kalıyor?",
+    "keywords": [
+      "denizatı",
+      "biyoloji",
+      "doğa",
+      "hayvanlar alemi",
+      "erkek gebeliği",
+      "ilginç gerçekler"
+    ],
+    "heading": "Denizlerin En Sıra Dışı Babası: Erkek Denizatı Nasıl Doğurur?",
+    "intro": "Doğanın tüm kurallarını yıkan denizatları, üreme konusunda bildiğimiz her şeyi sorgulatıyor. Bu eşsiz canlılarda yavruları karnında taşıyıp dünyaya getiren dişi değil, erkek denizatı.",
+    "article": "<p>Denizatı, <strong>Syngnathidae</strong> familyasına ait olan ve su altı dünyasında benzersiz bir üreme stratejisi geliştiren canlılardır. Genellikle doğada dişi bireylerin üstlendiği kuluçka ve gebelik süreçleri, denizatlarında tam tersi bir işleyişle yürür. Çiftleşme sırasında dişi denizatı, yumurtalarını erkeğin karın bölgesinde bulunan özel bir <strong>kuluçka kesesine</strong> aktarır. İşte tüm süreç bu noktada başlar.</p><h3>Biyolojik Bir Mühendislik Harikası: Kuluçka Kesesi</h3><p>Erkek denizatının kuluçka kesesi, işlevsel olarak memelilerdeki rahme benzer bir yapı gösterir. Kese, embriyolara hem oksijen sağlayan hem de atıkların uzaklaştırılmasına yardımcı olan gelişmiş bir ağ damar yapısına sahiptir. Bilimsel araştırmalar, erkek denizatlarının bu kesede embriyoları beslemek için gerekli olan bazı besinleri ve koruyucu sıvıları salgıladığını ortaya koymuştur. Bu süreç, yumurtaların dışarıda bırakılması yerine güvenli bir ortamda gelişmesini sağlar.</p><h3>Neden Erkekler Doğurur?</h3><p>Evrimsel biyologlara göre bu ilginç durumun temelinde <strong>hayatta kalma stratejisi</strong> yatar. Denizatı gibi küçük ve yavaş hareket eden canlılar, okyanusun tehlikeli dünyasında kolay av konumundadır. Dişilerin, yumurtaları erkeğe teslim etmesi onlara büyük bir avantaj sağlar: Dişi, bir sonraki yumurtlama dönemi için enerji depolarken, erkek de yavruları koruyarak türün devamlılığını garanti altına alır. Böylece dişi vakit kaybetmeden yeniden yumurta üretebilir, erkek ise mevcut yavruları büyütmeye odaklanır.</p><ul><li><strong>Tek eşlilik:</strong> Pek çok denizatı türü hayatları boyunca tek bir eşe bağlı kalarak yaşar.</li><li><strong>İleri ebeveyn bakımı:</strong> Doğum anı, minik yavruların adeta bir baloncuk gibi keseden fırlayarak dış dünyaya adım atmasıyla gerçekleşir.</li><li><strong>Yüksek doğum kapasitesi:</strong> Bir erkek denizatı, tek seferde yüzlerce, bazen bine yakın yavruya ev sahipliği yapabilir.</li></ul><p>Sonuç olarak denizatı, evrimin en yaratıcı çözümlerinden biridir. Erkek gebeliği, biyolojik bir zorunluluktan ziyade, türün zorlu okyanus şartlarında neslini sürdürebilmesi için geliştirilmiş son derece başarılı ve karmaşık bir adaptasyondur.</p>",
+    "category": "bilim",
+    "sourceName": "Evrim Ağacı",
+    "sourceUrl": "https://evrimagaci.org/denizatlari-ve-hamile-erkekler-neden-erkek-denizati-dogurur-erkek-gebeligi-evrimsel-surecte-nasil-ortaya-cikti-10255",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Denizatı yavrularının gelişim sürecinde erkek denizatı ne kullanır?",
+        "options": [
+          "Sadece bir taşıma çantası",
+          "Özel bir kuluçka kesesi",
+          "Yumurtaları yapıştıran bir jel",
+          "Deniz yosunları"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Erkek denizatı, yavruları korumak ve beslemek için karın bölgesinde bulunan özel bir kuluçka kesesi kullanır."
+      },
+      {
+        "id": 2,
+        "text": "Denizatlarında erkeklerin doğurmasının evrimsel avantajı nedir?",
+        "options": [
+          "Erkeklerin daha hızlı yüzmesini sağlar",
+          "Dişilerin daha fazla yumurta üretmesine enerji ayırmasını sağlar",
+          "Yavruların daha büyük doğmasını sağlar",
+          "Erkeklerin daha az yemek yemesini sağlar"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Erkeklerin yavruları taşıması, dişinin üreme döngüsünü hızlandırarak daha fazla enerjiyle tekrar yumurta üretmesine olanak tanır."
+      },
+      {
+        "id": 3,
+        "text": "Denizatı doğum süreci nasıl gerçekleşir?",
+        "options": [
+          "Yumurtalar okyanus tabanına bırakılır",
+          "Yavrular yumurtadan çıktıktan sonra keseden ayrılır",
+          "Yavrular gelişmiş bir balık formunda keseden dışarı fırlar",
+          "Dişi yavruları dışarı çıkarır"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Yavrular, erkek denizatının kesesinde tamamen gelişir ve doğum anında canlı, minik denizatları olarak dış dünyaya bırakılır."
+      },
+      {
+        "id": 4,
+        "text": "Syngnathidae familyasının en belirgin ortak özelliği nedir?",
+        "options": [
+          "Hızlı yüzmeleri",
+          "Tüm türlerin tek eşli olması",
+          "Erkeklerin gebeliği üstlenmesi",
+          "Sadece derin sularda yaşamaları"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Denizatlarını da içeren Syngnathidae familyasında gebelik sürecini ve yavru bakımını erkekler üstlenir."
+      }
+    ]
   }
 ];
