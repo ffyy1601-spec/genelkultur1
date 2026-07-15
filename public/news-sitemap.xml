@@ -44,4 +44,15 @@
       <news:title>Denizlerin En Sıra Dışı Babası: Erkek Denizatı Nasıl Doğurur?</news:title>
     </news:news>
   </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/parmaklariniz-suda-neden-burusuyor-sandiginizdan-cok-daha-zeki-bir-mekanizma/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-15T10:00:00.000Z</news:publication_date>
+      <news:title>Parmaklarınız Suda Neden Buruşuyor? Sandığınızdan Çok Daha Zeki Bir Mekanizma!</news:title>
+    </news:news>
+  </url>
 </urlset>

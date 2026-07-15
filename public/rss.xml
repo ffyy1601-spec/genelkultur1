@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 14 Jul 2026 16:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 10:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Parmaklarınız Suda Neden Buruşuyor? Sandığınızdan Çok Daha Zeki Bir Mekanizma!</title>
+      <link>https://genelkultur.com.tr/test/parmaklariniz-suda-neden-burusuyor-sandiginizdan-cok-daha-zeki-bir-mekanizma</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/parmaklariniz-suda-neden-burusuyor-sandiginizdan-cok-daha-zeki-bir-mekanizma</guid>
+      <pubDate>Wed, 15 Jul 2026 10:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Banyodan veya denizden çıktığınızda parmaklarınızın neden &quot;kuru üzüm&quot; gibi buruştuğunu hiç düşündünüz mü? Çoğu insan bunun cildin sadece suyu emerek şişmesinden kaynaklandığını sanır, ancak gerçek çok daha ilginç ve aktif bir biyolojik sürece dayanıyor.</description>
+    </item>
     <item>
       <title>Denizlerin En Sıra Dışı Babası: Erkek Denizatı Nasıl Doğurur?</title>
       <link>https://genelkultur.com.tr/test/denizlerin-en-sira-disi-babasi-erkek-denizati-nasil-dogurur</link>
@@ -158,14 +166,6 @@
       <pubDate>Sun, 05 Jul 2026 15:00:00 GMT</pubDate>
       <category>bilim</category>
       <description>Karanlık bir odadan çıkıp parlak güneş ışığına baktığınızda kendinizi bir anda hapşırırken mi buluyorsunuz? Bu durum sadece bir tesadüf değil; bilim dünyasında &apos;fotik hapşırma refleksi&apos; olarak bilinen, toplumun önemli bir kesimini etkileyen oldukça şaşırtıcı bir genetik fenomendir.</description>
-    </item>
-    <item>
-      <title>Gözlerimiz Bizi Kandırıyor mu? Doğadaki &apos;Gerçek Mavi&apos;nin Şaşırtıcı Sırrı</title>
-      <link>https://genelkultur.com.tr/test/gozlerimiz-bizi-kandiriyor-mu-dogadaki-gercek-mavinin-sasirtici-sirri</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/gozlerimiz-bizi-kandiriyor-mu-dogadaki-gercek-mavinin-sasirtici-sirri</guid>
-      <pubDate>Sun, 05 Jul 2026 10:00:00 GMT</pubDate>
-      <category>bilim</category>
-      <description>Doğaya baktığınızda yeşil yapraklar, kahverengi topraklar ve sarı çiçekler her yerdedir ancak &apos;gerçek&apos; mavi renk neredeyse bir hayalet gibidir. Birçok kişi mavi bir kuş ya da çiçek gördüğünü sanır, ancak aslında doğada gerçek bir mavi pigment neredeyse hiç bulunmaz.</description>
     </item>
   </channel>
 </rss>
