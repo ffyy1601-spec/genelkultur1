@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 15 Jul 2026 10:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 16:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Kediler Neden Mırlar? Sadece Mutluluk Değil, Bir Şifa Mekanizması!</title>
+      <link>https://genelkultur.com.tr/test/kediler-neden-mirlar-sadece-mutluluk-degil-bir-sifa-mekanizmasi</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/kediler-neden-mirlar-sadece-mutluluk-degil-bir-sifa-mekanizmasi</guid>
+      <pubDate>Wed, 15 Jul 2026 16:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Kedinizin o huzur veren mırıltısı, sadece keyifli bir anın göstergesi sandığınızdan çok daha derin bir biyolojik sırrı barındırıyor olabilir. Bilim insanları, kedilerin mırlarken çıkardığı titreşimlerin aslında kendi vücutlarını onarmak için kullandıkları doğal bir &apos;iyileşme frekansı&apos; olduğunu keşfetti.</description>
+    </item>
     <item>
       <title>Parmaklarınız Suda Neden Buruşuyor? Sandığınızdan Çok Daha Zeki Bir Mekanizma!</title>
       <link>https://genelkultur.com.tr/test/parmaklariniz-suda-neden-burusuyor-sandiginizdan-cok-daha-zeki-bir-mekanizma</link>
@@ -158,14 +166,6 @@
       <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
       <category>bilim</category>
       <description>Karanlık bir ortamdan çıkıp aniden parlak güneş ışığına baktığınızda kendinizi bir hapşırık krizinin ortasında buluyor musunuz? Bu durum sadece size özel değil; dünya nüfusunun yaklaşık %18 ila %35&apos;ini etkileyen &apos;fotik hapşırma refleksi&apos; adlı oldukça yaygın bir fenomen.</description>
-    </item>
-    <item>
-      <title>Güneşe Bakınca Hapşırmak: Neden Bazı İnsanlar Işığa Karşı &apos;Alerjik&apos; Tepki Verir?</title>
-      <link>https://genelkultur.com.tr/test/gunese-bakinca-hapsirmak-neden-bazi-insanlar-isiga-karsi-alerjik-tepki-verir</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/gunese-bakinca-hapsirmak-neden-bazi-insanlar-isiga-karsi-alerjik-tepki-verir</guid>
-      <pubDate>Sun, 05 Jul 2026 15:00:00 GMT</pubDate>
-      <category>bilim</category>
-      <description>Karanlık bir odadan çıkıp parlak güneş ışığına baktığınızda kendinizi bir anda hapşırırken mi buluyorsunuz? Bu durum sadece bir tesadüf değil; bilim dünyasında &apos;fotik hapşırma refleksi&apos; olarak bilinen, toplumun önemli bir kesimini etkileyen oldukça şaşırtıcı bir genetik fenomendir.</description>
     </item>
   </channel>
 </rss>

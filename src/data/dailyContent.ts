@@ -3181,5 +3181,75 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Bu evrimsel adaptasyon, özellikle kavrama ve temas yeteneğinin kritik olduğu el ve ayak parmak uçlarında yoğunlaşır."
       }
     ]
+  },
+  {
+    "slug": "kediler-neden-mirlar-sadece-mutluluk-degil-bir-sifa-mekanizmasi",
+    "dateId": "2026-07-15T19:00:00+03:00",
+    "imageUrl": "/images/news/kediler-neden-mirlar-sadece-mutluluk-degil-bir-sifa-mekanizmasi.webp",
+    "title": "Kedilerin Mırıltısı Sadece Mutluluk mu? İşte Şaşırtıcı Bilimsel Gerçek",
+    "description": "Kedilerin mırlaması sadece bir mutluluk göstergesi değildir. Bilim dünyasının ortaya çıkardığı, kemik iyileştiren ve stres azaltan bu biyolojik mucizeyi keşfedin.",
+    "keywords": [
+      "kedi mırlaması",
+      "kedi davranışı",
+      "mırlamanın faydaları",
+      "bilimsel gerçekler",
+      "kedi sağlığı"
+    ],
+    "heading": "Kediler Neden Mırlar? Sadece Mutluluk Değil, Bir Şifa Mekanizması!",
+    "intro": "Kedinizin o huzur veren mırıltısı, sadece keyifli bir anın göstergesi sandığınızdan çok daha derin bir biyolojik sırrı barındırıyor olabilir. Bilim insanları, kedilerin mırlarken çıkardığı titreşimlerin aslında kendi vücutlarını onarmak için kullandıkları doğal bir 'iyileşme frekansı' olduğunu keşfetti.",
+    "article": "<p>Kediler, günün büyük bir kısmını dinlenerek ve uyuyarak geçirirler. Ancak bu kadar hareketsiz kalmalarına rağmen kas ve kemik sağlıklarını nasıl korudukları uzun süre merak konusu olmuştur. Araştırmalar, kedilerin çıkardığı mırlama sesinin <strong>25 ila 150 Hertz</strong> aralığında bir frekansa sahip olduğunu göstermektedir.</p><h3>Doğanın İyileştirici Frekansı</h3><p>Bu özel frekans aralığı, modern tıpta kemik yoğunluğunu artırmak, yaraları iyileştirmek ve ağrıyı hafifletmek için kullanılan fiziksel tedavi yöntemleriyle şaşırtıcı bir benzerlik taşımaktadır. Kediler, fiziksel bir rahatsızlık hissettiklerinde, stres altındayken veya doğum gibi zorlu anlarda, vücutlarının kendi kendini onarmasına yardımcı olmak için bu düşük frekanslı titreşimleri kullanırlar.</p><h3>Mırlama Bir İletişim Aracı mıdır?</h3><p>Kediler, mutlu olduklarında insanlarıyla bağ kurmak için mırlasalar da, bu davranış aynı zamanda bir savunma veya yardım çağrısı mekanizması olarak da işlev görür. Örneğin bir veteriner kliniğinde korkan bir kedinin mırlaması, aslında kendi stresini yönetme ve yatıştırma çabasıdır. Mırlama, kedi için hem fiziksel bir destek hem de duygusal bir denge aracıdır.</p><h3>İnsan Sağlığı Üzerindeki Etkileri</h3><ul><li><strong>Stres ve Tansiyon:</strong> Kedilerin mırlamasını dinlemek, insanların beyinlerinde serotonin salınımını artırarak kan basıncını düşürmeye ve anksiyeteyi azaltmaya yardımcı olabilir.</li><li><strong>Kemik ve Doku Onarımı:</strong> Yapılan gözlemler, kedi sahiplerinin kalp krizi geçirme riskinin daha düşük olabileceğini ve bu frekansların insan dokuları üzerinde de olumlu etkiler yaratabileceğini düşündürmektedir.</li><li><strong>Titreşimli Terapi:</strong> 25-50 Hz aralığındaki titreşimler, kemiklerin yeniden yapılandırılmasında ve tendon iyileşmesinde destekleyici bir rol oynayabilir.</li></ul><p>Özetle, kedinizin kucağınıza kıvrılıp çıkardığı o ritmik ses, sadece sizi sevdiğini değil, aynı zamanda hem kendisinin hem de sizin sağlığınız için doğanın sunduğu küçük, gizli bir mucizeyi icra ettiğini temsil eder.</p>",
+    "category": "bilim",
+    "sourceName": "TÜBİTAK Bilim Genç",
+    "sourceUrl": "https://bilimgenc.tubitak.gov.tr/",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Kedilerin mırlama sesi genel olarak hangi frekans aralığındadır?",
+        "options": [
+          "5-10 Hz",
+          "25-150 Hz",
+          "200-500 Hz",
+          "1000-2000 Hz"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Araştırmalar, kedilerin mırlama sesinin 25 ile 150 Hertz arasında bir frekansa sahip olduğunu göstermektedir."
+      },
+      {
+        "id": 2,
+        "text": "Kedilerin sadece mutlu olduklarında mırladıkları bilgisi doğru mudur?",
+        "options": [
+          "Evet, sadece mutluluk belirtisidir.",
+          "Hayır, stres, acı ve korku anlarında da mırlayabilirler.",
+          "Sadece acı çektiklerinde mırlarlar.",
+          "Mırlama sadece uyku öncesi bir davranıştır."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Kediler mutluluğun yanı sıra stres, korku veya fiziksel acı çektikleri durumlarda da kendilerini yatıştırmak için mırlayabilirler."
+      },
+      {
+        "id": 3,
+        "text": "Bilimsel araştırmalara göre mırlama titreşimleri hangi sağlık etkisine yardımcı olabilir?",
+        "options": [
+          "Kas ve kemik iyileşmesini hızlandırmak",
+          "Daha hızlı koşmalarını sağlamak",
+          "Vücut ısısını düşürmek",
+          "Daha fazla mama yemelerini sağlamak"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Mırlama sırasındaki titreşimler, doku yenilenmesini destekleyerek kemik ve kas iyileşmesine yardımcı olur."
+      },
+      {
+        "id": 4,
+        "text": "Kedi mırlamasının insan sağlığı üzerindeki olası faydalarından biri nedir?",
+        "options": [
+          "Kasları tamamen yok etmesi",
+          "Serotonin salgısını azaltması",
+          "Stres ve tansiyonu düşürmeye yardımcı olması",
+          "Uyku süresini kısaltması"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kedilerin mırlamasını dinlemek, stres hormonu seviyelerini düşürüp kan basıncını dengeleyerek sakinleşmeye yardımcı olabilir."
+      }
+    ]
   }
 ];
