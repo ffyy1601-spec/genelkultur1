@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 16 Jul 2026 10:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 15:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Parmak İzleriniz Neden Biriciktir? Henüz Doğmadan Yazılan Kaderiniz</title>
+      <link>https://genelkultur.com.tr/test/parmak-izleriniz-neden-biriciktir-henuz-dogmadan-yazilan-kaderiniz</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/parmak-izleriniz-neden-biriciktir-henuz-dogmadan-yazilan-kaderiniz</guid>
+      <pubDate>Thu, 16 Jul 2026 15:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Parmak uçlarınızdaki o karmaşık çizgilerin, siz daha dünyaya gelmeden haftalar önce şekillendiğini ve ömür boyu değişmeden kaldığını biliyor muydunuz? Üstelik aynı DNA’yı taşıyan tek yumurta ikizlerinin bile farklı parmak izlerine sahip olması, doğanın bize sunduğu en büyüleyici imzalardan biridir.</description>
+    </item>
     <item>
       <title>Beyniniz Gece Uyurken Neden Film Çeviriyor? Rüya Görmenin Şaşırtıcı Bilimsel Nedeni</title>
       <link>https://genelkultur.com.tr/test/beyniniz-gece-uyurken-neden-film-ceviriyor-ruya-gormenin-sasirtici-bilimsel-nedeni</link>
@@ -158,14 +166,6 @@
       <pubDate>Tue, 07 Jul 2026 11:00:00 GMT</pubDate>
       <category>bilim</category>
       <description>Pek çok insan için acı biber yemek büyük bir keyifken, bazıları için küçük bir parça bile tahammül edilemez bir işkenceye dönüşür. Aslında acı bir tat değil, vücudumuzun beynimizi kandırarak hissettiği bir &apos;ağrı&apos; sinyalidir.</description>
-    </item>
-    <item>
-      <title>Muzların Gizli Sırrı: Neden &apos;Radyoaktif&apos; Meyveler Olarak Bilinirler?</title>
-      <link>https://genelkultur.com.tr/test/muzlarin-gizli-sirri-neden-radyoaktif-meyveler-olarak-bilinirler</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/muzlarin-gizli-sirri-neden-radyoaktif-meyveler-olarak-bilinirler</guid>
-      <pubDate>Mon, 06 Jul 2026 17:00:00 GMT</pubDate>
-      <category>bilim</category>
-      <description>Mutfaklarımızın en sevilen meyvelerinden biri olan muz, şaşırtıcı bir bilimsel özelliğe sahiptir: Doğal olarak radyoaktiftir. Ancak endişelenmeyin; bu durum, sağlıklı bir besin olmasının önüne geçmediği gibi, aslında doğadaki radyasyonun her yerde olduğunun en somut kanıtlarından biridir.</description>
     </item>
   </channel>
 </rss>

@@ -44,4 +44,15 @@
       <news:title>Beyniniz Gece Uyurken Neden Film Çeviriyor? Rüya Görmenin Şaşırtıcı Bilimsel Nedeni</news:title>
     </news:news>
   </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/parmak-izleriniz-neden-biriciktir-henuz-dogmadan-yazilan-kaderiniz/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-16T15:00:00.000Z</news:publication_date>
+      <news:title>Parmak İzleriniz Neden Biriciktir? Henüz Doğmadan Yazılan Kaderiniz</news:title>
+    </news:news>
+  </url>
 </urlset>
