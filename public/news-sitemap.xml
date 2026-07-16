@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://genelkultur.com.tr/test/gozlerinizi-ovustururken-aslinda-vucudunuzda-neler-oluyor/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenelKültür Haber</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-14T10:00:00.000Z</news:publication_date>
-      <news:title>Gözlerinizi Ovuştururken Aslında Vücudunuzda Neler Oluyor?</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://genelkultur.com.tr/test/denizlerin-en-sira-disi-babasi-erkek-denizati-nasil-dogurur/</loc>
     <news:news>
       <news:publication>
@@ -42,6 +31,17 @@
       </news:publication>
       <news:publication_date>2026-07-15T16:00:00.000Z</news:publication_date>
       <news:title>Kediler Neden Mırlar? Sadece Mutluluk Değil, Bir Şifa Mekanizması!</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/beyniniz-gece-uyurken-neden-film-ceviriyor-ruya-gormenin-sasirtici-bilimsel-nedeni/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-16T10:00:00.000Z</news:publication_date>
+      <news:title>Beyniniz Gece Uyurken Neden Film Çeviriyor? Rüya Görmenin Şaşırtıcı Bilimsel Nedeni</news:title>
     </news:news>
   </url>
 </urlset>

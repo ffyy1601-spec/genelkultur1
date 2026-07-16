@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 15 Jul 2026 16:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 10:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Beyniniz Gece Uyurken Neden Film Çeviriyor? Rüya Görmenin Şaşırtıcı Bilimsel Nedeni</title>
+      <link>https://genelkultur.com.tr/test/beyniniz-gece-uyurken-neden-film-ceviriyor-ruya-gormenin-sasirtici-bilimsel-nedeni</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/beyniniz-gece-uyurken-neden-film-ceviriyor-ruya-gormenin-sasirtici-bilimsel-nedeni</guid>
+      <pubDate>Thu, 16 Jul 2026 10:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Her gece kapattığımız gözlerimizin ardında, bazen mantıklı bazen de tamamen sürreal bir dünya inşa ediliyor. Bilim insanları uzun yıllardır bu &apos;gece tiyatrosunun&apos; sadece rastgele bir beyin aktivitesi mi, yoksa hayatta kalmamız için kritik bir görev mi olduğunu çözmeye çalışıyor.</description>
+    </item>
     <item>
       <title>Kediler Neden Mırlar? Sadece Mutluluk Değil, Bir Şifa Mekanizması!</title>
       <link>https://genelkultur.com.tr/test/kediler-neden-mirlar-sadece-mutluluk-degil-bir-sifa-mekanizmasi</link>
@@ -158,14 +166,6 @@
       <pubDate>Mon, 06 Jul 2026 17:00:00 GMT</pubDate>
       <category>bilim</category>
       <description>Mutfaklarımızın en sevilen meyvelerinden biri olan muz, şaşırtıcı bir bilimsel özelliğe sahiptir: Doğal olarak radyoaktiftir. Ancak endişelenmeyin; bu durum, sağlıklı bir besin olmasının önüne geçmediği gibi, aslında doğadaki radyasyonun her yerde olduğunun en somut kanıtlarından biridir.</description>
-    </item>
-    <item>
-      <title>Güneşe Bakınca Hapşıranlardan mısınız? Doğanın İlginç &apos;Yanlış Alarm&apos; Mekanizması</title>
-      <link>https://genelkultur.com.tr/test/gunese-bakinca-hapsiranlardan-misiniz-doganin-ilginc-yanlis-alarm-mekanizmasi</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/gunese-bakinca-hapsiranlardan-misiniz-doganin-ilginc-yanlis-alarm-mekanizmasi</guid>
-      <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
-      <category>bilim</category>
-      <description>Karanlık bir ortamdan çıkıp aniden parlak güneş ışığına baktığınızda kendinizi bir hapşırık krizinin ortasında buluyor musunuz? Bu durum sadece size özel değil; dünya nüfusunun yaklaşık %18 ila %35&apos;ini etkileyen &apos;fotik hapşırma refleksi&apos; adlı oldukça yaygın bir fenomen.</description>
     </item>
   </channel>
 </rss>
