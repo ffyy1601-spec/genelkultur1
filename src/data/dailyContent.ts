@@ -3464,5 +3464,77 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Baskın göz, özellikle hedefleme, derinlik algısı ve hassas hizalama gerektiren aktivitelerde beynin ana rehberidir."
       }
     ]
+  },
+  {
+    "slug": "aci-biber-yediginizde-burnunuz-neden-akar-vucudunuzun-yanlis-alarm-sistemi",
+    "dateId": "2026-07-17T18:00:00+03:00",
+    "imageUrl": "/images/news/aci-biber-yediginizde-burnunuz-neden-akar-vucudunuzun-yanlis-alarm-sistemi.webp",
+    "title": "Acı Yiyince Burnunuz Neden Akar? | İlginç Biyolojik Gerçekler",
+    "description": "Acı biber yediğinizde burnunuzun neden aktığını hiç merak ettiniz mi? Vücudunuzun 'gustatuar rinit' adı verilen bu savunma mekanizmasının arkasındaki şaşırtıcı bilimsel gerçekleri keşfedin.",
+    "keywords": [
+      "acı yemek",
+      "gustatuar rinit",
+      "kapsaisin",
+      "burun akması",
+      "biyoloji",
+      "vücut mekanizmaları",
+      "trigeminal sinir"
+    ],
+    "heading": "Acı Biber Yediğinizde Burnunuz Neden Akar? Vücudunuzun 'Yanlış Alarm' Sistemi",
+    "intro": "Sevdiğiniz o acılı yemeği yerken burnunuzun bir anda akmaya başlaması tesadüf değildir. Vücudunuz, aslında hiçbir fiziksel hasar olmamasına rağmen, sanki büyük bir saldırı altındaymış gibi harekete geçer.",
+    "article": "<p>Acı biber, wasabi veya hardal gibi keskin tatlara sahip yiyecekleri tükettiğinizde ortaya çıkan o meşhur burun akıntısı, tıp dünyasında <strong>gustatuar rinit</strong> olarak adlandırılan bir durumdur. Bu durum, alerjik olmayan bir rinit türü olup, vücudun yiyeceklere verdiği istemsiz bir tepkidir.</p><h3>Kapsaisin ve Yanlış Alarm</h3><p>Acı biberin içinde bulunan <strong>kapsaisin</strong> adlı bileşik, ağzınızdaki ve boğazınızdaki sinir uçlarını uyararak beyne yoğun bir 'ısı' ve 'tahriş' sinyali gönderir. Ancak işin ilginç yanı şudur: Kapsaisin gerçek bir doku hasarına veya yanığa neden olmaz; sadece vücudunuzun ısıyı algılayan sinirlerini kandırır. Vücudunuz bu sinyalleri aldığında, sanki gerçekten yüksek bir sıcaklığa veya zararlı bir maddeye maruz kalmışsınız gibi acil durum moduna geçer.</p><h3>Vücudunuzun Temizlik Mekanizması</h3><p>Vücudunuz, bu 'fiili' tehdidi uzaklaştırmak için çeşitli savunma mekanizmalarını devreye sokar:</p><ul><li><strong>Mukus üretimi:</strong> Burun ve sinüslerdeki mukus bezleri, tahriş edici olarak algılanan kapsaisini yıkamak ve dışarı atmak için yoğun bir şekilde mukus üretmeye başlar.</li><li><strong>Gözyaşı kanalları:</strong> Gözleriniz, yüzünüzdeki benzer sinir ağlarıyla bağlantılı olduğu için sulanabilir.</li><li><strong>Trigeminal sinir uyarımı:</strong> Yüzümüzdeki duyuları yöneten <strong>trigeminal sinir</strong>, bu süreçte anahtar rol oynar ve sinyal ağının merkezinde yer alarak burun bezlerini uyarır.</li></ul><h3>Evrimsel Bir Neden mi?</h3><p>Bilim insanları, bitkilerin kapsaisini aslında memelileri (bizleri) uzaklaştırmak için geliştirdiğini düşünmektedir. Bitkiler, kendilerini yemek isteyen canlıları rahatsız ederek bu acı bileşiği bir savunma aracı olarak kullanır. Ancak insanlar, bu 'acı' hissinin ötesine geçip, vücudun bu şaşırtıcı refleksini gastronomik bir zevke dönüştürmeyi başarmıştır.</p>",
+    "category": "bilim",
+    "sourceName": "Cleveland Clinic",
+    "sourceUrl": "https://my.clevelandclinic.org/health/diseases/23249-gustatory-rhinitis",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Acı yediğimizde burnun akmasına neden olan tıbbi durum nedir?",
+        "options": [
+          "Vazomotor rinit",
+          "Gustatuar rinit",
+          "Alerjik sinüzit",
+          "Kapsaisin intoleransı"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Acı yiyeceklerin tetiklediği burun akıntısına gustatuar rinit denir."
+      },
+      {
+        "id": 2,
+        "text": "Kapsaisin maddesi vücudumuzu nasıl kandırır?",
+        "options": [
+          "Kan şekerini düşürerek",
+          "Mide asidini artırarak",
+          "Isıyı algılayan sinirleri uyararak",
+          "Burun tıkanıklığını gidererek"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kapsaisin, ısıyı ve tahrişi algılayan sinir reseptörlerini uyararak vücudun yanlışlıkla yanıyormuş gibi hissetmesine neden olur."
+      },
+      {
+        "id": 3,
+        "text": "Burun akıntısının temel amacı nedir?",
+        "options": [
+          "Lezzeti artırmak",
+          "Tahriş edici maddeyi temizlemek",
+          "Vücut ısısını düşürmek",
+          "Hapşırmayı durdurmak"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Vücudumuz, algıladığı tahriş edici maddeyi (kapsaisin) uzaklaştırmak için mukus üretimini artırarak bölgeyi temizlemeye çalışır."
+      },
+      {
+        "id": 4,
+        "text": "Acı yeme sürecinde hangi sinir aktif bir rol oynar?",
+        "options": [
+          "Trigeminal sinir",
+          "Optik sinir",
+          "İşitme siniri",
+          "Vagus siniri"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Yüz duyularını ve burun mukus bezlerinin düzenlenmesini etkileyen trigeminal sinir, bu refleksin ana sorumlusudur."
+      }
+    ]
   }
 ];

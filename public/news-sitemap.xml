@@ -44,4 +44,15 @@
       <news:title>Dünyayı Hangi Gözünüzle Yönetiyorsunuz? Baskın Göz Gerçeği</news:title>
     </news:news>
   </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/aci-biber-yediginizde-burnunuz-neden-akar-vucudunuzun-yanlis-alarm-sistemi/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-17T15:00:00.000Z</news:publication_date>
+      <news:title>Acı Biber Yediğinizde Burnunuz Neden Akar? Vücudunuzun &apos;Yanlış Alarm&apos; Sistemi</news:title>
+    </news:news>
+  </url>
 </urlset>

@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 17 Jul 2026 10:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 15:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Acı Biber Yediğinizde Burnunuz Neden Akar? Vücudunuzun &apos;Yanlış Alarm&apos; Sistemi</title>
+      <link>https://genelkultur.com.tr/test/aci-biber-yediginizde-burnunuz-neden-akar-vucudunuzun-yanlis-alarm-sistemi</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/aci-biber-yediginizde-burnunuz-neden-akar-vucudunuzun-yanlis-alarm-sistemi</guid>
+      <pubDate>Fri, 17 Jul 2026 15:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Sevdiğiniz o acılı yemeği yerken burnunuzun bir anda akmaya başlaması tesadüf değildir. Vücudunuz, aslında hiçbir fiziksel hasar olmamasına rağmen, sanki büyük bir saldırı altındaymış gibi harekete geçer.</description>
+    </item>
     <item>
       <title>Dünyayı Hangi Gözünüzle Yönetiyorsunuz? Baskın Göz Gerçeği</title>
       <link>https://genelkultur.com.tr/test/dunyayi-hangi-gozunuzle-yonetiyorsunuz-baskin-goz-gercegi</link>
@@ -158,14 +166,6 @@
       <pubDate>Wed, 08 Jul 2026 10:00:00 GMT</pubDate>
       <category>bilim</category>
       <description>Parmak izlerimiz, yaşam boyu değişmeyen ve sadece bize özel olan biyolojik imzalarımızdır. Ancak bu desenlerin oluşumu sadece genetik koda bağlı değildir; rahim içindeki kaotik ve rastlantısal süreçler, tek yumurta ikizlerinin bile farklı parmak izlerine sahip olmasını sağlar.</description>
-    </item>
-    <item>
-      <title>Güneşe Bakınca Hapşıranlardan mısınız? İşte &apos;ACHOO Sendromu&apos;nun Bilimsel Nedeni</title>
-      <link>https://genelkultur.com.tr/test/gunese-bakinca-hapsiranlardan-misiniz-iste-achoo-sendromunun-bilimsel-nedeni</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/gunese-bakinca-hapsiranlardan-misiniz-iste-achoo-sendromunun-bilimsel-nedeni</guid>
-      <pubDate>Tue, 07 Jul 2026 16:00:00 GMT</pubDate>
-      <category>bilim</category>
-      <description>Karanlık bir sinema salonundan çıkıp aniden parlak gün ışığına maruz kaldığınızda kendinizi kontrolsüz bir hapşırık krizinde buluyor musunuz? Bu durum sadece size özel değil; dünya nüfusunun yaklaşık %18 ila %35&apos;ini etkileyen ve bilim dünyasında oldukça şaşırtıcı teorilere konu olan bir biyolojik fenomen.</description>
     </item>
   </channel>
 </rss>
