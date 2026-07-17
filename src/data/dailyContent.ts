@@ -3394,5 +3394,75 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "WNT, BMP ve EDAR proteinleri parmak izi çizgilerinin desenlerini oluşturan temel moleküler sinyal aileleridir."
       }
     ]
+  },
+  {
+    "slug": "dunyayi-hangi-gozunuzle-yonetiyorsunuz-baskin-goz-gercegi",
+    "dateId": "2026-07-17T13:00:00+03:00",
+    "imageUrl": "/images/news/dunyayi-hangi-gozunuzle-yonetiyorsunuz-baskin-goz-gercegi.webp",
+    "title": "Baskın Gözünüz Hangisi? Görme Dünyasının Gizli Lideri",
+    "description": "Çoğu kişi el tercihine sahip olduğunu bilir, ancak gözlerinizden birinin beyniniz tarafından 'lider' seçildiğini biliyor muydunuz? İşte baskın göz gerçeği.",
+    "keywords": [
+      "baskın göz",
+      "oküler dominans",
+      "göz sağlığı",
+      "göz testi",
+      "bilimsel gerçekler"
+    ],
+    "heading": "Dünyayı Hangi Gözünüzle Yönetiyorsunuz? Baskın Göz Gerçeği",
+    "intro": "Hayatınız boyunca iki gözünüzün de dünyaya eşit katkı sağladığını düşündüyseniz yanılıyor olabilirsiniz. Beynimiz, görsel bilgiyi işlerken genellikle gözlerden birini 'lider' olarak belirler ve ona daha fazla yetki verir.",
+    "article": "<p>Göz baskınlığı veya bilimsel adıyla <strong>oküler dominans</strong>, tıpkı sağ veya sol elinizi kullanmanız gibi, beyninizin görme sisteminde bir tarafa karşı gösterdiği doğal tercihtir. İki gözünüz de görsel verileri beyninize iletir, ancak beyniniz bu verileri birleştirirken genellikle bir gözden gelen bilgiyi daha güvenilir ve hassas kabul eder. Bu 'baskın göz', nesnelerin konumunu belirlemede ve ince işlerde beynin birincil başvuru kaynağı haline gelir.</p><h3>Neden Bir Gözümüz Diğerinden Daha Baskın?</h3><p>Baskın gözün temel görevi, görsel sistemi daha etkili bir şekilde yönlendirmektir. Beyin, her iki gözden gelen bilgiyi işlemek için enerji harcamak yerine, bilgiyi işlemeyi kolaylaştırmak amacıyla genellikle tek bir göze öncelik tanır. Bu durum, özellikle hedef alma, topu yakalama veya bir fotoğraf karesini hizalama gibi derinlik algısı ve odaklanma gerektiren anlarda kendini gösterir. İlginç bir şekilde, <strong>sağ elini kullanan bir bireyin sol gözü baskın olabilir</strong>; yani el tercihi ile göz tercihi arasında doğrudan bir bağlantı bulunmamaktadır.</p><h3>Kendi Göz Baskınlığınızı Nasıl Test Edersiniz?</h3><p>Kendi baskın gözünüzü belirlemek oldukça basit ve hızlı bir yöntem olan <strong>Miles Testi</strong> ile mümkündür:</p><ul><li>Uzak bir mesafede, yaklaşık 3-6 metre ötede sabit bir nesne (örneğin bir kapı kolu veya duvar saati) seçin.</li><li>İki elinizi uzatın ve baş parmaklarınızla işaret parmaklarınızı birleştirerek küçük bir üçgen (pencere) oluşturun.</li><li>Bu üçgeni, her iki gözünüz açıkken seçtiğiniz nesneyi tam ortalayacak şekilde hizalayın.</li><li>Önce sol gözünüzü, ardından sağ gözünüzü sırayla kapatın.</li><li>Nesne, hangi gözünüzü kapattığınızda <strong>yerinden kaymıyorsa</strong>, açık kalan gözünüz sizin baskın gözünüzdür.</li></ul><h3>Baskın Gözün Spor ve Günlük Yaşamdaki Yeri</h3><p>Baskın gözün farkında olmak, özellikle hassas nişan alma gerektiren sporlarda (okçuluk, atıcılık) veya hızlı reaksiyon gereken branşlarda (tenis, voleybol) performansı doğrudan etkileyebilir. Eğer baskın gözünüzle uyumlu olmayan bir teknikle atış yapıyorsanız, odaklanma sorunları ve hedefleri ıskalama ihtimaliniz artabilir. Ancak unutmayın, çoğu insan için bu baskınlık çok hafiftir ve günlük yaşamda herhangi bir dezavantaj yaratmaz; aksine beynin görsel dünyayı daha hızlı ve net işlemesine yardımcı olan kusursuz bir mimari parçadır.</p>",
+    "category": "bilim",
+    "sourceName": "All About Vision",
+    "sourceUrl": "https://www.allaboutvision.com/eye-care/eye-examination/dominant-eye-test/",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Oküler dominans (göz baskınlığı) terimi neyi ifade eder?",
+        "options": [
+          "Sadece göz renginin farklı olması",
+          "Beynin görme işleminde bir göze daha fazla öncelik vermesi",
+          "Göz kaslarının diğerinden daha güçlü olması",
+          "Bir gözün diğerinden daha büyük olması"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Oküler dominans, beynin görsel verileri işlerken bir gözden gelen bilgiyi daha hassas veya öncelikli kabul etme tercihidir."
+      },
+      {
+        "id": 2,
+        "text": "Göz baskınlığı ile el tercihi arasında nasıl bir ilişki vardır?",
+        "options": [
+          "Her zaman aynı tarafı işaret ederler",
+          "Solaklar her zaman sol göz baskındır",
+          "Doğrudan bir bağlantı yoktur",
+          "Sadece sağ elini kullananlarda gözler eşittir"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Araştırmalar, baskın göz ile el tercihi arasında istatistiksel olarak zorunlu bir bağ olmadığını göstermiştir."
+      },
+      {
+        "id": 3,
+        "text": "Baskın gözü bulmak için kullanılan 'Miles Testi'nde gözlemcinin yaptığı ilk hareket nedir?",
+        "options": [
+          "Gözlerini tamamen kapatmak",
+          "Bir nesneyi elleriyle oluşturduğu üçgenin merkezine almak",
+          "Kafasını sağa ve sola çevirmek",
+          "Gözlerini belirli bir mesafeye odaklamak"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Test, iki elle oluşturulan bir çerçeve içerisinde uzak bir nesneyi ortalayarak başlar."
+      },
+      {
+        "id": 4,
+        "text": "Baskın gözün özellikle hangi durumlarda daha belirleyici olduğu söylenebilir?",
+        "options": [
+          "Uyku kalitesinde",
+          "Göz renginin değişmesinde",
+          "Nişan alma ve derinlik algısı gerektiren görevlerde",
+          "Sadece okuma hızında"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Baskın göz, özellikle hedefleme, derinlik algısı ve hassas hizalama gerektiren aktivitelerde beynin ana rehberidir."
+      }
+    ]
   }
 ];

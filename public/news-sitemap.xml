@@ -1,28 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://genelkultur.com.tr/test/denizlerin-en-sira-disi-babasi-erkek-denizati-nasil-dogurur/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenelKültür Haber</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-14T16:00:00.000Z</news:publication_date>
-      <news:title>Denizlerin En Sıra Dışı Babası: Erkek Denizatı Nasıl Doğurur?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://genelkultur.com.tr/test/parmaklariniz-suda-neden-burusuyor-sandiginizdan-cok-daha-zeki-bir-mekanizma/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenelKültür Haber</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-15T10:00:00.000Z</news:publication_date>
-      <news:title>Parmaklarınız Suda Neden Buruşuyor? Sandığınızdan Çok Daha Zeki Bir Mekanizma!</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://genelkultur.com.tr/test/kediler-neden-mirlar-sadece-mutluluk-degil-bir-sifa-mekanizmasi/</loc>
     <news:news>
       <news:publication>
@@ -53,6 +31,17 @@
       </news:publication>
       <news:publication_date>2026-07-16T15:00:00.000Z</news:publication_date>
       <news:title>Parmak İzleriniz Neden Biriciktir? Henüz Doğmadan Yazılan Kaderiniz</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/dunyayi-hangi-gozunuzle-yonetiyorsunuz-baskin-goz-gercegi/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-17T10:00:00.000Z</news:publication_date>
+      <news:title>Dünyayı Hangi Gözünüzle Yönetiyorsunuz? Baskın Göz Gerçeği</news:title>
     </news:news>
   </url>
 </urlset>
