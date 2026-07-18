@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 18 Jul 2026 10:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 15:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Çocukken Bir Yaz Tatili Neden Ömür Gibi Sürerken, Şimdi Yıllar Göz Açıp Kapayıncaya Kadar Geçiyor?</title>
+      <link>https://genelkultur.com.tr/test/cocukken-bir-yaz-tatili-neden-omur-gibi-surerken-simdi-yillar-goz-acip-kapayincaya-kadar-geciyor</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/cocukken-bir-yaz-tatili-neden-omur-gibi-surerken-simdi-yillar-goz-acip-kapayincaya-kadar-geciyor</guid>
+      <pubDate>Sat, 18 Jul 2026 15:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Çocukluk yıllarında günler ve mevsimler adeta bir yavaş çekim filmi gibi akarken, yetişkinlikte aylar ve yıllar hız trenindeymişiz gibi geçip gidiyor. Bilim insanlarına göre bu durum, beynimizin yeni deneyimleri işleme biçimi ile yakından ilgili olan büyüleyici bir algı oyunudur.</description>
+    </item>
     <item>
       <title>Uykuda Düşme Hissi: Beyninizin &apos;Hayatta Kalma&apos; Yanlış Alarmı mı?</title>
       <link>https://genelkultur.com.tr/test/uykuda-dusme-hissi-beyninizin-hayatta-kalma-yanlis-alarmi-mi</link>
@@ -158,14 +166,6 @@
       <pubDate>Thu, 09 Jul 2026 11:00:00 GMT</pubDate>
       <category>bilim</category>
       <description>Hava soğuduğunda etrafınızdaki herkes birer birer aksırmaya ve öksürmeye başlarken sizin hiçbir şey olmamış gibi hayatınıza devam etmeniz tesadüf olmayabilir. Yale Üniversitesi&apos;nden araştırmacılar, bağışıklık sisteminin en kritik savunma hattının burun hücrelerimizde gizli olduğunu keşfetti.</description>
-    </item>
-    <item>
-      <title>Kulağınızın Üzerinde Küçük Bir Delik mi Var? İşte Şaşırtıcı Nedeni!</title>
-      <link>https://genelkultur.com.tr/test/kulaginizin-uzerinde-kucuk-bir-delik-mi-var-iste-sasirtici-nedeni</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/kulaginizin-uzerinde-kucuk-bir-delik-mi-var-iste-sasirtici-nedeni</guid>
-      <pubDate>Wed, 08 Jul 2026 16:00:00 GMT</pubDate>
-      <category>bilim</category>
-      <description>Bazı insanların kulaklarının tam üzerinde, kıkırdak ve yüzün birleştiği noktada minik bir delik bulunur. İlk bakışta bir piercing izi gibi görünebilen bu yapı, aslında anne karnındaki embriyonik gelişimden kalan oldukça ilginç bir &quot;tasarım hatasıdır&quot;.</description>
     </item>
   </channel>
 </rss>

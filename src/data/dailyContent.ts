@@ -3606,5 +3606,75 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Bir teori, bu refleksin ağaçta uyuyan atalarımızı düşmekten korumak için geliştirilmiş ilkel bir savunma olduğunu öne sürer."
       }
     ]
+  },
+  {
+    "slug": "cocukken-bir-yaz-tatili-neden-omur-gibi-surerken-simdi-yillar-goz-acip-kapayincaya-kadar-geciyor",
+    "dateId": "2026-07-18T18:00:00+03:00",
+    "imageUrl": "/images/news/cocukken-bir-yaz-tatili-neden-omur-gibi-surerken-simdi-yillar-goz-acip-kapayincaya-kadar-geciyor.webp",
+    "title": "Neden Yaşlandıkça Zaman Daha Hızlı Geçer? | Bilim ve Psikoloji",
+    "description": "Çocukken bitmek bilmeyen yaz tatillerinin aksine yetişkinlikte yıllar neden göz açıp kapayıncaya kadar geçiyor? İşte zaman algısının şaşırtıcı bilimsel sırları.",
+    "keywords": [
+      "zaman algısı",
+      "yaşlanma",
+      "psikoloji",
+      "bilişsel bilim",
+      "zaman neden hızlı geçer"
+    ],
+    "heading": "Çocukken Bir Yaz Tatili Neden Ömür Gibi Sürerken, Şimdi Yıllar Göz Açıp Kapayıncaya Kadar Geçiyor?",
+    "intro": "Çocukluk yıllarında günler ve mevsimler adeta bir yavaş çekim filmi gibi akarken, yetişkinlikte aylar ve yıllar hız trenindeymişiz gibi geçip gidiyor. Bilim insanlarına göre bu durum, beynimizin yeni deneyimleri işleme biçimi ile yakından ilgili olan büyüleyici bir algı oyunudur.",
+    "article": "<p>Zamanın akış hızı fiziksel saatler için sabit olsa da, insan beyni için durum tamamen özneldir. Yaş ilerledikçe zamanın hızlandığı hissi, sadece nostaljik bir yakınma değil, aynı zamanda <strong>nöropsikolojik</strong> temelleri olan bir gerçektir. Beynimiz, zamanı deneyimlediğimiz yeni olayların yoğunluğuna göre kodlar; yani yeni bir şey öğrenmek veya keşfetmek, zihinsel saatimizi yavaşlatır.</p><h3>Yeni Deneyimler ve Beyin Kodlaması</h3><p>Çocukluk döneminde hayatımızdaki hemen her şey yenidir; ilk kez bisiklete binmek, yeni bir okula başlamak veya bilmediğimiz bir oyunla tanışmak beynimizde çok yoğun bir <strong>veri işleme süreci</strong> yaratır. Beyin, bu yeni anıları kodlamak için daha fazla enerji harcar ve daha fazla detay kaydeder. Geriye dönüp baktığımızda, hafızamız bu detaylarla dolu olduğu için o dönemin çok uzun sürdüğünü düşünürüz. Yetişkinlikte ise hayatımız daha rutin bir hale gelir; her gün benzer yollardan geçip benzer işleri yaptığımızda beynimiz bu süreci otomatikleştirir ve daha az veri kaydeder. Hatırlanacak daha az \"yeni\" anı olduğunda, zaman zihnimizde bir bütün haline gelir ve hızla akıp gider.</p><h3>Oransal Teori ve Bakış Açısı</h3><p>Bir diğer açıklama ise <strong>oransal teori</strong> olarak bilinir. 6 yaşındaki bir çocuk için 1 yıl, yaşamının toplam süresinin altıda biri (%16) iken, 60 yaşındaki bir birey için 1 yıl, hayatının sadece altmışta birine (%1,6) denk gelir. Dolayısıyla, yaşlandıkça yaşadığımız her yıl, toplam hayatımızın çok daha küçük bir parçasını oluşturduğu için zihnimizde daha önemsiz ve kısa görünür.</p><h3>Biyolojik Faktörlerin Etkisi</h3><p>Araştırmalar, yaşlandıkça değişen vücut kimyamızın da bu algıyı etkilediğini göstermektedir. Özellikle beyindeki <strong>dopamin</strong> seviyesindeki değişimler ve metabolik hızın yavaşlaması, zamanın işleniş biçimini doğrudan etkileyebilir. Çocukların daha hızlı bir kalp ritmine ve daha aktif bir biyolojik tempoya sahip olması, birim zamanda daha fazla biyolojik sinyal üretilmesini ve bu sayede zamanın onlar için daha \"geniş\" algılanmasını sağlar.</p><ul><li><strong>Yenilik Arayışı:</strong> Hayatınıza yeni hobiler ve farklı deneyimler katmak, beynin veri işleme kapasitesini artırarak zaman algısını yavaşlatabilir.</li><li><strong>Farkındalık (Mindfulness):</strong> Anı yaşamak ve detaylara odaklanmak, zamanın hızla akıp gitmesini engellemeye yardımcı olan pratik yöntemlerden biridir.</li><li><strong>Rutini Kırmak:</strong> Farklı rotalar kullanmak veya yeni bilgiler edinmek, zihinsel takviminizi daha zengin anılarla doldurmanızı sağlar.</li></ul>",
+    "category": "bilim",
+    "sourceName": "TÜBİTAK Bilim Genç",
+    "sourceUrl": "https://bilimgenc.tubitak.gov.tr/",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Bilim insanlarına göre çocuklukta zamanın daha yavaş geçmesinin temel sebebi nedir?",
+        "options": [
+          "Çocukların daha az uyuması",
+          "Yeni deneyimlerin beyni yoğun veri işlemeye zorlaması",
+          "Dünyanın o yaşlarda daha küçük görünmesi",
+          "Dopamin seviyesinin düşük olması"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Çocuklukta her şeyin yeni olması, beynin anıları daha detaylı kodlamasına ve bu yüzden zamanın yavaş geçtiğinin hissedilmesine neden olur."
+      },
+      {
+        "id": 2,
+        "text": "Oransal teoriye göre, 60 yaşındaki biri için 1 yılın hayatındaki yeri nedir?",
+        "options": [
+          "Hayatının %16'sı",
+          "Hayatının yarısı",
+          "Hayatının %1,6'sı",
+          "Hayatının çeyreği"
+        ],
+        "correctAnswer": 2,
+        "explanation": "60 yaşındaki bir birey için 1 yıl, toplam yaşam süresinin sadece 60'ta birine (%1,6) denk gelir, bu da onun daha kısa hissedilmesine neden olur."
+      },
+      {
+        "id": 3,
+        "text": "Zaman algısını yavaşlatmak için makalede önerilen yöntemlerden biri nedir?",
+        "options": [
+          "Daha fazla uyumak",
+          "Rutin işleri artırmak",
+          "Yeni hobiler ve farklı deneyimler denemek",
+          "Zamanı tamamen görmezden gelmek"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Yenilik arayışı ve rutinleri kırmak, beynin daha fazla veri işlemesini sağlar ve zamanın daha yavaş akıyormuş gibi algılanmasına yardımcı olur."
+      },
+      {
+        "id": 4,
+        "text": "Beyin bir olayı 'otomatikleştirirse' zaman algısı nasıl değişir?",
+        "options": [
+          "Zaman algısı tamamen durur",
+          "Zaman daha yavaş geçiyormuş gibi hissedilir",
+          "Zaman hızla akıp gidiyormuş gibi hissedilir",
+          "Zamanın akışı değişmez"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Beyin rutinleşen olayları az veriyle kodlar, bu da zamanın zihinde hızla akıp gitmesine yol açar."
+      }
+    ]
   }
 ];
