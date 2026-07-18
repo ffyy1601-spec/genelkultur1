@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 17 Jul 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 10:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Uykuda Düşme Hissi: Beyninizin &apos;Hayatta Kalma&apos; Yanlış Alarmı mı?</title>
+      <link>https://genelkultur.com.tr/test/uykuda-dusme-hissi-beyninizin-hayatta-kalma-yanlis-alarmi-mi</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/uykuda-dusme-hissi-beyninizin-hayatta-kalma-yanlis-alarmi-mi</guid>
+      <pubDate>Sat, 18 Jul 2026 10:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Tam uykuya dalmak üzereyken yüksek bir yerden düşüyormuş gibi hissedip aniden sıçrayarak uyandığınız oldu mu? Milyonlarca insanın yaşadığı bu tuhaf durumun arkasında, aslında beyninizin vücudunuzu korumaya çalışan çok eski bir savunma mekanizması yatıyor.</description>
+    </item>
     <item>
       <title>Acı Biber Yediğinizde Burnunuz Neden Akar? Vücudunuzun &apos;Yanlış Alarm&apos; Sistemi</title>
       <link>https://genelkultur.com.tr/test/aci-biber-yediginizde-burnunuz-neden-akar-vucudunuzun-yanlis-alarm-sistemi</link>
@@ -158,14 +166,6 @@
       <pubDate>Wed, 08 Jul 2026 16:00:00 GMT</pubDate>
       <category>bilim</category>
       <description>Bazı insanların kulaklarının tam üzerinde, kıkırdak ve yüzün birleştiği noktada minik bir delik bulunur. İlk bakışta bir piercing izi gibi görünebilen bu yapı, aslında anne karnındaki embriyonik gelişimden kalan oldukça ilginç bir &quot;tasarım hatasıdır&quot;.</description>
-    </item>
-    <item>
-      <title>Tek Yumurta İkizlerinin Bile Parmak İzleri Neden Farklıdır?</title>
-      <link>https://genelkultur.com.tr/test/tek-yumurta-ikizlerinin-bile-parmak-izleri-neden-farklidir</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/tek-yumurta-ikizlerinin-bile-parmak-izleri-neden-farklidir</guid>
-      <pubDate>Wed, 08 Jul 2026 10:00:00 GMT</pubDate>
-      <category>bilim</category>
-      <description>Parmak izlerimiz, yaşam boyu değişmeyen ve sadece bize özel olan biyolojik imzalarımızdır. Ancak bu desenlerin oluşumu sadece genetik koda bağlı değildir; rahim içindeki kaotik ve rastlantısal süreçler, tek yumurta ikizlerinin bile farklı parmak izlerine sahip olmasını sağlar.</description>
     </item>
   </channel>
 </rss>

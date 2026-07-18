@@ -1,28 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://genelkultur.com.tr/test/kediler-neden-mirlar-sadece-mutluluk-degil-bir-sifa-mekanizmasi/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenelKültür Haber</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-15T16:00:00.000Z</news:publication_date>
-      <news:title>Kediler Neden Mırlar? Sadece Mutluluk Değil, Bir Şifa Mekanizması!</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://genelkultur.com.tr/test/beyniniz-gece-uyurken-neden-film-ceviriyor-ruya-gormenin-sasirtici-bilimsel-nedeni/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenelKültür Haber</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-16T10:00:00.000Z</news:publication_date>
-      <news:title>Beyniniz Gece Uyurken Neden Film Çeviriyor? Rüya Görmenin Şaşırtıcı Bilimsel Nedeni</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://genelkultur.com.tr/test/parmak-izleriniz-neden-biriciktir-henuz-dogmadan-yazilan-kaderiniz/</loc>
     <news:news>
       <news:publication>
@@ -53,6 +31,17 @@
       </news:publication>
       <news:publication_date>2026-07-17T15:00:00.000Z</news:publication_date>
       <news:title>Acı Biber Yediğinizde Burnunuz Neden Akar? Vücudunuzun &apos;Yanlış Alarm&apos; Sistemi</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/uykuda-dusme-hissi-beyninizin-hayatta-kalma-yanlis-alarmi-mi/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-18T10:00:00.000Z</news:publication_date>
+      <news:title>Uykuda Düşme Hissi: Beyninizin &apos;Hayatta Kalma&apos; Yanlış Alarmı mı?</news:title>
     </news:news>
   </url>
 </urlset>
