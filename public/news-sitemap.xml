@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://genelkultur.com.tr/test/aci-biber-yediginizde-burnunuz-neden-akar-vucudunuzun-yanlis-alarm-sistemi/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenelKültür Haber</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-17T15:00:00.000Z</news:publication_date>
-      <news:title>Acı Biber Yediğinizde Burnunuz Neden Akar? Vücudunuzun &apos;Yanlış Alarm&apos; Sistemi</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://genelkultur.com.tr/test/uykuda-dusme-hissi-beyninizin-hayatta-kalma-yanlis-alarmi-mi/</loc>
     <news:news>
       <news:publication>
@@ -42,6 +31,17 @@
       </news:publication>
       <news:publication_date>2026-07-19T10:00:00.000Z</news:publication_date>
       <news:title>Yalan Söylerken Burnunuz Pinokyo Gibi Uzuyor mu?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/gunese-bakinca-neden-hapsirirsiniz-iste-vucudunuzun-yanlis-alarm-mekanizmasi/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-19T15:00:00.000Z</news:publication_date>
+      <news:title>Güneşe Bakınca Neden Hapşırırsınız? İşte Vücudunuzun &apos;Yanlış Alarm&apos; Mekanizması</news:title>
     </news:news>
   </url>
 </urlset>

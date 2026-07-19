@@ -3747,5 +3747,75 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Araştırmalar, yalan söyleyen kişinin alın ısısının 0.6 ºC ile 1.5 ºC arasında arttığını göstermektedir."
       }
     ]
+  },
+  {
+    "slug": "gunese-bakinca-neden-hapsirirsiniz-iste-vucudunuzun-yanlis-alarm-mekanizmasi",
+    "dateId": "2026-07-19T18:00:00+03:00",
+    "imageUrl": "/images/news/gunese-bakinca-neden-hapsirirsiniz-iste-vucudunuzun-yanlis-alarm-mekanizmasi.webp",
+    "title": "Güneşe Bakınca Neden Hapşırırsınız? | ACHOO Sendromu",
+    "description": "Güneşe veya parlak ışığa baktığınızda istemsizce hapşırıyor musunuz? Dünyada insanların %35'ini etkileyen bu şaşırtıcı refleksin bilimsel nedenlerini keşfedin.",
+    "keywords": [
+      "fotik hapşırma refleksi",
+      "ACHOO sendromu",
+      "genetik",
+      "hapşırma",
+      "bilimsel gerçekler"
+    ],
+    "heading": "Güneşe Bakınca Neden Hapşırırsınız? İşte Vücudunuzun 'Yanlış Alarm' Mekanizması",
+    "intro": "Güneşli bir günde dışarı çıktığınızda veya aniden parlak bir ışığa maruz kaldığınızda kontrolsüzce hapşırıyor musunuz? Bu durum sadece size özel değil; dünya nüfusunun yaklaşık %18 ile %35'ini etkileyen ve tıpta 'fotik hapşırma refleksi' olarak adlandırılan oldukça yaygın bir biyolojik fenomendir.",
+    "article": "<p>Hapşırma, temel olarak vücudun solunum yollarındaki yabancı maddeleri, tozları veya tahriş edicileri dışarı atmak için kullandığı koruyucu bir reflekstir. Ancak <strong>fotik hapşırma refleksi</strong> (veya halk arasındaki yaygın adıyla ACHOO sendromu), burunda hiçbir tahriş edici madde olmamasına rağmen beynin sanki bir tehdit varmış gibi hapşırma komutu vermesidir.</p><h3>Beyindeki Çapraz Bağlantı: Neden Işık Hapşırtır?</h3><p>Bilim insanları, bu ilginç refleksin beynimizdeki sinir ağlarının birbirine olan yakınlığından kaynaklandığını düşünmektedir. Parlak ışığa baktığımızda, gözlerimizi korumak ve ışığı odaklamak için gözdeki sinirler hızla uyarılır. Bu optik sinirler, yüzdeki duyusal algılamadan sorumlu olan <strong>trigeminal sinire</strong> çok yakın bir konumda yer alır. Araştırmacılar, parlak ışık nedeniyle optik sinirlerde oluşan aşırı uyarılmanın, yanındaki trigeminal sinire 'sızarak' yanlış sinyaller gönderdiğini ve beynin bunu burun mukozasında bir tahriş varmış gibi algıladığını öngörmektedir.</p><h3>Genetik Bir Miras: ACHOO Sendromu</h3><p>Bu refleksin en dikkat çekici özelliklerinden biri genetik olmasıdır. <strong>ACHOO</strong>, aslında 'Autosomal Dominant Compelling Helio-Ophthalmic Outburst' ifadesinin baş harflerinden oluşan bir kısaltmadır. Refleksin <strong>otozomal dominant</strong> (baskın) bir kalıtım izlediği bilinmektedir; bu da ebeveynlerinizden birinde bu özellik varsa, sizin de bu reflekse sahip olma ihtimalinizin %50 civarında olduğu anlamına gelir.</p><h3>Tarihsel Bir Merak Konusu</h3><p>Bu fenomen modern tıbbın konusu olsa da, üzerine düşünen ilk kişi antik çağ filozofudur. <strong>Aristoteles</strong>, 'Problemler' adlı kitabında insanların neden güneşe bakınca hapşırdığını sorgulamış ve güneş ısısının burnu ısıtarak hapşırığı tetiklediğini savunmuştur. Ancak 17. yüzyılda Francis Bacon bu teoriyi çürütmüş ve hapşırmanın ışığın yoğunluğuyla bağlantılı olduğunu savunmuştur. Bugün yapılan araştırmalar Bacon'ın haklı olduğunu ve belirli bir dalga boyundan ziyade <strong>ışık yoğunluğundaki ani değişimin</strong> tetikleyici olduğunu doğrulamaktadır.</p><ul><li><strong>Kimler etkilenir?</strong> Dünya genelinde insanların %18-35'i bu reflekse sahiptir.</li><li><strong>Tetikleyiciler:</strong> Sadece güneş ışığı değil, fotoğraf flaşları veya lazerler de hapşırığı tetikleyebilir.</li><li><strong>İlişkili durumlar:</strong> Araştırmalar, bu reflekse sahip bireylerin migren gibi sinir sistemiyle ilişkili durumlara daha yatkın olabileceğini göstermektedir.</li></ul>",
+    "category": "bilim",
+    "sourceName": "TÜBİTAK Bilim Genç",
+    "sourceUrl": "https://bilimgenc.tubitak.gov.tr/makale/gunese-baktigimizda-neden-hapsiririz",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Fotik hapşırma refleksi (ACHOO sendromu) dünya nüfusunun yaklaşık yüzde kaçını etkiler?",
+        "options": [
+          "1-5%",
+          "18-35%",
+          "50-60%",
+          "80-90%"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Araştırmalar, dünya nüfusunun yaklaşık %18 ile %35'inin bu reflekse sahip olduğunu göstermektedir."
+      },
+      {
+        "id": 2,
+        "text": "Bu refleksin oluşumunda hangi sinirlerin birbirine yakınlığının 'yanlış sinyal' gönderdiği düşünülmektedir?",
+        "options": [
+          "İşitme ve tatma sinirleri",
+          "Optik sinir ve trigeminal sinir",
+          "Koku ve denge sinirleri",
+          "Motor ve duyu sinirleri"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Gözden gelen optik sinirlerin, yüz duyusunu kontrol eden trigeminal sinire yakınlığı, parlak ışıkta sinyallerin karışmasına neden olmaktadır."
+      },
+      {
+        "id": 3,
+        "text": "ACHOO sendromunun kalıtım biçimi nedir?",
+        "options": [
+          "Otozomal dominant (baskın)",
+          "Çevresel faktörlere bağlı",
+          "Sonradan kazanılan bir hastalık",
+          "Cinsiyete bağlı çekinik"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Fotik hapşırma refleksi, otozomal dominant (baskın) genlerle aktarılan bir özelliktir."
+      },
+      {
+        "id": 4,
+        "text": "Fotik hapşırma refleksiyle ilgili ilk teorileri ortaya atan antik çağ filozofu kimdir?",
+        "options": [
+          "Platon",
+          "Sokrates",
+          "Aristoteles",
+          "Pisagor"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Aristoteles, 'Problemler' kitabında güneşe bakınca hapşırma fenomenini sorgulayan ilk kişilerden biridir."
+      }
+    ]
   }
 ];
