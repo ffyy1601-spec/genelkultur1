@@ -3676,5 +3676,76 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Beyin rutinleşen olayları az veriyle kodlar, bu da zamanın zihinde hızla akıp gitmesine yol açar."
       }
     ]
+  },
+  {
+    "slug": "yalan-soylerken-burnunuz-pinokyo-gibi-uzuyor-mu",
+    "dateId": "2026-07-19T13:00:00+03:00",
+    "imageUrl": "/images/news/yalan-soylerken-burnunuz-pinokyo-gibi-uzuyor-mu.webp",
+    "title": "Pinokyo Etkisi: Yalan Söylerken Burnunuz Gerçekten Değişiyor mu?",
+    "description": "Yalan söylediğinizde burnunuza ne olur? Bilim dünyasının 'Pinokyo Etkisi' olarak adlandırdığı, yalanın bedenimizdeki ilginç fizyolojik yansımalarını keşfedin.",
+    "keywords": [
+      "Pinokyo etkisi",
+      "yalan söylemek",
+      "beden dili",
+      "fizyoloji",
+      "Granada Üniversitesi",
+      "termografi"
+    ],
+    "heading": "Yalan Söylerken Burnunuz Pinokyo Gibi Uzuyor mu?",
+    "intro": "Çocukluk masallarında yalan söyleyenlerin burnunun uzaması basit bir hikaye gibi görünse de, modern bilim bu durumun arkasında çarpıcı bir fizyolojik gerçek yattığını kanıtlıyor. Yalan söylediğinizde vücudunuzda oluşan değişimler, tahmin ettiğinizden çok daha somut izler bırakıyor.",
+    "article": "<p>İspanya'daki <strong>Granada Üniversitesi</strong>'nden bilim insanları, yalan söylemenin insan vücudu üzerindeki etkilerini incelemek için termografi adı verilen özel bir ısı ölçüm teknolojisi kullandı. İkinci Dünya Savaşı döneminde askeri amaçlarla geliştirilen bu yöntem, günümüzde duyguların beden sıcaklığı üzerindeki etkisini izlemek için psikoloji alanında devrim niteliğinde veriler sunuyor.</p><h3>Pinokyo Etkisi Nedir?</h3><p>Araştırmacılar, kişilerin yalan söyledikleri anlarda yüzlerinde, özellikle de burun çevresi ve göz pınarlarında ilginç bir ısı değişimi yaşandığını saptadı. <strong>Pinokyo Etkisi</strong> olarak adlandırılan bu olgu, aslında burnun uzamasından ziyade, bölgedeki kan akışının hızlanması ve buna bağlı olarak dokuların ısınmasıyla ilgilidir. Yalan söyleme süreci bir tür zihinsel baskı ve stres yarattığı için vücudumuz bu gerginliğe istemsiz tepkiler verir.</p><h3>Vücudumuz Yalanı Nasıl Ele Verir?</h3><p>Yalan söylerken yaşanan temel fizyolojik süreç şu şekilde işler:</p><ul><li><strong>Sıcaklık Değişimi:</strong> Yalan söylerken burun ucundaki sıcaklıkta 0.6 ºC ile 1.2 ºC arasında bir azalma görülebilirken, aynı anda alın bölgesindeki ısı 0.6 ºC ile 1.5 ºC arasında artış gösterebilir.</li><li><strong>Kaşınma Hissi:</strong> Adrenalin seviyesinin yükselmesiyle kılcal damarlarda yaşanan kan basıncı artışı, burun bölgesinde hafif bir kaşınma veya karıncalanma hissine yol açar. Bu nedenle yalancılar sık sık burunlarına dokunma veya kaşıma eğilimi gösterirler.</li><li><strong>Sinir Sistemi Tepkisi:</strong> Beynin 'insula' adı verilen bölgesi aktifleştiğinde, vücut bir çeşit stres tepkisi verir ve bu durum jest-mimiklerinize yansır.</li></ul><h3>Davranışsal Sinyallere Dikkat</h3><p>Uzmanlar, yalanı tespit etmenin tek bir işarete (sadece burna dokunmak gibi) bağlı olmadığını vurguluyor. Ancak yalan söyleyen kişilerde; göz temasından kaçınma, ani ses tonu değişimleri ve normalden daha az el jesti kullanma gibi davranış kalıplarının yaygın olduğu gözlemlenmiştir. Vücudunuz, zihninizin saklamaya çalıştığı stresi, termal kameralardan bile daha önce hissedebilir.</p>",
+    "category": "bilim",
+    "sourceName": "Granada Üniversitesi / ListeList",
+    "sourceUrl": "https://listelist.com/pinokyo-etkisi/",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Bilim insanlarının yalan söyleyen kişilerde gözlemlediği 'Pinokyo Etkisi' temel olarak neyle ilgilidir?",
+        "options": [
+          "Burnun fiziksel olarak uzaması",
+          "Burun bölgesindeki kan akışı ve ısı değişimi",
+          "Göz bebeklerinin aniden küçülmesi",
+          "Kişinin kontrolsüz bir şekilde hapşırması"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Pinokyo Etkisi, yalan söylerken burun çevresindeki kan akışının değişmesiyle meydana gelen ısı artışı veya azalışını tanımlar."
+      },
+      {
+        "id": 2,
+        "text": "Yalan söylenirken burun bölgesinde hissedilen kaşınmanın temel fizyolojik nedeni nedir?",
+        "options": [
+          "Adrenalin artışına bağlı kan basıncındaki değişim",
+          "Ortamdaki oksijen seviyesinin düşmesi",
+          "Ciltte kullanılan kozmetik ürünlerin tepkimeye girmesi",
+          "Beynin sadece sağ lobunun çalışması"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Yalan söylemenin yarattığı stres ve adrenalin artışı, kılcal damarlardaki kan basıncını yükselterek burun çevresinde karıncalanma hissi yaratır."
+      },
+      {
+        "id": 3,
+        "text": "Termografi teknolojisi hangi amaçla geliştirilmiştir?",
+        "options": [
+          "Yalan söyleyenleri cezalandırmak için",
+          "İkinci Dünya Savaşı sırasında gece görüşü sağlamak için",
+          "Modern mimaride ısı yalıtımı ölçmek için",
+          "Uzayda oksijen seviyesini dengelemek için"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Termografi, başlangıçta İkinci Dünya Savaşı sırasında askerlere gece görüşü yeteneği kazandırmak için geliştirilmiş bir teknolojidir."
+      },
+      {
+        "id": 4,
+        "text": "Araştırmalara göre yalan söylenirken alın bölgesindeki ısı değişimi nasıldır?",
+        "options": [
+          "Sıcaklık belirgin şekilde düşer",
+          "Sıcaklık sabit kalır",
+          "Sıcaklık 0.6 ºC ile 1.5 ºC arasında artar",
+          "Alın bölgesinde hiçbir ısı değişimi gözlenmez"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Araştırmalar, yalan söyleyen kişinin alın ısısının 0.6 ºC ile 1.5 ºC arasında arttığını göstermektedir."
+      }
+    ]
   }
 ];

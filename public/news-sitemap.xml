@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://genelkultur.com.tr/test/dunyayi-hangi-gozunuzle-yonetiyorsunuz-baskin-goz-gercegi/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenelKültür Haber</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-17T10:00:00.000Z</news:publication_date>
-      <news:title>Dünyayı Hangi Gözünüzle Yönetiyorsunuz? Baskın Göz Gerçeği</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://genelkultur.com.tr/test/aci-biber-yediginizde-burnunuz-neden-akar-vucudunuzun-yanlis-alarm-sistemi/</loc>
     <news:news>
       <news:publication>
@@ -42,6 +31,17 @@
       </news:publication>
       <news:publication_date>2026-07-18T15:00:00.000Z</news:publication_date>
       <news:title>Çocukken Bir Yaz Tatili Neden Ömür Gibi Sürerken, Şimdi Yıllar Göz Açıp Kapayıncaya Kadar Geçiyor?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/yalan-soylerken-burnunuz-pinokyo-gibi-uzuyor-mu/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-19T10:00:00.000Z</news:publication_date>
+      <news:title>Yalan Söylerken Burnunuz Pinokyo Gibi Uzuyor mu?</news:title>
     </news:news>
   </url>
 </urlset>

@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 18 Jul 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 10:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Yalan Söylerken Burnunuz Pinokyo Gibi Uzuyor mu?</title>
+      <link>https://genelkultur.com.tr/test/yalan-soylerken-burnunuz-pinokyo-gibi-uzuyor-mu</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/yalan-soylerken-burnunuz-pinokyo-gibi-uzuyor-mu</guid>
+      <pubDate>Sun, 19 Jul 2026 10:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Çocukluk masallarında yalan söyleyenlerin burnunun uzaması basit bir hikaye gibi görünse de, modern bilim bu durumun arkasında çarpıcı bir fizyolojik gerçek yattığını kanıtlıyor. Yalan söylediğinizde vücudunuzda oluşan değişimler, tahmin ettiğinizden çok daha somut izler bırakıyor.</description>
+    </item>
     <item>
       <title>Çocukken Bir Yaz Tatili Neden Ömür Gibi Sürerken, Şimdi Yıllar Göz Açıp Kapayıncaya Kadar Geçiyor?</title>
       <link>https://genelkultur.com.tr/test/cocukken-bir-yaz-tatili-neden-omur-gibi-surerken-simdi-yillar-goz-acip-kapayincaya-kadar-geciyor</link>
@@ -158,14 +166,6 @@
       <pubDate>Thu, 09 Jul 2026 17:00:00 GMT</pubDate>
       <category>bilim</category>
       <description>Kulağınızın hemen ön kısmında yer alan, bazen bir piercing izi gibi görünen o küçücük deliğin, aslında anne karnındaki gelişimin altıncı haftasına uzanan bir hikayesi var. Bilim dünyasında &apos;preauriküler sinüs&apos; olarak adlandırılan bu oluşum, bazı teorilere göre uzak atalarımızdan kalan evrimsel bir iz olabilir.</description>
-    </item>
-    <item>
-      <title>Çevrenizdeki Herkes Hasta Olurken Sizin &apos;Taş Gibi&apos; Sağlam Kalmanızın Sırrı Ne?</title>
-      <link>https://genelkultur.com.tr/test/cevrenizdeki-herkes-hasta-olurken-sizin-tas-gibi-saglam-kalmanizin-sirri-ne</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/cevrenizdeki-herkes-hasta-olurken-sizin-tas-gibi-saglam-kalmanizin-sirri-ne</guid>
-      <pubDate>Thu, 09 Jul 2026 11:00:00 GMT</pubDate>
-      <category>bilim</category>
-      <description>Hava soğuduğunda etrafınızdaki herkes birer birer aksırmaya ve öksürmeye başlarken sizin hiçbir şey olmamış gibi hayatınıza devam etmeniz tesadüf olmayabilir. Yale Üniversitesi&apos;nden araştırmacılar, bağışıklık sisteminin en kritik savunma hattının burun hücrelerimizde gizli olduğunu keşfetti.</description>
     </item>
   </channel>
 </rss>
