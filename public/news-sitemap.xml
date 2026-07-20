@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://genelkultur.com.tr/test/cocukken-bir-yaz-tatili-neden-omur-gibi-surerken-simdi-yillar-goz-acip-kapayincaya-kadar-geciyor/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenelKültür Haber</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-18T15:00:00.000Z</news:publication_date>
-      <news:title>Çocukken Bir Yaz Tatili Neden Ömür Gibi Sürerken, Şimdi Yıllar Göz Açıp Kapayıncaya Kadar Geçiyor?</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://genelkultur.com.tr/test/yalan-soylerken-burnunuz-pinokyo-gibi-uzuyor-mu/</loc>
     <news:news>
       <news:publication>
@@ -42,6 +31,17 @@
       </news:publication>
       <news:publication_date>2026-07-20T11:00:00.000Z</news:publication_date>
       <news:title>Gökyüzündeki Beyaz Çizgilerin Sırrı: Uçaklar Neden İz Bırakır?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/aynadaki-yabanci-insanlar-neden-kendi-yuzlerini-bile-taniyamaz/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-20T16:00:00.000Z</news:publication_date>
+      <news:title>Aynadaki Yabancı: İnsanlar Neden Kendi Yüzlerini Bile Tanıyamaz?</news:title>
     </news:news>
   </url>
 </urlset>

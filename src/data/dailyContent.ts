@@ -3888,5 +3888,75 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Contrail oluşumu için gerekli dondurucu soğukluk genellikle 8-12 bin metre (seyir irtifası) seviyelerinde mevcuttur."
       }
     ]
+  },
+  {
+    "slug": "aynadaki-yabanci-insanlar-neden-kendi-yuzlerini-bile-taniyamaz",
+    "dateId": "2026-07-20T19:00:00+03:00",
+    "imageUrl": "/images/news/aynadaki-yabanci-insanlar-neden-kendi-yuzlerini-bile-taniyamaz.webp",
+    "title": "Yüz Körlüğü Nedir? Kendi Suretinizi Bile Tanıyamamak | Bilim",
+    "description": "Sevdiklerinizin, hatta aynadaki kendi yüzünüzün bir yabancı gibi görünmesi mümkün mü? Nörolojik bir durum olan prosopagnozi (yüz körlüğü) hakkında şaşırtıcı gerçekler.",
+    "keywords": [
+      "yüz körlüğü",
+      "prosopagnozi",
+      "nöroloji",
+      "fusiform girus",
+      "bilişsel bozukluk"
+    ],
+    "heading": "Aynadaki Yabancı: İnsanlar Neden Kendi Yüzlerini Bile Tanıyamaz?",
+    "intro": "En yakın arkadaşınızın ya da hayat arkadaşınızın yüzünü bir yabancı gibi görmek, hatta aynaya baktığınızda karşınızdakini tanıyamamak sizin için ne kadar korkutucu olurdu? 'Yüz körlüğü' olarak bilinen prosopagnozi, tam olarak bu karmaşık nörolojik deneyimi yaşayan bireylerin günlük gerçeğidir.",
+    "article": "<p><strong>Prosopagnozi</strong>, Yunanca 'yüz' (prosopon) ve 'tanıyamama/bilgi eksikliği' (agnosia) kelimelerinin birleşiminden türetilmiş, nörolojik bir durumdur. Bu bozukluğa sahip olan bireyler, görsel yeteneklerinde hiçbir sorun olmamasına rağmen, insan yüzlerini ayırt etme ve tanıma becerisinde ciddi güçlükler yaşarlar. Birçoğu için durum sadece tanıdıklarını tanımamakla sınırlı kalmaz; bazen aynadaki kendi yansımalarını bile yabancı birinin yüzü olarak algılayabilirler.</p><h3>Beynimizin Yüz Tanıma Merkezi: Fusiform Girus</h3><p>İnsan beyni, yüzleri tanımak için özelleşmiş karmaşık bir ağa sahiptir. Bilimsel araştırmalar, beynin sağ yarımküresinde yer alan <strong>fusiform girus</strong> adlı bölgenin, yüzleri birbirinden ayırt etmede kritik bir rol oynadığını göstermiştir. Bu bölgedeki doğuştan gelen gelişimsel eksiklikler veya kafa travması, felç ya da tümör gibi sonradan meydana gelen hasarlar, yüz tanıma ağının kopmasına neden olabilir. Sonuç olarak, beyin yüzü oluşturan göz, burun ve ağız gibi parçaları görebilse de, onları bütüncül bir kimlik olarak birleştiremez.</p><h3>Gelişimsel ve Edinilmiş Yüz Körlüğü</h3><p>Prosopagnozi iki ana kategoride incelenir:<ul><li><strong>Gelişimsel (Doğuştan) Prosopagnozi:</strong> Herhangi bir beyin hasarı olmaksızın, genetik yatkınlık veya gelişimsel süreçlerle ortaya çıkar. Birey, hayatı boyunca yüzleri ayırt etme konusunda zorluk çektiğinin bazen farkında bile olmayabilir.</li><li><strong>Edinilmiş Prosopagnozi:</strong> Kişinin daha önce normal bir yüz tanıma yetisine sahipken, bir kaza veya nörolojik hastalık sonrası bu becerisini yitirmesidir.</li></ul></p><h3>Sosyal Hayatta Gizli Stratejiler</h3><p>Bu durumu yaşayan pek çok kişi, sosyal ortamlarda zorlanmamak için çeşitli 'telafi mekanizmaları' geliştirir. İnsanları yüzlerinden değil; ses tonları, yürüyüş şekilleri, saç modelleri, takılar veya üzerlerindeki belirgin kıyafetler gibi ipuçlarından tanımayı öğrenirler. Ancak bu durum, onları çoğu zaman sosyal anksiyete, utanç veya yanlış anlaşılma gibi psikolojik yüklerle karşı karşıya bırakabilir. Modern tıp, prosopagnozi için kesin bir tedavi sunmasa da, hastaların günlük yaşam kalitelerini artıracak çeşitli davranışsal terapi yöntemleri üzerine çalışmalar sürmektedir.</p>",
+    "category": "bilim",
+    "sourceName": "TÜBİTAK Bilim Genç",
+    "sourceUrl": "https://bilimgenc.tubitak.gov.tr/makale/beyinde-yuz-algisi-nasil-gerceklesir-yuz-korlugu-nedir",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Prosopagnozi (yüz körlüğü) terimi hangi iki kavramın birleşiminden türetilmiştir?",
+        "options": [
+          "Yüz ve bilgi eksikliği",
+          "Göz ve görme kaybı",
+          "Hafıza ve nesne tanıma",
+          "Beyin ve yüz algısı"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Prosopagnozi, Yunanca yüz (prosopon) ve tanıyamama/bilgi eksikliği (agnosia) kelimelerinden türetilmiştir."
+      },
+      {
+        "id": 2,
+        "text": "Beyinde yüzleri ayırt etmede kritik rol oynayan ana bölge hangisidir?",
+        "options": [
+          "Prefrontal korteks",
+          "Fusiform girus",
+          "Oksipital lob",
+          "Amigdala"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Fusiform girus, beynin yüzleri birbirinden ayırt etmede ve bütüncül olarak işlemede kritik rol oynayan bölgesidir."
+      },
+      {
+        "id": 3,
+        "text": "Edinilmiş prosopagnozi genellikle neyin sonucunda ortaya çıkar?",
+        "options": [
+          "Doğuştan gelen genetik bir mutasyonun",
+          "Kafa travması, felç veya beyin hasarının",
+          "Yoğun stresli yaşam koşullarının",
+          "Yetersiz görsel uyarının"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Edinilmiş prosopagnozi, kafa travması, felç veya tümör gibi beyin hasarlarından sonra sonradan gelişen bir durumdur."
+      },
+      {
+        "id": 4,
+        "text": "Prosopagnozisi olan kişiler insanları tanımak için genellikle ne yaparlar?",
+        "options": [
+          "Yüzleri daha dikkatli analiz ederler",
+          "Ses tonu, yürüyüş ve giyim gibi ipuçlarını kullanırlar",
+          "Hafızalarını geliştirmek için özel ilaçlar kullanırlar",
+          "İnsanlarla iletişim kurmaktan tamamen kaçınırlar"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Yüzleri tanımakta zorlanan bireyler, kimlikleri ayırt etmek için ses, giyim, saç şekli veya yürüme tarzı gibi diğer belirgin özellikleri kullanırlar."
+      }
+    ]
   }
 ];
