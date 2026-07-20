@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 19 Jul 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 11:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Gökyüzündeki Beyaz Çizgilerin Sırrı: Uçaklar Neden İz Bırakır?</title>
+      <link>https://genelkultur.com.tr/test/gokyuzundeki-beyaz-cizgilerin-sirri-ucaklar-neden-iz-birakir</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/gokyuzundeki-beyaz-cizgilerin-sirri-ucaklar-neden-iz-birakir</guid>
+      <pubDate>Mon, 20 Jul 2026 11:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Gökyüzüne baktığınızda yüksek irtifada uçan bir jetin arkasında uzun, beyaz bir şerit bıraktığını görmüşsünüzdür. Birçok kişi tarafından merak edilen veya komplo teorilerine konu olan bu izler, aslında tamamen doğal ve büyüleyici bir fiziksel sürecin sonucudur.</description>
+    </item>
     <item>
       <title>Güneşe Bakınca Neden Hapşırırsınız? İşte Vücudunuzun &apos;Yanlış Alarm&apos; Mekanizması</title>
       <link>https://genelkultur.com.tr/test/gunese-bakinca-neden-hapsirirsiniz-iste-vucudunuzun-yanlis-alarm-mekanizmasi</link>
@@ -158,14 +166,6 @@
       <pubDate>Fri, 10 Jul 2026 16:00:00 GMT</pubDate>
       <category>bilim</category>
       <description>Pek çoğumuz hayatımızın bir döneminde en az bir kez uykuda konuştuk ya da yanımızdaki birinin gece yarısı anlamsız cümleler kurduğuna şahit olduk. Tıp dilinde &apos;somniloquy&apos; olarak bilinen bu fenomen, beynin uyku ile uyanıklık arasındaki karmaşık geçişlerinde gerçekleşen büyüleyici bir süreçtir.</description>
-    </item>
-    <item>
-      <title>Acı Biber Yerken Bedenimiz Neden &apos;Yanıyor&apos; ve Terliyoruz?</title>
-      <link>https://genelkultur.com.tr/test/aci-biber-yerken-bedenimiz-neden-yaniyor-ve-terliyoruz</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/aci-biber-yerken-bedenimiz-neden-yaniyor-ve-terliyoruz</guid>
-      <pubDate>Fri, 10 Jul 2026 11:00:00 GMT</pubDate>
-      <category>bilim</category>
-      <description>Acı bir biberin ilk ısırığında ağzınızın içinde yayılan o yoğun yanma hissiyle birlikte aniden terlemeye ve burnunuzun akmaya başladığını fark ettiniz mi? Aslında bu durum, yediğiniz yemeğin sıcaklığıyla değil, vücudunuzun sizi korumak için devreye soktuğu sofistike bir alarm sistemiyle ilgilidir.</description>
     </item>
   </channel>
 </rss>

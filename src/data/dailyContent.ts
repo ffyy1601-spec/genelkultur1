@@ -3817,5 +3817,76 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Aristoteles, 'Problemler' kitabında güneşe bakınca hapşırma fenomenini sorgulayan ilk kişilerden biridir."
       }
     ]
+  },
+  {
+    "slug": "gokyuzundeki-beyaz-cizgilerin-sirri-ucaklar-neden-iz-birakir",
+    "dateId": "2026-07-20T14:00:00+03:00",
+    "imageUrl": "/images/news/gokyuzundeki-beyaz-cizgilerin-sirri-ucaklar-neden-iz-birakir.webp",
+    "title": "Uçaklar Neden Gökyüzünde Beyaz İz Bırakır? | Bilimsel Gerçekler",
+    "description": "Uçakların arkasında oluşan beyaz çizgilerin gizemi nedir? Contrail nedir ve nasıl oluşur? Bilimsel açıklamasıyla bu doğa olayının sırrını öğrenin.",
+    "keywords": [
+      "uçak izi",
+      "contrail",
+      "yoğunlaşma izi",
+      "bilimsel gerçekler",
+      "havacılık",
+      "atmosfer"
+    ],
+    "heading": "Gökyüzündeki Beyaz Çizgilerin Sırrı: Uçaklar Neden İz Bırakır?",
+    "intro": "Gökyüzüne baktığınızda yüksek irtifada uçan bir jetin arkasında uzun, beyaz bir şerit bıraktığını görmüşsünüzdür. Birçok kişi tarafından merak edilen veya komplo teorilerine konu olan bu izler, aslında tamamen doğal ve büyüleyici bir fiziksel sürecin sonucudur.",
+    "article": "<p>Havacılık literatüründe <strong>\"contrail\"</strong> olarak adlandırılan bu beyaz çizgiler, İngilizce \"condensation\" (yoğunlaşma) ve \"trail\" (iz) kelimelerinin birleşiminden türetilmiştir. Türkçede <strong>yoğunlaşma izi</strong> veya <strong>kuyruk izi</strong> olarak bilinirler. Bu fenomen, aslında soğuk bir kış gününde dışarı verdiğiniz nefesinizin buharlaşmasına benzer bir mekanizmayla oluşur.</p><h3>Contrail Nasıl Oluşur?</h3><p>Jet motorları çalışırken, yanma süreci sonucunda dışarıya sadece egzoz gazları değil, aynı zamanda <strong>su buharı</strong> ve çok küçük miktarda partikül (is gibi) salınır. Uçaklar genellikle 8 bin ila 12 bin metre gibi yüksek irtifalarda seyrederler. Bu seviyelerde hava sıcaklığı <strong>-40 °C ile -60 °C</strong> arasında değişen dondurucu seviyelerdedir.</p><p>Motorlardan çıkan sıcak ve nemli egzoz gazı, dışarıdaki aşırı soğuk havayla aniden karşılaştığında, havanın su tutma kapasitesi hızla düşer. Bu ani soğuma sonucunda su buharı yoğunlaşır ve çok küçük <strong>buz kristallerine</strong> dönüşür. Motorun içinden çıkan partiküller, buz kristallerinin tutunabileceği birer çekirdek görevi görerek bu kristalleşme sürecini tetikler.</p><h3>İzler Neden Bazen Kalıcı Olur, Bazen Kaybolur?</h3><p>Contrail'lerin havada ne kadar süre kalacağı, o irtifadaki atmosferik nem oranına bağlıdır:</p><ul><li><strong>Düşük Nem:</strong> Hava kuruysa, buz kristalleri hızla süblimleşir (katı halden doğrudan gaz haline geçer) ve izler uçağın arkasında birkaç dakika içinde kaybolur.</li><li><strong>Yüksek Nem:</strong> Hava nemliyse, buz kristalleri dağılmaz ve havada asılı kalır. Bu durumda izler genişleyebilir ve gökyüzünde saatlerce kalabilen ince yapay bulutlara (cirrus bulutları) dönüşebilir.</li></ul><p>Bu izler, sadece görsel bir şölen sunmakla kalmaz; aynı zamanda meteorologlar için yüksek irtifadaki nem ve hava durumu hakkında ipucu sağlayan doğal birer gösterge olarak da kabul edilir.</p>",
+    "category": "bilim",
+    "sourceName": "Meteoroloji Genel Müdürlüğü (MGM)",
+    "sourceUrl": "https://www.mgm.gov.tr/",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Uçakların arkasında oluşan beyaz izlere havacılık literatüründe ne ad verilir?",
+        "options": [
+          "Chemtrail",
+          "Contrail",
+          "Distrail",
+          "Jet dumanı"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Havacılık terminolojisinde bu izlere İngilizce 'condensation' (yoğunlaşma) ve 'trail' (iz) kelimelerinin birleşimi olan 'contrail' denir."
+      },
+      {
+        "id": 2,
+        "text": "Contrail oluşumunun temel nedeni nedir?",
+        "options": [
+          "Uçağın özel kimyasallar püskürtmesi",
+          "Yakıtın yanması sonucu oluşan karbondioksitin beyazlaşması",
+          "Sıcak egzoz gazındaki su buharının soğuk havada kristalleşmesi",
+          "Motor parçalarının yüksek ısıdan dolayı erimesi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Contrail, jet motorundan çıkan sıcak ve nemli egzoz gazının, yüksek irtifadaki çok soğuk havayla karşılaşarak buz kristallerine dönüşmesiyle oluşur."
+      },
+      {
+        "id": 3,
+        "text": "Bir contrail izinin havada uzun süre kalması neyin göstergesidir?",
+        "options": [
+          "Atmosferin o bölgesindeki nem oranının yüksek olduğunun",
+          "Uçağın motorunda bir arıza olduğunun",
+          "Havanın aşırı kuru olduğunun",
+          "Uçağın çok alçaktan uçtuğunun"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Nemli hava, buz kristallerinin hızlıca buharlaşmasını engeller ve izlerin havada daha uzun süre asılı kalmasına, hatta yayılmasına neden olur."
+      },
+      {
+        "id": 4,
+        "text": "Uçaklar genellikle kaç metre irtifanın üzerinde contrail oluşturur?",
+        "options": [
+          "Deniz seviyesinde",
+          "1-2 bin metre arası",
+          "8-12 bin metre arası",
+          "50 bin metre üzeri"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Contrail oluşumu için gerekli dondurucu soğukluk genellikle 8-12 bin metre (seyir irtifası) seviyelerinde mevcuttur."
+      }
+    ]
   }
 ];
