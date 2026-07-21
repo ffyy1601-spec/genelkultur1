@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://genelkultur.com.tr/test/gunese-bakinca-neden-hapsirirsiniz-iste-vucudunuzun-yanlis-alarm-mekanizmasi/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenelKültür Haber</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T15:00:00.000Z</news:publication_date>
-      <news:title>Güneşe Bakınca Neden Hapşırırsınız? İşte Vücudunuzun &apos;Yanlış Alarm&apos; Mekanizması</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://genelkultur.com.tr/test/gokyuzundeki-beyaz-cizgilerin-sirri-ucaklar-neden-iz-birakir/</loc>
     <news:news>
       <news:publication>
@@ -42,6 +31,17 @@
       </news:publication>
       <news:publication_date>2026-07-21T10:00:00.000Z</news:publication_date>
       <news:title>Bir Esneme Neden Tüm Odayı Ele Geçirir? Beyninizin Şaşırtıcı Sosyal Refleksi</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/gozlerinizi-ovusturunca-gordugunuz-o-yildizlar-nedir-iste-beyninizin-size-oyunu/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T16:00:00.000Z</news:publication_date>
+      <news:title>Gözlerinizi Ovuşturunca Gördüğünüz O &apos;Yıldızlar&apos; Nedir? İşte Beyninizin Size Oyunu</news:title>
     </news:news>
   </url>
 </urlset>

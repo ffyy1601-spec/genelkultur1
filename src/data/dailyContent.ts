@@ -4029,5 +4029,76 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Esneme, insanlar dışında şempanzeler ve köpekler gibi birçok türde de gözlemlenen evrensel bir davranıştır."
       }
     ]
+  },
+  {
+    "slug": "gozlerinizi-ovusturunca-gordugunuz-o-yildizlar-nedir-iste-beyninizin-size-oyunu",
+    "dateId": "2026-07-21T19:00:00+03:00",
+    "imageUrl": "/images/news/gozlerinizi-ovusturunca-gordugunuz-o-yildizlar-nedir-iste-beyninizin-size-oyunu.webp",
+    "title": "Gözlerinizi Ovuşturunca Gördüğünüz Işıklar: Fosfen Nedir? | Genel Kültür",
+    "description": "Gözlerinizi kapattığınızda veya ovuşturduğunuzda gördüğünüz garip ışık parlamalarının bilimsel adı fosfendir. Bu büyüleyici görsel fenomenin nedenlerini keşfedin.",
+    "keywords": [
+      "fosfen",
+      "göz sağlığı",
+      "gözde ışık çakması",
+      "retina",
+      "bilimsel gerçekler",
+      "görsel algı"
+    ],
+    "heading": "Gözlerinizi Ovuşturunca Gördüğünüz O 'Yıldızlar' Nedir? İşte Beyninizin Size Oyunu",
+    "intro": "Gözlerinizi sıkıca kapattığınızda veya hafifçe ovuşturduğunuzda, karanlıkta aniden beliren renkli ışık kümeleri, zikzaklar veya parlayan noktalar gördünüz mü? Bilim dünyasında 'fosfen' olarak adlandırılan bu büyüleyici görüntüler, aslında dışarıdan gelen bir ışık kaynağı olmaksızın beyninizin görme duyusunu deneyimlemesidir.",
+    "article": "<p>Fosfenler, gözlerinizde herhangi bir dış ışık kaynağı olmadan görme sisteminizin ürettiği ışık, renk veya desen algısıdır. Bu fenomen, göz kapağınız kapalıyken bile beyninizin neden görsel sinyaller aldığını açıklayan temel bir biyolojik işleyiştir. Tarih boyunca filozoflar ve bilim insanları bu olguyu incelemiş, hatta antik Yunanlılar bunun gözün içinde var olan gizli bir ateşten kaynaklandığını bile düşünmüşlerdir.</p><h3>Fosfenler Nasıl Oluşur?</h3><p>Gözümüzdeki <strong>retina</strong> tabakası, ışığı algılayıp elektrik sinyallerine dönüştüren milyonlarca hücreden oluşur. Normal şartlarda bu hücreler dış dünyadan gelen ışıkla uyarılır. Ancak <strong>fosfenler</strong>; gözlerinizi ovuşturduğunuzda, hapşırdığınızda veya sertçe gözlerinizi kapattığınızda oluşan <strong>mekanik baskı</strong> sonucu tetiklenebilir. Retina hücreleri üzerindeki bu fiziksel basınç, hücrelerin tıpkı ışık almış gibi elektrik sinyali üretmesine neden olur.</p><h3>Beyniniz Sizi Kandırıyor mu?</h3><p>Beyniniz, retinadan gelen elektrik sinyalini 'görüntü' olarak yorumlamak üzere tasarlanmıştır. Bu noktada beyniniz, sinyalin kaynağının ışık mı yoksa sizin gözünüze yaptığınız bir basınç mı olduğunu ayırt edemez. Sinyal beyne ulaştığında, o sinyali görsel bir parıltı veya desen olarak algılar. Bu nedenle, gözlerinize hafifçe bastırdığınızda baskı yaptığınız noktanın tam zıttında ışık parlamaları görebilirsiniz.</p><h3>Fosfenlerin Türleri ve Kaynakları</h3><ul><li><strong>Mekanik Uyarı:</strong> Gözü ovuşturma veya darbe alma.</li><li><strong>Migren Auraları:</strong> Bazı migren hastaları ağrı öncesi parlak zikzaklar veya ışık dalgaları yaşayabilir.</li><li><strong>Diğer Nedenler:</strong> Ani ayağa kalkışlarda oluşan baş dönmesi veya göz içi sıvısı olan vitreusun retinayı çekmesi (yaşlanmaya bağlı doğal süreçler).</li></ul><p>Fosfenler çoğu zaman zararsız ve doğal bir sinir sistemi tepkisi olsa da, ani ve çok sık tekrarlayan ışık parlamaları retina yırtılması gibi ciddi durumların habercisi olabilir. Bu nedenle göz sağlığınızda ani ve beklenmedik değişimler fark ederseniz bir göz hekimine danışmanız her zaman en güvenli yoldur.</p>",
+    "category": "bilim",
+    "sourceName": "Cleveland Clinic",
+    "sourceUrl": "https://my.clevelandclinic.org/health/articles/24888-phosphenes",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Fosfen nedir?",
+        "options": [
+          "Sadece gün ışığında görülen optik illüzyonlar",
+          "Dışarıdan ışık gelmediği halde gözün veya beynin uyarılmasıyla görülen ışık algısı",
+          "Sadece rüya görürken ortaya çıkan görsel yanılsamalar",
+          "Göz kuruluğu nedeniyle oluşan kirli görüntü"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Fosfen, gözünüze dışarıdan ışık girmese bile, retina veya beynin uyarılması sonucu oluşan ışık görme olgusudur."
+      },
+      {
+        "id": 2,
+        "text": "Gözleri ovuşturduğumuzda neden ışık parlamaları görürüz?",
+        "options": [
+          "Gözdeki ışık hücreleri basınçla mekanik olarak uyarıldığı için",
+          "Göz kapağındaki sürtünme ısı enerjisi ürettiği için",
+          "Gözün içindeki hava kabarcıkları patladığı için",
+          "Retina hücreleri aşırı soğuduğu için"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Gözlere uygulanan basınç, retina hücrelerini mekanik olarak uyararak onları elektrik sinyali üretmeye zorlar."
+      },
+      {
+        "id": 3,
+        "text": "Beynimiz, gözden gelen sinyalin ışık mı yoksa fiziksel bir baskı mı olduğunu nasıl ayırt eder?",
+        "options": [
+          "Sinir sistemi her zaman kaynağı bilir",
+          "Gözdeki sinirler basıncı ayırt edebilen özel reseptörlere sahiptir",
+          "Beyin sinyalin kaynağını ayırt edemez, her iki sinyali de ışık olarak yorumlar",
+          "Baskı sinyalleri beyne ulaşmaz"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Beyniniz gelen sinyalin fiziksel bir basınçtan mı yoksa gerçekten ışıktan mı kaynaklandığını ayırt edemez, bu nedenle her iki durumu da ışık olarak yorumlar."
+      },
+      {
+        "id": 4,
+        "text": "Fosfenler dışında, ani ışık çakmaları neyin habercisi olabilir?",
+        "options": [
+          "Gözün aşırı dinlenmiş olması",
+          "Retina yırtılması veya dekolmanı gibi acil müdahale gerektiren durumlar",
+          "Sadece göz renginin değişimi",
+          "Gözün normal bir büyüme süreci"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Ani ve yoğun ışık çakmaları bazen retina yırtılması gibi ciddi göz rahatsızlıklarının belirtisi olabilir, bu yüzden ciddiye alınmalıdır."
+      }
+    ]
   }
 ];

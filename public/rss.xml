@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 21 Jul 2026 10:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 16:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Gözlerinizi Ovuşturunca Gördüğünüz O &apos;Yıldızlar&apos; Nedir? İşte Beyninizin Size Oyunu</title>
+      <link>https://genelkultur.com.tr/test/gozlerinizi-ovusturunca-gordugunuz-o-yildizlar-nedir-iste-beyninizin-size-oyunu</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/gozlerinizi-ovusturunca-gordugunuz-o-yildizlar-nedir-iste-beyninizin-size-oyunu</guid>
+      <pubDate>Tue, 21 Jul 2026 16:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Gözlerinizi sıkıca kapattığınızda veya hafifçe ovuşturduğunuzda, karanlıkta aniden beliren renkli ışık kümeleri, zikzaklar veya parlayan noktalar gördünüz mü? Bilim dünyasında &apos;fosfen&apos; olarak adlandırılan bu büyüleyici görüntüler, aslında dışarıdan gelen bir ışık kaynağı olmaksızın beyninizin görme duyusunu deneyimlemesidir.</description>
+    </item>
     <item>
       <title>Bir Esneme Neden Tüm Odayı Ele Geçirir? Beyninizin Şaşırtıcı Sosyal Refleksi</title>
       <link>https://genelkultur.com.tr/test/bir-esneme-neden-tum-odayi-ele-gecirir-beyninizin-sasirtici-sosyal-refleksi</link>
@@ -158,14 +166,6 @@
       <pubDate>Sun, 12 Jul 2026 10:00:00 GMT</pubDate>
       <category>bilim</category>
       <description>Soğuk bir bardağa dokunduğunuzda veya kış havasına çıktığınızda parmak uçlarınızın aniden solup kireç gibi beyazladığını, ardından morardığını hiç fark ettiniz mi? Bu durum, vücudun aslında sizi korumak için kullandığı bir savunma mekanizmasının aşırıya kaçtığı &apos;Raynaud Fenomeni&apos; olarak adlandırılan ilginç bir biyolojik süreçtir.</description>
-    </item>
-    <item>
-      <title>Soğuk Hava Neden Hapşırtır? Vücudunuzun Gizli Koruma Mekanizması</title>
-      <link>https://genelkultur.com.tr/test/soguk-hava-neden-hapsirtir-vucudunuzun-gizli-koruma-mekanizmasi</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/soguk-hava-neden-hapsirtir-vucudunuzun-gizli-koruma-mekanizmasi</guid>
-      <pubDate>Sat, 11 Jul 2026 15:00:00 GMT</pubDate>
-      <category>bilim</category>
-      <description>Dışarıdaki soğuk havaya adım attığınız anda burnunuzun sızlaması ve ardından gelen o kaçınılmaz hapşırık, aslında vücudunuzun sizi korumak için geliştirdiği karmaşık bir savunma stratejisidir. Bu durum sadece üşümenizle ilgili değildir; burnunuzun içinde her saniye çalışan muazzam bir mühendislik sistemi devreye girer.</description>
     </item>
   </channel>
 </rss>
