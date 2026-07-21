@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://genelkultur.com.tr/test/yalan-soylerken-burnunuz-pinokyo-gibi-uzuyor-mu/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenelKültür Haber</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T10:00:00.000Z</news:publication_date>
-      <news:title>Yalan Söylerken Burnunuz Pinokyo Gibi Uzuyor mu?</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://genelkultur.com.tr/test/gunese-bakinca-neden-hapsirirsiniz-iste-vucudunuzun-yanlis-alarm-mekanizmasi/</loc>
     <news:news>
       <news:publication>
@@ -42,6 +31,17 @@
       </news:publication>
       <news:publication_date>2026-07-20T16:00:00.000Z</news:publication_date>
       <news:title>Aynadaki Yabancı: İnsanlar Neden Kendi Yüzlerini Bile Tanıyamaz?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/bir-esneme-neden-tum-odayi-ele-gecirir-beyninizin-sasirtici-sosyal-refleksi/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T10:00:00.000Z</news:publication_date>
+      <news:title>Bir Esneme Neden Tüm Odayı Ele Geçirir? Beyninizin Şaşırtıcı Sosyal Refleksi</news:title>
     </news:news>
   </url>
 </urlset>

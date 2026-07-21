@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 20 Jul 2026 16:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 10:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Bir Esneme Neden Tüm Odayı Ele Geçirir? Beyninizin Şaşırtıcı Sosyal Refleksi</title>
+      <link>https://genelkultur.com.tr/test/bir-esneme-neden-tum-odayi-ele-gecirir-beyninizin-sasirtici-sosyal-refleksi</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/bir-esneme-neden-tum-odayi-ele-gecirir-beyninizin-sasirtici-sosyal-refleksi</guid>
+      <pubDate>Tue, 21 Jul 2026 10:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Yanınızdaki birinin esnediğini gördüğünde, zihniniz ona engel olmaya çalışsa da genellikle başarılı olamazsınız. Bu istemsiz &apos;bulaşma&apos; hali, aslında beyninizin sosyal bağ kurmak için kullandığı derin bir mekanizmanın parçasıdır.</description>
+    </item>
     <item>
       <title>Aynadaki Yabancı: İnsanlar Neden Kendi Yüzlerini Bile Tanıyamaz?</title>
       <link>https://genelkultur.com.tr/test/aynadaki-yabanci-insanlar-neden-kendi-yuzlerini-bile-taniyamaz</link>
@@ -158,14 +166,6 @@
       <pubDate>Sat, 11 Jul 2026 15:00:00 GMT</pubDate>
       <category>bilim</category>
       <description>Dışarıdaki soğuk havaya adım attığınız anda burnunuzun sızlaması ve ardından gelen o kaçınılmaz hapşırık, aslında vücudunuzun sizi korumak için geliştirdiği karmaşık bir savunma stratejisidir. Bu durum sadece üşümenizle ilgili değildir; burnunuzun içinde her saniye çalışan muazzam bir mühendislik sistemi devreye girer.</description>
-    </item>
-    <item>
-      <title>Sabahları Elleriniz Neden Şişer? İşte Bedeninizin Gizli Mesajı</title>
-      <link>https://genelkultur.com.tr/test/sabahlari-elleriniz-neden-siser-iste-bedeninizin-gizli-mesaji</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/sabahlari-elleriniz-neden-siser-iste-bedeninizin-gizli-mesaji</guid>
-      <pubDate>Sat, 11 Jul 2026 10:00:00 GMT</pubDate>
-      <category>bilim</category>
-      <description>Sabah uyandığınızda yüzüklerinizin parmaklarınıza dar geldiğini veya ellerinizin hafif şişmiş olduğunu hiç fark ettiniz mi? Bu durum genellikle vücudunuzun gece boyunca gerçekleştirdiği basit bir fiziksel denge sürecinin sonucudur.</description>
     </item>
   </channel>
 </rss>

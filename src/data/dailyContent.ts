@@ -3958,5 +3958,76 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Yüzleri tanımakta zorlanan bireyler, kimlikleri ayırt etmek için ses, giyim, saç şekli veya yürüme tarzı gibi diğer belirgin özellikleri kullanırlar."
       }
     ]
+  },
+  {
+    "slug": "bir-esneme-neden-tum-odayi-ele-gecirir-beyninizin-sasirtici-sosyal-refleksi",
+    "dateId": "2026-07-21T13:00:00+03:00",
+    "imageUrl": "/images/news/bir-esneme-neden-tum-odayi-ele-gecirir-beyninizin-sasirtici-sosyal-refleksi.webp",
+    "title": "Esnemek Neden Bulaşıcıdır? Beynimizin Gizli Sosyal Aynası",
+    "description": "Yanınızdaki biri esnediğinde kendinizi neden durduramazsınız? Bulaşıcı esnemenin arkasındaki bilimsel gerçekleri, ayna nöronları ve empati mekanizmasını keşfedin.",
+    "keywords": [
+      "esnemek",
+      "bulaşıcı esneme",
+      "ayna nöronlar",
+      "empati",
+      "bilimsel gerçekler",
+      "beyin sağlığı"
+    ],
+    "heading": "Bir Esneme Neden Tüm Odayı Ele Geçirir? Beyninizin Şaşırtıcı Sosyal Refleksi",
+    "intro": "Yanınızdaki birinin esnediğini gördüğünde, zihniniz ona engel olmaya çalışsa da genellikle başarılı olamazsınız. Bu istemsiz 'bulaşma' hali, aslında beyninizin sosyal bağ kurmak için kullandığı derin bir mekanizmanın parçasıdır.",
+    "article": "<p>Esnemek, yalnızca uykusuzluk veya yorgunluk anlarında ortaya çıkan basit bir refleks değildir. Bilim dünyası uzun süre esnemenin vücuda daha fazla oksijen sağladığını veya karbondioksiti uzaklaştırdığını düşünse de, güncel araştırmalar bu eylemin asıl görevinin <strong>beyin sıcaklığını dengelemek</strong> (soğutmak) olduğunu ortaya koymaktadır.</p><h3>Ayna Nöronlar: Zihnimizin Taklit Yeteneği</h3><p>Peki, bir başkasının esnediğini gördüğümüzde veya sadece 'esnemek' kelimesini okuduğumuzda neden biz de esneriz? Bu fenomenin merkezinde <strong>ayna nöronlar</strong> adı verilen özel beyin hücreleri bulunur. Ayna nöronlar, başka birinin yaptığı bir hareketi gördüğümüzde, sanki o hareketi biz yapıyormuşuz gibi beynimizin ilgili devrelerini ateşleyen özel mekanizmalardır. Bir nevi 'sosyal ayna' görevi gören bu sistem, empati kurmamıza ve çevremizle uyumlanmamıza yardımcı olur.</p><h3>Sosyal Bağlar ve Empati Etkisi</h3><p>Araştırmalar, esnemenin bulaşıcı etkisinin her insanda aynı oranda olmadığını göstermektedir. Esneme refleksi, genellikle <strong>duygusal yakınlık</strong> hissettiğimiz kişiler arasında daha güçlü bir şekilde tetiklenir. Bilim insanlarına göre bu, bir tür sosyal bağ kurma ve grup senkronizasyonudur:</p><ul><li>Yakın arkadaşlar ve aile üyeleri arasında esneme bulaşıcılığı çok daha yaygındır.</li><li>Empati düzeyi yüksek bireylerin, bulaşıcı esnemeye karşı daha hassas olduğu gözlemlenmiştir.</li><li>Bu davranış, yalnızca insanlara özgü olmayıp şempanzeler ve köpekler gibi çeşitli türlerde de gözlemlenmiştir.</li></ul><h3>Evrimsel Bir Hayatta Kalma Stratejisi mi?</h3><p>Bulaşıcı esnemenin evrimsel kökenleri tam olarak çözülememiş olsa da, birçok uzman bunun eski topluluklarda bir <strong>grup uyanıklığı sinyali</strong> olabileceğini savunur. Bir bireyin esnemesi, grubun geri kalanına dinlenme veya uykuya geçiş zamanının geldiğini bildiren sessiz bir işaret olabilir. Bugün ise bu refleks, modern dünyada bile beynimizin sosyal çevreyle olan kopmaz bağının ve empatik kapasitemizin sessiz bir kanıtı olarak varlığını sürdürmektedir.</p>",
+    "category": "bilim",
+    "sourceName": "TÜBİTAK Bilim Genç",
+    "sourceUrl": "https://bilimgenc.tubitak.gov.tr/makale/neden-esneriz-esneme-neden-bulasicidir",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Esnemenin ana fizyolojik işlevlerinden biri olarak kabul edilen en güncel görüş nedir?",
+        "options": [
+          "Kanı daha fazla oksijenle zenginleştirmek",
+          "Beyin sıcaklığını dengelemek (soğutmak)",
+          "Akciğer kapasitesini artırmak",
+          "Vücuttaki karbondioksiti tamamen atmak"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Bilimsel araştırmalar, esnemenin beynin sıcaklığını dengeleyerek daha verimli çalışmasını sağlayan bir soğutma mekanizması olduğunu göstermektedir."
+      },
+      {
+        "id": 2,
+        "text": "Ayna nöronlar esneme sırasında ne işe yarar?",
+        "options": [
+          "Uykuyu engellerler",
+          "İşitme duyusunu keskinleştirirler",
+          "Gördüğümüz hareketi beynimizde taklit ederek empati kurmamızı sağlarlar",
+          "Sadece hafızayı korurlar"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Ayna nöronlar, başkasının yaptığı hareketi gördüğümüzde beynimizde aynı devreleri ateşleyerek o hareketi 'aynalamamızı' ve empati kurmamızı sağlar."
+      },
+      {
+        "id": 3,
+        "text": "Bulaşıcı esnemenin hangi tür bireyler arasında daha sık görüldüğü belirtilmektedir?",
+        "options": [
+          "Sadece çok yorgun olanlar",
+          "Duygusal yakınlık kurulan (arkadaşlar, aile) bireyler",
+          "Daha önce esnemeyenler",
+          "Sadece profesyonel sporcular"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Bulaşıcı esneme sosyal bağlarla ilişkilidir; bu nedenle aile üyeleri ve yakın arkadaşlar arasında görülme sıklığı daha yüksektir."
+      },
+      {
+        "id": 4,
+        "text": "Esnemek sadece insanlara özgü bir davranış mıdır?",
+        "options": [
+          "Evet, sadece insanlar esner",
+          "Hayır, ancak sadece memeliler esner",
+          "Hayır, köpekler ve şempanzeler gibi başka canlılarda da gözlemlenir",
+          "Hayır, sadece kuşlar ve insanlar esner"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Esneme, insanlar dışında şempanzeler ve köpekler gibi birçok türde de gözlemlenen evrensel bir davranıştır."
+      }
+    ]
   }
 ];
