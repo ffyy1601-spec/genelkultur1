@@ -1,28 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://genelkultur.com.tr/test/gokyuzundeki-beyaz-cizgilerin-sirri-ucaklar-neden-iz-birakir/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenelKültür Haber</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-20T11:00:00.000Z</news:publication_date>
-      <news:title>Gökyüzündeki Beyaz Çizgilerin Sırrı: Uçaklar Neden İz Bırakır?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://genelkultur.com.tr/test/aynadaki-yabanci-insanlar-neden-kendi-yuzlerini-bile-taniyamaz/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenelKültür Haber</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-20T16:00:00.000Z</news:publication_date>
-      <news:title>Aynadaki Yabancı: İnsanlar Neden Kendi Yüzlerini Bile Tanıyamaz?</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://genelkultur.com.tr/test/bir-esneme-neden-tum-odayi-ele-gecirir-beyninizin-sasirtici-sosyal-refleksi/</loc>
     <news:news>
       <news:publication>
@@ -53,6 +31,17 @@
       </news:publication>
       <news:publication_date>2026-07-22T10:00:00.000Z</news:publication_date>
       <news:title>Gün Batımı Hüznü: Güneş Batarken İçimizi Kaplayan O Garip Hissin Sırrı Ne?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/cigneme-sesi-sizi-ofkelendiriyor-mu-mizofoninin-beyindeki-sasirtici-nedeni/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-22T16:00:00.000Z</news:publication_date>
+      <news:title>Çiğneme Sesi Sizi Öfkelendiriyor mu? Mizofoni&apos;nin Beyindeki Şaşırtıcı Nedeni</news:title>
     </news:news>
   </url>
 </urlset>

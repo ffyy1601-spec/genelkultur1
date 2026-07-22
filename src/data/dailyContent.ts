@@ -4171,5 +4171,75 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Gün sonu sakinliği, insanların gün boyu erteledikleri düşüncelerle yüzleşmesine ve içsel bir muhasebe yapmasına olanak tanır."
       }
     ]
+  },
+  {
+    "slug": "cigneme-sesi-sizi-ofkelendiriyor-mu-mizofoninin-beyindeki-sasirtici-nedeni",
+    "dateId": "2026-07-22T19:00:00+03:00",
+    "imageUrl": "/images/news/cigneme-sesi-sizi-ofkelendiriyor-mu-mizofoninin-beyindeki-sasirtici-nedeni.webp",
+    "title": "Bazı Sesler Neden Sizi Çileden Çıkarır? | Mizofoni Gerçeği",
+    "description": "Yemek yerken çıkan seslerden veya kalem tıkırtısından aşırı öfke mi duyuyorsunuz? Mizofoni (ses nefreti) hakkında bilimsel gerçekleri keşfedin.",
+    "keywords": [
+      "mizofoni",
+      "misophonia",
+      "ses hassasiyeti",
+      "tetikleyici sesler",
+      "nöroloji"
+    ],
+    "heading": "Çiğneme Sesi Sizi Öfkelendiriyor mu? Mizofoni'nin Beyindeki Şaşırtıcı Nedeni",
+    "intro": "Başkalarının yemek yerken çıkardığı seslerden veya tükenmez kalem tıkırtısından duyduğunuz dayanılmaz öfke, sadece 'tahammülsüzlük' olmayabilir. Bilim dünyasında 'ses nefreti' olarak bilinen mizofoni, beynin sesleri işleme biçimindeki ilginç bir nörolojik farklılıktan kaynaklanıyor.",
+    "article": "<p>Günlük yaşamın olağan sesleri, çoğu insan için arka plan gürültüsü olarak kalırken, mizofonisi olan bireyler için adeta bir işkenceye dönüşebilir. Yunanca <strong>misos</strong> (nefret) ve <strong>phónè</strong> (ses) kelimelerinden türetilen mizofoni, spesifik tetikleyici seslere karşı aşırı duygusal ve fiziksel tepkiler verilmesi durumudur.</p><h3>Mizofoni Neden Ortaya Çıkar?</h3><p>Araştırmalar, mizofonisi olan kişilerin beyinlerinde, ses işleme ile duygusal tepkileri birbirine bağlayan bölgelerde farklı bir aktivasyon yaşandığını göstermektedir. Özellikle beynin <strong>anterior insular korteks (AIC)</strong> olarak bilinen bölgesi, bu hastalarda tetikleyici seslere maruz kalındığında normalden çok daha fazla aktifleşir. Bu bölge, duyguların düzenlenmesi ve çevreden gelen uyarıların 'önemli' kabul edilip edilmeyeceğine karar verilmesinde kritik bir merkezdir.</p><h3>En Yaygın Tetikleyiciler</h3><p>Mizofoni hastaları için tetikleyici sesler genellikle oldukça sıradan aktivitelerdir: <ul><li>Yemek yeme, çiğneme veya yutkunma sesleri</li><li>Nefes alıp verme veya burun çekme</li><li>Kalem tıklatma veya klavye sesi</li><li>Saat tik-takları veya paket hışırtıları</li></ul></p><p>Bu sesler duyulduğunda, kişi sadece rahatsız olmakla kalmaz; beyin bir 'savaş ya da kaç' mekanizmasını tetikleyerek yoğun öfke, tiksinti, anksiyete ve panik duygularına yol açar.</p><h3>Bilimsel Bakış ve Tanı</h3><p>Mizofoni ilk kez <strong>2001</strong> yılında bilim insanı <strong>Pawel Jastreboff</strong> tarafından tanımlanmıştır. Genellikle çocukluk veya ergenlik döneminde (özellikle 9-13 yaş aralığında) başlayan bu durum, uzun süre psikiyatrik bir bozukluk olarak sınıflandırılmaya çalışılsa da günümüzde nörolojik kökenli, kompleks bir duyusal hassasiyet olarak kabul edilmektedir. Hastalığın kesin bir tedavisi olmamakla birlikte, ses terapileri ve bilişsel davranışçı yöntemler, bireylerin bu seslere karşı verdiği tepkiyi yönetmelerine yardımcı olabilmektedir.</p>",
+    "category": "bilim",
+    "sourceName": "Harvard Health Publishing",
+    "sourceUrl": "https://www.health.harvard.edu/blog/misophonia-sounds-really-make-crazy-2017020311059",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Mizofoni terimi hangi iki dilden türetilmiştir?",
+        "options": [
+          "Latince ve Fransızca",
+          "Yunanca ve Latince",
+          "Yunanca ve Yunanca",
+          "İngilizce ve Almanca"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Mizofoni, Yunanca 'misos' (nefret) ve 'phónè' (ses) kelimelerinin birleşimiyle oluşmuştur."
+      },
+      {
+        "id": 2,
+        "text": "Mizofonide tetikleyici seslerle aşırı aktifleşen beyin bölgesi hangisidir?",
+        "options": [
+          "Frontal lob",
+          "Anterior insular korteks (AIC)",
+          "Oksipital lob",
+          "Hipotalamus"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Araştırmalar, mizofoni hastalarında anterior insular korteksin (AIC) tetikleyici seslere karşı çok daha fazla aktifleştiğini göstermiştir."
+      },
+      {
+        "id": 3,
+        "text": "Mizofoni semptomları genellikle hangi yaş aralığında başlar?",
+        "options": [
+          "9-13 yaş",
+          "20-25 yaş",
+          "30-40 yaş",
+          "Bebeklik dönemi"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Mizofoni belirtileri genellikle çocukluk ve ergenlik dönemi olan 9-13 yaşları arasında ortaya çıkar."
+      },
+      {
+        "id": 4,
+        "text": "Aşağıdakilerden hangisi tipik bir 'tetikleyici ses' olarak kabul edilmez?",
+        "options": [
+          "Yemek yeme sesi",
+          "Kalem tıklatma sesi",
+          "Nefes alma sesi",
+          "Rüzgarda sallanan ağaç yaprağı sesi"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Mizofoni tetikleyicileri genellikle insan kaynaklı, ritmik ve tekrarlayan seslerdir; rüzgar sesi genellikle bir tetikleyici değildir."
+      }
+    ]
   }
 ];
