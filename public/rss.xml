@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 21 Jul 2026 16:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 10:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Gün Batımı Hüznü: Güneş Batarken İçimizi Kaplayan O Garip Hissin Sırrı Ne?</title>
+      <link>https://genelkultur.com.tr/test/gun-batimi-huznu-gunes-batarken-icimizi-kaplayan-o-garip-hissin-sirri-ne</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/gun-batimi-huznu-gunes-batarken-icimizi-kaplayan-o-garip-hissin-sirri-ne</guid>
+      <pubDate>Wed, 22 Jul 2026 10:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Birçok insan için gün batımı huzurun sembolü olsa da, bazıları için bu an açıklanamaz bir kaygı ve hüzün kaynağına dönüşüyor. &apos;Gün batımı kaygısı&apos; olarak adlandırılan bu durum, aslında bedenimizin biyolojik saati ve evrimsel geçmişiyle yakından ilgili oldukça ilginç bir fenomendir.</description>
+    </item>
     <item>
       <title>Gözlerinizi Ovuşturunca Gördüğünüz O &apos;Yıldızlar&apos; Nedir? İşte Beyninizin Size Oyunu</title>
       <link>https://genelkultur.com.tr/test/gozlerinizi-ovusturunca-gordugunuz-o-yildizlar-nedir-iste-beyninizin-size-oyunu</link>
@@ -158,14 +166,6 @@
       <pubDate>Sun, 12 Jul 2026 15:00:00 GMT</pubDate>
       <category>bilim</category>
       <description>Sıcak bir odadan çıkıp dondurucu soğukla karşılaştığınız an art arda hapşırmaya başlıyorsanız, yalnız değilsiniz. Bu durum, vücudunuzun soğuk hava koşullarına karşı geliştirdiği hızlı ve istemsiz bir savunma mekanizmasının sonucudur.</description>
-    </item>
-    <item>
-      <title>Soğukta Parmaklarınız Neden &apos;Ölü&apos; Gibi Beyazlıyor? Vücudunuzun Şaşırtıcı Tepkisi</title>
-      <link>https://genelkultur.com.tr/test/sogukta-parmaklariniz-neden-olu-gibi-beyazliyor-vucudunuzun-sasirtici-tepkisi</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/sogukta-parmaklariniz-neden-olu-gibi-beyazliyor-vucudunuzun-sasirtici-tepkisi</guid>
-      <pubDate>Sun, 12 Jul 2026 10:00:00 GMT</pubDate>
-      <category>bilim</category>
-      <description>Soğuk bir bardağa dokunduğunuzda veya kış havasına çıktığınızda parmak uçlarınızın aniden solup kireç gibi beyazladığını, ardından morardığını hiç fark ettiniz mi? Bu durum, vücudun aslında sizi korumak için kullandığı bir savunma mekanizmasının aşırıya kaçtığı &apos;Raynaud Fenomeni&apos; olarak adlandırılan ilginç bir biyolojik süreçtir.</description>
     </item>
   </channel>
 </rss>
