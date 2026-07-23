@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 23 Jul 2026 10:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 16:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Piramitlerden Bugüne: Bal Neden Asla Bozulmaz?</title>
+      <link>https://genelkultur.com.tr/test/piramitlerden-bugune-bal-neden-asla-bozulmaz</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/piramitlerden-bugune-bal-neden-asla-bozulmaz</guid>
+      <pubDate>Thu, 23 Jul 2026 16:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Arkeologlar Antik Mısır&apos;daki mezarları açtıklarında, binlerce yıllık bal kavanozlarının hala yenebilir durumda olduğunu keşfederek dünyayı şaşkına çevirdiler. Peki, bu altın renkli mucizeyi zamanın etkilerinden koruyan ve bakterilere karşı adeta bir kalkan oluşturan sır nedir?</description>
+    </item>
     <item>
       <title>Neden Konuşurken Ellerinizi Kontrol Edemiyorsunuz?</title>
       <link>https://genelkultur.com.tr/test/neden-konusurken-ellerinizi-kontrol-edemiyorsunuz</link>
@@ -158,14 +166,6 @@
       <pubDate>Tue, 14 Jul 2026 10:00:00 GMT</pubDate>
       <category>bilim</category>
       <description>Pek çoğumuz farkında olmadan gün içinde, özellikle de sabahları uyandığımızda gözlerimizi ovuştururuz. Bu masum görünen alışkanlığın, vücudun kalp atış hızını düşüren ve stresi azaltan biyolojik bir &quot;rahatlama düğmesi&quot; olduğunu biliyor muydunuz?</description>
-    </item>
-    <item>
-      <title>Uykuya Dalarken Yaşadığınız O &apos;Düşme&apos; Hissinin Şaşırtıcı Nedeni Ne?</title>
-      <link>https://genelkultur.com.tr/test/uykuya-dalarken-yasadiginiz-o-dusme-hissinin-sasirtici-nedeni-ne</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/uykuya-dalarken-yasadiginiz-o-dusme-hissinin-sasirtici-nedeni-ne</guid>
-      <pubDate>Mon, 13 Jul 2026 16:00:00 GMT</pubDate>
-      <category>bilim</category>
-      <description>Tam uykuya dalmak üzereyken aniden boşluğa düşüyormuş gibi hissedip irkilerek uyandınız mı? Milyonlarca insanı şaşkına çeviren bu durumun, vücudunuzun biyolojik bir &apos;yanlış alarm&apos; mekanizması olduğunu biliyor muydunuz?</description>
     </item>
   </channel>
 </rss>

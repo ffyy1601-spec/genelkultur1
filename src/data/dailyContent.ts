@@ -4311,5 +4311,75 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Görünür ve açık el hareketleri, bilinçaltına saklanacak bir şey olmadığı mesajını göndererek dürüstlük ve güven algısını destekler."
       }
     ]
+  },
+  {
+    "slug": "piramitlerden-bugune-bal-neden-asla-bozulmaz",
+    "dateId": "2026-07-23T19:00:00+03:00",
+    "imageUrl": "/images/news/piramitlerden-bugune-bal-neden-asla-bozulmaz.webp",
+    "title": "Bal Neden Asla Bozulmaz? | Doğanın Ölümsüz Gıdası",
+    "description": "Binlerce yıllık Mısır mezarlarından çıkan balların bile neden hala yenebildiğini hiç merak ettiniz mi? Balın bozulmamasını sağlayan bilimsel sırları keşfedin.",
+    "keywords": [
+      "bal neden bozulmaz",
+      "balın bozulmama nedeni",
+      "doğal gıdalar",
+      "bal kimyası",
+      "arılar nasıl bal yapar"
+    ],
+    "heading": "Piramitlerden Bugüne: Bal Neden Asla Bozulmaz?",
+    "intro": "Arkeologlar Antik Mısır'daki mezarları açtıklarında, binlerce yıllık bal kavanozlarının hala yenebilir durumda olduğunu keşfederek dünyayı şaşkına çevirdiler. Peki, bu altın renkli mucizeyi zamanın etkilerinden koruyan ve bakterilere karşı adeta bir kalkan oluşturan sır nedir?",
+    "article": "<p>Balın binlerce yıl bozulmadan kalabilmesinin arkasında yatan temel nedenler, arıların gerçekleştirdiği olağanüstü biyokimyasal süreçler ve balın özgün kimyasal yapısıdır. Bal, mikroorganizmaların yaşaması için gerekli olan ideal koşulları ortadan kaldıran üç temel özelliğe sahiptir: <strong>düşük su içeriği</strong>, <strong>yüksek asitlik</strong> ve <strong>doğal antimikrobiyal bileşikler</strong>.</p><h3>Su Yoksa Yaşam da Yoktur</h3><p>Bakteri ve küf gibi mikroorganizmaların hayatta kalabilmesi ve üreyebilmesi için suya ihtiyaçları vardır. Balın yapısı ise oldukça konsantredir; genellikle <strong>%80 civarında şeker</strong> ve <strong>%20'nin altında nem</strong> içerir. Bu durum, balı \"higroskopik\" bir madde haline getirir; yani bal çevresindeki nemi emme eğilimindedir. Balın içine giren bir mikrop, sahip olduğu suyu bal tarafından çekildiği için susuz kalarak ölür. Bu \"ozmoz\" etkisi, balı doğal bir sterilizasyon ortamına dönüştürür.</p><h3>Asidik Bir Kalkan</h3><p>Balın pH değeri <strong>3 ile 4,5</strong> arasında değişir, bu da onu oldukça asidik bir ortam yapar. Çoğu bakteri ve mikroorganizma, yaşamlarını sürdürmek için daha nötr bir pH dengesine ihtiyaç duyar. Balın düşük pH değeri, patojenik mikroorganizmaların gelişimi için engelleyici bir bariyer oluşturur.</p><h3>Arıların Gizli Dokunuşu</h3><p>Arıların nektarı bala dönüştürürken kullandıkları <strong>glikoz oksidaz</strong> enzimi, balın dayanıklılığındaki gizli kahramandır. Bu enzim, nemle temas ettiğinde küçük miktarlarda <strong>hidrojen peroksit</strong> üretir. Günümüzde yara temizliğinde de kullanılan hidrojen peroksit, doğal bir antibakteriyel ajan görevi görerek balın uzun yıllar boyunca korunmasını sağlar.<ul><li><strong>Kristalleşme:</strong> Balın zamanla şekerlenmesi (donması) bozulduğu anlamına gelmez; aksine, bu durum balın doğal ve işlenmemiş olduğunun bir göstergesidir.</li><li><strong>Doğru Saklama:</strong> Balın bozulmasındaki en büyük etken, kapağının açık bırakılmasıyla nem almasıdır. Nem oranı %20'yi aşan balda fermantasyon süreci başlayabilir.</li><li><strong>İstisna:</strong> Bal çok uzun süre dayansa da, içerisinde botulizm sporu içerebileceği için bebeklerin 1 yaşından önce bal tüketmesi önerilmez.</li></ul>",
+    "category": "bilim",
+    "sourceName": "TÜBİTAK Bilim Genç",
+    "sourceUrl": "https://bilimgenc.tubitak.gov.tr/makale/bal-neden-bozulmaz",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Balın bozulmamasını sağlayan temel özelliklerden biri nedir?",
+        "options": [
+          "İçeriğinde çok yüksek miktarda su bulundurması",
+          "Düşük nem oranı ve yüksek şeker konsantrasyonu",
+          "İçine eklenen koruyucu kimyasallar",
+          "Buzdolabında saklanma zorunluluğu"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Balın düşük nem oranı ve %80'e varan şeker konsantrasyonu, mikroorganizmaların susuz kalmasına ve yaşamasına engel olur."
+      },
+      {
+        "id": 2,
+        "text": "Bal üretiminde arıların salgıladığı glikoz oksidaz enzimi ne üretir?",
+        "options": [
+          "Hidrojen peroksit",
+          "Sülfürik asit",
+          "Sodyum bikarbonat",
+          "Laktik asit"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Glikoz oksidaz enzimi, balda antibakteriyel özellik gösteren hidrojen peroksit oluşumunu sağlar."
+      },
+      {
+        "id": 3,
+        "text": "Balın şekerlenmesi (kristalleşmesi) neyi ifade eder?",
+        "options": [
+          "Balın bozulduğunu",
+          "Balın içine şeker eklendiğini",
+          "Balın doğal olduğunu",
+          "Balın çok fazla ısı gördüğünü"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kristalleşme, balın doğal bir süreçle katılaşmasıdır ve bozulduğuna dair bir işaret değildir."
+      },
+      {
+        "id": 4,
+        "text": "Balın pH değeri ortalama hangi aralıktadır?",
+        "options": [
+          "7,0 - 8,5 (Bazik)",
+          "1,0 - 2,5 (Çok Asidik)",
+          "3,0 - 4,5 (Asidik)",
+          "6,5 - 7,5 (Nötr)"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bal, 3 ile 4,5 arasındaki pH değeriyle mikroorganizmaların üremesini zorlaştıran asidik bir yapıya sahiptir."
+      }
+    ]
   }
 ];

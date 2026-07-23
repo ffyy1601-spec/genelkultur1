@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://genelkultur.com.tr/test/gozlerinizi-ovusturunca-gordugunuz-o-yildizlar-nedir-iste-beyninizin-size-oyunu/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenelKültür Haber</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-21T16:00:00.000Z</news:publication_date>
-      <news:title>Gözlerinizi Ovuşturunca Gördüğünüz O &apos;Yıldızlar&apos; Nedir? İşte Beyninizin Size Oyunu</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://genelkultur.com.tr/test/gun-batimi-huznu-gunes-batarken-icimizi-kaplayan-o-garip-hissin-sirri-ne/</loc>
     <news:news>
       <news:publication>
@@ -42,6 +31,17 @@
       </news:publication>
       <news:publication_date>2026-07-23T10:00:00.000Z</news:publication_date>
       <news:title>Neden Konuşurken Ellerinizi Kontrol Edemiyorsunuz?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/piramitlerden-bugune-bal-neden-asla-bozulmaz/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-23T16:00:00.000Z</news:publication_date>
+      <news:title>Piramitlerden Bugüne: Bal Neden Asla Bozulmaz?</news:title>
     </news:news>
   </url>
 </urlset>
