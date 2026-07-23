@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 22 Jul 2026 16:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 10:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Neden Konuşurken Ellerinizi Kontrol Edemiyorsunuz?</title>
+      <link>https://genelkultur.com.tr/test/neden-konusurken-ellerinizi-kontrol-edemiyorsunuz</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/neden-konusurken-ellerinizi-kontrol-edemiyorsunuz</guid>
+      <pubDate>Thu, 23 Jul 2026 10:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Bir şeyler anlatırken ellerinizin havada dans etmesi sadece bir alışkanlık değil, beyninizin karmaşık düşünce süreçlerine verdiği doğal bir tepkidir. Araştırmalar, bu hareketlerin aslında kendimizi daha iyi ifade etmemize ve düşüncelerimizi netleştirmemize yardımcı olan bir &apos;düşünce motoru&apos; olduğunu gösteriyor.</description>
+    </item>
     <item>
       <title>Çiğneme Sesi Sizi Öfkelendiriyor mu? Mizofoni&apos;nin Beyindeki Şaşırtıcı Nedeni</title>
       <link>https://genelkultur.com.tr/test/cigneme-sesi-sizi-ofkelendiriyor-mu-mizofoninin-beyindeki-sasirtici-nedeni</link>
@@ -158,14 +166,6 @@
       <pubDate>Mon, 13 Jul 2026 16:00:00 GMT</pubDate>
       <category>bilim</category>
       <description>Tam uykuya dalmak üzereyken aniden boşluğa düşüyormuş gibi hissedip irkilerek uyandınız mı? Milyonlarca insanı şaşkına çeviren bu durumun, vücudunuzun biyolojik bir &apos;yanlış alarm&apos; mekanizması olduğunu biliyor muydunuz?</description>
-    </item>
-    <item>
-      <title>Deniz Yıldızları Neden Midelerini Dışarı Çıkarır? Doğanın En Garip Beslenme Stratejisi</title>
-      <link>https://genelkultur.com.tr/test/deniz-yildizlari-neden-midelerini-disari-cikarir-doganin-en-garip-beslenme-stratejisi</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/deniz-yildizlari-neden-midelerini-disari-cikarir-doganin-en-garip-beslenme-stratejisi</guid>
-      <pubDate>Mon, 13 Jul 2026 11:00:00 GMT</pubDate>
-      <category>bilim</category>
-      <description>Bir deniz yıldızının, kendi ağzından daha büyük olan bir avı nasıl yediğini hiç merak ettiniz mi? Cevap, bilim kurgu filmlerini aratmayacak kadar etkileyici: Bu canlılar, midelerini vücutlarının dışına çıkararak avlarını adeta bir paket gibi sarıp dışarıda sindiriyorlar.</description>
     </item>
   </channel>
 </rss>

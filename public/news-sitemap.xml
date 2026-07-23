@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://genelkultur.com.tr/test/bir-esneme-neden-tum-odayi-ele-gecirir-beyninizin-sasirtici-sosyal-refleksi/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenelKültür Haber</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-21T10:00:00.000Z</news:publication_date>
-      <news:title>Bir Esneme Neden Tüm Odayı Ele Geçirir? Beyninizin Şaşırtıcı Sosyal Refleksi</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://genelkultur.com.tr/test/gozlerinizi-ovusturunca-gordugunuz-o-yildizlar-nedir-iste-beyninizin-size-oyunu/</loc>
     <news:news>
       <news:publication>
@@ -42,6 +31,17 @@
       </news:publication>
       <news:publication_date>2026-07-22T16:00:00.000Z</news:publication_date>
       <news:title>Çiğneme Sesi Sizi Öfkelendiriyor mu? Mizofoni&apos;nin Beyindeki Şaşırtıcı Nedeni</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/neden-konusurken-ellerinizi-kontrol-edemiyorsunuz/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-23T10:00:00.000Z</news:publication_date>
+      <news:title>Neden Konuşurken Ellerinizi Kontrol Edemiyorsunuz?</news:title>
     </news:news>
   </url>
 </urlset>
