@@ -4381,5 +4381,77 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Bal, 3 ile 4,5 arasındaki pH değeriyle mikroorganizmaların üremesini zorlaştıran asidik bir yapıya sahiptir."
       }
     ]
+  },
+  {
+    "slug": "bir-sarkinin-rengini-gormek-sinestezi-nedir",
+    "dateId": "2026-07-24T13:00:00+03:00",
+    "imageUrl": "/images/news/bir-sarkinin-rengini-gormek-sinestezi-nedir.webp",
+    "title": "Müziği Görmek Mümkün mü? Sinestezi Nedir? | Genel Kültür",
+    "description": "Bazı insanlar neden sesleri renkli görür veya notaların tadını alır? Sinestezi adı verilen bu büyüleyici nörolojik olguyu ve beynin gizemli dünyasını keşfedin.",
+    "keywords": [
+      "sinestezi",
+      "nöroloji",
+      "kromatestezi",
+      "duyular",
+      "beyin fonksiyonları",
+      "genel kültür",
+      "sinestet"
+    ],
+    "heading": "Bir Şarkının Rengini Görmek: Sinestezi Nedir?",
+    "intro": "Hiç bir notayı duyduğunuzda zihninizde canlı bir rengin belirdiğini veya bir kelimenin ağzınızda belirgin bir tat bıraktığını hissettiniz mi? Çoğu insan için imkansız gelen bu deneyimler, dünya nüfusunun yaklaşık %4'ü için oldukça sıradan bir günlük yaşam parçasıdır.",
+    "article": "<p>Sinestezi, Yunanca <strong>'birlikte'</strong> (syn) ve <strong>'duyu'</strong> (aisthesis) kelimelerinin birleşiminden türeyen, bir duyunun uyarılmasının istemsiz ve otomatik olarak bambaşka bir duyusal deneyimi tetiklediği nörolojik bir olgudur. Bu bir hastalık, bozukluk veya hayal gücü ürünü değil; beynin dünyayı algılama biçimindeki nadir ve özgün bir farklılıktır.</p><h3>Duyular Arası Gizemli Köprü</h3><p>Sinestezik bireyler (sinestetler), dış dünyadan gelen uyaranları herkesin kullandığı beş temel duyunun ötesinde işlerler. En yaygın türlerden biri olan <strong>kromatestezi</strong>, yani ses-renk sinestezisi, müzik dinlerken veya bir ses duyulduğunda kişinin renkler, şekiller veya dokular algılamasına neden olur. Örneğin, bir keman sesi parlak sarı bir ışıltı olarak algılanırken, pes bir bas notası derin lacivert veya mor bir doku gibi hissedilebilir.</p><h3>Sinestezinin Temel Özellikleri</h3><ul><li><strong>İstemsizlik:</strong> Sinestezik deneyimler, kişi tarafından bilinçli olarak yaratılmaz; ses veya görüntü gibi bir uyaranla kendiliğinden tetiklenir.</li><li><strong>Tutarlılık:</strong> Deneyimler zamanla değişmez. Eğer bir sinestet 'A' harfini kırmızı görüyorsa, bu ilişki yıllar boyunca sabit kalır.</li><li><strong>Kişisellik:</strong> Her sinestetin deneyimi kendine özgüdür. Bir kişi için '5' rakamı sarıyken, bir başkası için aynı rakam yeşil olabilir.</li></ul><h3>Bilimsel Bakış ve Tarihçe</h3><p>Tarihte ilk kez 19. yüzyılda İngiliz bilim insanı <strong>Francis Galton</strong> tarafından tanımlanan bu durum üzerine yapılan modern nörolojik araştırmalar, sinestezinin beyindeki farklı duyusal bölgelerin alışılmışın dışında birbirine bağlı olmasından veya daha güçlü iletişim kurmasından kaynaklandığını göstermektedir. Birçok sanatçı, besteci ve yazarın eserlerinde kullandıkları o eşsiz yaratıcılığın ardında, dünyayı bu farklı nörolojik perspektiften algılamalarının yattığı düşünülmektedir.</p>",
+    "category": "bilim",
+    "sourceName": "TÜBİTAK Bilim Genç",
+    "sourceUrl": "https://bilimgenc.tubitak.gov.tr/makale/duyularin-gizemli-birlikteligi-renkleri-duymak-sesleri-tatmak",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Sinestezi olgusu hakkında aşağıdakilerden hangisi doğrudur?",
+        "options": [
+          "Bir tür nörolojik bozukluktur ve tedavisi vardır.",
+          "Duyusal bir uyaranın istemsiz ve otomatik olarak başka bir duyuyu tetiklemesidir.",
+          "Sadece sanatsal yeteneği yüksek bireylerde görülür.",
+          "Kişinin tamamen hayal gücüyle ürettiği bir yanılsamadır."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Sinestezi bir hastalık veya bozukluk değil, bir algı farklılığıdır. Tetiklenen duyular istemsiz ve tutarlıdır."
+      },
+      {
+        "id": 2,
+        "text": "Sesleri renkli olarak algılama durumu (müzik-renk ilişkisi) hangi terimle ifade edilir?",
+        "options": [
+          "Ayna-dokunma sinestezisi",
+          "Grafem-renk sinestezisi",
+          "Kromatestezi",
+          "Zaman-mekan sinestezisi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kromatestezi, seslerin veya müziğin renkli görsel deneyimleri tetiklediği sinestezi türüdür."
+      },
+      {
+        "id": 3,
+        "text": "Sinestezik deneyimlerin en önemli özelliklerinden biri nedir?",
+        "options": [
+          "Deneyimlerin zamanla sürekli değişkenlik göstermesi",
+          "Kişinin bu deneyimi bilinçli bir çabayla yaratması",
+          "Deneyimlerin istemsiz, otomatik ve tutarlı olması",
+          "Sadece çocukluk döneminde yaşanıp bitmesi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Sinestezik algılar istemsizce oluşur, otomatiktir ve zaman içinde tutarlılığını korur."
+      },
+      {
+        "id": 4,
+        "text": "Sinestezi toplumun yaklaşık yüzde kaçında görülür?",
+        "options": [
+          "Yaklaşık %4",
+          "Yaklaşık %20",
+          "Yaklaşık %50",
+          "Yaklaşık %0.1"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Araştırmalar sinestezinin toplumun yaklaşık %4'ünde görüldüğünü göstermektedir."
+      }
+    ]
   }
 ];

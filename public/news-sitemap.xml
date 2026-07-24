@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://genelkultur.com.tr/test/gun-batimi-huznu-gunes-batarken-icimizi-kaplayan-o-garip-hissin-sirri-ne/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenelKültür Haber</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-22T10:00:00.000Z</news:publication_date>
-      <news:title>Gün Batımı Hüznü: Güneş Batarken İçimizi Kaplayan O Garip Hissin Sırrı Ne?</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://genelkultur.com.tr/test/cigneme-sesi-sizi-ofkelendiriyor-mu-mizofoninin-beyindeki-sasirtici-nedeni/</loc>
     <news:news>
       <news:publication>
@@ -42,6 +31,17 @@
       </news:publication>
       <news:publication_date>2026-07-23T16:00:00.000Z</news:publication_date>
       <news:title>Piramitlerden Bugüne: Bal Neden Asla Bozulmaz?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/bir-sarkinin-rengini-gormek-sinestezi-nedir/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-24T10:00:00.000Z</news:publication_date>
+      <news:title>Bir Şarkının Rengini Görmek: Sinestezi Nedir?</news:title>
     </news:news>
   </url>
 </urlset>
