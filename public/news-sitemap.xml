@@ -1,28 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://genelkultur.com.tr/test/cigneme-sesi-sizi-ofkelendiriyor-mu-mizofoninin-beyindeki-sasirtici-nedeni/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenelKültür Haber</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-22T16:00:00.000Z</news:publication_date>
-      <news:title>Çiğneme Sesi Sizi Öfkelendiriyor mu? Mizofoni&apos;nin Beyindeki Şaşırtıcı Nedeni</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://genelkultur.com.tr/test/neden-konusurken-ellerinizi-kontrol-edemiyorsunuz/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenelKültür Haber</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-23T10:00:00.000Z</news:publication_date>
-      <news:title>Neden Konuşurken Ellerinizi Kontrol Edemiyorsunuz?</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://genelkultur.com.tr/test/piramitlerden-bugune-bal-neden-asla-bozulmaz/</loc>
     <news:news>
       <news:publication>
@@ -53,6 +31,17 @@
       </news:publication>
       <news:publication_date>2026-07-24T15:00:00.000Z</news:publication_date>
       <news:title>Ellerinizle Konuşmak: Neden Beynimiz Kelimelere Eşlik Etmek İster?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/sogukta-burnunuz-neden-akar-aslinda-vucudunuz-sizi-koruyor/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-25T15:00:00.000Z</news:publication_date>
+      <news:title>Soğukta Burnunuz Neden Akar? Aslında Vücudunuz Sizi Koruyor!</news:title>
     </news:news>
   </url>
 </urlset>

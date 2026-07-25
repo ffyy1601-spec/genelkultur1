@@ -4524,5 +4524,76 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Zihinsel yük, beynin konuşma üretimi sırasında kelime seçimi, gramer ve anlam yapılandırma gibi işlemleri aynı anda yönetme çabasıdır."
       }
     ]
+  },
+  {
+    "slug": "sogukta-burnunuz-neden-akar-aslinda-vucudunuz-sizi-koruyor",
+    "dateId": "2026-07-25T18:00:00+03:00",
+    "imageUrl": "/images/news/sogukta-burnunuz-neden-akar-aslinda-vucudunuz-sizi-koruyor.webp",
+    "title": "Soğuk Havada Burun Neden Akar? | İlginç Bilimsel Gerçekler",
+    "description": "Kışın dışarı çıktığınızda burnunuz neden musluk gibi akar? Vücudunuzun bu ilginç ve koruyucu savunma mekanizmasının ardındaki bilimsel sırları keşfedin.",
+    "keywords": [
+      "burun akıntısı",
+      "soğuk hava",
+      "kayakçı burnu",
+      "vazomotor rinit",
+      "fizyoloji",
+      "vücut mekanizmaları"
+    ],
+    "heading": "Soğukta Burnunuz Neden Akar? Aslında Vücudunuz Sizi Koruyor!",
+    "intro": "Dışarıda dondurucu bir havada yürürken burnunuzun aniden bir musluk gibi akmaya başlaması, hastalık belirtisi değil, vücudunuzun muazzam bir mühendislik harikasıdır. Bu durum, akciğerlerinizi korumak için devreye giren hayati bir savunma mekanizmasının sonucudur.",
+    "article": "<p>Soğuk havaya çıktığınızda yaşadığınız o rahatsız edici burun akıntısının tıp literatüründeki ismi <strong>\"kayakçı burnu\"</strong> veya <strong>\"soğuğa bağlı rinit\"</strong>tir. Bu fenomen, vücudunuzun dış dünyadan gelen soğuk ve kuru havayı akciğerlerinize göndermeden önce \"hazırlama\" çabasından kaynaklanır. Burnunuz, vücudunuzun adeta bir iklimlendirme cihazı gibi çalışır.</p><h3>Havanın İklimlendirilmesi</h3><p>Burnunuzun en temel görevlerinden biri, soluduğunuz havayı vücut sıcaklığına yakın bir seviyeye getirmek ve nemlendirmektir. Soğuk hava genellikle çok kurudur; bu durum hassas burun mukozasını tahriş edebilir. Havayı akciğerlere ulaşmadan önce ısıtmak ve nemlendirmek için burun içerisindeki <strong>mukus bezleri</strong> normalden çok daha fazla salgı üretmeye başlar. Bu fazla sıvı, akciğerlerinize zarar verebilecek kuru ve soğuk havayı yumuşatmak için bir bariyer görevi görür.</p><h3>Vazomotor Rinit ve Damarlar</h3><p>Soğuk hava, burun içindeki kan damarlarını uyararak sinir sistemimiz üzerinde bir etki yaratır. Bu durum <strong>vazomotor rinit</strong> olarak adlandırılan ve alerjik olmayan bir burun iltihabı türüne yol açar. Burun içindeki damarların genişleyip daralması ve otonom sinir sisteminin verdiği tepki sonucunda, burun deliklerinizden süzülen o meşhur akıntı meydana gelir. Bu, vücudunuzun dışarıdaki zorlu şartlara karşı verdiği anlık ve oldukça pratik bir fizyolojik tepkidir.</p><h3>Ne Zaman Endişelenmelisiniz?</h3><ul><li><strong>Doğal Tepki:</strong> Soğuk havada oluşan akıntı genellikle şeffaf ve su gibidir; ortama girdiğinizde veya ısındığınızda kendiliğinden durur.</li><li><strong>Enfeksiyon Belirtisi:</strong> Eğer akıntınız renkliyse (sarı veya yeşil), eşlik eden başka ateş veya halsizlik varsa, bu bir viral enfeksiyon (soğuk algınlığı veya grip) belirtisi olabilir.</li><li><strong>Kronik Durumlar:</strong> Eğer akıntı dış ortamdan bağımsız olarak sürekli devam ediyorsa, altta yatan kronik bir alerji veya sinüzit durumu söz konusu olabilir.</li></ul><p>Özetle, soğuk bir günde burnunuzun akması, vücudunuzun hassas dengesini korumak için arka planda ne kadar yoğun bir çalışma yürüttüğünün en somut kanıtıdır.</p>",
+    "category": "bilim",
+    "sourceName": "TÜBİTAK Bilim Genç",
+    "sourceUrl": "https://bilimgenc.tubitak.gov.tr/makale/soguk-havalarda-neden-burnumuz-akar",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Soğuk havada burun akıntısının temel biyolojik nedeni nedir?",
+        "options": [
+          "Vücudun virüslerle savaşmak için ürettiği antikorlar",
+          "Solunan havayı akciğerler için ısıtma ve nemlendirme çabası",
+          "Düşük sıcaklıkta burun kıllarının dökülmesi",
+          "Burun içindeki damarların tamamen büzülüp kan akışını durdurması"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Burun, akciğerlere giden havayı vücut sıcaklığına getirmek ve nemlendirmek için fazladan mukus üretir."
+      },
+      {
+        "id": 2,
+        "text": "Tıp literatüründe soğuk havaya bağlı burun akıntısı için kullanılan yaygın isim nedir?",
+        "options": [
+          "Kronik sinüzit",
+          "Alerjik astım",
+          "Kayakçı burnu",
+          "Bakteriyel rinit"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Soğuğa bağlı rinit halk arasında 'kayakçı burnu' olarak da bilinir."
+      },
+      {
+        "id": 3,
+        "text": "Vazomotor rinit ile ilgili hangisi doğrudur?",
+        "options": [
+          "Sadece alerji kaynaklıdır",
+          "Bağışıklık sisteminin alerjik bir tepkisidir",
+          "Alerjik olmayan, çevresel tetikleyicilerle oluşabilen bir durumdur",
+          "Mutlaka antibiyotik tedavisi gerektirir"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Vazomotor rinit, alerji kaynaklı olmayan, soğuk hava veya kokular gibi tetikleyicilerle oluşan bir burun tepkisidir."
+      },
+      {
+        "id": 4,
+        "text": "Soğuk havada oluşan burun akıntısı ile enfeksiyon kaynaklı akıntı arasındaki temel fark nedir?",
+        "options": [
+          "Soğuk hava akıntısı şeffaf ve su gibidir, ısınınca durur",
+          "Soğuk hava akıntısı her zaman sarı renktedir",
+          "Soğuk hava akıntısı mutlaka hapşırma ile başlar",
+          "Enfeksiyon akıntısı sadece dışarıdayken görülür"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Soğuğa bağlı akıntı genellikle berraktır ve ortamın ısınmasıyla birlikte kesilir."
+      }
+    ]
   }
 ];

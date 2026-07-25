@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 24 Jul 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 15:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Soğukta Burnunuz Neden Akar? Aslında Vücudunuz Sizi Koruyor!</title>
+      <link>https://genelkultur.com.tr/test/sogukta-burnunuz-neden-akar-aslinda-vucudunuz-sizi-koruyor</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/sogukta-burnunuz-neden-akar-aslinda-vucudunuz-sizi-koruyor</guid>
+      <pubDate>Sat, 25 Jul 2026 15:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Dışarıda dondurucu bir havada yürürken burnunuzun aniden bir musluk gibi akmaya başlaması, hastalık belirtisi değil, vücudunuzun muazzam bir mühendislik harikasıdır. Bu durum, akciğerlerinizi korumak için devreye giren hayati bir savunma mekanizmasının sonucudur.</description>
+    </item>
     <item>
       <title>Ellerinizle Konuşmak: Neden Beynimiz Kelimelere Eşlik Etmek İster?</title>
       <link>https://genelkultur.com.tr/test/ellerinizle-konusmak-neden-beynimiz-kelimelere-eslik-etmek-ister</link>
@@ -158,14 +166,6 @@
       <pubDate>Wed, 15 Jul 2026 16:00:00 GMT</pubDate>
       <category>bilim</category>
       <description>Kedinizin o huzur veren mırıltısı, sadece keyifli bir anın göstergesi sandığınızdan çok daha derin bir biyolojik sırrı barındırıyor olabilir. Bilim insanları, kedilerin mırlarken çıkardığı titreşimlerin aslında kendi vücutlarını onarmak için kullandıkları doğal bir &apos;iyileşme frekansı&apos; olduğunu keşfetti.</description>
-    </item>
-    <item>
-      <title>Parmaklarınız Suda Neden Buruşuyor? Sandığınızdan Çok Daha Zeki Bir Mekanizma!</title>
-      <link>https://genelkultur.com.tr/test/parmaklariniz-suda-neden-burusuyor-sandiginizdan-cok-daha-zeki-bir-mekanizma</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/parmaklariniz-suda-neden-burusuyor-sandiginizdan-cok-daha-zeki-bir-mekanizma</guid>
-      <pubDate>Wed, 15 Jul 2026 10:00:00 GMT</pubDate>
-      <category>bilim</category>
-      <description>Banyodan veya denizden çıktığınızda parmaklarınızın neden &quot;kuru üzüm&quot; gibi buruştuğunu hiç düşündünüz mü? Çoğu insan bunun cildin sadece suyu emerek şişmesinden kaynaklandığını sanır, ancak gerçek çok daha ilginç ve aktif bir biyolojik sürece dayanıyor.</description>
     </item>
   </channel>
 </rss>
