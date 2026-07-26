@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 26 Jul 2026 10:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 15:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Saatler Neden Saat Yönünde Döner? Tarihin Gölgesindeki Şaşırtıcı Gerçek</title>
+      <link>https://genelkultur.com.tr/test/saatler-neden-saat-yonunde-doner-tarihin-golgesindeki-sasirtici-gercek</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/saatler-neden-saat-yonunde-doner-tarihin-golgesindeki-sasirtici-gercek</guid>
+      <pubDate>Sun, 26 Jul 2026 15:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Günlük hayatımızın ayrılmaz bir parçası olan analog saatlerin neden hep soldan sağa doğru döndüğünü hiç düşündünüz mü? Bu sadece bir mühendislik tercihi değil, binlerce yıl önce Kuzey Yarımküre&apos;de yaşayan atalarımızın gökyüzüne bakarak kurduğu bir medeniyet mirasıdır.</description>
+    </item>
     <item>
       <title>Kan Gruplarımız Aslında Milyonlarca Yıllık Bir Savaşın Kayıtları mı?</title>
       <link>https://genelkultur.com.tr/test/kan-gruplarimiz-aslinda-milyonlarca-yillik-bir-savasin-kayitlari-mi</link>
@@ -158,14 +166,6 @@
       <pubDate>Thu, 16 Jul 2026 15:00:00 GMT</pubDate>
       <category>bilim</category>
       <description>Parmak uçlarınızdaki o karmaşık çizgilerin, siz daha dünyaya gelmeden haftalar önce şekillendiğini ve ömür boyu değişmeden kaldığını biliyor muydunuz? Üstelik aynı DNA’yı taşıyan tek yumurta ikizlerinin bile farklı parmak izlerine sahip olması, doğanın bize sunduğu en büyüleyici imzalardan biridir.</description>
-    </item>
-    <item>
-      <title>Beyniniz Gece Uyurken Neden Film Çeviriyor? Rüya Görmenin Şaşırtıcı Bilimsel Nedeni</title>
-      <link>https://genelkultur.com.tr/test/beyniniz-gece-uyurken-neden-film-ceviriyor-ruya-gormenin-sasirtici-bilimsel-nedeni</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/beyniniz-gece-uyurken-neden-film-ceviriyor-ruya-gormenin-sasirtici-bilimsel-nedeni</guid>
-      <pubDate>Thu, 16 Jul 2026 10:00:00 GMT</pubDate>
-      <category>bilim</category>
-      <description>Her gece kapattığımız gözlerimizin ardında, bazen mantıklı bazen de tamamen sürreal bir dünya inşa ediliyor. Bilim insanları uzun yıllardır bu &apos;gece tiyatrosunun&apos; sadece rastgele bir beyin aktivitesi mi, yoksa hayatta kalmamız için kritik bir görev mi olduğunu çözmeye çalışıyor.</description>
     </item>
   </channel>
 </rss>

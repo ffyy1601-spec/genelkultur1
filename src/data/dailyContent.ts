@@ -4667,5 +4667,76 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Araştırmalar, 0 kan grubunun sıtmaya karşı daha dirençli olabileceğini göstermektedir."
       }
     ]
+  },
+  {
+    "slug": "saatler-neden-saat-yonunde-doner-tarihin-golgesindeki-sasirtici-gercek",
+    "dateId": "2026-07-26T18:00:00+03:00",
+    "imageUrl": "/images/news/saatler-neden-saat-yonunde-doner-tarihin-golgesindeki-sasirtici-gercek.webp",
+    "title": "Saatler Neden 'Saat Yönünde' Döner? Tarihin Gölgesindeki Sır",
+    "description": "Saatlerin neden soldan sağa, yani 'saat yönünde' döndüğünü hiç merak ettiniz mi? İşte güneş saatlerinden günümüze uzanan bu dairesel hareketin şaşırtıcı hikayesi.",
+    "keywords": [
+      "saat yönü",
+      "güneş saati",
+      "tarih",
+      "zaman",
+      "mekanik saat",
+      "genel kültür"
+    ],
+    "heading": "Saatler Neden Saat Yönünde Döner? Tarihin Gölgesindeki Şaşırtıcı Gerçek",
+    "intro": "Günlük hayatımızın ayrılmaz bir parçası olan analog saatlerin neden hep soldan sağa doğru döndüğünü hiç düşündünüz mü? Bu sadece bir mühendislik tercihi değil, binlerce yıl önce Kuzey Yarımküre'de yaşayan atalarımızın gökyüzüne bakarak kurduğu bir medeniyet mirasıdır.",
+    "article": "<p>Zamanın akışını dairesel bir kadranda görselleştirmek, modern insanın en büyük icatlarından biridir. Ancak saat kollarının neden 'saat yönü' olarak adlandırdığımız bu özel istikamette hareket ettiği sorusunun cevabı, dijital dünyamızdan çok uzakta, antik medeniyetlerin topraklarında yatar.</p><h3>Gölgenin İlk Dansı: Güneş Saatleri</h3><p>Mekanik saatlerin icadından binlerce yıl önce, zamanı ölçmek için kullanılan en temel araç <strong>güneş saatiydi</strong>. MÖ 4000 civarında Eski Mısır ve Mezopotamya'da geliştirilen bu basit düzenekler, dikey bir çubuğun (<strong>gnomon</strong>) yere düşen gölgesine dayanıyordu. Kuzey Yarımküre'de yaşayan bu ilk uygarlıklar, Güneş'in gökyüzündeki hareketi boyunca, dikey çubuğun gölgesinin <strong>soldan sağa doğru</strong> dairesel bir hareket izlediğini gözlemlediler.</p><h3>Neden Kuzey Yarımküre Önemli?</h3><p>Bu durum tamamen coğrafi bir tesadüf değildir. Kuzey Yarımküre'de Güneş, doğudan yükselip güney üzerinden batıya doğru bir yay çizer. Bu hareketi takip eden gölge, doğal olarak saat yönünde ilerler. İlk mekanik saatler 14. yüzyılda Avrupa'da üretilmeye başlandığında, saat ustaları zaten yüzyıllardır insanların aşina olduğu bu 'gölge hareketini' esas aldılar. Dolayısıyla mekanik saatler, ataları olan güneş saatlerinin işleyişini taklit edecek şekilde tasarlandı.</p><h3>Eğer Güneyde Başlasaydı?</h3><p>Bu durumun kalıcı bir kültürel standart haline gelmesinin temel sebebi, o dönemdeki teknolojik gelişimin büyük ölçüde Kuzey Yarımküre'de gerçekleşmiş olmasıdır. Eğer modern saat mekaniği Güney Yarımküre'de icat edilip dünyaya yayılsaydı, bugün 'saat yönü' dediğimiz kavram muhtemelen tam tersi olacaktı. Çünkü Güney Yarımküre'de Güneş'in etkisiyle oluşan gölge, saat yönünün tersine hareket eder. Bizim için 'ters' olan o yön, dünyanın diğer ucunda çok daha 'doğal' algılanabilirdi.</p><ul><li><strong>Gnomon:</strong> Güneş saatinde gölge oluşturan dik çubuk.</li><li><strong>Kuzey Yarımküre etkisi:</strong> Saat yönü standardının belirlendiği coğrafya.</li><li><strong>Tarihsel miras:</strong> Mekanik saatler, güneş saatlerinin gölge hareketini taklit eder.</li></ul><p>Sonuç olarak, bugün bir saatin akrep ve yelkovanına baktığımızda gördüğümüz o düzenli hareket, aslında binlerce yıl önce Antik Mısır'daki bir bilgini gölgesini takip ederken gördüğü güneş ışığının bir yankısıdır.</p>",
+    "category": "bilim",
+    "sourceName": "TÜBİTAK Bilim Genç",
+    "sourceUrl": "https://bilimgenc.tubitak.gov.tr/makale/saat-nedir-kim-ne-zaman-icat-etti",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Saatlerin dönüş yönünün 'saat yönü' olarak belirlenmesinin temel nedeni nedir?",
+        "options": [
+          "Mekanik parçaların daha kolay üretilmesi",
+          "Kuzey Yarımküre'deki güneş saatlerinin gölge hareketleri",
+          "Dünya'nın kendi etrafındaki dönüş yönünün tam tersi olması",
+          "Babillilerin kullandığı 60'lık sayı sisteminin zorunluluğu"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Saatler, Kuzey Yarımküre'de kullanılan ilk güneş saatlerinin, Güneş'in hareketiyle oluşan gölge izini takip edecek şekilde tasarlanmıştır."
+      },
+      {
+        "id": 2,
+        "text": "Güneş saatlerinde gölgeyi oluşturan dikey çubuğa ne ad verilir?",
+        "options": [
+          "Gnomon",
+          "Kadran",
+          "Piton",
+          "Meridyen"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Güneş saatlerinde gölgeyi oluşturarak saati belirleyen dikey çubuğa 'gnomon' denir."
+      },
+      {
+        "id": 3,
+        "text": "Eğer ilk mekanik saatler Güney Yarımküre'de icat edilseydi ne olması muhtemeldi?",
+        "options": [
+          "Saatler hiç icat edilmeyebilirdi",
+          "Saatler sadece gece çalışırdı",
+          "Bugünkü 'saat yönü' kavramı saat yönünün tersi olurdu",
+          "Saatler sadece 10'lu sisteme göre çalışırdı"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Güney Yarımküre'de Güneş'in gölgesi saat yönünün tersine hareket ettiği için, saat standardı bugün bildiğimizin tersi yönde gelişebilirdi."
+      },
+      {
+        "id": 4,
+        "text": "Güneş saatleri hangi coğrafi bölgede bugün kullandığımız 'saat yönünde' çalışır?",
+        "options": [
+          "Ekvator çizgisi üzerinde",
+          "Güney Yarımküre'de",
+          "Kuzey Yarımküre'de",
+          "Sadece kutup noktalarında"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kuzey Yarımküre'de Güneş'in hareketine bağlı olarak oluşan gölge, saat yönünde (soldan sağa) ilerler."
+      }
+    ]
   }
 ];
