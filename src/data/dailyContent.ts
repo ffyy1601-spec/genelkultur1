@@ -4595,5 +4595,77 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Soğuğa bağlı akıntı genellikle berraktır ve ortamın ısınmasıyla birlikte kesilir."
       }
     ]
+  },
+  {
+    "slug": "kan-gruplarimiz-aslinda-milyonlarca-yillik-bir-savasin-kayitlari-mi",
+    "dateId": "2026-07-26T13:00:00+03:00",
+    "imageUrl": "/images/news/kan-gruplarimiz-aslinda-milyonlarca-yillik-bir-savasin-kayitlari-mi.webp",
+    "title": "Kan Gruplarının Sırrı: Neden Hepimiz Aynı Değiliz? | Bilim",
+    "description": "Neden A, B, AB ve 0 kan gruplarına sahibiz? Kan gruplarının ardındaki evrimsel savunma mekanizmasını ve Karl Landsteiner'in devrim niteliğindeki keşfini inceleyin.",
+    "keywords": [
+      "kan grubu",
+      "Karl Landsteiner",
+      "ABO sistemi",
+      "evrim",
+      "biyoloji",
+      "antijen",
+      "tıp tarihi"
+    ],
+    "heading": "Kan Gruplarımız Aslında Milyonlarca Yıllık Bir Savaşın Kayıtları mı?",
+    "intro": "Dışarıdan bakıldığında hepimizin kanı kırmızı aksa da, mikroskobik düzeyde birbirimizden oldukça farklıyız. Kan gruplarımızın çeşitliliği, basit bir biyolojik tesadüften ziyade, atalarımızın binlerce yıl boyunca salgın hastalıklara karşı verdiği amansız hayatta kalma savaşının genetik bir mirasıdır.",
+    "article": "<p>20. yüzyılın başlarına kadar kan nakli işlemi, sonuçları kestirilemeyen ve çoğu zaman hastaların hayatını kaybetmesiyle sonuçlanan oldukça riskli bir tıbbi girişimdi. Bu belirsizlik, 1900 yılında Avusturyalı bilim insanı <strong>Karl Landsteiner</strong>'ın, farklı insanların kanlarını karıştırdığında ortaya çıkan açıklanamaz kümelenmeleri (aglütinasyon) gözlemlemesiyle sona erdi.</p><h3>Nobel Getiren Tarihi Keşif</h3><p>Landsteiner, kırmızı kan hücrelerinin yüzeyinde <strong>antijen</strong> adı verilen özgün moleküler yapılar bulunduğunu keşfetti. Bu buluş, A, B, AB ve 0 kan gruplarının tanımlanmasını sağlayarak modern transfüzyon tıbbının temelini attı. 1930 yılında kendisine Nobel Fizyoloji veya Tıp Ödülü'nü kazandıran bu çalışma, tıp tarihinin en önemli dönüm noktalarından biri olarak kabul edilir.</p><h3>Hastalıklarla Mücadelede Biyolojik Kalkan</h3><p>Peki, doğa neden tek bir kan grubu yerine bu kadar çeşitliliğe ihtiyaç duydu? Bilim insanlarına göre bu durum, insan türünün hastalıklara karşı geliştirdiği bir savunma stratejisidir. Sıtma, veba veya kolera gibi tarih boyunca insanlığı tehdit eden birçok patojen, vücuda sızmak için hücre yüzeyindeki belirli antijenlere tutunmayı tercih eder. <ul><li>Eğer tüm insanlık tek bir kan grubuna sahip olsaydı, belirli bir hastalığa karşı herkes aynı derecede savunmasız kalabilirdi.</li><li>Farklı kan gruplarının varlığı, bir virüsün veya bakterinin tüm popülasyonu tek seferde yok etmesini engelleyen bir <strong>biyolojik kalkan</strong> görevi görür.</li></ul></p><h3>Geçmişin Sessiz Tanıkları</h3><p>Araştırmalar, 0 kan grubuna sahip bireylerin sıtmaya karşı daha dirençli olabildiğini, bazı kan gruplarının ise belirli enfeksiyonlara daha duyarlı olduğunu göstermektedir. Bu nedenle kan grubunuz, sadece ebeveynlerinizden aldığınız bir kod değil, aynı zamanda atalarınızın hangi coğrafyada, hangi hastalıklara karşı hayatta kaldığının da genetik bir kaydıdır. Günümüzde ise bu çeşitlilik, sadece tıbbi uyumluluk için değil, insanın evrimsel tarihini anlamak adına da paha biçilemez bir veri kaynağı olmaya devam ediyor.</p>",
+    "category": "bilim",
+    "sourceName": "NobelPrize.org",
+    "sourceUrl": "https://www.nobelprize.org/prizes/medicine/1930/landsteiner/facts/",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Karl Landsteiner'ın 1900 yılında keşfettiği ve kan naklini güvenli hale getiren temel yapı nedir?",
+        "options": [
+          "Plazma proteinleri",
+          "Antijenler",
+          "Beyaz kan hücreleri",
+          "Kromozom dizilimleri"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Landsteiner, kırmızı kan hücrelerinin yüzeyinde bulunan ve kan gruplarını belirleyen antijenleri keşfetmiştir."
+      },
+      {
+        "id": 2,
+        "text": "Kan grubu çeşitliliğinin en temel evrimsel avantajı nedir?",
+        "options": [
+          "Daha hızlı kan pıhtılaşması sağlaması",
+          "Vücudun daha hızlı enerji üretmesi",
+          "Salgın hastalıklara karşı toplumsal bir direnç oluşturması",
+          "Beyin fonksiyonlarının gelişmesine yardımcı olması"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kan grubu çeşitliliği, patojenlerin tüm nüfusu aynı anda etkilemesini engelleyerek türün hayatta kalma şansını artıran bir savunma mekanizmasıdır."
+      },
+      {
+        "id": 3,
+        "text": "Karl Landsteiner bu keşfiyle hangi prestijli ödülü kazanmıştır?",
+        "options": [
+          "Fields Madalyası",
+          "Nobel Fizyoloji veya Tıp Ödülü",
+          "Pulitzer Ödülü",
+          "Wolf Tıp Ödülü"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Karl Landsteiner, kan gruplarını keşfiyle 1930 yılında Nobel Fizyoloji veya Tıp Ödülü'ne layık görülmüştür."
+      },
+      {
+        "id": 4,
+        "text": "Makaleye göre, hangi kan grubu sıtmaya karşı daha dirençli olmasıyla ilişkilendirilmiştir?",
+        "options": [
+          "A grubu",
+          "B grubu",
+          "AB grubu",
+          "0 grubu"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Araştırmalar, 0 kan grubunun sıtmaya karşı daha dirençli olabileceğini göstermektedir."
+      }
+    ]
   }
 ];

@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 25 Jul 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 10:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Kan Gruplarımız Aslında Milyonlarca Yıllık Bir Savaşın Kayıtları mı?</title>
+      <link>https://genelkultur.com.tr/test/kan-gruplarimiz-aslinda-milyonlarca-yillik-bir-savasin-kayitlari-mi</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/kan-gruplarimiz-aslinda-milyonlarca-yillik-bir-savasin-kayitlari-mi</guid>
+      <pubDate>Sun, 26 Jul 2026 10:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Dışarıdan bakıldığında hepimizin kanı kırmızı aksa da, mikroskobik düzeyde birbirimizden oldukça farklıyız. Kan gruplarımızın çeşitliliği, basit bir biyolojik tesadüften ziyade, atalarımızın binlerce yıl boyunca salgın hastalıklara karşı verdiği amansız hayatta kalma savaşının genetik bir mirasıdır.</description>
+    </item>
     <item>
       <title>Soğukta Burnunuz Neden Akar? Aslında Vücudunuz Sizi Koruyor!</title>
       <link>https://genelkultur.com.tr/test/sogukta-burnunuz-neden-akar-aslinda-vucudunuz-sizi-koruyor</link>
@@ -158,14 +166,6 @@
       <pubDate>Thu, 16 Jul 2026 10:00:00 GMT</pubDate>
       <category>bilim</category>
       <description>Her gece kapattığımız gözlerimizin ardında, bazen mantıklı bazen de tamamen sürreal bir dünya inşa ediliyor. Bilim insanları uzun yıllardır bu &apos;gece tiyatrosunun&apos; sadece rastgele bir beyin aktivitesi mi, yoksa hayatta kalmamız için kritik bir görev mi olduğunu çözmeye çalışıyor.</description>
-    </item>
-    <item>
-      <title>Kediler Neden Mırlar? Sadece Mutluluk Değil, Bir Şifa Mekanizması!</title>
-      <link>https://genelkultur.com.tr/test/kediler-neden-mirlar-sadece-mutluluk-degil-bir-sifa-mekanizmasi</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/kediler-neden-mirlar-sadece-mutluluk-degil-bir-sifa-mekanizmasi</guid>
-      <pubDate>Wed, 15 Jul 2026 16:00:00 GMT</pubDate>
-      <category>bilim</category>
-      <description>Kedinizin o huzur veren mırıltısı, sadece keyifli bir anın göstergesi sandığınızdan çok daha derin bir biyolojik sırrı barındırıyor olabilir. Bilim insanları, kedilerin mırlarken çıkardığı titreşimlerin aslında kendi vücutlarını onarmak için kullandıkları doğal bir &apos;iyileşme frekansı&apos; olduğunu keşfetti.</description>
     </item>
   </channel>
 </rss>
