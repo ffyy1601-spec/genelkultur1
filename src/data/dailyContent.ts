@@ -4738,5 +4738,76 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Kuzey Yarımküre'de Güneş'in hareketine bağlı olarak oluşan gölge, saat yönünde (soldan sağa) ilerler."
       }
     ]
+  },
+  {
+    "slug": "sizin-kirmizinizla-benim-kirmizim-ayni-olabilir-mi",
+    "dateId": "2026-07-27T14:00:00+03:00",
+    "imageUrl": "/images/news/sizin-kirmizinizla-benim-kirmizim-ayni-olabilir-mi.webp",
+    "title": "Benim Gördüğüm Kırmızı, Seninkiyle Aynı mı? | Renk Algısının Gizemi",
+    "description": "Herkesin dünyayı aynı renklerde gördüğünü mü sanıyorsunuz? Renk algısının öznel doğasını, kualia kavramını ve beynimizin gerçeği nasıl kurguladığını keşfedin.",
+    "keywords": [
+      "renk algısı",
+      "kualia",
+      "göz sağlığı",
+      "nöroloji",
+      "görsel algı",
+      "renk körlüğü"
+    ],
+    "heading": "Sizin Kırmızınızla Benim Kırmızım Aynı Olabilir mi?",
+    "intro": "Bir elmaya baktığımızda ikimiz de 'kırmızı' deriz, ancak beyninizin içinde oluşan o renk deneyiminin benimkiyle birebir aynı olduğundan asla %100 emin olamayız. Renkler, dış dünyadaki fiziksel ışığın beynimizde yarattığı kişisel ve öznel bir kurgudan ibarettir.",
+    "article": "<p>Renkleri görme yeteneğimiz, aslında fiziksel bir gerçeklik ile biyolojik bir yorumun birleşimidir. Işık bir nesneye çarpar ve yansır; gözümüzün arka tarafındaki <strong>koni hücreleri</strong> bu ışığı yakalayarak elektrik sinyallerine dönüştürür. Ancak renk, o sinyal beyne ulaşıp <strong>görsel korteks</strong> tarafından yorumlanana kadar sadece bir dalga boyudur. İşte tam bu noktada, felsefe ve nörobilimin kesiştiği yerde <strong>kualia</strong> kavramı devreye girer; yani bir deneyimin öznel, kişisel niteliği.</p><h3>Neden Renkleri Farklı Algılayabiliriz?</h3><p>Renk algımız sadece gözümüzdeki hücrelerin hassasiyetine bağlı değildir. Beynimiz sürekli olarak çevresel ışık koşullarını hesaplar ve bu veriyi geçmiş deneyimlerimizle harmanlar. 2015 yılında tüm dünyayı ikiye bölen 'o elbise' (The Dress) vakası, bunun en somut kanıtıdır. Bazı insanlar elbiseyi mavi-siyah, bazıları ise beyaz-altın renginde görüyordu. Bu durum, beynimizin ışığı nasıl 'yonttuğunun' ve nesneye hangi bağlamı atadığının bir sonucudur.</p><ul><li><strong>Koni Hassasiyeti:</strong> Her insanın gözündeki kırmızı, yeşil ve maviye duyarlı koni hücrelerinin yoğunluğu ve tepkime aralıkları küçük farklılıklar gösterir.</li><li><strong>Bilişsel Faktörler:</strong> Dil, kültür ve hatta çocuklukta öğrendiğimiz renk kategorileri, zihnimizin renkleri sınıflandırma biçimini etkileyebilir.</li><li><strong>Işık Sabitliği:</strong> Beynimiz, bir nesnenin rengini günün farklı saatlerinde veya değişen ışık kaynaklarında bile 'sabit' tutmaya çalışır; ancak bu işlem bazen yanılsamalara yol açar.</li></ul><h3>Renk Sadece Bir Yorumdur</h3><p>Bilim insanları, renk algımızın evrensel bir temele dayandığını, yani benzer dalga boylarına benzer isimler verdiğimizi kabul etse de, bu renklerin 'hissinin' kişiden kişiye değişebileceğini belirtir. Örneğin, sizin kırmızınız benim zihnimde bambaşka bir tona karşılık geliyor olabilir ancak ikimiz de o tona doğduğumuzdan beri 'kırmızı' dediğimiz için anlaşabiliyoruz. Sonuçta dünya, herkesin zihninde kendine has renklerle yeniden yaratılan bir sahnedir.</p>",
+    "category": "bilim",
+    "sourceName": "Evrim Ağacı",
+    "sourceUrl": "https://evrimagaci.org/kualia-ve-renkler-herkes-renkleri-ayni-mi-gorur-5654",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Renkleri algılamamızı sağlayan göz hücresi türü hangisidir?",
+        "options": [
+          "Çubuk hücreler",
+          "Koni hücreleri",
+          "Gangliyon hücreleri",
+          "Bipolar hücreler"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Koni hücreleri, parlak ışığa ve renkli görüşe duyarlı olan hücrelerdir."
+      },
+      {
+        "id": 2,
+        "text": "Felsefede 'deneyimin öznel ve nitel yönü' olarak adlandırılan terim nedir?",
+        "options": [
+          "Metamerizm",
+          "Fotoreseptör",
+          "Kualia",
+          "Sinestezi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kualia, bilinçli deneyimin her birey için kendine özgü olan öznel niteliğini ifade eder."
+      },
+      {
+        "id": 3,
+        "text": "2015 yılında viral olan 'elbise' görseliyle ilgili yaşanan durumun temel bilimsel sebebi nedir?",
+        "options": [
+          "Göz bozukluğu",
+          "Ekran çözünürlüğü",
+          "Renk sabitliği ve aydınlatma algısı",
+          "Kalıtsal renk körlüğü"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Beynin renk sabitliği mekanizması, ışık koşullarını farklı yorumlayarak farklı renklerin algılanmasına neden olmuştur."
+      },
+      {
+        "id": 4,
+        "text": "İnsan gözü yaklaşık hangi dalga boyu aralığını 'görünür ışık' olarak algılar?",
+        "options": [
+          "100-300 nm",
+          "400-700 nm",
+          "800-1200 nm",
+          "1500-2000 nm"
+        ],
+        "correctAnswer": 1,
+        "explanation": "İnsan gözü, yaklaşık 400 nm ile 700 nm dalga boyu arasındaki elektromanyetik ışınımı görür."
+      }
+    ]
   }
 ];
