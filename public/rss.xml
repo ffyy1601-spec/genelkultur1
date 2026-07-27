@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 27 Jul 2026 11:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 16:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Konuşurken Neden Ellerinizi Kullanıyorsunuz? Beyninizin &apos;Sessiz&apos; Yardımcısı</title>
+      <link>https://genelkultur.com.tr/test/konusurken-neden-ellerinizi-kullaniyorsunuz-beyninizin-sessiz-yardimcisi</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/konusurken-neden-ellerinizi-kullaniyorsunuz-beyninizin-sessiz-yardimcisi</guid>
+      <pubDate>Mon, 27 Jul 2026 16:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Bir şeyler anlatırken ellerinizin havada adeta bir orkestra şefi gibi dans ettiğini fark ettiniz mi? Bilim insanları, bu doğal hareketlerin sadece karşı tarafın bizi anlaması için değil, aslında beynimizin düşünme sürecini kolaylaştırmak için geliştirdiği stratejik bir araç olduğunu keşfetti.</description>
+    </item>
     <item>
       <title>Sizin Kırmızınızla Benim Kırmızım Aynı Olabilir mi?</title>
       <link>https://genelkultur.com.tr/test/sizin-kirmizinizla-benim-kirmizim-ayni-olabilir-mi</link>
@@ -158,14 +166,6 @@
       <pubDate>Fri, 17 Jul 2026 15:00:00 GMT</pubDate>
       <category>bilim</category>
       <description>Sevdiğiniz o acılı yemeği yerken burnunuzun bir anda akmaya başlaması tesadüf değildir. Vücudunuz, aslında hiçbir fiziksel hasar olmamasına rağmen, sanki büyük bir saldırı altındaymış gibi harekete geçer.</description>
-    </item>
-    <item>
-      <title>Dünyayı Hangi Gözünüzle Yönetiyorsunuz? Baskın Göz Gerçeği</title>
-      <link>https://genelkultur.com.tr/test/dunyayi-hangi-gozunuzle-yonetiyorsunuz-baskin-goz-gercegi</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/dunyayi-hangi-gozunuzle-yonetiyorsunuz-baskin-goz-gercegi</guid>
-      <pubDate>Fri, 17 Jul 2026 10:00:00 GMT</pubDate>
-      <category>bilim</category>
-      <description>Hayatınız boyunca iki gözünüzün de dünyaya eşit katkı sağladığını düşündüyseniz yanılıyor olabilirsiniz. Beynimiz, görsel bilgiyi işlerken genellikle gözlerden birini &apos;lider&apos; olarak belirler ve ona daha fazla yetki verir.</description>
     </item>
   </channel>
 </rss>
