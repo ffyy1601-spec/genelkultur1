@@ -4880,5 +4880,76 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Ellerini kullanamayan bireylerin konuşma süreçlerinde daha fazla aksaklık ve duraksama yaşadığı gözlemlenmiştir."
       }
     ]
+  },
+  {
+    "slug": "deniz-kabugunda-duydugunuz-okyanus-sesi-gercek-mi-iste-bilimsel-gercek",
+    "dateId": "2026-07-28T13:00:00+03:00",
+    "imageUrl": "/images/news/deniz-kabugunda-duydugunuz-okyanus-sesi-gercek-mi-iste-bilimsel-gercek.webp",
+    "title": "Deniz Kabuğu Neden Okyanus Sesi Çıkarır? | Şaşırtıcı Bilim",
+    "description": "Deniz kabuğunu kulağınıza dayadığınızda duyduğunuz okyanus sesinin aslında denizle hiçbir ilgisi olmadığını biliyor muydunuz? İşte bu akustik yanılsamanın gerçek nedeni.",
+    "keywords": [
+      "deniz kabuğu",
+      "akustik",
+      "rezonans",
+      "bilimsel gerçekler",
+      "okyanus sesi",
+      "ilginç bilgiler"
+    ],
+    "heading": "Deniz Kabuğunda Duyduğunuz Okyanus Sesi Gerçek mi? İşte Bilimsel Gerçek",
+    "intro": "Çocukluğumuzdan beri kulağımıza dayadığımız deniz kabuklarından gelen o mistik okyanus sesinin denize ait olduğunu düşünürüz. Oysa bu ses, okyanustan kilometrelerce uzaktaki bir çölde bile duysanız tamamen aynı olacak bir fiziksel yanılsamadan ibarettir.",
+    "article": "<p>Deniz kabuklarını kulağımıza dayadığımızda duyduğumuz uğultunun, kabuğun içine hapsolmuş bir deniz hatırası olduğu efsanesi oldukça yaygındır. Ancak Oxford Üniversitesi ve diğer akustik uzmanlarına göre, işin aslı çok daha farklı bir fiziksel süreçle ilgilidir. Kulağımıza tuttuğumuz şey bir deniz kabuğu değil, boş bir fincan veya avucumuzla oluşturduğumuz küçük bir boşluk olsa bile aynı sesi duymamız mümkün.</p><h3>Rezonans Odası Olarak Deniz Kabuğu</h3><p>Deniz kabukları aslında doğal birer <strong>rezonans odası</strong> görevi görür. Etrafımızda sürekli olarak var olan, ancak beynimizin genellikle filtrelediği düşük seviyeli ortam gürültüleri (havalandırma sesi, uzak trafik, kıyafetlerimizin hışırtısı veya hava moleküllerinin hareketi) kabuğun içine girer. Kabuğun kavisli ve sert iç yüzeyi, bu gürültüleri yakalayarak sürekli olarak yansıtır ve yankılanmalarına neden olur.</p><h3>Neden Okyanusa Benziyor?</h3><p>Kabuğun içinde yankılanan bu ses dalgaları, belirli frekanslarda yükselir ve zenginleşir. Bu süreç, ortamdaki gürültüleri rastgele bir ",
+    "category": "bilim",
+    "sourceName": "Live Science",
+    "sourceUrl": "https://www.livescience.com/why-do-seashells-sound-like-the-ocean",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Deniz kabuğundan gelen sesin asıl kaynağı nedir?",
+        "options": [
+          "Kabuğun içinde hapsolmuş okyanus suyu",
+          "Kulağımızdaki kan akışı",
+          "Ortamdaki arka plan gürültüsü",
+          "Kabuğun kendi doğal moleküler titreşimi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Duyduğumuz ses, çevremizdeki ortam gürültüsünün kabuğun içine girip yankılanması ve belirli frekansların yükselmesidir."
+      },
+      {
+        "id": 2,
+        "text": "Aynı \"deniz sesi\" etkisini oluşturmak için deniz kabuğu dışında ne kullanılabilir?",
+        "options": [
+          "Boş bir fincan",
+          "İçi boş bir boru",
+          "Avucumuzu kulağımıza kapatarak",
+          "Hepsi"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Herhangi bir boşluk veya rezonans odası işlevi gören yapı, çevredeki ortam gürültüsünü benzer şekilde yansıtarak bu sesi oluşturabilir."
+      },
+      {
+        "id": 3,
+        "text": "Bilim insanları neden duyduğumuz sesin kan basıncı olmadığını düşünür?",
+        "options": [
+          "Çünkü ses egzersiz sonrası yoğunlaşmıyor",
+          "Çünkü sesin hızı kan basıncından yavaştır",
+          "Çünkü kan sadece kulaklarda akmaz",
+          "Çünkü ses sadece sessiz odalarda duyulur"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Eğer ses kan basıncından kaynaklansaydı, egzersiz sonrası nabız arttığında sesin de belirgin şekilde değişmesi gerekirdi; ancak durum böyle değildir."
+      },
+      {
+        "id": 4,
+        "text": "Deniz kabuğunun şekli duyulan sesi nasıl etkiler?",
+        "options": [
+          "Şekil sesin tonunu değiştirmez",
+          "Kabuğun boyutu ve kavisli yapısı ses frekanslarını vurgular",
+          "Sadece çok büyük kabuklar ses üretebilir",
+          "Sesin şiddetini tamamen yok eder"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Kabuğun içindeki sert ve kavisli yüzeyler farklı ses frekanslarını farklı şekillerde yansıtır, bu da kabuğun türüne göre duyulan sesin karakterini belirler."
+      }
+    ]
   }
 ];
