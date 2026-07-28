@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 28 Jul 2026 10:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 16:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Konuşurken Ellerinizi Kontrol Edemiyor Musunuz? İşte Beyninizin Sessiz Yardımcısı</title>
+      <link>https://genelkultur.com.tr/test/konusurken-ellerinizi-kontrol-edemiyor-musunuz-iste-beyninizin-sessiz-yardimcisi</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/konusurken-ellerinizi-kontrol-edemiyor-musunuz-iste-beyninizin-sessiz-yardimcisi</guid>
+      <pubDate>Tue, 28 Jul 2026 16:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Hiç dikkat ettiniz mi; birine yol tarif ederken ya da heyecanlı bir anınızı anlatırken elleriniz adeta sizden bağımsız bir dansa başlıyor. Bilim insanları, bu doğal davranışın sadece karşı tarafa kendimizi anlatma çabası olmadığını, aslında düşünme sürecimizin temel bir parçası olduğunu ortaya koyuyor.</description>
+    </item>
     <item>
       <title>Deniz Kabuğunda Duyduğunuz Okyanus Sesi Gerçek mi? İşte Bilimsel Gerçek</title>
       <link>https://genelkultur.com.tr/test/deniz-kabugunda-duydugunuz-okyanus-sesi-gercek-mi-iste-bilimsel-gercek</link>
@@ -158,14 +166,6 @@
       <pubDate>Sat, 18 Jul 2026 15:00:00 GMT</pubDate>
       <category>bilim</category>
       <description>Çocukluk yıllarında günler ve mevsimler adeta bir yavaş çekim filmi gibi akarken, yetişkinlikte aylar ve yıllar hız trenindeymişiz gibi geçip gidiyor. Bilim insanlarına göre bu durum, beynimizin yeni deneyimleri işleme biçimi ile yakından ilgili olan büyüleyici bir algı oyunudur.</description>
-    </item>
-    <item>
-      <title>Uykuda Düşme Hissi: Beyninizin &apos;Hayatta Kalma&apos; Yanlış Alarmı mı?</title>
-      <link>https://genelkultur.com.tr/test/uykuda-dusme-hissi-beyninizin-hayatta-kalma-yanlis-alarmi-mi</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/uykuda-dusme-hissi-beyninizin-hayatta-kalma-yanlis-alarmi-mi</guid>
-      <pubDate>Sat, 18 Jul 2026 10:00:00 GMT</pubDate>
-      <category>bilim</category>
-      <description>Tam uykuya dalmak üzereyken yüksek bir yerden düşüyormuş gibi hissedip aniden sıçrayarak uyandığınız oldu mu? Milyonlarca insanın yaşadığı bu tuhaf durumun arkasında, aslında beyninizin vücudunuzu korumaya çalışan çok eski bir savunma mekanizması yatıyor.</description>
     </item>
   </channel>
 </rss>
