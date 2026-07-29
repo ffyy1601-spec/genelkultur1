@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://genelkultur.com.tr/test/sizin-kirmizinizla-benim-kirmizim-ayni-olabilir-mi/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenelKültür Haber</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-27T11:00:00.000Z</news:publication_date>
-      <news:title>Sizin Kırmızınızla Benim Kırmızım Aynı Olabilir mi?</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://genelkultur.com.tr/test/konusurken-neden-ellerinizi-kullaniyorsunuz-beyninizin-sessiz-yardimcisi/</loc>
     <news:news>
       <news:publication>
@@ -42,6 +31,17 @@
       </news:publication>
       <news:publication_date>2026-07-28T16:00:00.000Z</news:publication_date>
       <news:title>Konuşurken Ellerinizi Kontrol Edemiyor Musunuz? İşte Beyninizin Sessiz Yardımcısı</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/toprak-neden-yagmurdan-sonra-mis-gibi-kokar-iste-bilimsel-gercek/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T11:00:00.000Z</news:publication_date>
+      <news:title>Toprak Neden Yağmurdan Sonra Mis Gibi Kokar? İşte Bilimsel Gerçek!</news:title>
     </news:news>
   </url>
 </urlset>

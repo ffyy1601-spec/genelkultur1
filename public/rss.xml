@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 28 Jul 2026 16:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 11:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Toprak Neden Yağmurdan Sonra Mis Gibi Kokar? İşte Bilimsel Gerçek!</title>
+      <link>https://genelkultur.com.tr/test/toprak-neden-yagmurdan-sonra-mis-gibi-kokar-iste-bilimsel-gercek</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/toprak-neden-yagmurdan-sonra-mis-gibi-kokar-iste-bilimsel-gercek</guid>
+      <pubDate>Wed, 29 Jul 2026 11:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Yağmur damlaları kuru toprağa değdiği anda ortaya çıkan o ferah, toprak kokusunun aslında sadece bir doğa olayı değil, mikroskobik bir canlılar dünyasının gizli mesajı olduğunu biliyor muydunuz? Bilim dünyasında &apos;petrikor&apos; olarak adlandırılan bu büyüleyici koku, milyonlarca yıldır süregelen bir kimyasal etkileşimin sonucudur.</description>
+    </item>
     <item>
       <title>Konuşurken Ellerinizi Kontrol Edemiyor Musunuz? İşte Beyninizin Sessiz Yardımcısı</title>
       <link>https://genelkultur.com.tr/test/konusurken-ellerinizi-kontrol-edemiyor-musunuz-iste-beyninizin-sessiz-yardimcisi</link>
@@ -158,14 +166,6 @@
       <pubDate>Sun, 19 Jul 2026 10:00:00 GMT</pubDate>
       <category>bilim</category>
       <description>Çocukluk masallarında yalan söyleyenlerin burnunun uzaması basit bir hikaye gibi görünse de, modern bilim bu durumun arkasında çarpıcı bir fizyolojik gerçek yattığını kanıtlıyor. Yalan söylediğinizde vücudunuzda oluşan değişimler, tahmin ettiğinizden çok daha somut izler bırakıyor.</description>
-    </item>
-    <item>
-      <title>Çocukken Bir Yaz Tatili Neden Ömür Gibi Sürerken, Şimdi Yıllar Göz Açıp Kapayıncaya Kadar Geçiyor?</title>
-      <link>https://genelkultur.com.tr/test/cocukken-bir-yaz-tatili-neden-omur-gibi-surerken-simdi-yillar-goz-acip-kapayincaya-kadar-geciyor</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/cocukken-bir-yaz-tatili-neden-omur-gibi-surerken-simdi-yillar-goz-acip-kapayincaya-kadar-geciyor</guid>
-      <pubDate>Sat, 18 Jul 2026 15:00:00 GMT</pubDate>
-      <category>bilim</category>
-      <description>Çocukluk yıllarında günler ve mevsimler adeta bir yavaş çekim filmi gibi akarken, yetişkinlikte aylar ve yıllar hız trenindeymişiz gibi geçip gidiyor. Bilim insanlarına göre bu durum, beynimizin yeni deneyimleri işleme biçimi ile yakından ilgili olan büyüleyici bir algı oyunudur.</description>
     </item>
   </channel>
 </rss>

@@ -5021,5 +5021,75 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Bilim insanları, jestlerin dilin evrimsel kökeninde yer alan bir 'davranışsal fosil' olduğunu belirtmektedir."
       }
     ]
+  },
+  {
+    "slug": "toprak-neden-yagmurdan-sonra-mis-gibi-kokar-iste-bilimsel-gercek",
+    "dateId": "2026-07-29T14:00:00+03:00",
+    "imageUrl": "/images/news/toprak-neden-yagmurdan-sonra-mis-gibi-kokar-iste-bilimsel-gercek.webp",
+    "title": "Yağmurdan Sonraki O Büyülü Koku: Petrikor Nedir?",
+    "description": "Yağmur sonrası topraktan yayılan o meşhur kokunun aslında bir bakteri ve toprak kimyası etkileşimi olduğunu biliyor muydunuz? Petrikor'un şaşırtıcı hikayesini keşfedin.",
+    "keywords": [
+      "petrikor",
+      "toprak kokusu",
+      "yağmur kokusu",
+      "geosmin",
+      "Streptomyces"
+    ],
+    "heading": "Toprak Neden Yağmurdan Sonra Mis Gibi Kokar? İşte Bilimsel Gerçek!",
+    "intro": "Yağmur damlaları kuru toprağa değdiği anda ortaya çıkan o ferah, toprak kokusunun aslında sadece bir doğa olayı değil, mikroskobik bir canlılar dünyasının gizli mesajı olduğunu biliyor muydunuz? Bilim dünyasında 'petrikor' olarak adlandırılan bu büyüleyici koku, milyonlarca yıldır süregelen bir kimyasal etkileşimin sonucudur.",
+    "article": "<p>Yağmur sonrası aldığımız o karakteristik, taze ve topraksı kokuya bilim insanları <strong>petrikor</strong> adını vermiştir. Bu terim, 1964 yılında Avustralyalı araştırmacılar <strong>Isabel Joy Bear</strong> ve <strong>Richard Thomas</strong> tarafından, Antik Yunanca'da 'taş' anlamına gelen <em>petra</em> ve mitolojide tanrıların damarlarında akan ilahi sıvı olan <em>ichor</em> kelimelerinin birleştirilmesiyle oluşturulmuştur. Yani petrikor, kelime anlamı olarak 'taşların arasından akan tanrıların kanı' gibi şiirsel bir anlam taşır.</p><h3>Kokunun Arkasındaki Görünmez Kahraman: Geosmin</h3><p>Peki, bu kokuyu tam olarak ne yaratır? Kokunun başrolünde <strong>Streptomyces</strong> cinsi toprak bakterileri yer alır. Bu bakteriler, metabolik faaliyetleri sırasında <strong>geosmin</strong> adı verilen organik bir bileşik üretirler. Toprak kuruduğunda, bu bileşik toprak parçacıklarına yapışır. Yağmur damlaları toprağa çarptığında, toprağın içindeki bu geosmin moleküllerini havaya savurarak bizim burnumuza kadar ulaşmasını sağlayan küçük aerosol damlacıkları oluşturur.</p><h3>İnsan Burnunun Şaşırtıcı Hassasiyeti</h3><p>İnsan koku alma duyusu, geosmin molekülünü algılama konusunda inanılmaz bir kapasiteye sahiptir. Araştırmalar, insanların bu maddeyi <strong>milyarda beş birim</strong> gibi inanılmaz düşük konsantrasyonlarda bile ayırt edebildiğini göstermektedir. Bu hassasiyet seviyesi, köpekbalıklarının sudaki kanı tespit etme yeteneğiyle kıyaslanabilecek düzeydedir. Bilim insanları, bu keskin duyarlılığın atalarımızın hayatta kalma stratejisiyle ilgili olduğunu düşünmektedir; çünkü kurak dönemlerden sonra yağmurun yağdığını ve su kaynağının varlığını kokudan anlamak, atalarımızın hayatta kalma şansını doğrudan artıran hayati bir yetenekti.</p><h3>Doğanın Karmaşık Parfümü</h3><p>Petrikor sadece geosmin molekülünden ibaret değildir. Yağmur sırasında toprakta biriken bitki yağları ve atmosfere yıldırım düşmesi sonucu oluşan ozon gazı da bu karmaşık koku profiline katkıda bulunur. Uzun süren kurak dönemlerin ardından yağan ilk yağmurun daha güçlü ve belirgin bir koku yaymasının sebebi, toprakta biriken geosmin miktarının o süreçte zirveye ulaşmış olmasıdır.</p><ul><li><strong>Geosmin:</strong> Streptomyces bakterileri tarafından üretilen, topraksı kokunun ana sorumlusu.</li><li><strong>Streptomyces:</strong> Antibiyotiklerin geliştirilmesinde de büyük rol oynayan bir bakteri türü.</li><li><strong>Evrimsel Bağ:</strong> İnsanların yağmur kokusuna duyduğu sevginin, su bulma ihtiyacına dayanan evrimsel bir kökeni olduğu düşünülüyor.</li></ul>",
+    "category": "bilim",
+    "sourceName": "TÜBİTAK Bilim Genç",
+    "sourceUrl": "https://bilimgenc.tubitak.gov.tr/",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Petrikor kokusunun oluşumunda ana rolü oynayan 'geosmin' bileşiğini hangi canlı grubu üretir?",
+        "options": [
+          "Streptomyces bakterileri",
+          "Yağmur damlalarındaki mineraller",
+          "Ağaç köklerindeki mantarlar",
+          "Topraktaki oksijen atomları"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Petrikor kokusunun temelini, toprakta yaşayan Streptomyces grubu bakterilerin ürettiği geosmin adlı organik bileşik oluşturur."
+      },
+      {
+        "id": 2,
+        "text": "Petrikor terimi hangi dildeki kelimelerin birleşiminden türetilmiştir?",
+        "options": [
+          "Latince",
+          "Antik Yunanca",
+          "İngilizce",
+          "Arapça"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Petrikor, Antik Yunanca 'petra' (taş) ve 'ichor' (tanrıların kanı) kelimelerinden türetilmiştir."
+      },
+      {
+        "id": 3,
+        "text": "İnsan burnunun geosmin kokusunu algılama hassasiyeti hakkında aşağıdakilerden hangisi doğrudur?",
+        "options": [
+          "Çok zayıftır, sadece çok yoğun kokularda algılanır.",
+          "Sadece yağmur yağarken algılanabilir.",
+          "Çok yüksektir, milyarda beş birim düzeyinde bile algılanabilir.",
+          "Köpekbalıklarından daha düşük bir hassasiyete sahiptir."
+        ],
+        "correctAnswer": 2,
+        "explanation": "İnsanlar geosmini milyarda beş gibi çok düşük konsantrasyonlarda dahi algılayabilir, bu da oldukça yüksek bir hassasiyettir."
+      },
+      {
+        "id": 4,
+        "text": "Atalarımızın bu kokuya karşı evrimsel bir duyarlılık geliştirmesinin temel nedeni ne olabilir?",
+        "options": [
+          "Bakterilerden korunmak",
+          "Güzel kokulardan hoşlanmak",
+          "Su kaynaklarını bulmak",
+          "Toprak türlerini ayırt etmek"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Yağmur sonrası toprak kokusunu algılamak, kurak bölgelerde yaşayan atalarımızın su kaynaklarına ulaşmasını kolaylaştıran hayati bir evrimsel avantajdı."
+      }
+    ]
   }
 ];
