@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 29 Jul 2026 11:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 16:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Tek Yumurta İkizlerinin Bile Farklı: Parmak İzlerinizin Arkasındaki Gizem</title>
+      <link>https://genelkultur.com.tr/test/tek-yumurta-ikizlerinin-bile-farkli-parmak-izlerinizin-arkasindaki-gizem</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/tek-yumurta-ikizlerinin-bile-farkli-parmak-izlerinizin-arkasindaki-gizem</guid>
+      <pubDate>Wed, 29 Jul 2026 16:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Genetik kodunuzun tıpatıp aynısını paylaşan tek yumurta ikizlerinin bile parmak izleri birbirine benzemez. Parmak uçlarınızdaki o karmaşık desenler, sadece DNA&apos;nızın değil, anne karnındaki rastlantısal bir sanatın eseridir.</description>
+    </item>
     <item>
       <title>Toprak Neden Yağmurdan Sonra Mis Gibi Kokar? İşte Bilimsel Gerçek!</title>
       <link>https://genelkultur.com.tr/test/toprak-neden-yagmurdan-sonra-mis-gibi-kokar-iste-bilimsel-gercek</link>
@@ -158,14 +166,6 @@
       <pubDate>Sun, 19 Jul 2026 15:00:00 GMT</pubDate>
       <category>bilim</category>
       <description>Güneşli bir günde dışarı çıktığınızda veya aniden parlak bir ışığa maruz kaldığınızda kontrolsüzce hapşırıyor musunuz? Bu durum sadece size özel değil; dünya nüfusunun yaklaşık %18 ile %35&apos;ini etkileyen ve tıpta &apos;fotik hapşırma refleksi&apos; olarak adlandırılan oldukça yaygın bir biyolojik fenomendir.</description>
-    </item>
-    <item>
-      <title>Yalan Söylerken Burnunuz Pinokyo Gibi Uzuyor mu?</title>
-      <link>https://genelkultur.com.tr/test/yalan-soylerken-burnunuz-pinokyo-gibi-uzuyor-mu</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/yalan-soylerken-burnunuz-pinokyo-gibi-uzuyor-mu</guid>
-      <pubDate>Sun, 19 Jul 2026 10:00:00 GMT</pubDate>
-      <category>bilim</category>
-      <description>Çocukluk masallarında yalan söyleyenlerin burnunun uzaması basit bir hikaye gibi görünse de, modern bilim bu durumun arkasında çarpıcı bir fizyolojik gerçek yattığını kanıtlıyor. Yalan söylediğinizde vücudunuzda oluşan değişimler, tahmin ettiğinizden çok daha somut izler bırakıyor.</description>
     </item>
   </channel>
 </rss>

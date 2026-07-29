@@ -5091,5 +5091,77 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Yağmur sonrası toprak kokusunu algılamak, kurak bölgelerde yaşayan atalarımızın su kaynaklarına ulaşmasını kolaylaştıran hayati bir evrimsel avantajdı."
       }
     ]
+  },
+  {
+    "slug": "tek-yumurta-ikizlerinin-bile-farkli-parmak-izlerinizin-arkasindaki-gizem",
+    "dateId": "2026-07-29T19:00:00+03:00",
+    "imageUrl": "/images/news/tek-yumurta-ikizlerinin-bile-farkli-parmak-izlerinizin-arkasindaki-gizem.webp",
+    "title": "Neden Parmak İzlerimiz Birbirinden Farklı? | Bilim ve Yaşam",
+    "description": "Tek yumurta ikizlerinin bile parmak izleri neden farklıdır? Anne karnında başlayan bu benzersiz biyolojik imzanın şaşırtıcı oluşum sürecini keşfedin.",
+    "keywords": [
+      "parmak izi",
+      "biyoloji",
+      "tek yumurta ikizleri",
+      "bilim",
+      "anne karnında gelişim",
+      "genetik",
+      "eşsiz desenler"
+    ],
+    "heading": "Tek Yumurta İkizlerinin Bile Farklı: Parmak İzlerinizin Arkasındaki Gizem",
+    "intro": "Genetik kodunuzun tıpatıp aynısını paylaşan tek yumurta ikizlerinin bile parmak izleri birbirine benzemez. Parmak uçlarınızdaki o karmaşık desenler, sadece DNA'nızın değil, anne karnındaki rastlantısal bir sanatın eseridir.",
+    "article": "<p>Parmak izleri, insan bedeninin en ayırt edici ve değişmez biyolojik imzalarından biridir. Doğumdan önce gelişmeye başlayan bu desenler, yaşam boyu kalıcıdır. Peki, neden DNA'mız birebir aynı olsa bile bu izler farklılık gösterir? Cevap, genetik şablonun ötesinde, anne karnındaki kaotik ve benzersiz fiziksel süreçlerde saklıdır.</p><h3>Anne Karnında Başlayan Sanat: 10. Hafta Mucizesi</h3><p>Parmak izlerimizin oluşumu, gebeliğin yaklaşık <strong>10. ila 16. haftaları</strong> arasında, fetüs henüz anne karnındayken başlar. Bu süreçte parmak uçlarında <strong>dermal papillalar</strong> adı verilen özel katmanlar oluşur. Bu yapılar, cildin alt tabakası ile üst tabakası olan epidermis arasındaki etkileşimle şekillenir. Bilim insanları, bu desenlerin oluşumunu <strong>Alan Turing'in reaksiyon-difüzyon modeli</strong> ile açıklar; yani gelişimsel süreci başlatan proteinler, tıpkı doğadaki diğer desenler gibi kendi kendini organize eden bir sistemle kıvrımlar oluşturur.</p><h3>Genetik Kod mu, Rastlantı mı?</h3><p>Parmak izlerinin oluşumunda genetik bir altyapı olduğu doğrudur; desenlerin genel kategorileri (döngü, kemer veya sarmal) genetik olarak belirlenir. Ancak çizgilerin tam konumu, yönü ve karmaşık detayları genetik koddan bağımsız gelişir. Süreç üzerinde etkili olan bazı temel faktörler şunlardır:</p><ul><li><strong>Amniyotik sıvının basıncı:</strong> Bebeğin içinde bulunduğu sıvının yoğunluğu ve hareketi.</li><li><strong>Fetüsün rahim içindeki pozisyonu:</strong> Bebeğin parmak uçlarını rahim duvarına veya kendine değdirme şekli.</li><li><strong>Kan akışı ve beslenme:</strong> Parmak uçlarındaki dokuların büyüme hızı ve kan basıncındaki küçük değişimler.</li></ul><p>Bu çevresel faktörler, hiçbir fetüs için aynı şekilde tekrarlanamaz. Bu yüzden tek yumurta ikizleri aynı genetik mirası paylaşsalar bile, rahim içinde maruz kaldıkları bu mikro değişkenler sayesinde tamamen farklı parmak izlerine sahip olurlar.</p><h3>Ömür Boyu Değişmeyen İmza</h3><p>Parmak izlerimiz, bebeklikten yetişkinliğe kadar yalnızca boyut olarak büyür ancak desenin temel yapısı bozulmaz. Cilt yüzeyindeki yüzeysel kesikler veya soyulmalar genellikle parmak izini kalıcı olarak değiştirmez, çünkü izin asıl kaynağı cildin daha alt katmanlarında yer alan yapısal desenlerdir. Sadece derin yaralanmalar veya ciddi yanıklar bu izlerin okunabilirliğini etkileyebilir. Bu özellikleri sayesinde parmak izi, 19. yüzyıldan bu yana dünyanın en güvenilir kimlik doğrulama yöntemi olarak kabul edilmektedir.</p>",
+    "category": "bilim",
+    "sourceName": "TÜBİTAK Bilim Genç",
+    "sourceUrl": "https://bilimgenc.tubitak.gov.tr/makale/parmak-izimiz-nasil-olusur",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Parmak izlerinin oluşumu anne karnında yaklaşık hangi haftalarda başlar?",
+        "options": [
+          "1-4. haftalar",
+          "10-16. haftalar",
+          "24-30. haftalar",
+          "Doğuma yakın son ay"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Parmak izleri, anne karnında gebeliğin yaklaşık 10. ila 16. haftaları arasında şekillenmeye başlar."
+      },
+      {
+        "id": 2,
+        "text": "Tek yumurta ikizlerinin parmak izlerinin farklı olmasının temel nedeni nedir?",
+        "options": [
+          "DNA dizilimlerinin tamamen farklı olması",
+          "İkizlerin parmak uçlarındaki farklı hücre sayıları",
+          "Rahim içindeki çevresel faktörler ve mikro değişkenler",
+          "Genetik mutasyonların sadece parmak uçlarında görülmesi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Parmak izi oluşumu genetik faktörlerin yanı sıra amniyotik sıvı basıncı ve fetüsün rahimdeki hareketleri gibi rastlantısal çevresel faktörlere bağlıdır."
+      },
+      {
+        "id": 3,
+        "text": "Parmak izi desenlerinin oluşumunu açıklayan biyolojik model hangisidir?",
+        "options": [
+          "Darwin'in evrim modeli",
+          "Turing'in reaksiyon-difüzyon modeli",
+          "Newton'un hareket yasaları",
+          "Mendel'in kalıtım kuralları"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Bilim insanları, parmak izi desenlerini oluşturan süreci, Alan Turing'in reaksiyon-difüzyon modeli ile açıklar."
+      },
+      {
+        "id": 4,
+        "text": "Parmak izi ile ilgili aşağıdakilerden hangisi yanlıştır?",
+        "options": [
+          "Parmak izleri yaşam boyu değişmez.",
+          "Parmak izleri genetik koddan tamamen bağımsızdır.",
+          "Cilt yüzeyindeki küçük kesikler izi kalıcı olarak değiştirmez.",
+          "Parmak izleri kimlik doğrulamada güvenilir bir yöntemdir."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Parmak izleri genetik koddan bağımsız değildir; DNA genel desen tipini (kemer, döngü vb.) belirlemede rol oynar, ancak detaylar çevresel faktörlerle şekillenir."
+      }
+    ]
   }
 ];
