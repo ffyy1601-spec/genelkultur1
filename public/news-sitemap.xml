@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://genelkultur.com.tr/test/konusurken-ellerinizi-kontrol-edemiyor-musunuz-iste-beyninizin-sessiz-yardimcisi/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenelKültür Haber</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-28T16:00:00.000Z</news:publication_date>
-      <news:title>Konuşurken Ellerinizi Kontrol Edemiyor Musunuz? İşte Beyninizin Sessiz Yardımcısı</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://genelkultur.com.tr/test/toprak-neden-yagmurdan-sonra-mis-gibi-kokar-iste-bilimsel-gercek/</loc>
     <news:news>
       <news:publication>
@@ -42,6 +31,17 @@
       </news:publication>
       <news:publication_date>2026-07-30T10:00:00.000Z</news:publication_date>
       <news:title>Parmaklarınız Suda Neden Buruşuyor? Sandığınızın Aksine Bu Bir &apos;Su Emme&apos; Olayı Değil!</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/damarlarimizdaki-kadim-sir-kan-gruplarimiz-neden-birbirinden-farkli/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T16:00:00.000Z</news:publication_date>
+      <news:title>Damarlarımızdaki Kadim Sır: Kan Gruplarımız Neden Birbirinden Farklı?</news:title>
     </news:news>
   </url>
 </urlset>

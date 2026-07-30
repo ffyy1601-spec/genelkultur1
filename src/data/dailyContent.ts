@@ -5233,5 +5233,77 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Evrimsel süreçte kavramayı iyileştirmek için sadece el ve ayak uçlarında bu özelleşmiş sinirsel yanıt mekanizması geliştirilmiştir."
       }
     ]
+  },
+  {
+    "slug": "damarlarimizdaki-kadim-sir-kan-gruplarimiz-neden-birbirinden-farkli",
+    "dateId": "2026-07-30T19:00:00+03:00",
+    "imageUrl": "/images/news/damarlarimizdaki-kadim-sir-kan-gruplarimiz-neden-birbirinden-farkli.webp",
+    "title": "Kan Gruplarımız Neden Farklı? İnsanlık Tarihinin Gizli Mirası",
+    "description": "Neden tek tip kan grubuna sahip değiliz? Kan grubu çeşitliliğinin ardındaki evrimsel savunma mekanizmasını ve salgın hastalıklarla olan şaşırtıcı bağını keşfedin.",
+    "keywords": [
+      "kan grubu",
+      "ABO sistemi",
+      "evrim",
+      "Karl Landsteiner",
+      "biyoloji",
+      "bağışıklık sistemi",
+      "antijen"
+    ],
+    "heading": "Damarlarımızdaki Kadim Sır: Kan Gruplarımız Neden Birbirinden Farklı?",
+    "intro": "Dışarıdan bakıldığında her insanın kanı aynı görünse de, mikroskobik düzeyde bu sıvı, milyonlarca yıllık bir hayatta kalma savaşının genetik kayıtlarını taşır. Bilim insanlarına göre farklı kan gruplarına sahip olmamız basit bir tesadüf değil, salgın hastalıklara karşı türümüzün geliştirdiği bir savunma stratejisidir.",
+    "article": "<p>20. yüzyılın başına kadar kan nakli, sonuçları önceden kestirilemeyen oldukça riskli bir işlemdi. Bu gizemli süreç, Avusturyalı bilim insanı <strong>Karl Landsteiner</strong>’in 1900 yılında gerçekleştirdiği çığır açıcı çalışmalarla aydınlatıldı. Landsteiner, kırmızı kan hücrelerinin yüzeyinde <strong>antijen</strong> adı verilen özel moleküler yapılar olduğunu keşfetti. Bu keşif, günümüzde bildiğimiz A, B, AB ve 0 gruplarının tanımlanmasını sağlayarak tıp tarihinde devrim yarattı.</p><h3>Evrimsel Bir Savunma Kalkanı</h3><p>Peki, neden tek bir kan grubu yerine dört farklı tipe sahibiz? Bilim dünyasının en popüler teorilerinden biri, kan grubu çeşitliliğinin <strong>evrimsel bir hayatta kalma avantajı</strong> olduğudur. Tarih boyunca insanlık; sıtma, veba ve çiçek hastalığı gibi ölümcül salgınlarla mücadele etmiştir. Bu hastalıkların birçoğu, vücuda sızmak için hücre yüzeyindeki belirli antijenleri anahtar olarak kullanır. Farklı kan gruplarının varlığı, tek bir patojenin tüm insan popülasyonunu yok etmesini engelleyen bir <strong>biyolojik kalkan</strong> görevi görmüştür.</p><h3>Hastalıklar ve Kan Grupları Arasındaki Bağ</h3><ul><li><strong>Sıtma Direnci:</strong> Araştırmalar, 0 kan grubuna sahip bireylerin sıtma gibi hastalıklara karşı diğer gruplara göre daha yüksek direnç geliştirebildiğini göstermektedir.</li><li><strong>Bulaşma Riski:</strong> Bazı kan grupları, belirli virüs veya bakterilerin hücreye tutunmasını kolaylaştırırken, bazıları ise bu tutunmayı zorlaştırarak doğal bir koruma sağlar.</li><li><strong>Genetik Kayıt:</strong> Kan grubunuz, aslında atalarınızın hangi coğrafyada hangi salgınlarla mücadele ettiğinin biyolojik bir imzası niteliğindedir.</li></ul><p>Sonuç olarak kan grubu çeşitliliğimiz, insanlığın hastalıklarla geçen binlerce yıllık zorlu mücadelesinin sessiz bir tanığıdır. Bugün modern tıpta kan nakli güvenli bir işlem olsa da, damarlarımızda taşıdığımız bu farklılıklar, türümüzün hayatta kalma başarısının en somut kanıtlarından biri olmaya devam etmektedir.</p>",
+    "category": "bilim",
+    "sourceName": "TÜBİTAK Bilim Genç",
+    "sourceUrl": "https://bilimgenc.tubitak.gov.tr/makale/bir-insanin-kan-grubu-degisebilir-mi",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Karl Landsteiner'in 1900 yılında keşfettiği ve kan gruplarını birbirinden ayıran yapıya ne ad verilir?",
+        "options": [
+          "Antikor",
+          "Antijen",
+          "Plazma",
+          "Hemoglobin"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Kan grupları, kırmızı kan hücrelerinin yüzeyinde bulunan antijen adı verilen moleküler yapıların farklılığına göre belirlenir."
+      },
+      {
+        "id": 2,
+        "text": "Bilim insanlarına göre kan grubu çeşitliliğinin temel evrimsel sebebi nedir?",
+        "options": [
+          "Beslenme alışkanlıkları",
+          "Coğrafi iklim koşulları",
+          "Salgın hastalıklara karşı savunma stratejisi",
+          "Kişilik özelliklerinin aktarımı"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kan grubu çeşitliliği, atalarımızın tarih boyunca karşılaştığı salgın hastalıklara karşı türün hayatta kalma şansını artıran bir adaptasyon olarak gelişmiştir."
+      },
+      {
+        "id": 3,
+        "text": "Sıtma hastalığına karşı daha dirençli olabileceği düşünülen kan grubu hangisidir?",
+        "options": [
+          "A grubu",
+          "B grubu",
+          "AB grubu",
+          "0 grubu"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Araştırmalar, 0 kan grubuna sahip bireylerin sıtmaya karşı daha dirençli olabildiğini ve bu kan grubunun sıtmanın yaygın olduğu bölgelerde daha sık görülebildiğini göstermektedir."
+      },
+      {
+        "id": 4,
+        "text": "Kan grubu sistemi ile ilgili hangisi doğrudur?",
+        "options": [
+          "Kan grubu ömür boyu asla değişmez.",
+          "AB kan grubu olan kişilerde hiçbir antijen bulunmaz.",
+          "0 grubu olan kişiler genel verici olarak kabul edilir.",
+          "Rh faktörü kan gruplarıyla hiçbir ilişkisi olmayan bir yapıdır."
+        ],
+        "correctAnswer": 2,
+        "explanation": "0 kan grubunda A veya B antijeni bulunmadığı için genel verici olarak kabul edilirler."
+      }
+    ]
   }
 ];
