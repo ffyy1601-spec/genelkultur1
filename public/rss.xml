@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 30 Jul 2026 16:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 11:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Sivrisinekler Sizi Neden Diğerlerinden Daha Çok Seviyor?</title>
+      <link>https://genelkultur.com.tr/test/sivrisinekler-sizi-neden-digerlerinden-daha-cok-seviyor</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/sivrisinekler-sizi-neden-digerlerinden-daha-cok-seviyor</guid>
+      <pubDate>Fri, 31 Jul 2026 11:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Yaz akşamlarında bir grup insan arasında otururken neden sadece sizin sivrisineklerin hedefi olduğunuzu hiç düşündünüz mü? Bilim, bazı insanların neden adeta bir &quot;sivrisinek mıknatısı&quot; gibi çalıştığını biyolojik ve genetik faktörlerle açıklıyor.</description>
+    </item>
     <item>
       <title>Damarlarımızdaki Kadim Sır: Kan Gruplarımız Neden Birbirinden Farklı?</title>
       <link>https://genelkultur.com.tr/test/damarlarimizdaki-kadim-sir-kan-gruplarimiz-neden-birbirinden-farkli</link>
@@ -158,14 +166,6 @@
       <pubDate>Tue, 21 Jul 2026 10:00:00 GMT</pubDate>
       <category>bilim</category>
       <description>Yanınızdaki birinin esnediğini gördüğünde, zihniniz ona engel olmaya çalışsa da genellikle başarılı olamazsınız. Bu istemsiz &apos;bulaşma&apos; hali, aslında beyninizin sosyal bağ kurmak için kullandığı derin bir mekanizmanın parçasıdır.</description>
-    </item>
-    <item>
-      <title>Aynadaki Yabancı: İnsanlar Neden Kendi Yüzlerini Bile Tanıyamaz?</title>
-      <link>https://genelkultur.com.tr/test/aynadaki-yabanci-insanlar-neden-kendi-yuzlerini-bile-taniyamaz</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/aynadaki-yabanci-insanlar-neden-kendi-yuzlerini-bile-taniyamaz</guid>
-      <pubDate>Mon, 20 Jul 2026 16:00:00 GMT</pubDate>
-      <category>bilim</category>
-      <description>En yakın arkadaşınızın ya da hayat arkadaşınızın yüzünü bir yabancı gibi görmek, hatta aynaya baktığınızda karşınızdakini tanıyamamak sizin için ne kadar korkutucu olurdu? &apos;Yüz körlüğü&apos; olarak bilinen prosopagnozi, tam olarak bu karmaşık nörolojik deneyimi yaşayan bireylerin günlük gerçeğidir.</description>
     </item>
   </channel>
 </rss>

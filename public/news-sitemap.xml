@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://genelkultur.com.tr/test/toprak-neden-yagmurdan-sonra-mis-gibi-kokar-iste-bilimsel-gercek/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenelKültür Haber</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T11:00:00.000Z</news:publication_date>
-      <news:title>Toprak Neden Yağmurdan Sonra Mis Gibi Kokar? İşte Bilimsel Gerçek!</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://genelkultur.com.tr/test/tek-yumurta-ikizlerinin-bile-farkli-parmak-izlerinizin-arkasindaki-gizem/</loc>
     <news:news>
       <news:publication>
@@ -42,6 +31,17 @@
       </news:publication>
       <news:publication_date>2026-07-30T16:00:00.000Z</news:publication_date>
       <news:title>Damarlarımızdaki Kadim Sır: Kan Gruplarımız Neden Birbirinden Farklı?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/sivrisinekler-sizi-neden-digerlerinden-daha-cok-seviyor/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T11:00:00.000Z</news:publication_date>
+      <news:title>Sivrisinekler Sizi Neden Diğerlerinden Daha Çok Seviyor?</news:title>
     </news:news>
   </url>
 </urlset>

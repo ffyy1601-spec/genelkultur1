@@ -5305,5 +5305,77 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "0 kan grubunda A veya B antijeni bulunmadığı için genel verici olarak kabul edilirler."
       }
     ]
+  },
+  {
+    "slug": "sivrisinekler-sizi-neden-digerlerinden-daha-cok-seviyor",
+    "dateId": "2026-07-31T14:00:00+03:00",
+    "imageUrl": "/images/news/sivrisinekler-sizi-neden-digerlerinden-daha-cok-seviyor.webp",
+    "title": "Sivrisinek Mıknatısı mısınız? Neden Bazı İnsanlar Daha Çok Isırılır?",
+    "description": "Bazı insanlar sivrisinekler için neden karşı konulmaz bir hedeftir? Bilimin ışığında sivrisineklerin kurban seçme kriterlerini ve korunma yollarını keşfedin.",
+    "keywords": [
+      "sivrisinek",
+      "sivrisinek ısırığı",
+      "bilim",
+      "biyoloji",
+      "genetik",
+      "karbondioksit",
+      "cilt kokusu"
+    ],
+    "heading": "Sivrisinekler Sizi Neden Diğerlerinden Daha Çok Seviyor?",
+    "intro": "Yaz akşamlarında bir grup insan arasında otururken neden sadece sizin sivrisineklerin hedefi olduğunuzu hiç düşündünüz mü? Bilim, bazı insanların neden adeta bir \"sivrisinek mıknatısı\" gibi çalıştığını biyolojik ve genetik faktörlerle açıklıyor.",
+    "article": "<p>Sivrisinekler dünyadaki en rahatsız edici canlılardan biri olarak kabul edilir, ancak şaşırtıcı bir gerçek vardır: Onlar herkesi eşit derecede çekici bulmazlar. Araştırmalar, insanların yaklaşık <strong>yüzde 10'unun</strong> sivrisinekler için özellikle çekici olduğunu ve bu durumun tesadüf olmadığını ortaya koyuyor.</p><h3>Nefesinizdeki Karbondioksit Bir İşaret Fişeği</h3><p>Sivrisineklerin bir kurbanı bulmak için kullandıkları ilk ve en önemli ipucu <strong>karbondioksit (CO2)</strong> gazıdır. İnsanlar nefes alıp verirken dışarıya CO2 salarlar ve sivrisinekler bu gazı metrelerce öteden algılayabilirler. Daha büyük yapılı bireyler, hamileler veya yoğun fiziksel egzersiz yapmış kişiler nefesleri yoluyla daha fazla CO2 açığa çıkardıkları için sivrisineklerin radarına daha kolay girerler.</p><h3>Cildinizdeki Kimyasal Kokular</h3><p>Sivrisinekler sadece karbondioksite değil, cildimizin yaydığı eşsiz kokuya da duyarlıdır. Terimizle atılan <strong>laktik asit, amonyak ve ürik asit</strong> gibi maddeler, cildimizdeki bakteri florasıyla etkileşime girdiğinde sivrisinekler için oldukça çekici bir koku profili oluşturur. Özellikle cildinde daha yüksek seviyede karboksilik asit bulunan kişiler, böceklerin en sevdiği kokuyu yayarlar.</p><h3>Değiştiremeyeceğiniz Faktörler: Genetik ve Kan Grubu</h3><ul><li><strong>Genetik Etkenler:</strong> Çalışmalar, sivrisinek ısırıklarına karşı hassasiyetimizin %85 oranında genetik faktörlere bağlı olduğunu göstermektedir.</li><li><strong>Kan Grubu:</strong> Bazı araştırmalar 0 kan grubuna sahip bireylerin, sivrisinekler tarafından diğer kan gruplarına kıyasla biraz daha fazla tercih edilebildiğini öne sürmektedir.</li><li><strong>Vücut Isısı:</strong> Daha yüksek vücut sıcaklığına sahip kişiler, sivrisinekleri cezbeden bir başka biyolojik sinyal verirler.</li></ul><p>Sonuç olarak, sivrisineklerin kimi ısırmaya karar vermesi; soluduğunuz hava, cildinizdeki mikrobiyota ve DNA'nızın birleşimiyle oluşan karmaşık bir süreçtir. Parfümlerden ziyade vücudun doğal kimyası bu küçük canlılar için belirleyici olmaya devam etmektedir.</p>",
+    "category": "bilim",
+    "sourceName": "TÜBİTAK Bilim Genç",
+    "sourceUrl": "https://bilimgenc.tubitak.gov.tr/makale/neden-sivrisinekler-bazi-insanlari-daha-cok-isirir",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Sivrisineklerin bir kurbanı uzaktan tespit etmek için kullandığı ana gaz aşağıdakilerden hangisidir?",
+        "options": [
+          "Oksijen",
+          "Karbondioksit",
+          "Azot",
+          "Metan"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Sivrisinekler, insanların nefes verirken açığa çıkardığı karbondioksit (CO2) gazını algılayarak kurbanlarını bulurlar."
+      },
+      {
+        "id": 2,
+        "text": "Makaleye göre bir kişinin sivrisinekleri çekme eğiliminin ne kadarı genetik faktörlerle ilişkilidir?",
+        "options": [
+          "Yaklaşık %10",
+          "Yaklaşık %50",
+          "Yaklaşık %85",
+          "Tamamı"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Araştırmalar, sivrisinek ısırıklarına karşı hassasiyetin %85 oranında genetik etkenlere bağlı olduğunu göstermektedir."
+      },
+      {
+        "id": 3,
+        "text": "Sivrisinekler için çekici olan terle atılan maddelerden biri hangisidir?",
+        "options": [
+          "Laktik asit",
+          "Glikoz",
+          "Kalsiyum",
+          "Demir"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Laktik asit, ürik asit ve amonyak gibi maddeler terle atıldığında sivrisineklerin dikkatini çeker."
+      },
+      {
+        "id": 4,
+        "text": "Sadece hangi sivrisinekler insanları ısırır?",
+        "options": [
+          "Sadece erkekler",
+          "Sadece dişiler",
+          "Hem erkekler hem dişiler",
+          "Yalnızca larva dönemindekiler"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Sadece dişi sivrisinekler yumurtalarının gelişimi için gerekli olan proteini sağlamak amacıyla kan emerler."
+      }
+    ]
   }
 ];
