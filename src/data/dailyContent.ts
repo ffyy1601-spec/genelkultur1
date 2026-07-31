@@ -5377,5 +5377,75 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Sadece dişi sivrisinekler yumurtalarının gelişimi için gerekli olan proteini sağlamak amacıyla kan emerler."
       }
     ]
+  },
+  {
+    "slug": "gunes-isigi-hapsirmanizi-mi-tetikliyor-iste-achoo-sendromunun-bilimsel-nedeni",
+    "dateId": "2026-07-31T19:00:00+03:00",
+    "imageUrl": "/images/news/gunes-isigi-hapsirmanizi-mi-tetikliyor-iste-achoo-sendromunun-bilimsel-nedeni.webp",
+    "title": "Güneşe Bakınca Neden Hapşırırsınız? ACHOO Sendromu Gerçeği",
+    "description": "Parlak ışığa maruz kaldığınızda hapşırmanız tesadüf değil. Bilimsel adıyla fotik hapşırma refleksi veya ACHOO sendromunun ardındaki gizemi keşfedin.",
+    "keywords": [
+      "fotik hapşırma refleksi",
+      "ACHOO sendromu",
+      "güneş hapşırması",
+      "hapşırma nedeni",
+      "genetik refleksler"
+    ],
+    "heading": "Güneş Işığı Hapşırmanızı mı Tetikliyor? İşte 'ACHOO' Sendromunun Bilimsel Nedeni",
+    "intro": "Karanlık bir odadan çıkıp aniden güneş ışığına maruz kaldığınızda kontrolsüzce hapşırmaya başlıyorsanız, yalnız değilsiniz. Bu duruma bilim dünyasında 'fotik hapşırma refleksi' deniyor ve dünya nüfusunun yaklaşık %18 ila %35'ini etkiliyor.",
+    "article": "<p>Güneşe baktığınızda hapşırmanızın altında yatan neden, burnunuza kaçan toz veya polenler gibi basit bir tahriş edici madde değildir. Bu durum, beyindeki sinir devrelerinin beklenmedik bir şekilde 'çapraz konuşma' yapmasından kaynaklanan genetik bir özelliktir.</p><h3>ACHOO Sendromu Nedir?</h3><p>Tıbbi literatürde bu duruma <strong>Autosomal Dominant Compelling Helio-Ophthalmic Outburst</strong>, yani kısaca <strong>ACHOO</strong> sendromu adı verilir. İsminin baş harflerinin İngilizce'deki hapşırma sesi olan 'achoo' ile uyumlu olması ise oldukça manidardır. Bu refleks, genellikle parlak ışığa ani bir geçiş yapıldığında tetiklenir; yani sorun ışığın türünden ziyade ışık şiddetindeki ani değişimdir.</p><h3>Beyindeki Sinirsel Karmaşa</h3><p>Bilim insanlarının üzerinde en çok durduğu teoriye göre, gözlerimize gelen yoğun ışık optik sinirlerimizi uyarır. Görme sinirlerimiz, yüzümüzdeki duyusal algılamadan ve hapşırma refleksini tetikleyen sinyallerden sorumlu olan <strong>trigeminal sinire</strong> çok yakın konumdadır. Yoğun ışıkla tetiklenen optik sinirlerdeki aşırı uyarılma, bu sinyallerin yanındaki trigeminal sinire 'sıçramasına' neden olabilir. Beyin, bu çapraz sinyali burunda bir tahriş varmış gibi yorumlar ve vücudu arındırmak için hapşırma komutu verir.</p><h3>Genetik Bir Miras mı?</h3><p>Fotik hapşırma refleksi, <strong>otozomal dominant</strong> yani baskın bir genetik geçiş özelliği gösterir. Eğer anne veya babanızdan biri bu özelliğe sahipse, sizin de bu durumu yaşama ihtimaliniz %50 civarındadır. Aristoteles gibi antik çağ filozofları bile bu durumu gözlemlemiş ve güneşin burun sıvılarını kuruttuğu gibi çeşitli teoriler öne sürmüştür; ancak modern nöroloji, olayın tamamen sinir sistemindeki ilginç bir bağlantı hatasından kaynaklandığını kanıtlamıştır.</p><ul><li>Refleks, bebeklerde bile görülebilir, bu da sonradan öğrenilen bir durum olmadığını gösterir.</li><li>Bazı kişilerde tek bir hapşırma ile sınırlı kalırken, bazıları art arda defalarca hapşırabilir.</li><li>Sürücüler için tünelden çıkış gibi durumlarda riskli olabilse de genellikle zararsız bir refleks olarak kabul edilir.</li></ul>",
+    "category": "bilim",
+    "sourceName": "TÜBİTAK Bilim Genç",
+    "sourceUrl": "https://bilimgenc.tubitak.gov.tr/makale/gunese-baktigimizda-neden-hapsiririz",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Fotik hapşırma refleksi (ACHOO sendromu) ne zaman ortaya çıkar?",
+        "options": [
+          "Sadece tozlu ortamlarda",
+          "Ani bir şekilde parlak ışığa maruz kalındığında",
+          "Uyku halindeyken",
+          "Çok acı yemek yendiğinde"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Bu refleks genellikle karanlık bir ortamdan aniden parlak bir ışık kaynağına (güneş gibi) geçildiğinde ortaya çıkar."
+      },
+      {
+        "id": 2,
+        "text": "Bilim insanları bu refleksin temel nedenini hangi sinirler arasındaki etkileşimle açıklar?",
+        "options": [
+          "Optik sinir ve trigeminal sinir",
+          "İşitme siniri ve optik sinir",
+          "Motor nöronlar ve tat sinirleri",
+          "Trigeminal sinir ve işitme siniri"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Optik sinirlerin aşırı uyarılmasının, burnun duyusal sinirleri olan trigeminal siniri tetiklediği düşünülmektedir."
+      },
+      {
+        "id": 3,
+        "text": "ACHOO sendromu genetik olarak nasıl aktarılır?",
+        "options": [
+          "Sadece anneden geçer",
+          "Beslenme alışkanlıkları ile sonradan kazanılır",
+          "Otozomal dominant (baskın) olarak geçer",
+          "Genetik bir temeli yoktur"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bu durum otozomal dominant bir genetik geçiş özelliği gösterir; yani ebeveynlerden birinde varsa çocuğa geçme ihtimali %50'dir."
+      },
+      {
+        "id": 4,
+        "text": "ACHOO sendromundaki 'ACHOO' kısaltması ne anlama gelir?",
+        "options": [
+          "Güneş alerjisinin tıbbi ismi",
+          "Autosomal Dominant Compelling Helio-Ophthalmic Outburst",
+          "Artık Çok Hızlı Olduğu için Oluyor",
+          "Akut Çevresel Hapşırma Olayı"
+        ],
+        "correctAnswer": 1,
+        "explanation": "ACHOO, 'Autosomal Dominant Compelling Helio-Ophthalmic Outburst' ifadesinin baş harflerinden oluşan, hapşırma sesiyle uyumlu tıbbi bir kısaltmadır."
+      }
+    ]
   }
 ];

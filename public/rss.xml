@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 31 Jul 2026 11:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 16:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Güneş Işığı Hapşırmanızı mı Tetikliyor? İşte &apos;ACHOO&apos; Sendromunun Bilimsel Nedeni</title>
+      <link>https://genelkultur.com.tr/test/gunes-isigi-hapsirmanizi-mi-tetikliyor-iste-achoo-sendromunun-bilimsel-nedeni</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/gunes-isigi-hapsirmanizi-mi-tetikliyor-iste-achoo-sendromunun-bilimsel-nedeni</guid>
+      <pubDate>Fri, 31 Jul 2026 16:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Karanlık bir odadan çıkıp aniden güneş ışığına maruz kaldığınızda kontrolsüzce hapşırmaya başlıyorsanız, yalnız değilsiniz. Bu duruma bilim dünyasında &apos;fotik hapşırma refleksi&apos; deniyor ve dünya nüfusunun yaklaşık %18 ila %35&apos;ini etkiliyor.</description>
+    </item>
     <item>
       <title>Sivrisinekler Sizi Neden Diğerlerinden Daha Çok Seviyor?</title>
       <link>https://genelkultur.com.tr/test/sivrisinekler-sizi-neden-digerlerinden-daha-cok-seviyor</link>
@@ -158,14 +166,6 @@
       <pubDate>Tue, 21 Jul 2026 16:00:00 GMT</pubDate>
       <category>bilim</category>
       <description>Gözlerinizi sıkıca kapattığınızda veya hafifçe ovuşturduğunuzda, karanlıkta aniden beliren renkli ışık kümeleri, zikzaklar veya parlayan noktalar gördünüz mü? Bilim dünyasında &apos;fosfen&apos; olarak adlandırılan bu büyüleyici görüntüler, aslında dışarıdan gelen bir ışık kaynağı olmaksızın beyninizin görme duyusunu deneyimlemesidir.</description>
-    </item>
-    <item>
-      <title>Bir Esneme Neden Tüm Odayı Ele Geçirir? Beyninizin Şaşırtıcı Sosyal Refleksi</title>
-      <link>https://genelkultur.com.tr/test/bir-esneme-neden-tum-odayi-ele-gecirir-beyninizin-sasirtici-sosyal-refleksi</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/bir-esneme-neden-tum-odayi-ele-gecirir-beyninizin-sasirtici-sosyal-refleksi</guid>
-      <pubDate>Tue, 21 Jul 2026 10:00:00 GMT</pubDate>
-      <category>bilim</category>
-      <description>Yanınızdaki birinin esnediğini gördüğünde, zihniniz ona engel olmaya çalışsa da genellikle başarılı olamazsınız. Bu istemsiz &apos;bulaşma&apos; hali, aslında beyninizin sosyal bağ kurmak için kullandığı derin bir mekanizmanın parçasıdır.</description>
     </item>
   </channel>
 </rss>
