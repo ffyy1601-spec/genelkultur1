@@ -44,4 +44,15 @@
       <news:title>Kediler Neden Sadece İnsanlara Miyavlar? Doğanın En Büyük İletişim Stratejisi</news:title>
     </news:news>
   </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/cocukken-yillar-neden-bir-omur-gibiydi-zamanin-hizlanma-gizemi/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-01T15:00:00.000Z</news:publication_date>
+      <news:title>Çocukken Yıllar Neden Bir Ömür Gibiydi? Zamanın Hızlanma Gizemi</news:title>
+    </news:news>
+  </url>
 </urlset>

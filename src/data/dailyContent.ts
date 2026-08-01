@@ -5517,5 +5517,75 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Evcil kediler, insanlarla beraber yaşamanın getirdiği bir adaptasyon olarak vahşi kedilere kıyasla çok daha fazla sesli iletişim (miyavlama) kurarlar."
       }
     ]
+  },
+  {
+    "slug": "cocukken-yillar-neden-bir-omur-gibiydi-zamanin-hizlanma-gizemi",
+    "dateId": "2026-08-01T18:00:00+03:00",
+    "imageUrl": "/images/news/cocukken-yillar-neden-bir-omur-gibiydi-zamanin-hizlanma-gizemi.webp",
+    "title": "Yaşlandıkça Zaman Neden Daha Hızlı Geçer? | Bilim ve Yaşam",
+    "description": "Çocukken bitmek bilmeyen yaz tatillerinin aksine yetişkinlikte yıllar neden göz açıp kapayıncaya kadar geçiyor? Zamanın hızlanma gizemini bilimsel verilerle keşfedin.",
+    "keywords": [
+      "zaman algısı",
+      "psikoloji",
+      "nörobilim",
+      "yaşlanma",
+      "zaman neden hızlı geçer"
+    ],
+    "heading": "Çocukken Yıllar Neden Bir Ömür Gibiydi? Zamanın Hızlanma Gizemi",
+    "intro": "Çocukluk yıllarınızda yaz tatillerinin bitmek bilmediğini, ancak bugünlerde aylar hatta yılların adeta bir göz kırpması kadar hızlı geçtiğini mi düşünüyorsunuz? Yalnız değilsiniz; bu durum sadece bir his değil, nörobilimsel ve psikolojik süreçlerle açıklanan büyüleyici bir zihin oyunudur.",
+    "article": "<p>Zamanın yaşlandıkça hızlandığı hissi, 1890'larda filozof ve psikolog <strong>William James</strong> tarafından ilk kez dile getirildiğinden beri bilim dünyasının en çok tartıştığı konulardan biridir. Modern nörobilim araştırmaları, zamanın fiziksel olarak hızlanmadığını, ancak beynimizin dünyayı işleme biçiminin yıllar geçtikçe kökten değiştiğini ortaya koyuyor.</p><h3>Yeni Deneyimlerin \"HD\" Etkisi</h3><p>Çocukluk döneminde beynimiz için dünya tamamen yeni bir yerdir. Her yeni manzara, ses ve deneyim, beynin yoğun bir enerji harcayarak bilgiyi detaylıca kaydetmesine neden olur. Bir çocuk için her gün, belleğinde çok daha fazla yer tutan \"yüksek çözünürlüklü\" anılarla doludur. Araştırmalar, beynin <strong>yeni ve alışılmadık deneyimleri</strong> daha zengin bir şekilde kodladığını, bu nedenle geçmişe bakıldığında o dönemlerin daha uzun algılandığını göstermektedir.</p><h3>Rutinlerin \"Otomatik Pilot\" Tuzağı</h3><p>Yetişkinliğe adım attığımızda, günlük hayatımız genellikle işe gidip gelmek, yemek yemek ve uyumak gibi birbirinin tekrarı olan rutinlerle dolar. Beyin, alıştığı ve öngörülebilir olan bu rutin işleri \"otomatik pilot\" moduna alır. Rutinleşen bir hayatta beyin, yeni veriler işlemediği için bu zaman dilimlerini daha az detayla kaydeder. Sonuç olarak, geriye dönüp baktığınızda aylar, sanki hiçbir şey yaşanmamış gibi bir film şeridi hızında geçip gitmiş gibi görünür.</p><h3>Nörolojik Bir Değişim: Beyin Saatimiz</h3><p>Bazı bilimsel teoriler, yaşla birlikte nöral ağların karmaşıklaştığına ve elektriksel sinyallerin iletim hızının değiştiğine işaret eder. Bu teoriye göre, beynin görsel bilgiyi işleme hızı yaşlandıkça yavaşlayabilir; bu da dış dünyayı daha \"yavaş\" bir kare hızıyla (frame-rate) algılamamıza ve dolayısıyla zamanın daha çabuk akıyormuş gibi hissedilmesine yol açabilir.</p><ul><li><strong>Farklılık Arayın:</strong> Rutini kırmak, zamanı yavaşlatmanın en etkili yoludur. Yeni bir hobi, farklı bir güzergah veya yeni bir beceri öğrenmek beyninizi yeniden \"aktif kayıt\" moduna geçirir.</li><li><strong>Bilinçli Farkındalık:</strong> Anda kalmak, hafızanın o anı daha canlı işlemesini sağlar.</li><li><strong>Deneyim Çeşitliliği:</strong> Hayatınıza ne kadar çok yeni deneyim eklerseniz, zihniniz zamanı o kadar \"uzun\" ve dolu bir süreç olarak kaydedecektir.</li></ul>",
+    "category": "bilim",
+    "sourceName": "TÜBİTAK Bilim Genç",
+    "sourceUrl": "https://bilimgenc.tubitak.gov.tr/makale/yaslandikca-zaman-neden-daha-hizli-gecer",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Bilim insanlarına göre, çocukluk döneminde zamanın yetişkinliğe göre daha yavaş geçiyormuş gibi hissedilmesinin temel nedeni nedir?",
+        "options": [
+          "Dünyanın o dönemde daha yavaş dönmesi",
+          "Her deneyimin yeni olması ve beynin bunları detaylı işlemesi",
+          "Çocukların daha az uyuması",
+          "Fiziksel olarak daha hızlı büyümeleri"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Çocuklukta her deneyim yeni olduğu için beyin bu bilgileri daha detaylı ve zengin kaydeder, bu da zamanın daha yavaş geçtiği hissini oluşturur."
+      },
+      {
+        "id": 2,
+        "text": "Rutin bir hayat sürmenin zaman algısı üzerindeki etkisi nasıldır?",
+        "options": [
+          "Zamanın daha yavaş akmasına neden olur",
+          "Hafızayı güçlendirerek zamanı durdurur",
+          "Zamanın çok daha hızlı akıyormuş gibi hissedilmesine yol açar",
+          "Zaman algısını tamamen yok eder"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Rutin işlerde beyin 'otomatik pilot' moduna geçer ve bilgiyi detaylı kaydetmez, bu da zamanın hızla geçtiği hissine neden olur."
+      },
+      {
+        "id": 3,
+        "text": "Makaleye göre, yaşlandıkça zamanın daha hızlı geçtiği hissini kırmak için en iyi yöntem nedir?",
+        "options": [
+          "Daha az uyumak",
+          "Geçmişi daha sık düşünmek",
+          "Hayata yeni deneyimler ve değişiklikler katmak",
+          "Sadece çalışmaya odaklanmak"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Rutinleri kırmak, yeni hobilere başlamak ve keşifler yapmak beyni aktif tutarak zaman algısını yavaşlatır."
+      },
+      {
+        "id": 4,
+        "text": "Nörobilimsel yaklaşımlardan biri olan 'nöral işleme' teorisi, zamanın hızlanmasını neye bağlar?",
+        "options": [
+          "Beyindeki nöral ağların karmaşıklaşması ve sinyal iletimindeki değişimlere",
+          "Daha fazla yemek yeme alışkanlıklarına",
+          "Kullanılan dijital cihazların ekran parlaklığına",
+          "İnsanın daha çok yaşlanma korkusu hissetmesine"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Bazı teoriler, yaşla birlikte beyindeki sinir ağlarının karmaşıklaştığını ve sinyal işleme hızının değişerek algıyı etkilediğini savunur."
+      }
+    ]
   }
 ];
