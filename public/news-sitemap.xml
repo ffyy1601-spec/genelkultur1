@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://genelkultur.com.tr/test/parmaklariniz-suda-neden-burusuyor-sandiginizin-aksine-bu-bir-su-emme-olayi-degil/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenelKültür Haber</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-30T10:00:00.000Z</news:publication_date>
-      <news:title>Parmaklarınız Suda Neden Buruşuyor? Sandığınızın Aksine Bu Bir &apos;Su Emme&apos; Olayı Değil!</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://genelkultur.com.tr/test/damarlarimizdaki-kadim-sir-kan-gruplarimiz-neden-birbirinden-farkli/</loc>
     <news:news>
       <news:publication>
@@ -42,6 +31,17 @@
       </news:publication>
       <news:publication_date>2026-07-31T16:00:00.000Z</news:publication_date>
       <news:title>Güneş Işığı Hapşırmanızı mı Tetikliyor? İşte &apos;ACHOO&apos; Sendromunun Bilimsel Nedeni</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/kediler-neden-sadece-insanlara-miyavlar-doganin-en-buyuk-iletisim-stratejisi/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-01T10:00:00.000Z</news:publication_date>
+      <news:title>Kediler Neden Sadece İnsanlara Miyavlar? Doğanın En Büyük İletişim Stratejisi</news:title>
     </news:news>
   </url>
 </urlset>

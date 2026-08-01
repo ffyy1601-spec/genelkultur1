@@ -5447,5 +5447,75 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "ACHOO, 'Autosomal Dominant Compelling Helio-Ophthalmic Outburst' ifadesinin baş harflerinden oluşan, hapşırma sesiyle uyumlu tıbbi bir kısaltmadır."
       }
     ]
+  },
+  {
+    "slug": "kediler-neden-sadece-insanlara-miyavlar-doganin-en-buyuk-iletisim-stratejisi",
+    "dateId": "2026-08-01T13:00:00+03:00",
+    "imageUrl": "/images/news/kediler-neden-sadece-insanlara-miyavlar-doganin-en-buyuk-iletisim-stratejisi.webp",
+    "title": "Kediler Neden Sadece İnsanlara Miyavlar? | Bilim Dünyası",
+    "description": "Kedilerin birbirlerine değil de neden özellikle insanlara miyavladığını biliyor muydunuz? Evcil dostlarımızın bu şaşırtıcı iletişim stratejisinin arkasındaki bilimsel gerçekler.",
+    "keywords": [
+      "kedi davranışları",
+      "kedi miyavlaması",
+      "evcil hayvanlar",
+      "kedi iletişimi",
+      "hayvan bilimi"
+    ],
+    "heading": "Kediler Neden Sadece İnsanlara Miyavlar? Doğanın En Büyük İletişim Stratejisi",
+    "intro": "Evcil kediniz gün içinde sizinle uzun uzun miyavlaşırken, dışarıdaki diğer kedilerin birbirleriyle neredeyse hiç sesli iletişim kurmadığını hiç fark ettiniz mi? Aslında kedilerin bu sesli dili, sadece biz insanlarla kurdukları özel bağı yönetmek için geliştirdikleri bir 'evrimsel manipülasyon' aracıdır.",
+    "article": "<p>Kediler, vahşi doğadaki atalarından farklı olarak evcilleşme sürecinde kendi iletişim yöntemlerini yeniden şekillendirmişlerdir. Yavru kediler, annelerinin dikkatini çekmek ve ihtiyaçlarını (açlık, üşüme, tehlike) bildirmek için miyavlarlar. Ancak yetişkinliğe ulaştıklarında bu sesi kullanmayı genellikle bırakırlar. Evcil kedilerde ise bu 'bebeklik refleksi' ömür boyu sürer çünkü bizi, yani insanları, yaşamları boyunca bakım sağlayan devasa 'yetişkin ebeveynleri' olarak görürler.</p><h3>Neden Sadece Bize Sesleniyorlar?</h3><p>Yetişkin kediler kendi aralarında genellikle koku, vücut dili ve dokunuş yoluyla iletişim kurarlar. Sesli iletişim (miyavlama), doğada yetişkin kediler arasında nadir bir durumdur. Ancak kediler, insanların koku alma veya ince vücut dili sinyallerini anlamakta çok zayıf olduğumuzu zamanla öğrenmişlerdir. Onlar için miyavlamak, bizim dikkatimizi çekmenin ve hayatta kalma ihtiyaçlarımızı karşılatmanın en etkili yoludur. Araştırmalar, kedilerin <strong>'talep mırıltısı'</strong> ve farklı miyav tonları geliştirerek, mama kabının boşalması veya ilgi ihtiyacı gibi durumlar için insanları nasıl 'eğittiklerini' ortaya koymaktadır.</p><h3>İletişim Kurmayı Öğrenen Bir Zeka</h3><p>Birçok kedi sahibi, kedisinin kendisine özel bir miyavlama stili olduğunu fark etmiştir. Bu durum tesadüf değildir; kediler, evdeki hangi insanın daha hızlı tepki verdiğini veya hangi sesin daha çabuk yemek getirdiğini öğrenirler. Yani kedinizin size özel miyavlaması, sizinle kurduğu <strong>özel bir diyalog dilidir</strong>. Eğer kediniz size çok fazla miyavlıyorsa, bu sadece ilgi istediği anlamına gelmeyebilir; aynı zamanda sizinle kurduğu bu sosyal bağın bir parçasıdır.</p><ul><li><strong>İlgi Arayışı:</strong> Oyun oynamak veya sevilmek istediklerinde başvurdukları yöntemdir.</li><li><strong>İstek Bildirme:</strong> Açlık, su ihtiyacı veya kapı açılması gibi somut taleplerde miyavlama daha vurguludur.</li><li><strong>Evrimsel Adaptasyon:</strong> İnsanlarla yaşamaya uyum sağlayan kediler, vahşi kedilere göre çok daha fazla sesli iletişim kurarlar.</li></ul><p>Sonuç olarak miyavlama, kedinizin size olan güveninin ve sizi kendi dünyasının merkezi olarak konumlandırdığının bir göstergesidir. Onlar için bu ses, evdeki 'tüysüz dev' olan sizle konuşmanın en kısa yoludur.</p>",
+    "category": "bilim",
+    "sourceName": "Arkeofili",
+    "sourceUrl": "https://arkeofili.com/kediler-neden-miyavlar/",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Kediler miyavlamayı vahşi doğada yetişkinlik döneminde birbirlerine karşı nasıl kullanırlar?",
+        "options": [
+          "Sürekli olarak sesli iletişim kurarlar",
+          "Genellikle miyavlamazlar, vücut dili ve kokuyu tercih ederler",
+          "Sadece avlanırken miyavlar",
+          "Sadece tehlike anında miyavlarlar"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Yetişkin kediler kendi aralarında genellikle koku ve vücut diliyle iletişim kurarlar, miyavlama yetişkinler arası bir yöntem değildir."
+      },
+      {
+        "id": 2,
+        "text": "Kedilerin insanlara miyavlamasının temel evrimsel sebebi nedir?",
+        "options": [
+          "İnsanları sadece oyun arkadaşı olarak görmeleri",
+          "İnsanların kedi dilinden anlamaması",
+          "Yavruyken annelerine ihtiyaçlarını bildirmek için kullandıkları bir yöntemi insanlara uyarlamaları",
+          "İnsanların sadece miyav sesine tepki vermesi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kediler, yavruyken annelerine seslenmek için kullandıkları miyavlama davranışını, evcilleşme sürecinde insanlarla iletişim kurmak için bir strateji olarak korumuşlardır."
+      },
+      {
+        "id": 3,
+        "text": "Makaleye göre, kedilerin insanları 'eğitmesi' ne anlama gelmektedir?",
+        "options": [
+          "Kedilerin insanlara numaralar öğretmesi",
+          "Kedilerin hangi miyavlamanın daha hızlı sonuç (mama/ilgi) verdiğini öğrenip uygulaması",
+          "İnsanların kedi davranışlarını taklit etmesi",
+          "Kedilerin insanları yöneterek onlara kedi dili öğretmesi"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Kediler, insanların hangi durumlara daha hızlı tepki verdiğini gözlemleyerek miyavlama tonlarını veya sıklıklarını taleplerine göre uyarlarlar."
+      },
+      {
+        "id": 4,
+        "text": "Evcil kediler ile vahşi kediler arasındaki temel fark nedir?",
+        "options": [
+          "Evcil kediler daha çok yemek yer",
+          "Evcil kediler daha az miyavlar",
+          "Evcil kediler insanlarla iletişim kurmak için miyavlamayı geliştirmişlerdir",
+          "Vahşi kediler insanlar gibi konuşabilir"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Evcil kediler, insanlarla beraber yaşamanın getirdiği bir adaptasyon olarak vahşi kedilere kıyasla çok daha fazla sesli iletişim (miyavlama) kurarlar."
+      }
+    ]
   }
 ];
