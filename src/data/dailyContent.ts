@@ -5657,5 +5657,76 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Saat ustaları, insanların zamanı takip etme alışkanlıklarını değiştirmemek için güneş saatlerinin çalışma prensibini baz almıştır."
       }
     ]
+  },
+  {
+    "slug": "gozleriniz-sizi-ihanetle-sucluyor-mu-yalan-ve-goz-hareketi-efsanesinin-bilimsel-yuzu",
+    "dateId": "2026-08-02T18:00:00+03:00",
+    "imageUrl": "/images/news/gozleriniz-sizi-ihanetle-sucluyor-mu-yalan-ve-goz-hareketi-efsanesinin-bilimsel-yuzu.webp",
+    "title": "Göz Hareketleri Yalanı Ele Verir mi? | Bilim ve Psikoloji",
+    "description": "Yalan söyleyen kişinin gözlerini sağa sola kaydırdığı efsanesini bilimsel açıdan inceliyoruz. Göz hareketleri gerçekten yalanı ele verir mi?",
+    "keywords": [
+      "göz hareketleri",
+      "yalan tespiti",
+      "NLP",
+      "beden dili",
+      "psikoloji",
+      "bilimsel gerçekler"
+    ],
+    "heading": "Gözleriniz Sizi İhanetle Suçluyor mu? Yalan ve Göz Hareketi Efsanesinin Bilimsel Yüzü",
+    "intro": "Birinin yalan söylediğini anlamak için gözlerini sağa ya da sola kaydırmasını beklemenin yaygın bir yöntem olduğunu duymuşsunuzdur. Ancak modern bilimsel araştırmalar, bu popüler inanışın aslında gerçeği yansıtmadığını gösteriyor.",
+    "article": "<p>Popüler kültürde ve hatta bazı iletişim eğitimlerinde, bir kişinin gözlerini sağa kaydırmasının kurgulanmış bir bilgiye (yalan), sola kaydırmasının ise hatırlanan bir anıya (gerçek) işaret ettiği sıklıkla savunulur. Bu iddia, büyük ölçüde <strong>Nöro-Linguistik Programlama (NLP)</strong> tekniklerine dayanır. Ancak bu teorinin bilimsel geçerliliği oldukça tartışmalıdır.</p><h3>Bilim Ne Diyor?</h3><p>Psikologlar ve beden dili uzmanları tarafından yapılan kapsamlı araştırmalar, yalan söylemek ile belirli bir yöne bakmak arasında doğrudan ve tutarlı bir bağlantı olmadığını ortaya koymuştur. Örneğin, <strong>2012 yılında gerçekleştirilen üç farklı deney</strong>, doğruyu söyleyenler ile yalan söyleyenlerin göz hareketleri arasında istatistiksel olarak anlamlı bir fark bulunmadığını kanıtlamıştır. Dolayısıyla, birinin sadece gözlerine bakarak yalan söylediğini anlamak bilimsel temellere dayanmayan bir varsayımdır.</p><h3>Gözlerimiz Neden Hareket Eder?</h3><p>Düşünürken gözlerimizi hareket ettirmemiz, aslında beynimizin bilgi işleme süreciyle ilgilidir. İnsan beyni, karmaşık bir soruyu yanıtlamaya çalışırken veya bir anıya ulaşmaya uğraşırken yoğun bir işlem gücü kullanır. Bu sırada gözlerimizi başka bir yöne çevirmek, çevreden gelen görsel dikkat dağıtıcıları azaltmaya yarayan <strong>bilinçaltı bir mekanizmadır</strong>. Yani, aslında beynimiz işlem yaparken dış dünyayı \"görmezden gelmek\" için odağını değiştirir.</p><h3>Yalanı Yakalamak İçin Daha Güvenilir Yollar</h3><p>Uzmanlar, yalan tespiti konusunda göz hareketlerine odaklanmak yerine şu noktalara dikkat çekmektedir:<ul><li><strong>Taban Çizgisi Analizi:</strong> Kişinin normal iletişim halindeki davranışlarını (konuşma hızı, ses tonu, jestler) bilmek, stres altındaki sapmaları fark etmeyi kolaylaştırır.</li><li><strong>Sözel Tereddütler:</strong> Yalan söylemek, doğruyu söylemekten daha fazla zihinsel çaba gerektirdiği için kişi konuşurken daha fazla tereddüt edebilir veya duraksayabilir.</li><li><strong>Beden Dili Tutarsızlığı:</strong> Sözler ile vücut hareketleri arasındaki uyumsuzluk, göz hareketlerinden çok daha güvenilir bir göstergedir.</li></ul><p>Sonuç olarak, gözleriniz belki kalbinizin aynası olabilir ancak yalan söyleyip söylemediğinizi belirleyen güvenilir bir pusula değillerdir. Bir sonraki iletişiminizde, karşınızdakinin gözlerini nereye çevirdiğine odaklanmak yerine, söylediklerinin tutarlılığına dikkat etmek çok daha gerçekçi sonuçlar verecektir.</p>",
+    "category": "bilim",
+    "sourceName": "TÜBİTAK Bilim Genç",
+    "sourceUrl": "https://bilimgenc.tubitak.gov.tr/makale/neden-dusunurken-gozlerimiz-hareket-eder",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Göz hareketlerinin yalan tespitiyle ilişkisini savunan popüler teori hangi alana dayanır?",
+        "options": [
+          "Psikanaliz",
+          "Nöro-Linguistik Programlama (NLP)",
+          "Bilişsel Davranışçı Terapi",
+          "Fizyonomi"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Bu popüler inanış, büyük ölçüde NLP'nin 'göz erişim ipuçları' teorisine dayanmaktadır."
+      },
+      {
+        "id": 2,
+        "text": "Bilimsel araştırmalara göre, sağa veya sola bakmak yalan söylemenin kanıtı mıdır?",
+        "options": [
+          "Evet, bilimsel olarak kanıtlanmıştır.",
+          "Sadece sağ elini kullananlarda geçerlidir.",
+          "Hayır, yalan ile göz hareketleri arasında kanıtlanmış bir bağ yoktur.",
+          "Sadece çocuklarda geçerli bir yöntemdir."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Yapılan araştırmalar, yalan söyleyenler ve doğruyu söyleyenler arasında göz hareketi yönü açısından bir fark olmadığını göstermektedir."
+      },
+      {
+        "id": 3,
+        "text": "Düşünürken gözlerimizi hareket ettirmemizin temel nedeni nedir?",
+        "options": [
+          "Yalan söyleme hazırlığı yapmak.",
+          "Karşımızdakini yanıltmak.",
+          "Beynin işleme yükünü yönetmek ve görsel dikkat dağıtıcıları azaltmak.",
+          "Göz kaslarını dinlendirmek."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Düşünürken göz hareketleri, beynin yoğun bilgi işleme sürecinde dış dünyadan gelen görsel uyaranları göz ardı etme çabasıdır."
+      },
+      {
+        "id": 4,
+        "text": "Birinin yalan söylediğini anlamak için hangi yöntem göz hareketlerine göre daha güvenilirdir?",
+        "options": [
+          "Kişinin normal davranış taban çizgisindeki sapmaları incelemek.",
+          "Sadece göz kırpma sıklığına bakmak.",
+          "Kişinin hangi elini kullandığını öğrenmek.",
+          "Kişinin sürekli olarak tavana bakmasını beklemek."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Uzmanlar, yalanı anlamak için kişinin normal iletişim alışkanlıklarından sapan tepkileri incelemenin (taban çizgisi analizi) daha güvenilir olduğunu belirtir."
+      }
+    ]
   }
 ];

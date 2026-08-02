@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://genelkultur.com.tr/test/sivrisinekler-sizi-neden-digerlerinden-daha-cok-seviyor/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenelKültür Haber</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-31T11:00:00.000Z</news:publication_date>
-      <news:title>Sivrisinekler Sizi Neden Diğerlerinden Daha Çok Seviyor?</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://genelkultur.com.tr/test/gunes-isigi-hapsirmanizi-mi-tetikliyor-iste-achoo-sendromunun-bilimsel-nedeni/</loc>
     <news:news>
       <news:publication>
@@ -53,6 +42,17 @@
       </news:publication>
       <news:publication_date>2026-08-02T10:00:00.000Z</news:publication_date>
       <news:title>Saatler Neden Soldan Sağa Döner? Cevap Sandığınızdan Daha Eski</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/gozleriniz-sizi-ihanetle-sucluyor-mu-yalan-ve-goz-hareketi-efsanesinin-bilimsel-yuzu/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-02T15:00:00.000Z</news:publication_date>
+      <news:title>Gözleriniz Sizi İhanetle Suçluyor mu? Yalan ve Göz Hareketi Efsanesinin Bilimsel Yüzü</news:title>
     </news:news>
   </url>
 </urlset>

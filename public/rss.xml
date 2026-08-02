@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 02 Aug 2026 10:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 15:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Gözleriniz Sizi İhanetle Suçluyor mu? Yalan ve Göz Hareketi Efsanesinin Bilimsel Yüzü</title>
+      <link>https://genelkultur.com.tr/test/gozleriniz-sizi-ihanetle-sucluyor-mu-yalan-ve-goz-hareketi-efsanesinin-bilimsel-yuzu</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/gozleriniz-sizi-ihanetle-sucluyor-mu-yalan-ve-goz-hareketi-efsanesinin-bilimsel-yuzu</guid>
+      <pubDate>Sun, 02 Aug 2026 15:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Birinin yalan söylediğini anlamak için gözlerini sağa ya da sola kaydırmasını beklemenin yaygın bir yöntem olduğunu duymuşsunuzdur. Ancak modern bilimsel araştırmalar, bu popüler inanışın aslında gerçeği yansıtmadığını gösteriyor.</description>
+    </item>
     <item>
       <title>Saatler Neden Soldan Sağa Döner? Cevap Sandığınızdan Daha Eski</title>
       <link>https://genelkultur.com.tr/test/saatler-neden-soldan-saga-doner-cevap-sandiginizdan-daha-eski</link>
@@ -158,14 +166,6 @@
       <pubDate>Thu, 23 Jul 2026 16:00:00 GMT</pubDate>
       <category>bilim</category>
       <description>Arkeologlar Antik Mısır&apos;daki mezarları açtıklarında, binlerce yıllık bal kavanozlarının hala yenebilir durumda olduğunu keşfederek dünyayı şaşkına çevirdiler. Peki, bu altın renkli mucizeyi zamanın etkilerinden koruyan ve bakterilere karşı adeta bir kalkan oluşturan sır nedir?</description>
-    </item>
-    <item>
-      <title>Neden Konuşurken Ellerinizi Kontrol Edemiyorsunuz?</title>
-      <link>https://genelkultur.com.tr/test/neden-konusurken-ellerinizi-kontrol-edemiyorsunuz</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/neden-konusurken-ellerinizi-kontrol-edemiyorsunuz</guid>
-      <pubDate>Thu, 23 Jul 2026 10:00:00 GMT</pubDate>
-      <category>bilim</category>
-      <description>Bir şeyler anlatırken ellerinizin havada dans etmesi sadece bir alışkanlık değil, beyninizin karmaşık düşünce süreçlerine verdiği doğal bir tepkidir. Araştırmalar, bu hareketlerin aslında kendimizi daha iyi ifade etmemize ve düşüncelerimizi netleştirmemize yardımcı olan bir &apos;düşünce motoru&apos; olduğunu gösteriyor.</description>
     </item>
   </channel>
 </rss>
