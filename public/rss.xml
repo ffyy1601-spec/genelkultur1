@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 01 Aug 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 10:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Saatler Neden Soldan Sağa Döner? Cevap Sandığınızdan Daha Eski</title>
+      <link>https://genelkultur.com.tr/test/saatler-neden-soldan-saga-doner-cevap-sandiginizdan-daha-eski</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/saatler-neden-soldan-saga-doner-cevap-sandiginizdan-daha-eski</guid>
+      <pubDate>Sun, 02 Aug 2026 10:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Her gün defalarca baktığımız analog saatlerin ibrelerinin neden hep sağa doğru döndüğünü hiç düşündünüz mü? Bu yön seçimi aslında modern bir tasarım tercihi değil, insanlığın binlerce yıl önce zamanı ölçmek için kullandığı kadim güneş saatlerinden kalan bir mirastır.</description>
+    </item>
     <item>
       <title>Çocukken Yıllar Neden Bir Ömür Gibiydi? Zamanın Hızlanma Gizemi</title>
       <link>https://genelkultur.com.tr/test/cocukken-yillar-neden-bir-omur-gibiydi-zamanin-hizlanma-gizemi</link>
@@ -158,14 +166,6 @@
       <pubDate>Thu, 23 Jul 2026 10:00:00 GMT</pubDate>
       <category>bilim</category>
       <description>Bir şeyler anlatırken ellerinizin havada dans etmesi sadece bir alışkanlık değil, beyninizin karmaşık düşünce süreçlerine verdiği doğal bir tepkidir. Araştırmalar, bu hareketlerin aslında kendimizi daha iyi ifade etmemize ve düşüncelerimizi netleştirmemize yardımcı olan bir &apos;düşünce motoru&apos; olduğunu gösteriyor.</description>
-    </item>
-    <item>
-      <title>Çiğneme Sesi Sizi Öfkelendiriyor mu? Mizofoni&apos;nin Beyindeki Şaşırtıcı Nedeni</title>
-      <link>https://genelkultur.com.tr/test/cigneme-sesi-sizi-ofkelendiriyor-mu-mizofoninin-beyindeki-sasirtici-nedeni</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/cigneme-sesi-sizi-ofkelendiriyor-mu-mizofoninin-beyindeki-sasirtici-nedeni</guid>
-      <pubDate>Wed, 22 Jul 2026 16:00:00 GMT</pubDate>
-      <category>bilim</category>
-      <description>Başkalarının yemek yerken çıkardığı seslerden veya tükenmez kalem tıkırtısından duyduğunuz dayanılmaz öfke, sadece &apos;tahammülsüzlük&apos; olmayabilir. Bilim dünyasında &apos;ses nefreti&apos; olarak bilinen mizofoni, beynin sesleri işleme biçimindeki ilginç bir nörolojik farklılıktan kaynaklanıyor.</description>
     </item>
   </channel>
 </rss>

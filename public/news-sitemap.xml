@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://genelkultur.com.tr/test/damarlarimizdaki-kadim-sir-kan-gruplarimiz-neden-birbirinden-farkli/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenelKültür Haber</news:name>
-        <news:language>tr</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-30T16:00:00.000Z</news:publication_date>
-      <news:title>Damarlarımızdaki Kadim Sır: Kan Gruplarımız Neden Birbirinden Farklı?</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://genelkultur.com.tr/test/sivrisinekler-sizi-neden-digerlerinden-daha-cok-seviyor/</loc>
     <news:news>
       <news:publication>
@@ -53,6 +42,17 @@
       </news:publication>
       <news:publication_date>2026-08-01T15:00:00.000Z</news:publication_date>
       <news:title>Çocukken Yıllar Neden Bir Ömür Gibiydi? Zamanın Hızlanma Gizemi</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://genelkultur.com.tr/test/saatler-neden-soldan-saga-doner-cevap-sandiginizdan-daha-eski/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenelKültür Haber</news:name>
+        <news:language>tr</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-02T10:00:00.000Z</news:publication_date>
+      <news:title>Saatler Neden Soldan Sağa Döner? Cevap Sandığınızdan Daha Eski</news:title>
     </news:news>
   </url>
 </urlset>
