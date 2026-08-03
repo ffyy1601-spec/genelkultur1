@@ -6,7 +6,15 @@
     <description>GenelKültür.com.tr güncel gündem, teknoloji, bilim ve dünya haberleri.</description>
     <language>tr</language>
     <atom:link href="https://genelkultur.com.tr/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 02 Aug 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 11:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Karanlıktan Neden Korkarız? Aslında Bir Canavar Değil, Atalarımızın Mirasınıtaşıyoruz!</title>
+      <link>https://genelkultur.com.tr/test/karanliktan-neden-korkariz-aslinda-bir-canavar-degil-atalarimizin-mirasinitasiyoruz</link>
+      <guid isPermaLink="true">https://genelkultur.com.tr/test/karanliktan-neden-korkariz-aslinda-bir-canavar-degil-atalarimizin-mirasinitasiyoruz</guid>
+      <pubDate>Mon, 03 Aug 2026 11:00:00 GMT</pubDate>
+      <category>bilim</category>
+      <description>Çoğu insan karanlıkta kendini huzursuz hisseder ve zihni anında potansiyel tehlikeler üretmeye başlar. Modern dünyada bu korku mantıksız gelse de, aslında beynimiz hala yüz binlerce yıl öncesinin vahşi doğasında hayatta kalmaya çalışan bir avcı-toplayıcının içgüdüleriyle çalışıyor.</description>
+    </item>
     <item>
       <title>Gözleriniz Sizi İhanetle Suçluyor mu? Yalan ve Göz Hareketi Efsanesinin Bilimsel Yüzü</title>
       <link>https://genelkultur.com.tr/test/gozleriniz-sizi-ihanetle-sucluyor-mu-yalan-ve-goz-hareketi-efsanesinin-bilimsel-yuzu</link>
@@ -158,14 +166,6 @@
       <pubDate>Fri, 24 Jul 2026 10:00:00 GMT</pubDate>
       <category>bilim</category>
       <description>Hiç bir notayı duyduğunuzda zihninizde canlı bir rengin belirdiğini veya bir kelimenin ağzınızda belirgin bir tat bıraktığını hissettiniz mi? Çoğu insan için imkansız gelen bu deneyimler, dünya nüfusunun yaklaşık %4&apos;ü için oldukça sıradan bir günlük yaşam parçasıdır.</description>
-    </item>
-    <item>
-      <title>Piramitlerden Bugüne: Bal Neden Asla Bozulmaz?</title>
-      <link>https://genelkultur.com.tr/test/piramitlerden-bugune-bal-neden-asla-bozulmaz</link>
-      <guid isPermaLink="true">https://genelkultur.com.tr/test/piramitlerden-bugune-bal-neden-asla-bozulmaz</guid>
-      <pubDate>Thu, 23 Jul 2026 16:00:00 GMT</pubDate>
-      <category>bilim</category>
-      <description>Arkeologlar Antik Mısır&apos;daki mezarları açtıklarında, binlerce yıllık bal kavanozlarının hala yenebilir durumda olduğunu keşfederek dünyayı şaşkına çevirdiler. Peki, bu altın renkli mucizeyi zamanın etkilerinden koruyan ve bakterilere karşı adeta bir kalkan oluşturan sır nedir?</description>
     </item>
   </channel>
 </rss>

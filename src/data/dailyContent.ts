@@ -5728,5 +5728,75 @@ export const dailyQuizzes: DailyQuiz[] = [
         "explanation": "Uzmanlar, yalanı anlamak için kişinin normal iletişim alışkanlıklarından sapan tepkileri incelemenin (taban çizgisi analizi) daha güvenilir olduğunu belirtir."
       }
     ]
+  },
+  {
+    "slug": "karanliktan-neden-korkariz-aslinda-bir-canavar-degil-atalarimizin-mirasinitasiyoruz",
+    "dateId": "2026-08-03T14:00:00+03:00",
+    "imageUrl": "/images/news/karanliktan-neden-korkariz-aslinda-bir-canavar-degil-atalarimizin-mirasinitasiyoruz.webp",
+    "title": "Neden Karanlıktan Korkarız? | Evrimsel Bir Savunma Mekanizması",
+    "description": "Karanlık korkusunun altında yatan şaşırtıcı evrimsel gerçekler nelerdir? Niktofobi hakkında bilinmeyenleri ve atalarımızın mirasını keşfedin.",
+    "keywords": [
+      "karanlık korkusu",
+      "niktofobi",
+      "evrimsel psikoloji",
+      "korku mekanizması",
+      "genel kültür"
+    ],
+    "heading": "Karanlıktan Neden Korkarız? Aslında Bir Canavar Değil, Atalarımızın Mirasınıtaşıyoruz!",
+    "intro": "Çoğu insan karanlıkta kendini huzursuz hisseder ve zihni anında potansiyel tehlikeler üretmeye başlar. Modern dünyada bu korku mantıksız gelse de, aslında beynimiz hala yüz binlerce yıl öncesinin vahşi doğasında hayatta kalmaya çalışan bir avcı-toplayıcının içgüdüleriyle çalışıyor.",
+    "article": "<p>Karanlık korkusu, psikolojide <strong>niktofobi</strong> olarak adlandırılan ve sadece çocukları değil, birçok yetişkini de etkileyen yaygın bir durumdur. Ancak bu korku, sadece bir hayal ürünü veya çocukluk travması değildir; bilim insanları bunun kökenlerinin derin bir <strong>evrimsel savunma mekanizmasına</strong> dayandığını belirtmektedir.</p><h3>Görüş Yeteneğimiz ve Hayatta Kalma İçgüdüsü</h3><p>İnsan türü, gündüz yaşamına adapte olmuş canlılardır. Görme duyumuz, çevremizi anlamlandırmak için en temel aracımızdır. Karanlık çöktüğünde bu duyumuz işlevsizleşir. Atalarımız için karanlık, sadece ışığın yokluğu değil, <strong>gece avlanan yırtıcıların</strong> saldırı riskinin maksimuma çıkması demekti. Bugün hala karanlıkta, beynimiz tehlikeyi algılayamadığı için \"savaş ya da kaç\" tepkisini tetikleyerek bizi tetikte tutmaya çalışır.</p><h3>Bilinmeyenin Yarattığı Boşluk</h3><p>Karanlıkta korku yaşamamızın bir diğer temel nedeni, <strong>belirsizliktir</strong>. Zihnimiz, görmediği boşlukları doldurmak için evrimsel bir boşluk doldurma mekanizması kullanır. Bu mekanizma, atalarımızın bir çalı hışırtısını duyduklarında bunun bir aslan olduğunu varsayıp kaçmalarını sağlayarak hayatta kalmalarına yardımcı olmuştur. Bugün ise bu mekanizma, odanın köşesindeki bir gölgeyi bir \"tehdit\" olarak algılamamıza neden olur.</p><ul><li><strong>Kontrol Kaybı:</strong> Karanlık, çevreyi kontrol edememe hissidir.</li><li><strong>Evrimsel Miras:</strong> Gece avcılarından korunmak için geliştirilen temkinli olma dürtüsüdür.</li><li><strong>Hayal Gücü:</strong> Belirsizliği, potansiyel tehlikelerle (kurgusal canavarlar vb.) eşleştirme eğilimidir.</li></ul><p>Sonuç olarak, yatağınızın altında olduğunu düşündüğünüz o \"korkunç\" şey aslında beyninizin sizi korumak için tasarladığı ilkel bir alarm sistemidir. Teknolojik bir çağda yaşasak da, biyolojimiz hala karanlığın potansiyel bir tehlike kaynağı olduğu kodlarıyla çalışmaya devam ediyor.</p>",
+    "category": "bilim",
+    "sourceName": "Diken",
+    "sourceUrl": "https://www.diken.com.tr/karanliktan-korkmamizin-evrimsel-bir-nedeni-var-o-korku-sayesinde-hayattayiz/",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Karanlık korkusunun tıbbi literatürdeki adı nedir?",
+        "options": [
+          "Skotofobi",
+          "Niktofobi",
+          "Agorafobi",
+          "Klostrofobi"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Karanlık korkusu tıp literatüründe niktofobi olarak tanımlanır."
+      },
+      {
+        "id": 2,
+        "text": "Evrimsel açıdan insanların karanlıktan korkmasının temel sebebi nedir?",
+        "options": [
+          "Gece görülen kötü rüyalar",
+          "Gece avlanan yırtıcılardan korunma içgüdüsü",
+          "Modern şehir yaşamının stresi",
+          "Göz kaslarının karanlıkta yorulması"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Atalarımız, gece avlanan yırtıcılardan korunmak için karanlıkta tetikte kalmayı bir hayatta kalma stratejisi olarak geliştirmiştir."
+      },
+      {
+        "id": 3,
+        "text": "Beynimizin karanlıkta belirsiz şekilleri tehlikeli olarak algılaması hangi mekanizma ile açıklanır?",
+        "options": [
+          "Görsel sanrılar",
+          "Savaş ya da kaç tepkisi ve boşluk doldurma eğilimi",
+          "Hafıza yetersizliği",
+          "İşitsel bozukluklar"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Zihnimiz, görmediği belirsizlikleri hayatta kalma içgüdüsüyle 'tehdit' olarak doldurur ve vücudu tehlikeye karşı hazırlar."
+      },
+      {
+        "id": 4,
+        "text": "İnsanlar hangi canlı türünün aksine daha çok gündüz yaşamına adapte olmuştur?",
+        "options": [
+          "Memeli türlerinin çoğu",
+          "Gece avlanan avcılar",
+          "Primatlar",
+          "Sürüngenler"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Birçok hayvan gece görüşüne veya gece yaşamına adapte olmuşken, insanlar gündüz yaşamına daha yatkın evrimleşmiştir."
+      }
+    ]
   }
 ];
