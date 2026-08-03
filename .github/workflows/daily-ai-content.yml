@@ -1,9 +1,9 @@
 name: Auto AI Content Generation
 
 on:
-  schedule:
-    # Günde iki kere çalışır (UTC: 08:35, 14:35 → Türkiye: 11:35, 17:35 - Gecikmeleri telafi etmek için erken ve yoğun olmayan dakikada tetiklenir)
-    - cron: '35 8,14 * * *'
+  # schedule:
+  #   # Günde iki kere çalışır (UTC: 08:35, 14:35 → Türkiye: 11:35, 17:35 - Gecikmeleri telafi etmek için erken ve yoğun olmayan dakikada tetiklenir)
+  #   - cron: '35 8,14 * * *'
   workflow_dispatch: # GitHub arayüzünden el ile tetikleme butonu
 
 permissions:
