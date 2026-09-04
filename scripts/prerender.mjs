@@ -56,6 +56,18 @@ try {
     ROUTES.kpssList,
     // Özgün rehber içerikleri
     ROUTES.guides,
+    // Temel Oyun ve Profil Rotaları (404 önleyici)
+    ROUTES.game,
+    ROUTES.profile,
+    ROUTES.results,
+    // Eski/Yedek Rotalar (Yönlendirmeler için 200 OK HTML üretimi)
+    "/categories",
+    "/game",
+    "/results",
+    "/about",
+    "/contact",
+    "/privacy",
+    "/terms",
   ];
 
   // Her yapay zeka testi ve oyun sayfası için rotaları ekle

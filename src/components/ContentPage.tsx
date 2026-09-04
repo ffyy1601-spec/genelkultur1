@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 import PageLayout from "./PageLayout";
 import Seo from "./Seo";
+import AdUnit from "./AdUnit";
 import { contentLibraryCards } from "../data/contentLibrary";
 import type { ContentPageData } from "../data/contentLibrary";
 import { ROUTES } from "../lib/routes";
@@ -183,6 +184,9 @@ export default function ContentPage({ page }: ContentPageProps) {
             ))}
           </div>
         </section>
+
+        {/* REKLAM ALANI */}
+        <AdUnit format="horizontal" className="my-8" />
 
         <section className="mt-10 grid gap-6 lg:grid-cols-[1.1fr_0.9fr]">
           <article className="rounded-[1.8rem] border border-white/10 bg-surface-container-low/75 p-6 md:p-8">

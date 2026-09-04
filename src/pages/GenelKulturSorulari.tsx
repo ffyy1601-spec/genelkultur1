@@ -2,6 +2,7 @@ import { useState } from "react";
 import { Link } from "react-router-dom";
 import PageLayout from "../components/PageLayout";
 import Seo from "../components/Seo";
+import AdUnit from "../components/AdUnit";
 import { ROUTES } from "../lib/routes";
 
 const QUESTIONS_LIST = [
@@ -473,8 +474,11 @@ export default function GenelKulturSorulari() {
           )}
         </section>
 
+        {/* REKLAM ALANI */}
+        <AdUnit format="horizontal" className="my-8" />
+
         {/* Sticky Quick Game CTA at bottom */}
-        <section className="mt-12 rounded-[1.8rem] border border-white/10 bg-[#12233e]/40 p-6 md:p-8 text-center flex flex-col items-center shadow-lg">
+        <section className="mt-8 rounded-[1.8rem] border border-white/10 bg-[#12233e]/40 p-6 md:p-8 text-center flex flex-col items-center shadow-lg">
           <span className="material-symbols-outlined text-4xl text-primary animate-bounce mb-3">
             emoji_events
           </span>

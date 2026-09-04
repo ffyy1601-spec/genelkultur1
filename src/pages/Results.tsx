@@ -2,6 +2,7 @@ import { useEffect, useRef, useState, useMemo } from "react";
 import { Link, useLocation } from "react-router-dom";
 import PageLayout from "../components/PageLayout";
 import Seo from "../components/Seo";
+import AdUnit from "../components/AdUnit";
 import { ROUTES } from "../lib/routes";
 import { processQuizCompletion, getTitleForLevel } from "../lib/gamification";
 import { SITE_URL } from "../lib/seo";
@@ -24,9 +25,11 @@ export default function Results() {
       return location.state;
     } else {
       try {
-        const backup = localStorage.getItem("gk_last_result");
-        if (backup) {
-          return JSON.parse(backup);
+        if (typeof window !== "undefined" && typeof localStorage !== "undefined") {
+          const backup = localStorage.getItem("gk_last_result");
+          if (backup) {
+            return JSON.parse(backup);
+          }
         }
       } catch (e) {
         // Ignored
@@ -400,6 +403,9 @@ export default function Results() {
                       )}
                     </div>
                   )}
+
+                  {/* REKLAM ALANI */}
+                  <AdUnit format="auto" className="my-4 max-w-xs mx-auto overflow-hidden" />
                 </>
               )}
             </div>

@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 import PageLayout from "../components/PageLayout";
 import Seo from "../components/Seo";
+import AdUnit from "../components/AdUnit";
 import { ROUTES } from "../lib/routes";
 import { SITE_URL } from "../lib/seo";
 import { contentLibraryCards } from "../data/contentLibrary";
@@ -414,6 +415,10 @@ export default function Landing() {
             </section>
           );
         })()}
+
+        <div className="mx-auto w-full max-w-7xl px-4 md:px-10">
+          <AdUnit format="horizontal" className="my-8" />
+        </div>
 
         <section className="mx-auto w-full max-w-7xl px-4 pb-20 md:px-10 md:pb-24">
           <div className="flex flex-col gap-3 md:flex-row md:items-end md:justify-between">

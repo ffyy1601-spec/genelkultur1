@@ -31,7 +31,7 @@ export default function PageLayout({ children, showChrome = true }: PageLayoutPr
             </div>
             <div>
               <div className="text-sm font-black uppercase tracking-[0.24em] text-primary">GenelKultur</div>
-              <div className="text-xs text-on-surface-variant">Bilgi yarışması ve haber platformu</div>
+              <div className="text-xs text-on-surface-variant">Genel kültür ve bilgi yarışması platformu</div>
             </div>
           </NavLink>
 

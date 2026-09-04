@@ -20,8 +20,8 @@
         dataLayer.push(arguments);
       }
       
-      const savedConsent = localStorage.getItem("cookie-consent-choice");
-      const consentState = savedConsent === "accepted" ? "granted" : "denied";
+      const savedConsent = typeof localStorage !== "undefined" ? localStorage.getItem("cookie-consent-choice") : null;
+      const consentState = savedConsent === "rejected" ? "denied" : "granted";
 
       gtag("consent", "default", {
         "ad_storage": consentState,

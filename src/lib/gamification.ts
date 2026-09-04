@@ -116,13 +116,15 @@ export function getUserStats(): UserStats {
     categoryStats: {} as Record<string, { total: number; correct: number }>,
   };
 
-  const storedValue = localStorage.getItem("gk_user_stats");
   let data = defaultStats;
-  if (storedValue) {
-    try {
-      data = { ...defaultStats, ...JSON.parse(storedValue) };
-    } catch (e) {
-      // Ignored
+  if (typeof window !== "undefined" && typeof localStorage !== "undefined") {
+    const storedValue = localStorage.getItem("gk_user_stats");
+    if (storedValue) {
+      try {
+        data = { ...defaultStats, ...JSON.parse(storedValue) };
+      } catch (e) {
+        // Ignored
+      }
     }
   }
 

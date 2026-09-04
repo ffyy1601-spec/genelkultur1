@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 import PageLayout from "../components/PageLayout";
 import Seo from "../components/Seo";
+import AdUnit from "../components/AdUnit";
 import { ROUTES } from "../lib/routes";
 import { SITE_URL } from "../lib/seo";
 
@@ -155,6 +156,9 @@ export default function TimedTestLanding(props: TimedTestLandingProps) {
             </Link>
           </div>
         </section>
+
+        {/* REKLAM ALANI */}
+        <AdUnit format="horizontal" className="my-8" />
 
         {/* SSS */}
         <section className="mt-8 rounded-[1.8rem] border border-white/10 bg-surface-container-low/75 p-6 md:p-8">
