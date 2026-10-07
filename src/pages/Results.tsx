@@ -3,6 +3,7 @@ import { Link, useLocation } from "react-router-dom";
 import PageLayout from "../components/PageLayout";
 import Seo from "../components/Seo";
 import AdUnit from "../components/AdUnit";
+import BookRecommendations from "../components/BookRecommendations";
 import { ROUTES } from "../lib/routes";
 import { processQuizCompletion, getTitleForLevel } from "../lib/gamification";
 import { SITE_URL } from "../lib/seo";
@@ -193,9 +194,9 @@ export default function Results() {
         noindex
       />
 
-      <main className="flex h-[100dvh] w-full flex-col items-center justify-center p-2 sm:p-4 overflow-hidden">
-        <div className="w-full max-w-md">
-          <section className="relative overflow-hidden rounded-[1.6rem] bg-surface-container-low p-4 text-center border border-white/5 shadow-2xl flex flex-col justify-between items-center max-h-[96dvh] sm:max-h-[92dvh]">
+      <main className="flex min-h-[100dvh] w-full flex-col items-center justify-start py-4 px-2 sm:px-4 overflow-y-auto">
+        <div className="w-full max-w-md my-auto">
+          <section className="relative overflow-hidden rounded-[1.6rem] bg-surface-container-low p-4 text-center border border-white/5 shadow-2xl flex flex-col justify-between items-center">
             <div className="absolute -right-20 -top-20 h-40 w-40 rounded-full bg-primary/10 blur-[60px]"></div>
             <div className="absolute -bottom-20 -left-20 h-40 w-40 rounded-full bg-tertiary/5 blur-[60px]"></div>
 
@@ -403,6 +404,9 @@ export default function Results() {
                       )}
                     </div>
                   )}
+
+                  {/* TAVSİYE EDİLEN BAŞUCU KİTAPLARI (AMAZON ORTAKLIK) */}
+                  <BookRecommendations className="mt-3.5 w-full max-w-xs sm:max-w-sm" />
 
                   {/* REKLAM ALANI */}
                   <AdUnit format="auto" className="my-4 max-w-xs mx-auto overflow-hidden" />
