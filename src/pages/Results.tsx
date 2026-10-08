@@ -195,222 +195,233 @@ export default function Results() {
       />
 
       <main className="flex min-h-[100dvh] w-full flex-col items-center justify-start py-4 px-2 sm:px-4 overflow-y-auto">
-        <div className="w-full max-w-md my-auto">
-          <section className="relative overflow-hidden rounded-[1.6rem] bg-surface-container-low p-4 text-center border border-white/5 shadow-2xl flex flex-col justify-between items-center">
+        <div className="w-full max-w-md md:max-w-4xl my-auto">
+          <section className="relative overflow-hidden rounded-[1.6rem] bg-surface-container-low p-4 sm:p-6 text-center border border-white/5 shadow-2xl flex flex-col items-center">
             <div className="absolute -right-20 -top-20 h-40 w-40 rounded-full bg-primary/10 blur-[60px]"></div>
             <div className="absolute -bottom-20 -left-20 h-40 w-40 rounded-full bg-tertiary/5 blur-[60px]"></div>
 
-            <div className="relative z-10 flex flex-col items-center w-full">
+            <div className="relative z-10 w-full">
               {!hasResult ? (
-                <>
+                <div className="flex flex-col items-center py-8">
                   <div className="mb-3 flex justify-center">
                     <span className="material-symbols-outlined text-5xl text-primary">info</span>
                   </div>
                   <h1 className="mb-2 text-xl font-extrabold tracking-tight text-on-background">
-                    Henuz bir sonuc yok
+                    Henüz bir sonuç yok
                   </h1>
                   <p className="mb-4 max-w-xs text-xs leading-relaxed text-on-surface-variant">
-                    Bu sayfa oyun tamamlandiktan sonra detayli sonucu gosterir. Yeni bir tur baslatip
-                    puanini gorebilirsin.
+                    Bu sayfa oyun tamamlandıktan sonra detaylı sonucu gösterir. Yeni bir tur başlatıp
+                    puanını görebilirsin.
                   </p>
                   <Link
                     to={ROUTES.categories}
                     className="inline-flex items-center justify-center gap-2 rounded-xl bg-gradient-to-br from-primary to-primary-container px-6 py-2.5 text-sm font-bold text-on-primary shadow transition-all hover:scale-[1.02]"
                   >
-                    Oyuna Basla
+                    Oyuna Başla
                     <span className="material-symbols-outlined text-sm">play_arrow</span>
                   </Link>
-                </>
+                </div>
               ) : (
-                <>
-                  {/* SVG Circular Success Gauge */}
-                  <div className="relative mb-3 flex items-center justify-center">
-                    <svg className="h-20 w-20 -rotate-90 transform sm:h-24 sm:w-24" viewBox="0 0 112 112">
-                      <circle
-                        cx="56"
-                        cy="56"
-                        r={radius}
-                        className="stroke-surface-container-high fill-transparent"
-                        strokeWidth="8"
-                      />
-                      <circle
-                        cx="56"
-                        cy="56"
-                        r={radius}
-                        className="stroke-primary fill-transparent transition-all duration-1000 ease-out"
-                        strokeWidth="8"
-                        strokeDasharray={circumference}
-                        strokeDashoffset={strokeDashoffset}
-                        strokeLinecap="round"
-                      />
-                    </svg>
-                    <div className="absolute flex flex-col items-center">
-                      <span className="text-xl font-black text-on-background sm:text-2xl">%{successRate}</span>
-                      <span className="text-[8px] font-bold uppercase tracking-widest text-on-surface-variant/75">Başarı</span>
-                    </div>
-                  </div>
-
-                  <h1 className="text-xl sm:text-2xl font-black tracking-tight text-on-background">
-                    Oyun Bitti
-                  </h1>
-
-                  {/* XP & Ödül Gösterge Pili */}
-                  {gamificationResult && (
-                    <div className="mt-1 flex flex-wrap gap-1 justify-center items-center max-w-xs">
-                      <span className="inline-flex items-center gap-0.5 rounded-full bg-primary/10 border border-primary/20 px-2.5 py-0.5 text-[10px] sm:text-xs font-black text-primary">
-                        +{gamificationResult.xpGained} XP
-                      </span>
-                      {gamificationResult.levelUp && (
-                        <span className="inline-flex items-center gap-0.5 rounded-full bg-tertiary/10 border border-tertiary/20 px-2.5 py-0.5 text-[10px] sm:text-xs font-black text-tertiary animate-pulse">
-                          🎉 Seviye {gamificationResult.newLevel}!
-                        </span>
-                      )}
-                      {gamificationResult.newlyUnlockedBadges.length > 0 && (
-                        <span className="inline-flex items-center gap-0.5 rounded-full bg-amber-500/10 border border-amber-500/20 px-2.5 py-0.5 text-[10px] sm:text-xs font-black text-amber-500">
-                          🏆 {gamificationResult.newlyUnlockedBadges[0].emoji} {gamificationResult.newlyUnlockedBadges[0].title}
-                        </span>
-                      )}
-                    </div>
-                  )}
-
-                  {/* Stats Grid */}
-                  <div className="grid w-full grid-cols-3 gap-2 my-2.5 max-w-sm">
-                    <div className="rounded-2xl bg-surface-container-high p-2 shadow-md hover:scale-[1.01] transition-transform">
-                      <span className="block text-[9px] font-bold uppercase tracking-wider text-primary mb-0.5">
-                        Skor
-                      </span>
-                      <div className="text-lg sm:text-xl font-black text-on-background">
-                        {score}
-                        <span className="block text-[10px] text-on-surface-variant/50">
-                          /{total * 100}
-                        </span>
+                <div className="grid grid-cols-1 md:grid-cols-12 gap-4 md:gap-6 items-start text-center">
+                  
+                  {/* SOL SÜTUN: Skor, Başarı ve Eylemler */}
+                  <div className="md:col-span-6 lg:col-span-5 flex flex-col items-center w-full">
+                    {/* SVG Circular Success Gauge */}
+                    <div className="relative mb-2 flex items-center justify-center">
+                      <svg className="h-20 w-20 -rotate-90 transform sm:h-24 sm:w-24" viewBox="0 0 112 112">
+                        <circle
+                          cx="56"
+                          cy="56"
+                          r={radius}
+                          className="stroke-surface-container-high fill-transparent"
+                          strokeWidth="8"
+                        />
+                        <circle
+                          cx="56"
+                          cy="56"
+                          r={radius}
+                          className="stroke-primary fill-transparent transition-all duration-1000 ease-out"
+                          strokeWidth="8"
+                          strokeDasharray={circumference}
+                          strokeDashoffset={strokeDashoffset}
+                          strokeLinecap="round"
+                        />
+                      </svg>
+                      <div className="absolute flex flex-col items-center">
+                        <span className="text-xl font-black text-on-background sm:text-2xl">%{successRate}</span>
+                        <span className="text-[8px] font-bold uppercase tracking-widest text-on-surface-variant/75">Başarı</span>
                       </div>
                     </div>
 
-                    <div className="rounded-2xl bg-surface-container-high p-2 shadow-md hover:scale-[1.01] transition-transform">
-                      <div className="flex items-center justify-center gap-1 mb-0.5">
-                        <span
-                          className="material-symbols-outlined text-sm text-tertiary"
-                          style={{ fontVariationSettings: "'FILL' 1" }}
-                        >
-                          check_circle
+                    <h1 className="text-lg sm:text-xl font-black tracking-tight text-on-background">
+                      Oyun Bitti
+                    </h1>
+
+                    {/* XP & Ödül Gösterge Pili */}
+                    {gamificationResult && (
+                      <div className="mt-1 flex flex-wrap gap-1 justify-center items-center max-w-xs">
+                        <span className="inline-flex items-center gap-0.5 rounded-full bg-primary/10 border border-primary/20 px-2.5 py-0.5 text-[10px] sm:text-xs font-black text-primary">
+                          +{gamificationResult.xpGained} XP
                         </span>
-                        <span className="text-[9px] font-bold uppercase tracking-wider text-tertiary">
-                          Doğru
-                        </span>
+                        {gamificationResult.levelUp && (
+                          <span className="inline-flex items-center gap-0.5 rounded-full bg-tertiary/10 border border-tertiary/20 px-2.5 py-0.5 text-[10px] sm:text-xs font-black text-tertiary animate-pulse">
+                            🎉 Seviye {gamificationResult.newLevel}!
+                          </span>
+                        )}
+                        {gamificationResult.newlyUnlockedBadges.length > 0 && (
+                          <span className="inline-flex items-center gap-0.5 rounded-full bg-amber-500/10 border border-amber-500/20 px-2.5 py-0.5 text-[10px] sm:text-xs font-black text-amber-500">
+                            🏆 {gamificationResult.newlyUnlockedBadges[0].emoji} {gamificationResult.newlyUnlockedBadges[0].title}
+                          </span>
+                        )}
                       </div>
-                      <div className="text-lg sm:text-xl font-black text-on-background">{correct}</div>
-                    </div>
+                    )}
 
-                    <div className="rounded-2xl bg-surface-container-high p-2 shadow-md hover:scale-[1.01] transition-transform">
-                      <div className="flex items-center justify-center gap-1 mb-0.5">
-                        <span
-                          className="material-symbols-outlined text-sm text-error"
-                          style={{ fontVariationSettings: "'FILL' 1" }}
-                        >
-                          cancel
+                    {/* Stats Grid */}
+                    <div className="grid w-full grid-cols-3 gap-1.5 sm:gap-2 my-2.5 max-w-sm">
+                      <div className="rounded-2xl bg-surface-container-high p-2 shadow-md">
+                        <span className="block text-[9px] font-bold uppercase tracking-wider text-primary mb-0.5">
+                          Skor
                         </span>
-                        <span className="text-[9px] font-bold uppercase tracking-wider text-error">
-                          Yanlış
-                        </span>
-                      </div>
-                      <div className="text-lg sm:text-xl font-black text-on-background">{wrong}</div>
-                    </div>
-                  </div>
-
-                  {/* Karne Oluştur ve Paylaş Butonu */}
-                  <div className="w-full max-w-xs my-1 sm:my-2 flex flex-col gap-2">
-                    <button
-                      onClick={() => setShowReportCard(true)}
-                      className="flex w-full items-center justify-center gap-1.5 rounded-xl bg-gradient-to-r from-primary to-[#ffd54f] py-2.5 text-xs font-black text-[#5c3e00] transition-all hover:scale-[1.02] hover:shadow-md active:scale-95"
-                    >
-                      <span className="material-symbols-outlined text-sm" style={{ fontVariationSettings: "'FILL' 1" }}>military_tech</span>
-                      HİKAYEDE PAYLAŞ & KARNE OLUŞTUR 📋
-                    </button>
-
-                    <button
-                      onClick={handleChallengeCopy}
-                      className="flex w-full items-center justify-center gap-1.5 rounded-xl border border-primary/30 bg-primary/10 py-2.5 text-xs font-black text-primary transition-all hover:bg-primary/20 hover:scale-[1.02] active:scale-95"
-                    >
-                      <span className="material-symbols-outlined text-sm">bolt</span>
-                      {challengeCopied ? "Meydan Okuma Kopyalandı! ⚔️" : "ARKADAŞINA MEYDAN OKU ⚔️"}
-                    </button>
-
-                    <button
-                      onClick={handleWhatsAppShareChallenge}
-                      className="flex w-full items-center justify-center gap-1.5 rounded-xl border border-green-500/30 bg-green-500/10 py-2.5 text-xs font-black text-green-500 transition-all hover:bg-green-500/20 hover:scale-[1.02] active:scale-95"
-                    >
-                      <span className="material-symbols-outlined text-sm" style={{ fontVariationSettings: "'FILL' 1" }}>chat</span>
-                      WHATSAPP'TA MEYDAN OKU ⚔️
-                    </button>
-                  </div>
-
-                  {/* Replay & Home Buttons */}
-                  <div className="flex w-full gap-2 justify-center max-w-xs mt-1">
-                    <Link
-                      to={ROUTES.categories}
-                      className="flex flex-1 items-center justify-center gap-1 rounded-xl bg-gradient-to-br from-primary to-primary-container py-2 text-xs font-bold text-on-primary shadow transition-all hover:scale-[1.02] active:scale-95"
-                    >
-                      <span className="material-symbols-outlined text-sm">replay</span>
-                      Tekrar Oyna
-                    </Link>
-                    <Link
-                      to={ROUTES.home}
-                      className="flex flex-1 items-center justify-center gap-1 rounded-xl border border-outline-variant bg-transparent py-2 text-xs font-bold text-on-background transition-all hover:scale-[1.02] hover:border-primary/50 active:scale-95"
-                    >
-                      <span className="material-symbols-outlined text-sm">home</span>
-                      Ana Sayfa
-                    </Link>
-                  </div>
-
-                  {/* Hataları İncele Akordeon Kutusu */}
-                  {wrongAnswers.length > 0 && (
-                    <div className="mt-2 w-full max-w-xs text-left flex flex-col min-h-0">
-                      <button
-                        onClick={() => setShowMistakes(!showMistakes)}
-                        className="flex w-full items-center justify-between rounded-xl border border-white/10 bg-surface-container-high px-3 py-2 text-xs font-bold text-on-surface hover:bg-surface-container-highest transition-colors"
-                      >
-                        <span className="flex items-center gap-1">
-                          <span className="material-symbols-outlined text-primary text-sm" style={{ fontVariationSettings: "'FILL' 1" }}>menu_book</span>
-                          Hatalı Cevapları İncele ({wrongAnswers.length})
-                        </span>
-                        <span className="material-symbols-outlined text-sm transition-transform duration-300" style={{ transform: showMistakes ? "rotate(180deg)" : "rotate(0deg)" }}>
-                          expand_more
-                        </span>
-                      </button>
-                      
-                      {showMistakes && (
-                        <div className="mt-1.5 space-y-1.5 max-h-[110px] overflow-y-auto pr-1 animate-fade-in custom-scrollbar">
-                          {wrongAnswers.map((item: any, idx: number) => (
-                            <div key={idx} className="rounded-xl border border-white/5 bg-[#12233e]/20 p-2.5">
-                              <p className="text-[8px] font-bold uppercase tracking-wider text-error">Hatalı Soru {idx + 1}</p>
-                              <h4 className="mt-0.5 text-[11px] font-bold text-on-background leading-normal">{item.question}</h4>
-                              <div className="mt-1.5 grid grid-cols-2 gap-1 text-[9px]">
-                                <div className="rounded-md border border-error/20 bg-error/5 px-2 py-0.5 font-bold text-error truncate">
-                                  Senin: {item.selected}
-                                </div>
-                                <div className="rounded-md border border-tertiary/20 bg-tertiary/5 px-2 py-0.5 font-bold text-tertiary truncate">
-                                  Doğru: {item.correct}
-                                </div>
-                              </div>
-                              {item.explanation && (
-                                <p className="mt-1.5 border-t border-white/5 pt-1 text-[10px] leading-relaxed text-on-surface-variant/80 font-medium">
-                                  {item.explanation}
-                                </p>
-                              )}
-                            </div>
-                          ))}
+                        <div className="text-base sm:text-lg font-black text-on-background">
+                          {score}
+                          <span className="block text-[9px] text-on-surface-variant/50">
+                            /{total * 100}
+                          </span>
                         </div>
-                      )}
+                      </div>
+
+                      <div className="rounded-2xl bg-surface-container-high p-2 shadow-md">
+                        <div className="flex items-center justify-center gap-1 mb-0.5">
+                          <span
+                            className="material-symbols-outlined text-sm text-tertiary"
+                            style={{ fontVariationSettings: "'FILL' 1" }}
+                          >
+                            check_circle
+                          </span>
+                          <span className="text-[9px] font-bold uppercase tracking-wider text-tertiary">
+                            Doğru
+                          </span>
+                        </div>
+                        <div className="text-base sm:text-lg font-black text-on-background">{correct}</div>
+                      </div>
+
+                      <div className="rounded-2xl bg-surface-container-high p-2 shadow-md">
+                        <div className="flex items-center justify-center gap-1 mb-0.5">
+                          <span
+                            className="material-symbols-outlined text-sm text-error"
+                            style={{ fontVariationSettings: "'FILL' 1" }}
+                          >
+                            cancel
+                          </span>
+                          <span className="text-[9px] font-bold uppercase tracking-wider text-error">
+                            Yanlış
+                          </span>
+                        </div>
+                        <div className="text-base sm:text-lg font-black text-on-background">{wrong}</div>
+                      </div>
                     </div>
-                  )}
 
-                  {/* TAVSİYE EDİLEN BAŞUCU KİTAPLARI (AMAZON ORTAKLIK) */}
-                  <BookRecommendations className="mt-3.5 w-full max-w-xs sm:max-w-sm" />
+                    {/* 1. Sıra: Tekrar Oyna & Ana Sayfa */}
+                    <div className="flex w-full gap-2 justify-center max-w-sm mb-1.5">
+                      <Link
+                        to={ROUTES.categories}
+                        className="flex flex-1 items-center justify-center gap-1.5 rounded-xl bg-gradient-to-r from-primary to-[#ffd54f] py-2.5 text-xs font-black text-[#5c3e00] shadow-md transition-all hover:scale-[1.02] active:scale-95"
+                      >
+                        <span className="material-symbols-outlined text-sm">replay</span>
+                        Tekrar Oyna
+                      </Link>
+                      <Link
+                        to={ROUTES.home}
+                        className="flex flex-1 items-center justify-center gap-1 rounded-xl border border-white/10 bg-surface-container-high py-2.5 text-xs font-bold text-on-background transition-all hover:scale-[1.02] hover:border-primary/50 active:scale-95"
+                      >
+                        <span className="material-symbols-outlined text-sm">home</span>
+                        Ana Sayfa
+                      </Link>
+                    </div>
 
-                  {/* REKLAM ALANI */}
-                  <AdUnit format="auto" className="my-4 max-w-xs mx-auto overflow-hidden" />
-                </>
+                    {/* 2. Sıra: Kompakt Paylaşım & Meydan Okuma (Yan yana 3 buton) */}
+                    <div className="grid grid-cols-3 w-full gap-1.5 max-w-sm mb-2">
+                      <button
+                        onClick={() => setShowReportCard(true)}
+                        className="flex items-center justify-center gap-1 rounded-xl bg-amber-500/10 border border-amber-500/25 py-2 text-[10px] font-bold text-amber-300 transition-all hover:bg-amber-500/20 active:scale-95"
+                        title="Hikayede Paylaş & Karne Oluştur"
+                      >
+                        <span className="material-symbols-outlined text-xs">military_tech</span>
+                        Karne 📋
+                      </button>
+
+                      <button
+                        onClick={handleChallengeCopy}
+                        className="flex items-center justify-center gap-1 rounded-xl border border-primary/30 bg-primary/10 py-2 text-[10px] font-bold text-primary transition-all hover:bg-primary/20 active:scale-95 truncate"
+                        title="Meydan Okuma Linkini Kopyala"
+                      >
+                        <span className="material-symbols-outlined text-xs">bolt</span>
+                        {challengeCopied ? "Kopyalandı!" : "Meydan Oku"}
+                      </button>
+
+                      <button
+                        onClick={handleWhatsAppShareChallenge}
+                        className="flex items-center justify-center gap-1 rounded-xl border border-green-500/30 bg-green-500/10 py-2 text-[10px] font-bold text-green-400 transition-all hover:bg-green-500/20 active:scale-95"
+                        title="WhatsApp'ta Meydan Oku"
+                      >
+                        <span className="material-symbols-outlined text-xs">chat</span>
+                        WhatsApp
+                      </button>
+                    </div>
+
+                    {/* Hataları İncele Akordeon Kutusu */}
+                    {wrongAnswers.length > 0 && (
+                      <div className="w-full max-w-sm text-left flex flex-col min-h-0 mb-2">
+                        <button
+                          onClick={() => setShowMistakes(!showMistakes)}
+                          className="flex w-full items-center justify-between rounded-xl border border-white/10 bg-surface-container-high px-3 py-2 text-xs font-bold text-on-surface hover:bg-surface-container-highest transition-colors"
+                        >
+                          <span className="flex items-center gap-1">
+                            <span className="material-symbols-outlined text-primary text-sm" style={{ fontVariationSettings: "'FILL' 1" }}>menu_book</span>
+                            Hatalı Cevapları İncele ({wrongAnswers.length})
+                          </span>
+                          <span className="material-symbols-outlined text-sm transition-transform duration-300" style={{ transform: showMistakes ? "rotate(180deg)" : "rotate(0deg)" }}>
+                            expand_more
+                          </span>
+                        </button>
+                        
+                        {showMistakes && (
+                          <div className="mt-1.5 space-y-1.5 max-h-[120px] overflow-y-auto pr-1 animate-fade-in custom-scrollbar">
+                            {wrongAnswers.map((item: any, idx: number) => (
+                              <div key={idx} className="rounded-xl border border-white/5 bg-[#12233e]/20 p-2.5">
+                                <p className="text-[8px] font-bold uppercase tracking-wider text-error">Hatalı Soru {idx + 1}</p>
+                                <h4 className="mt-0.5 text-[11px] font-bold text-on-background leading-normal">{item.question}</h4>
+                                <div className="mt-1.5 grid grid-cols-2 gap-1 text-[9px]">
+                                  <div className="rounded-md border border-error/20 bg-error/5 px-2 py-0.5 font-bold text-error truncate">
+                                    Senin: {item.selected}
+                                  </div>
+                                  <div className="rounded-md border border-tertiary/20 bg-tertiary/5 px-2 py-0.5 font-bold text-tertiary truncate">
+                                    Doğru: {item.correct}
+                                  </div>
+                                </div>
+                                {item.explanation && (
+                                  <p className="mt-1.5 border-t border-white/5 pt-1 text-[10px] leading-relaxed text-on-surface-variant/80 font-medium">
+                                    {item.explanation}
+                                  </p>
+                                )}
+                              </div>
+                            ))}
+                          </div>
+                        )}
+                      </div>
+                    )}
+                  </div>
+
+                  {/* SAĞ SÜTUN: Tavsiye Kitaplar Vitrini (Masaüstünde Göz Hizasında!) */}
+                  <div className="md:col-span-6 lg:col-span-7 flex flex-col items-center w-full">
+                    {/* TAVSİYE EDİLEN BAŞUCU KİTAPLARI (AMAZON ORTAKLIK) */}
+                    <BookRecommendations className="w-full" />
+
+                    {/* REKLAM ALANI */}
+                    <AdUnit format="auto" className="my-2.5 w-full overflow-hidden" />
+                  </div>
+
+                </div>
               )}
             </div>
           </section>
