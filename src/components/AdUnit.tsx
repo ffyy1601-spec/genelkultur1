@@ -1,43 +1,61 @@
-import { useEffect, useRef } from "react";
+import { useEffect, useId, useRef } from "react";
 
 interface AdUnitProps {
+  blockId?: string;
   slot?: string;
   format?: "auto" | "rectangle" | "horizontal";
   responsive?: boolean;
   className?: string;
 }
 
+declare global {
+  interface Window {
+    yaContextCb?: Array<() => void>;
+    Ya?: {
+      Context?: {
+        AdvManager?: {
+          render: (options: {
+            blockId: string;
+            renderTo: string;
+            async?: boolean;
+          }) => void;
+        };
+      };
+    };
+  }
+}
+
 export default function AdUnit({
-  slot,
-  format = "auto",
-  responsive = true,
-  className = "my-8 flex w-full justify-center overflow-hidden",
+  blockId = "R-A-20199196-11",
+  className = "my-6 flex w-full justify-center overflow-hidden min-h-[90px]",
 }: AdUnitProps) {
-  const adRef = useRef<HTMLModElement>(null);
+  const reactId = useId().replace(/[^a-zA-Z0-9_-]/g, "_");
+  const containerId = `yandex_rtb_${blockId.replace(/[^a-zA-Z0-9_-]/g, "_")}_${reactId}`;
+  const renderedRef = useRef(false);
 
   useEffect(() => {
-    try {
-      if (typeof window !== "undefined" && (window as any).adsbygoogle) {
-        if (adRef.current && !adRef.current.getAttribute("data-adsbygoogle-status")) {
-          ((window as any).adsbygoogle = (window as any).adsbygoogle || []).push({});
+    if (typeof window === "undefined" || renderedRef.current) return;
+    renderedRef.current = true;
+
+    window.yaContextCb = window.yaContextCb || [];
+    window.yaContextCb.push(() => {
+      try {
+        if (window.Ya?.Context?.AdvManager) {
+          window.Ya.Context.AdvManager.render({
+            blockId,
+            renderTo: containerId,
+          });
         }
+      } catch (err) {
+        console.warn("Yandex RTB render hatası:", err);
       }
-    } catch {
-      // Ignored
-    }
-  }, []);
+    });
+  }, [blockId, containerId]);
 
   return (
-    <div className={className} aria-label="Sponsorlu İçerik Alanı">
-      <ins
-        ref={adRef}
-        className="adsbygoogle block w-full text-center"
-        style={{ display: "block" }}
-        data-ad-client="ca-pub-9373355317840845"
-        data-ad-slot={slot || "auto"}
-        data-ad-format={format}
-        data-full-width-responsive={responsive ? "true" : "false"}
-      />
+    <div className={className} aria-label="Sponsorlu Reklam Alanı">
+      <div id={containerId} className="w-full flex justify-center text-center" />
     </div>
   );
 }
+
